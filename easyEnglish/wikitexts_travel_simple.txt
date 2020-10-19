@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Antonio Vivaldi",
+        "content": "Antonio Vivaldi (born Venice, 4 March 1678; died Vienna, 28 July 1741) was an Italian composer. He was the most important composer in Italy at the end of the Baroque period. \nVivaldi wrote more than 400 concertos for various instruments, especially for the violin. The scores of 21 of his operas, including his first and last, are still intact. His most popular work is the group of four violin concertos called \u201cThe Four Seasons\u201d.  Each concerto describes a season: Spring, Summer, Autumn, and Winter. He is believed to be the inventor of the ritornello form. He was very famous for his piccolo compositions, such as Il gardellino.",
+        "language": "English",
+        "topic": [
+            "Art"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Antonio_Vivaldi"
+    },
+    {
+        "title": "Camping",
+        "content": "Camping is a leisure activity, usually during summer when school children are on holiday, where people leave their homes and spend one or more nights outdoors.  Usually they seek nature, adventure, or a different environment.  They may sleep in a campervan or trailer, a tent, or in the open air in good weather.  Winter camping is less common but in some parts of the world, tents are people's homes year around. Rich people began camping for fun in the early 20th century. When more people could afford it, many more did it.\nWhen camping, people usually prepare food to eat that is easy to make.  If they were hunting or fishing, they may cook the animal or fish they caught over a campfire.  \nDangers can arise, such as wild animals or illness from drinking unclean water.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Camping"
+    },
+    {
+        "title": "Camping",
+        "content": "Camping is a leisure activity, usually during summer when school children are on holiday, where people leave their homes and spend one or more nights outdoors.  Usually they seek nature, adventure, or a different environment.  They may sleep in a campervan or trailer, a tent, or in the open air in good weather.  Winter camping is less common but in some parts of the world, tents are people's homes year around. Rich people began camping for fun in the early 20th century. When more people could afford it, many more did it.\nWhen camping, people usually prepare food to eat that is easy to make.  If they were hunting or fishing, they may cook the animal or fish they caught over a campfire.  \nDangers can arise, such as wild animals or illness from drinking unclean water.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Camping"
+    },
+    {
+        "title": "Fixed-wing aircraft",
+        "content": "A fixed-wing aircraft is a kind of aircraft. An aircraft is a machine that can fly, but is heavier than air. Fixed-wing aircraft are sometimes called airplanes, aeroplanes or sometimes just \"planes\". All fixed-wing aircraft have wings that use forward airspeed to generate lift. Gliders are fixed-wing aircraft that do not have engines.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fixed-wing_aircraft"
+    },
+    {
+        "title": "Fixed-wing aircraft",
+        "content": "A fixed-wing aircraft is a kind of aircraft. An aircraft is a machine that can fly, but is heavier than air. Fixed-wing aircraft are sometimes called airplanes, aeroplanes or sometimes just \"planes\". All fixed-wing aircraft have wings that use forward airspeed to generate lift. Gliders are fixed-wing aircraft that do not have engines.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fixed-wing_aircraft"
+    },
+    {
+        "title": "Airport",
+        "content": "An airport is a place where airplanes can land or take off. Most airports in the world have only a long strip of level ground called a runway. Many airports have buildings which are used to hold airplanes and passengers. A building that holds passengers waiting for their planes or luggage is called a terminal. The sections between planes and the terminal are called \"gates\". Airports also have buildings called hangars to hold planes when they are not used. Some airports have buildings to control the airport, like a control tower which tells planes where to go.\nAn international airport is a large airport that airplanes can use to fly to and from other countries. A domestic airport is an airport which is usually smaller and only has airplanes coming from places in the same country. Most international airports have shops and restaurants for airplane passengers to use.\nAn airport used by the military is often called an air force base or airbase. An aircraft carrier is a floating airbase.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Airport"
+    },
+    {
+        "title": "Backpack",
+        "content": "A backpack (also called rucksack, knapsack, packsack, pack, Haversack, or Bergen) is a cloth sack put on somebody's back. It usually has two straps that go over the shoulders. It is used to carry things in it, and it often has many compartments to carry things. People often use backpacks on camping trips, hikes, or any form of outdoor activity where people need to carry many things. Backpacks are also be used in the military by soldiers. It can be also used in school, or in this case, it also called a bookbag or school bag. \nLarge backpacks, used to carry loads over 10 kg (22 lbs), and smaller sports backpacks, usually offload the biggest part of their weight onto padded hip belts. This leaves the shoulder straps mainly for keeping the load in place. This makes it easier to carry heavy loads, because the hips are stronger than the shoulders. It also improves agility and balance, because the load lies closer to the center of mass of the person wearing it. \nIn the very distant past, backpacks were to carry hunters' larger catches. If the hunts were even larger, the hunters would cut their prey into pieces and hand out the pieces to other hunters. The hunters would then carry smaller pieces separately. The bag would be made up of animal skin and sewn together by animal intestines. They would then be woven together tightly to make a firm material. \nSome backpacks are specialized to carry a particular thing, such as fluids or a laptop computer.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Backpack"
+    },
+    {
+        "title": "Backpacking (travel)",
+        "content": "Backpacking is a form of low-cost and basically independent travel. Backpacker is the term for those who travel by carrying a light backpack for a relatively long period of time.\nThe cost of backpacking depends on the duration of traveling.  No matter how long they are planning to travel, backpackers also need to spend money on eating, sleeping and moving. Backpacking travel type minimizes the cost by choosing cheap accommodation, such as youth hostels. One of the popular ones is Youth Hostels Association (YHA). Many hostels are registered with YHA and they have common standards. Depending on room types and season, the cost varies from $10 to $60 per night. Sometimes Backpackers while on a long journey, book accommodations at low rate and stay as a paying guest. Portals like airbnb.com, isearchrentals.com accumulates such kind of paying guest accommodations which helps backpacking travelers choose their stay at low costs.\nBackpackers are highly connected to each other. They get information not only from the internet, but also from a bulletin board of their accommodation, Backpackers. They share their information how to get to the destination wisely and about shops or restaurants on the bulletin board. Some backpackers depends on couch surfing, not spending money on accommodation, visiting local people's house. There are Backpackers Group in reach region, who plan their trip on regular intervals year around.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Backpacking_(travel)"
+    },
+    {
+        "title": "Backpacking (wilderness)",
+        "content": "Backpacking is hiking in the outdoors with a backpack full of all your food, clothing, water, and shelter. Usually, backpackers hike in groups to stay safer. They must think to bring first aid supplies, sleeping bags, tents, rain gear, stoves, food and other camping supplies.\nBackpacking may be done on short or long trips. Sometimes, backpacking groups begin at a trail head with a parking lot and hike over a weekend until they work their way back to the vehicle. On longer trips, groups may settle in at a base camp and hike for weeks or even months if they are more experienced and prepared.\nWhen following certain rules, backpackers have the chance to leave the outdoors better than they found them. There are certain practices such as Leave No Trace that teach backpackers and hikers to pack out all waste and help conserve nature in every way possible such as not building fires in dry areas, saving water, and protecting the environment. When backpackers use these skills, they help preserve nature while getting to explore themselves while outside the influence of the rest of the world.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Backpacking_(wilderness)"
+    },
+    {
+        "title": "Luggage",
+        "content": "People use luggage to carry their possessions when travelling. In the United States luggage is often called baggage.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Luggage"
+    },
+    {
+        "title": "Bicycle",
+        "content": "A bicycle (or bike) is a small, human powered land vehicle with a seat, two wheels, two pedals, and a metal chain connected to cogs on the pedals and rear wheel. A frame gives the bike strength, and the other parts are attached to the frame. The name comes from these two words - the prefix \"bi-\" meaning two, and the suffix \"-cycle\" meaning wheel. It is powered by a person riding on top, who pushes the pedals around with his or her feet.\nRiding bicycles, which is also called cycling, is an important way to travel in several parts of the world. The most popular type of cycling is Utility cycling.  It is also a common recreation, a good form of low-impact exercise, and a popular sport. Road bicycle racing is the second most popular spectator sport in the world.\nBicycling uses less energy per mile than any other human transport.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bicycle"
+    },
+    {
+        "title": "Binoculars",
+        "content": "Binoculars are a kind of tool that lets people see far-away things more clearly, using a technology called optics. They are made of a pair of matched telescopes that are held in front of the user's eyes. \nThe two telescopes have lenses that focus light and magnify the image, a process called magnification. This way, when someone looks through the binoculars at a far-away object, it looks much closer. \nEarly binoculars had two Galilean telescopes without prisms. Modern ones have prisms inside, which fold the light path to shorten the length of the tubes. That is why a binocular is shorter than standard telescopes of similar power.\nBinoculars were invented in the 17th century. They allow a telescope user to use both eyes.  The Royal Navy used single telescopes, but now all ships have heavy binoculars.  Heavy ones can be mounted on swivels to scan the horizon.  Binoculars are also standard issue in all armies.  Night vision binoculars use photocathode electronics to intensify the image.\nBinoculars are also used for theatre (opera glasses), birdwatching  amateur astronomy and watching scenery.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Binoculars"
+    },
+    {
+        "title": "Bus",
+        "content": "A bus is a large wheeled vehicle meant to carry many passengers along with the driver.  It is larger than a car. The name is a shortened version of omnibus, which means \"for everyone\" in Latin. Buses used to be called omnibuses, but people now simply call them \"buses\".\nBuses are an important part of public transport in places all over the world. Many people who do not have cars, especially the third world countries, use buses to get around. Buses make it easy for them to get to where they want to go.\nA place where people wait for a local bus is called a bus stop.  A building where people wait for a long-distance bus or where many buses meet is called a bus station.\nThere are many types of bus around the world.\n\n\n== Types of buses ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bus"
+    },
+    {
+        "title": "Cruise ship",
+        "content": "A cruise ship (or cruise liner or ocean liner) is a large ship with sleeping cabins and other facilities that takes people on holiday and vacation trips. Hundreds of thousands of people take cruises each year.\nToday's cruise ships are like floating hotels. They have a complete \"hospitality staff\" (to serve food and help passengers in other ways) as well as the usual ship's crew. The largest cruise ships have casinos, shops, many restaurants, theaters for both live entertainment and movies, several pools, day care, a gym, and a running track. The most expensive cruises often have more crew and staff than passengers. This means that the people who control the cruise can give many personal services.\nToday, hundreds of cruise ships sail all over the world. Some carry over 3,000 passengers. These are some of the largest ships ever built. For some places, such as Antarctica, because it lacks other methods of regular transport, cruise ships are one of the few ways for tourists to visit.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cruise_ship"
+    },
+    {
+        "title": "Currency",
+        "content": "Currency is the unit of money used by the people of a country or Union for buying and selling goods and services.\nCertain currencies are said to be \"pegged\" or \"fixed\" to something, usually another currency. A fixed or pegged currency is one that has a constant value compared to what it is pegged to. For example, the Cape Verdian escudo is pegged to the Euro. If the value of the Euro goes up 1% compared to another form of currency, the value of the escudo also goes up 1% compared to that same currency.  \nMany countries have used systems where their currency was pegged to a commodity rather than to another currency. Most used either gold or silver. When they did this, as the value of gold increased, so did the value of their money. This was called the \"gold standard\" or \"silver standard\". Most countries stopped using silver and gold standards in the 20th century. \nSome well-known currencies are:\n\nthe United States dollar\nthe Euro\nthe British pound",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Currency"
+    },
+    {
+        "title": "Currency",
+        "content": "Currency is the unit of money used by the people of a country or Union for buying and selling goods and services.\nCertain currencies are said to be \"pegged\" or \"fixed\" to something, usually another currency. A fixed or pegged currency is one that has a constant value compared to what it is pegged to. For example, the Cape Verdian escudo is pegged to the Euro. If the value of the Euro goes up 1% compared to another form of currency, the value of the escudo also goes up 1% compared to that same currency.  \nMany countries have used systems where their currency was pegged to a commodity rather than to another currency. Most used either gold or silver. When they did this, as the value of gold increased, so did the value of their money. This was called the \"gold standard\" or \"silver standard\". Most countries stopped using silver and gold standards in the 20th century. \nSome well-known currencies are:\n\nthe United States dollar\nthe Euro\nthe British pound",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Currency"
+    },
+    {
+        "title": "Currency",
+        "content": "Currency is the unit of money used by the people of a country or Union for buying and selling goods and services.\nCertain currencies are said to be \"pegged\" or \"fixed\" to something, usually another currency. A fixed or pegged currency is one that has a constant value compared to what it is pegged to. For example, the Cape Verdian escudo is pegged to the Euro. If the value of the Euro goes up 1% compared to another form of currency, the value of the escudo also goes up 1% compared to that same currency.  \nMany countries have used systems where their currency was pegged to a commodity rather than to another currency. Most used either gold or silver. When they did this, as the value of gold increased, so did the value of their money. This was called the \"gold standard\" or \"silver standard\". Most countries stopped using silver and gold standards in the 20th century. \nSome well-known currencies are:\n\nthe United States dollar\nthe Euro\nthe British pound",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Currency"
+    },
+    {
+        "title": "Exploration",
+        "content": "Exploration is the act of searching an unfamiliar area in order to learn about it. It involves the discovery of new information. Human beings explore even when they have everything they need where they are. They are the only mammal that does this. \nNeanderthals existed for hundreds of thousands of years in Eurasia. But their range was limited compared to modern humans. In less than 500,000 years humans have explored and spread out to all the continents. Exploration had its most dramatic rise during the Age of Discovery. This is when European explorers sailed and charted much of the rest of the world. Humans have explored geographically even into outer space. They explore ideas, art, even the very nature of life.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Exploration"
+    },
+    {
+        "title": "Ferry",
+        "content": "Ferry is a boat or ship that is used to take people, vehicles or goods across large bodies of water, such as seas, lakes and rivers. \nIn many places around the world, ferries are very important for public transport. Some of these places can only be reached by ferry, because they have no roads or railways with bridge or tunnels that join them to nearby places, nor do they have any locations at which to land airplanes, whether it is an airport or only an airfield.\nSometimes the trip in a ferry is free and sometimes it must be paid for. Many ferries also carry cars, some even have own rail tracks, allowing the ferry to carry trains on board.\nThe word 'ferry' can also mean 'to take someone or something by ferry'.\nThe Herald of Free Enterprise disaster, in which 193 people died near Zeebrugge in 1987, was one of the worst ferry accidents of recent times. It was caused by a crew member forgetting to close the bow doors of the ferry.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ferry"
+    },
+    {
+        "title": "Tour guide",
+        "content": "A tour guide (also known as tourist guide in Europe) is a person who gives information about a place or a place's history to \"tourists\" (people who are traveling for fun). Some tour guides can talk in the language of the tourist.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tour_guide"
+    },
+    {
+        "title": "Guide",
+        "content": "Guides are people who lead people. This includes people of the real world (such as a person who helps travelers and tourists through a place). In figurative language it may mean person who leads someone to some goal such as to knowledge or wisdom.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Guide"
+    },
+    {
+        "title": "Highway",
+        "content": "Highway is a word used to describe roads made for travel by the public between important places, such as cities, towns and landmarks. The word highway can also be different between countries, and can mean a road, freeway, superhighway, autoroute, autobahn, parkway, expressway, autostrasse, autostrada, byway, or motorway.\nHighways come in many different designs. They can include many lanes of traffic, a median (strip of lane or barrier) between lanes of opposing traffic, and access control (ramps and bridges). Highways can also be as simple as a two-lane road.\nIn many countries, these roads are numbered to easily tell them apart. These numbered highways are usually called routes. The United States includes a system called the Interstate Highway system, controlled by AASHTO, where major north/south routes are odd numbered and east/west are even numbered. In Canada, routes that are in the 400s are freeways. In China, types of routes are separated by the first letter of the route; \"G\" for national road, \"S\" for provincial road and \"Y\" for rural roads.\n\nHighways are sometimes criticised because of the pollution cars make when driving highways. When too many cars travel along a highway, traffic slows down; this is known as a traffic jam. Public transportation (such as buses) and special lanes for those who have a given number of people in a car are used to help stop these problems.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Highway"
+    },
+    {
+        "title": "Hotel",
+        "content": "A hotel or a guest-house is a large building with many rooms, where people can sleep when they are not at home. A motel is a hotel especially for motorists - people who drive cars - where the room door usually opens into the parking lot. Inn is sometimes used to mean a smaller hotel. \nThese places will rent a room for any number of days. They offer rooms to sleep, and want money for the service. There are also hotels where conferences are held.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hotel"
+    },
+    {
+        "title": "Hostel",
+        "content": "The movie called Hostel is at Hostel (movie)A hostel is a place that rents beds to travelers. They offer less privacy and more of a community experience than hotels. They are also cheaper.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hostel"
+    },
+    {
+        "title": "Holiday",
+        "content": "A holiday is a regularly reoccurring festive day. Usually, but not always, the festive day is observed every year. The word \"holiday\" is derived from the words \"holy\" and \"day.\"  In British English, the word \"holiday\" is used to refer to a Vacation as well as a public holiday.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Holiday"
+    },
+    {
+        "title": "Holiday",
+        "content": "A holiday is a regularly reoccurring festive day. Usually, but not always, the festive day is observed every year. The word \"holiday\" is derived from the words \"holy\" and \"day.\"  In British English, the word \"holiday\" is used to refer to a Vacation as well as a public holiday.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Holiday"
+    },
+    {
+        "title": "Holiday",
+        "content": "A holiday is a regularly reoccurring festive day. Usually, but not always, the festive day is observed every year. The word \"holiday\" is derived from the words \"holy\" and \"day.\"  In British English, the word \"holiday\" is used to refer to a Vacation as well as a public holiday.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Holiday"
+    },
+    {
+        "title": "Holiday",
+        "content": "A holiday is a regularly reoccurring festive day. Usually, but not always, the festive day is observed every year. The word \"holiday\" is derived from the words \"holy\" and \"day.\"  In British English, the word \"holiday\" is used to refer to a Vacation as well as a public holiday.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Holiday"
+    },
+    {
+        "title": "Island",
+        "content": "An island is a piece of ground that is surrounded by a body of water such as a lake, river or sea. Water is all around an island. Islands are smaller than continents.\nThe largest island in the world is Greenland, unless Australia is believed to be an island. \nMost people think Australia is a continent because it is more than three times bigger than Greenland. \nSome islands are their own countries. Examples of islands that are their own countries include Cuba, Iceland, and Cyprus. There are many others. Other islands have more than one country, such as Borneo and Hispaniola.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Island"
+    },
+    {
+        "title": "Island",
+        "content": "An island is a piece of ground that is surrounded by a body of water such as a lake, river or sea. Water is all around an island. Islands are smaller than continents.\nThe largest island in the world is Greenland, unless Australia is believed to be an island. \nMost people think Australia is a continent because it is more than three times bigger than Greenland. \nSome islands are their own countries. Examples of islands that are their own countries include Cuba, Iceland, and Cyprus. There are many others. Other islands have more than one country, such as Borneo and Hispaniola.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Island"
+    },
+    {
+        "title": "Island",
+        "content": "An island is a piece of ground that is surrounded by a body of water such as a lake, river or sea. Water is all around an island. Islands are smaller than continents.\nThe largest island in the world is Greenland, unless Australia is believed to be an island. \nMost people think Australia is a continent because it is more than three times bigger than Greenland. \nSome islands are their own countries. Examples of islands that are their own countries include Cuba, Iceland, and Cyprus. There are many others. Other islands have more than one country, such as Borneo and Hispaniola.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Island"
+    },
+    {
+        "title": "Island",
+        "content": "An island is a piece of ground that is surrounded by a body of water such as a lake, river or sea. Water is all around an island. Islands are smaller than continents.\nThe largest island in the world is Greenland, unless Australia is believed to be an island. \nMost people think Australia is a continent because it is more than three times bigger than Greenland. \nSome islands are their own countries. Examples of islands that are their own countries include Cuba, Iceland, and Cyprus. There are many others. Other islands have more than one country, such as Borneo and Hispaniola.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Island"
+    },
+    {
+        "title": "Lake",
+        "content": "A lake (from Latin lacus) is a large body of water (larger and deeper than a pond) within a body of land. As a lake is separated from the ocean, it is not a sea. Some lakes are very big, and people in the past sometimes called them seas. Lakes do not flow like rivers, but many have rivers flowing into and out of them.\nMost lakes on the surface of the Earth are fresh water and most are in the Northern Hemisphere. More than 60% of the lakes of the world are in Canada. Finland is known as The Land of the Thousand Lakes (there are 187,888 lakes in Finland, of which 60,000 are large).Many lakes are man-made reservoirs built to produce electricity, for recreation, or to use the water for irrigation or industry, or in houses.\nIf there are not rivers flowing out of the lake (see Endorheic basin), or they are few and small, the lake loses water only by evaporation or because the water flows through the soil pores. Where the water evaporates rapidly and the soil around the lake has a high salt level, as in very dry places, the water of the lake has a high concentration of salt and the lake is called a salt lake. Examples of salt lakes are the Great Salt Lake, the Caspian Sea, the Aral Sea, and the Dead Sea.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Lake"
+    },
+    {
+        "title": "Lake",
+        "content": "A lake (from Latin lacus) is a large body of water (larger and deeper than a pond) within a body of land. As a lake is separated from the ocean, it is not a sea. Some lakes are very big, and people in the past sometimes called them seas. Lakes do not flow like rivers, but many have rivers flowing into and out of them.\nMost lakes on the surface of the Earth are fresh water and most are in the Northern Hemisphere. More than 60% of the lakes of the world are in Canada. Finland is known as The Land of the Thousand Lakes (there are 187,888 lakes in Finland, of which 60,000 are large).Many lakes are man-made reservoirs built to produce electricity, for recreation, or to use the water for irrigation or industry, or in houses.\nIf there are not rivers flowing out of the lake (see Endorheic basin), or they are few and small, the lake loses water only by evaporation or because the water flows through the soil pores. Where the water evaporates rapidly and the soil around the lake has a high salt level, as in very dry places, the water of the lake has a high concentration of salt and the lake is called a salt lake. Examples of salt lakes are the Great Salt Lake, the Caspian Sea, the Aral Sea, and the Dead Sea.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Lake"
+    },
+    {
+        "title": "Leisure",
+        "content": "Leisure (or free time) is when a person can choose what to do. During a person's leisure time, they do not have an obligation to be at school or work at a job. During leisure time, people can do fun activities, family activities, or other non-work activity, such as hobbies.  \nCommon forms of recreation or leisure are:\n\nPlaying sports such as football or hockey\nPlaying games such as chess or cards\nExercising such as running or lifting weights\nWatching television and movies\nListening to music\nHobbies such as playing piano or guitar, knitting, or sewing\nTravelling\nReading\nBook ClubsA vacation or holiday is the setting aside of time specifically for leisure. During their vacation, some people travel to a different region or country, and stay at a hotel so that they can do things they could not do near home. Other people prefer to spend their vacation time at home in their own community.\nIn rich industrialized countries such as the US and Canada, as well as in most European countries, workers are allowed to stay home on the weekend (usually Saturday and Sunday), and use it as leisure time. People in poorer developing countries usually have less leisure time, as they have to work longer hours and more days per year.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Leisure"
+    },
+    {
+        "title": "Map",
+        "content": "A map is an image of an area, usually of the Earth or part of the Earth. A map is different from an aerial photograph because it includes interpretation. Many maps are called \"charts\" such as star charts and nautical charts. Before the late 20th century almost all maps were on paper, though now they are more often to be seen on a smartphone or a computer screen.\nThe word \"map\" can also be used to talk about a chart or drawing that shows relationships between ideas, people, events, or anything else you can think about. This is why web developers call a list of web pages on a web site a site map.\nPeople who make maps are cartographers.\nMany maps today are made using GIS computer systems. These are database systems that are organized by location instead of named records. \nIf a map is on a piece of paper or a computer screen, it has to be projected.  This is because the Earth is round and paper and screens are flat.  There are a lot of ways that use mathematics to make map projections.  The only kind of map of the Earth that is not projected is one drawn on a sphere.  This is called a globe.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Map"
+    },
+    {
+        "title": "Mountain",
+        "content": "A mountain is a large natural rise of the Earth's surface that usually has a \"summit\" (the name for a mountain's top, which can also be called a peak). It is usually steeper and taller than a hill. Mountains are often thought of as being a hill which is larger than 600 metres (about 2,000 feet). However, some definitions say a mountain is a hill larger than 300 metres (about 1,000 feet).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Mountain"
+    },
+    {
+        "title": "Museum",
+        "content": "A museum is a building which is open to the public.   It is also the institution where things are collected and then shown to people.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Museum"
+    },
+    {
+        "title": "National park",
+        "content": "A national park is a park or a area of land officially recognized and protected by a nation's government. National parks are often made to protect the animals that live inside them or the land itself.  There are many National Parks in the world.\nThe first one established (in 1872) was the United States Yellowstone National Park. It was the first national park in the world. But the idea of protecting areas from human development was proposed years earlier. American painter George Catlin offered the idea during the 1830s.An international organization, the International Union for Conservation of Nature (IUCN), and its World Commission on Protected Areas, has defined National Parks as its category II type of protected areas. The largest national park in the world meeting the IUCN definition is the Northeast Greenland National Park, which was established in 1974. According to the IUCN, there are about 7000 national parks worldwide (2010 figure).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/National_park"
+    },
+    {
+        "title": "Ocean liner",
+        "content": "Ocean liner is the name given to (usually large) ships that are used to transport people or goods. These ships travel along given routes; they usually have a schedule. Usually, ocean liners travel long distances. The ships used for short distances, for example across a channel,  a lake, or between an island and the coast close by, are called ferries. Ocean liners are used for transportation. Cruise ships are different, they are used for pleasure. \nThe \u201cgolden Age\u201d of the ocean liner was the first half of the 20th Century, when ocean liners commonly carried hundreds upon thousands of poor immigrants from Europe to North America, the United States especially. Hundreds of ocean liners were built during this period.  \nWhen WW2 started in 1939, many ocean liners were turned into troop ships, to transport soldiers to Europe and Asia, by both sides. After the war, most remaining ocean liners were returned to their original owners. \nIn the second half of the 20th century, ocean liners have been replaced by aircraft more and more. In the 1950\u2019s, as airplanes like the De Havilland Comet and Boeing 707 were built, ocean liners seemed redundant as jet liners were faster and easier to build than ocean liners. By the 1980\u2019s, most ocean liners had been retired with only a few outliers staying in service.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ocean_liner"
+    },
+    {
+        "title": "Ocean",
+        "content": "(An ocean is a large area of water between continents. Oceans are very big and they join smaller seas together. Together, the oceans are like one \"ocean\", because all the \"oceans\" are joined. Oceans (or marine biomes) cover 72% of our planet. \nThe largest ocean is the Pacific Ocean. It covers 1/3 (one third) of the Earth's surface. Big and small fish of different types live in oceans. Crabs, starfish, sharks, whales etc are also found in oceans.) \nThe smallest ocean is the Arctic Ocean.\nDifferent water movements separate the Southern Ocean from the Atlantic, Pacific and Indian Oceans. The Southern ocean is also called the Antarctic Ocean, because it covers the area around Antarctica. Older maps may not use the names Arctic Ocean and Southern Ocean. \nThe deepest ocean is the Pacific ocean. The deepest point is the Mariana Trench, being about 11,000 metres (36,200 feet) deep. The deep ocean is characterized by cold temperatures, high pressure, and complete darkness. Some very unusual organisms live in this part of the ocean. They do not require energy from the sun to survive, because they use chemicals  from deep inside the Earth (see hydrothermal vent).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ocean"
+    },
+    {
+        "title": "Passport",
+        "content": "A passport is a travel document that says that the person who owns it is a citizen of the country on the passport. A passport asks that the person carrying it be allowed to enter and pass through other countries. They also allow a person to re-enter their country. Passports are given by national governments.\nPassports usually have a person's picture, signature, date of birth, nationality and country of birth. Many countries are now issuing passports with biometric properties. This helps confirm that the person carrying a passport is the real owner. These countries have passports that use biometrics: Malaysia, Australia, Greece, Israel, New Zealand, Japan, Portugal, Sweden, the United Kingdom, the United States, Germany, Ireland, Poland, Italy, Slovenia, Singapore, Thailand, India and the Republic of Korea .Many more countries are switching over to biometric passports because it can easily confirm the authenticity of the holder's identity. Passports are used so a stamp can be placed in it to prove that the identity of the holder has been confirmed with the immigration officials in the country of travel.\nIn 1920, the International Conference on Passports, Customs Formalities and Through Tickets made a law that said passports must be issued in French and at least one other language. Now, many countries issue passports in English and the language(s) of the issuing country.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Passport"
+    },
+    {
+        "title": "Picture",
+        "content": "A picture, also called an image, is a group of coloured points on a flat surface that looks the same as something else. For example, a picture can look the same as an object or a person. Pictures can also be drawings, paintings or photographs. People who make such pictures are called artists, photographers or painters.  Pictures are very helpful.  Sometimes people say pictures are worth a thousand words.  Pictures and diagrams can be used to explain how to do things, and thus a picture is a kind of tool. A moment captured in an image.\n\nAn image is something that can be seen, but it is not physically there.  It can be a photograph, a painting, or a picture on a television or computer screen.  A lens can make an image of an object appear somewhere else.  Cameras use this to make the image that becomes a photograph.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Picture"
+    },
+    {
+        "title": "Postcard",
+        "content": "A postcard or post card is a rectangular piece of paper or cardboard, which is intended to send a short message by post. Usually, a postcard is mailed without an envelope. Modern postcards usually have a photo or an image on one side of the card, the other side contains space for writing the address and a short message. The first postcards were used in the second half of the 19th century. Today, many people send postcards when they are on holiday. The designs of post cards have evolved since the early ages and many prefer to send personalized post cards now which gives a personal touch or adds a feeling or emotion to it.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Postcard"
+    },
+    {
+        "title": "Recreation",
+        "content": "Recreation or fun is a person's time of refreshing his or her body and mind.There are many different forms of recreation which are shaped by individual interests and by environment; a few examples being reading, playing or listening to music, watching movies or TV, gardening, hunting, hobbies, sports, studies, and travel. These activities are just some of a wide variety of recreation activity available in day to day life.   \nPublic places such as parks and beaches are very important for many recreational activities. Tourism profession has recognized long ago that many of their clients are specifically attracted by recreational offerings.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Recreation"
+    },
+    {
+        "title": "Recreation",
+        "content": "Recreation or fun is a person's time of refreshing his or her body and mind.There are many different forms of recreation which are shaped by individual interests and by environment; a few examples being reading, playing or listening to music, watching movies or TV, gardening, hunting, hobbies, sports, studies, and travel. These activities are just some of a wide variety of recreation activity available in day to day life.   \nPublic places such as parks and beaches are very important for many recreational activities. Tourism profession has recognized long ago that many of their clients are specifically attracted by recreational offerings.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Recreation"
+    },
+    {
+        "title": "Recreation",
+        "content": "Recreation or fun is a person's time of refreshing his or her body and mind.There are many different forms of recreation which are shaped by individual interests and by environment; a few examples being reading, playing or listening to music, watching movies or TV, gardening, hunting, hobbies, sports, studies, and travel. These activities are just some of a wide variety of recreation activity available in day to day life.   \nPublic places such as parks and beaches are very important for many recreational activities. Tourism profession has recognized long ago that many of their clients are specifically attracted by recreational offerings.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Recreation"
+    },
+    {
+        "title": "Schedule",
+        "content": "A schedule is a plan for accomplishing certain things on certain dates. Many people use a schedule to help them be organised. Jobs often require their employees to use a schedule and turn in projects or documents on certain dates.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Schedule"
+    },
+    {
+        "title": "Schedule",
+        "content": "A schedule is a plan for accomplishing certain things on certain dates. Many people use a schedule to help them be organised. Jobs often require their employees to use a schedule and turn in projects or documents on certain dates.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Schedule"
+    },
+    {
+        "title": "Shore",
+        "content": "A shore or shoreline is the land at the edge of a large body of water, such as an ocean or river. Where the water is a sea, the shore is also called a \"coast\".\nShores are influenced by the topography of the surrounding landscape, as well as by erosion caused by water, such as waves.  The geological makeup of rock and soil controls the type of shore which is created.  Erosion of sedimentary soils can make a sandy or pebbly shore, usually called a beach. \nA shore includes the intertidal zone that is alternately exposed and covered by waves and tides.\nA shore will often have a lighthouse on it to help ships in the sea.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Shore"
+    },
+    {
+        "title": "Shore",
+        "content": "A shore or shoreline is the land at the edge of a large body of water, such as an ocean or river. Where the water is a sea, the shore is also called a \"coast\".\nShores are influenced by the topography of the surrounding landscape, as well as by erosion caused by water, such as waves.  The geological makeup of rock and soil controls the type of shore which is created.  Erosion of sedimentary soils can make a sandy or pebbly shore, usually called a beach. \nA shore includes the intertidal zone that is alternately exposed and covered by waves and tides.\nA shore will often have a lighthouse on it to help ships in the sea.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Shore"
+    },
+    {
+        "title": "Tourism",
+        "content": "Tourism means people traveling for fun. It includes activities such as sightseeing and camping.  People who travel for fun are called \"tourists\". Places where many tourists stay are called \"resorts\". Places that people go to for tourism are called tourist destinations.\nThere are a lot of reasons why people travel for fun:\n\nSome people travel to learn about the history or culture of a city or country, or learn about the people who live there, or their ancestors.\nPeople from cold places sometimes like to relax in the sun. Many people from the north of Europe or North America travel to warmer places and visit beaches.\nSome people travel to do an activity which they cannot do at home. There are lots of ski resorts in the mountains of Switzerland and Austria, and seaside resorts in Greece and other warm countries.\nPeople sometimes visit friends and family in another city or country.\nFinally, some people enjoy a change in scenery. City people go to forests or deserts, and vice versa.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tourism"
+    },
+    {
+        "title": "Souvenir",
+        "content": "A souvenir (from French, for memory), memento or keepsake is an object a traveler brings home for the memories created during a trip. It can be a postcard, statue, magnet or little things that represent the place. Often bought as a gift for family or friends to share the memory with them.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Souvenir"
+    },
+    {
+        "title": "Bus station",
+        "content": "A bus station is a structure where buses stop to pick up and drop off passengers. A bus station is larger than a bus stop, which is usually a place on the roadside where buses stop. Some bus stations are terminal stations, which means that station is the end of the route. Other stations are called transfer stations, which is a station where the routes continue.\nBus stations can be outside, or inside, above or below ground. Some are under shopping centres.\nSome bus stations have seats, toilets, travel centres and electronic passenger information systems (which show what time the buses are coming).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bus_station"
+    },
+    {
+        "title": "Train station",
+        "content": "A train station or railway station (also called a railroad station, rail station, or depot) is a place where passengers can get on and off trains and/or goods may be loaded or unloaded. \nEarly stations were usually built to handle passengers and goods. Today, goods are usually only unloaded at big stations. Stations are next to a railway line, or they are the terminus for a route. Usually there are platforms to let passengers get on and off the train easily and safely. Many stations have things such as shelters, ticket sales and benches.\nThe busiest railway station in the world is Shinjuku Station in Tokyo, Japan. The largest station is Nagoya Station in Nagoya, Japan. The busiest station in Europe is Clapham Junction in south London in the United Kingdom. At peak times, there is one train every 13 seconds there.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Train_station"
+    },
+    {
+        "title": "Train station",
+        "content": "A train station or railway station (also called a railroad station, rail station, or depot) is a place where passengers can get on and off trains and/or goods may be loaded or unloaded. \nEarly stations were usually built to handle passengers and goods. Today, goods are usually only unloaded at big stations. Stations are next to a railway line, or they are the terminus for a route. Usually there are platforms to let passengers get on and off the train easily and safely. Many stations have things such as shelters, ticket sales and benches.\nThe busiest railway station in the world is Shinjuku Station in Tokyo, Japan. The largest station is Nagoya Station in Nagoya, Japan. The busiest station in Europe is Clapham Junction in south London in the United Kingdom. At peak times, there is one train every 13 seconds there.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Train_station"
+    },
+    {
+        "title": "Train station",
+        "content": "A train station or railway station (also called a railroad station, rail station, or depot) is a place where passengers can get on and off trains and/or goods may be loaded or unloaded. \nEarly stations were usually built to handle passengers and goods. Today, goods are usually only unloaded at big stations. Stations are next to a railway line, or they are the terminus for a route. Usually there are platforms to let passengers get on and off the train easily and safely. Many stations have things such as shelters, ticket sales and benches.\nThe busiest railway station in the world is Shinjuku Station in Tokyo, Japan. The largest station is Nagoya Station in Nagoya, Japan. The busiest station in Europe is Clapham Junction in south London in the United Kingdom. At peak times, there is one train every 13 seconds there.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Train_station"
+    },
+    {
+        "title": "Sunscreen",
+        "content": "Sunscreen (also known as sunblock, suntan lotion, or sun cream in the United Kingdom) is a lotion, spray or other topical product that helps protect the skin from the  sun's ultraviolet (UV) radiation. It reduces sunburn and other skin damage, with the goal lowering your risk of skin cancer.  However, in the United States, the term suntan lotion usually means the opposite of sunscreen, and instead refers to lotion designed to moisturize and maximize UV exposure and tanning rather than block it.  These are commonly called indoor tanning lotions when designed for use with tanning beds or just suntan lotion if designed for outdoor use and may or may not have SPF protection in them.\nThe most effective sunscreens protect against both UVB (ultraviolet radiation with wavelength between 290 and 320 nanometres), which can cause sunburn, and UVA (between 320 and 400 nanometres), which damages the skin with more long-term effects, such as premature skin aging. Most sunscreens work by containing either an organic chemical compound that absorbs ultraviolet light (such as oxybenzone) or an opaque material that reflects light (such as titanium dioxide, zinc oxide), or a combination of both.  Typically, absorptive materials are referred to as chemical blocks, whereas opaque materials are mineral or physical blocks.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sunscreen"
+    },
+    {
+        "title": "Swimsuit",
+        "content": "A swimsuit, bathing suit (sometimes shortened to bathers), or swimming costume (sometimes shortened to cozzie) is clothing designed to be worn for swimming.\nSwimming trunks are a pair of shorts or briefs worn for swimming or bathing.\nIn New Zealand English and some areas of Australian English, swimsuits are usually called togs. This term is less common in other parts of the Commonwealth where it can also refer to clothes in general. Swimsuits can be skin-tight or loosely fitting and range from garments designed to preserve as much modesty as possible to garments designed to reveal as much of the body as possible without actual nudity. They are often lined with a fabric that prevents them from becoming transparent when wet.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Swimsuit"
+    },
+    {
+        "title": "Taxi",
+        "content": "A taxi (taxicab or cab in the United States) is a car, or other vehicle which is used for public transport. People use them to get to where they want to go. This means  there are no stops in between where they get on and where they get off. Many big cities have taxis.\nIn most other types of public transport, such as a bus, tram, or train, the rider does not get to choose the locations where they want to get picked up or dropped off. These vehicles often take certain roads or follow a very specific route.  Because of this, they usually do not stop exactly where people want to go.\nRiding a taxi is a lot like having your own car, but you don't drive it. You only tell the taxi driver where you want to go and he or she will take you there. How much you pay for the ride, in most cases, depends on how far you are going from where you get on. It is common for the price for a taxi ride to be more expensive than other forms of transport.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Taxi"
+    },
+    {
+        "title": "Tent",
+        "content": "The tent is a movable, lightweight shelter which uses thin fabric to protect people from wind, rain and from the cold. The fabric walls of a tent are supported by wood or metal poles and thin ropes (called \"guy lines\"), and the tent or the ropes are usually attached to the ground with plastic or metal pointed stakes as one thing.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tent"
+    },
+    {
+        "title": "Tour guide",
+        "content": "A tour guide (also known as tourist guide in Europe) is a person who gives information about a place or a place's history to \"tourists\" (people who are traveling for fun). Some tour guides can talk in the language of the tourist.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tour_guide"
+    },
+    {
+        "title": "Tour guide",
+        "content": "A tour guide (also known as tourist guide in Europe) is a person who gives information about a place or a place's history to \"tourists\" (people who are traveling for fun). Some tour guides can talk in the language of the tourist.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tour_guide"
+    },
+    {
+        "title": "Train",
+        "content": "A train is a set of cars on a railway. The vehicles that carry freight are called cars (in the United States) or wagons (in the United Kingdom). The ones that carry passengers are often called coaches or carriages. A place where a train stops to let people get on and off is called a Train station or railway station. Early trains used horse power and ran on wooden or iron tracks. These were used in the Middle Ages. The first steam trains were built in England in the early 19th century. Long before railways, \"train\" meant any group of vehicles or pack animals traveling in a line, as in wagon train or camel train.  \nTrains contain the prime mover (either locomotive or motor unit) and one or more cars. The locomotive or railway engine (usually the first car of the train) pulls the cars along the track. The last car you will see on a train is called the caboose. Some trains look like a special bus that can only drive on rails. Trains are used to carry people, as well as cargo, such as raw material,finished goods, and waste.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Train"
+    },
+    {
+        "title": "Transport",
+        "content": "Transport, or transportation, is moving people or things from one place to another place. Transport can be divided into infrastructure, vehicles and operations.\nInfrastructure includes roads, railways, airports, canals and pipelines. The infrastructure is the network where things are carried. Infrastructure also includes airports, railway stations, bus stations and seaports (docks). Infrastructure is usually built by governments and paid for by taxes from the citizens of a country or region. Infrastructure such as roads and railways are designed by civil engineers and urban planners.\nVehicles or vessels travel on the infrastructure. Vehicles include cars, trucks, trains and airplanes. Vehicles are usually designed by mechanical engineers. Vessels include boats, ferries, and barges which travel on canals and use docks and seaports. In the same way that trains use train stations, airplanes use airports. In the same way that trains use railway lines (train tracks), airplanes use flight paths and then fly in the sky.Operations control the system. Operations include traffic signals, railway signals and air traffic control. Operations also include the government policies (a policy is a plan of action to guide decisions and actions) and regulations (a set or group of laws and rules) used to control the system, such as tolls, fuel taxes, and traffic laws.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Transport"
+    },
+    {
+        "title": "Transport",
+        "content": "Transport, or transportation, is moving people or things from one place to another place. Transport can be divided into infrastructure, vehicles and operations.\nInfrastructure includes roads, railways, airports, canals and pipelines. The infrastructure is the network where things are carried. Infrastructure also includes airports, railway stations, bus stations and seaports (docks). Infrastructure is usually built by governments and paid for by taxes from the citizens of a country or region. Infrastructure such as roads and railways are designed by civil engineers and urban planners.\nVehicles or vessels travel on the infrastructure. Vehicles include cars, trucks, trains and airplanes. Vehicles are usually designed by mechanical engineers. Vessels include boats, ferries, and barges which travel on canals and use docks and seaports. In the same way that trains use train stations, airplanes use airports. In the same way that trains use railway lines (train tracks), airplanes use flight paths and then fly in the sky.Operations control the system. Operations include traffic signals, railway signals and air traffic control. Operations also include the government policies (a policy is a plan of action to guide decisions and actions) and regulations (a set or group of laws and rules) used to control the system, such as tolls, fuel taxes, and traffic laws.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Transport"
+    },
+    {
+        "title": "Travel",
+        "content": "Travel is the activity of going from one place to another place.  When a person makes the same trip every day to work or school, this type of travelling is usually called \"commuting.\"  Some people travel to other cities as part of their job.  This is called \"business travel.\" When many people travel to a distant place to stay, it is called \"human migration\". \nSome people travel on their vacation, to visit other towns, cities, or countries.  This is tourism.  These people stay overnight in hotels, hostels, motels, apartments or bed and breakfast.  Some prefer camping.  Through the centuries, modes of travel have changed.  Some people (travel writers) write about travelling in books including autobiographies or journals.\nTypes of travelling:\n\nHiking\nCruise ship vacations\nPilgrimage\nTrain journeys\nHitch-hiking\nDriving\nFlight",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Travel"
+    },
+    {
+        "title": "Umbrella",
+        "content": "An umbrella is a hand tool that is used to stop rain from falling on a person. It is also used to make shade and protect people from sunlight. An umbrella made for protection from the sunlight is called a parasol. And a plastic umbrella is cheap but it is fragile.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Umbrella"
+    },
+    {
+        "title": "Umbrella",
+        "content": "An umbrella is a hand tool that is used to stop rain from falling on a person. It is also used to make shade and protect people from sunlight. An umbrella made for protection from the sunlight is called a parasol. And a plastic umbrella is cheap but it is fragile.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Umbrella"
+    },
+    {
+        "title": "Vacation",
+        "content": "A vacation (American English) or holiday (British English) is a time for people to relax and take a break from whatever they usually do. People spend their vacation time in different ways. For many, it's a time for tourism. They go backpacking, to a holiday camp, or stay in a trailer or hostel or hotel. Families often take a vacation together.  Because the cost of many things is becoming higher, some people are giving up going on vacation to other countries, and are staying in their home country and finding interesting places to go there.  This type of trip is known colloquially as a \"staycation\".",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Vacation"
+    },
+    {
+        "title": "Vehicle",
+        "content": "A vehicle is a machine to move people and things. A vehicle is not alive. A horse can move people and things, but it is an animal, not a machine or a vehicle.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Vehicle"
+    },
+    {
+        "title": "Visa",
+        "content": "A visa  (short for the Latin carta visa, lit. \"the document having been seen\") is a permit given by a country that allows someone to go to that country. A visa is a document that is stamped on a person's passport by an embassy. It names the kind of visit and says how long the person can stay. Sometimes, people need to go through an interview held at the embassy before they get a visa.\n\nMany countries require foreign visitors to have a valid passport and a visa before they can enter the country, but there are exceptions (see below for examples of such these).\nVisas are associated with the request for permission to enter (or exit) a country, and are thus, for some countries, not the same as actual formal permission for an alien to enter and remain in the country.\nSome countries, such as some states of the former Soviet Union, require that their citizens, and sometimes foreign travelers, obtain an exit visa in order to be allowed to leave the country. Until 2004, foreign students in Russia were issued only an entry visa on being accepted to University there, and had to obtain an exit visa to return home.  This policy has since been changed, and foreign students are now issued multiple entry (and exit) visa.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Visa"
+    },
+    {
+        "title": "Water park",
+        "content": "A water park (occasionally written as waterpark) is an theme park that features water play areas, such as water slides, splash pads, spraygrounds (water playgrounds), lazy rivers, or other recreational bathing, swimming, and barefooting environments. Water parks in more current states of development may also have some type of artificial surfing or bodyboarding environment such as a wave pool or FlowRider.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Water_park"
+    },
+    {
+        "title": "Water park",
+        "content": "A water park (occasionally written as waterpark) is an theme park that features water play areas, such as water slides, splash pads, spraygrounds (water playgrounds), lazy rivers, or other recreational bathing, swimming, and barefooting environments. Water parks in more current states of development may also have some type of artificial surfing or bodyboarding environment such as a wave pool or FlowRider.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Water_park"
+    },
+    {
+        "title": "Waterfall",
+        "content": "A waterfall is a place where water rushes down a steep ledge. The water flows from higher land, then it falls down a big step of rock to lower land of softer rock where it will continue on its journey. Usually the lower land is in a gorge. Waterfalls are usually made when a river is young, in places where softer rock is underneath harder rock| in the waterfalls\nMany people choose them as sacred spots.  The roar from a big waterfall is very loud. Some people think it is beautiful music and that a waterfall is one of the most beautiful things in nature.The highest waterfall in the world is Angel Falls in Venezuela where the water falls 979 m (3,212 ft).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Waterfall"
+    },
+    {
+        "title": "Yacht",
+        "content": "A yacht is a type of boat which is mainly used for recreation. It usually has a cabin, so it does not need to return to the harbour overnight. Originally, yachts were sailing-boats, but now there are also motor yachts. The name comes from the Dutch word jachtschip, which originally meant hunting-boat or fast boat. Yachts have a fixed keel.\n\nA yacht can vary in size from about 20 feet (6 metres) to 200 feet (60 metres) or more.Most privately owned yachts fall in the range of about 7 metres (23 ft)-14 metres (46 ft); the cost of building and keeping a yacht rises quickly as length increases. In the United  States, sailors tend to refer to smaller yachts as sailboats, while referring to the general sport of sailing as yachting. In sailboat racing, a yacht is any sailing vessel taking part in a race.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Yacht"
+    },
+    {
+        "title": "Ship",
+        "content": "A ship is a large vehicle used to travel on water. It is bigger than a boat. Most are cargo ships, which carry most of the world's international trade. There are also many warships, passenger ships and other kinds for different purposes.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ship"
+    },
+    {
+        "title": "Zoo",
+        "content": "A zoological garden, zoological park, or zoo is a place where many different species types of animals are kept so people can see and watch them.Modern zoos try not only to be for people's entertainment, but for education, research, and the conservation and protection of animals. Many zoos are centers where rare animals are preserved when they are in danger of dying out. These modern zoos also want to give the animals a natural life, so that they are healthy and behave normal. This is done for the animals, but also that people can see the animals as if they were in nature, and not in a zoo.\nZoos cost money. They educate the public on the biological diversity that makes up the world. They help people and wildlife successfully coexist. They pursue continuing research and education for people. They preserve crucial natural resources. They work to ensure zoos can provide the most natural environment possible for wildlife in its care. Without enough money they cannot do these things.\nMany zoos are not like the modern type of zoo. There the animals are held in bad conditions. They are kept in small cages, and they are bored and get sick.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Zoo"
+    },
+    {
+        "title": "Zoo",
+        "content": "A zoological garden, zoological park, or zoo is a place where many different species types of animals are kept so people can see and watch them.Modern zoos try not only to be for people's entertainment, but for education, research, and the conservation and protection of animals. Many zoos are centers where rare animals are preserved when they are in danger of dying out. These modern zoos also want to give the animals a natural life, so that they are healthy and behave normal. This is done for the animals, but also that people can see the animals as if they were in nature, and not in a zoo.\nZoos cost money. They educate the public on the biological diversity that makes up the world. They help people and wildlife successfully coexist. They pursue continuing research and education for people. They preserve crucial natural resources. They work to ensure zoos can provide the most natural environment possible for wildlife in its care. Without enough money they cannot do these things.\nMany zoos are not like the modern type of zoo. There the animals are held in bad conditions. They are kept in small cages, and they are bored and get sick.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Zoo"
+    },
+    {
+        "title": "Airship",
+        "content": "Airships are kind of aircraft. Airships float in the sky and do not have to move to stay up. This is different from aeroplanes that stay up in the sky by moving. An airship floats like a balloon. But an airship is different from a balloon. An airship has an engine for power and a way to control its direction of movement. A balloon does not have an engine or a way to control its direction of movement.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Airship"
+    },
+    {
+        "title": "Airship",
+        "content": "Airships are kind of aircraft. Airships float in the sky and do not have to move to stay up. This is different from aeroplanes that stay up in the sky by moving. An airship floats like a balloon. But an airship is different from a balloon. An airship has an engine for power and a way to control its direction of movement. A balloon does not have an engine or a way to control its direction of movement.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Airship"
+    },
+    {
+        "title": "Gondola",
+        "content": "A Gondola is a kind of boat. Gondolas are mainly used in Venice. Unlike other boats, a long oar is used to move the gondola.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gondola"
+    },
+    {
+        "title": "Locomotive",
+        "content": "A locomotive is the part of a train that makes the train move. Normally, it is the first part of the train, and has an engine.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Locomotive"
+    },
+    {
+        "title": "Locomotive",
+        "content": "A locomotive is the part of a train that makes the train move. Normally, it is the first part of the train, and has an engine.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Locomotive"
+    },
+    {
+        "title": "Snowmobile",
+        "content": "A snowmobile is a motorized vehicle used for travelling over snow.  It is like a car, only instead of wheels, it has treads.  Some snowmobiles have skis in the front for steering.  \nAdding snowmobile studs to the tread decreases the time and distance it takes to stop a snowmobile.  Once you make a decision to stop a snowmobile, the distance it will take to stop will be a combination of the speed of the machine, weight of the machine and the available friction and or the mechanical damping (which will equal the effective drag factor) between the snowmobile and the surface on which it is trying to stop. If the surface is icy or hard-packed, the mechanical damping portion of the effective drag factor is decreased, leaving you with only the friction provided by the tread to stop.\nSnowmobile studs made from steel or stainless steel with carbide tips are installed in the tread. The studs are designed for specific terrains in varying lengths, shapes and materials. The studs control acceleration, deceleration and maneuverability. The correct amount and type of stud installed in an effective pattern will produce the best traction results.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Snowmobile"
+    },
+    {
+        "title": "Tricycle",
+        "content": "A tricycle is a vehicle with three wheels. It can be also called a trike. Tricycles can have pedals, an electric motor or a petrol engine.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tricycle"
+    },
+    {
+        "title": "Tricycle",
+        "content": "A tricycle is a vehicle with three wheels. It can be also called a trike. Tricycles can have pedals, an electric motor or a petrol engine.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tricycle"
+    },
+    {
+        "title": "Bed and breakfast",
+        "content": "Bed & breakfast means a stay in a private home when travelling abroad.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bed_and_breakfast"
+    },
+    {
+        "title": "Bed and breakfast",
+        "content": "Bed & breakfast means a stay in a private home when travelling abroad.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bed_and_breakfast"
+    },
+    {
+        "title": "Taj Mahal",
+        "content": "The Taj Mahal is a white tomb built in the 16th century by the Mughal emperor, Shah Jahan in memory of his wife, Mumtaz Mahal.\nThe building is in the city of Agra, Uttar Pradesh. Widely thought as one of the most beautiful buildings in the world, it is one of India's biggest tourist attractions.\nIt is listed as a UNESCO World Heritage Site, together with the Agra Fort, 2.5 kilometers away. It was listed as one of the  7 Wonders of the World in 2007.It is located on the south bank of Yamuna river in Agra. It is a splendid monument, but because of pollution, the Taj Mahal is turning yellow.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+        "title": "Eiffel Tower",
+        "content": "The Eiffel Tower (French: La Tour Eiffel, [tu\u0281 \u025bf\u025bl], IPA pronunciation: \"EYE-full\" English; \"eh-FEHL\" French) is a landmark in Paris. It was built between 1887 and 1889 for the Exposition Universelle (World Fair). The Tower was the Exposition's main attraction.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    {
+        "title": "Leaning Tower of Pisa",
+        "content": "The Leaning Tower of Pisa is a building in Pisa, Italy.  It is a bell tower.  It is famous because it is not vertical.  In 1990 the tower was leaning at 5.5 degrees and increasing.  After that, much restoration work has been done to stop it from falling over completely.  There was scaffolding all around the tower for 20 years.  On 26 April 2011, the last bit of scaffolding was removed so that the tower can be seen properly again.The height of the tower is about 56 metres from the ground. Its weight is about 14,500 tonnes. It now leans at about 3.99 degrees. The tower has 294 steps.\nWhen the second floor was built in 1178, the tower started to lean. This was because it had a small three-meter foundation in soft soil. The design of this tower was bad from the beginning. Construction was stopped for almost 100 years because the people of Pisa were often at war with Genoa, Lucca, and Florence.\nThere is an old story that Galileo Galilei used the Tower for a physics experiment.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+    },
+    {
+        "title": "Niagara Falls",
+        "content": "Niagara Falls is the collective, name of three big waterfalls on the Niagara River in eastern North America, on the border between the United States and Canada. The three waterfalls are: the Horseshoe Falls, sometimes called the Canadian Falls, the American Falls, and the smaller Bridal Veil Falls. The American Falls and the Horseshoe Falls are separated with Goat Island, and the Bridal Veil Falls separated from the other waterfalls with Luna Island. Niagara falls is very well known for both its beauty and hydroelectric power. It is been a tourist attraction, commercial site and hydroelectricity source since the 19th century.\nIt is located near Niagara Falls, New York in the United States and Niagara Falls, Ontario in Canada.The volume of water approaching the falls during peak flow season may sometimes be as much as 225,000 cubic feet (6,400 m3) per second. The cities of Niagara Falls, Ontario, Canada, and Niagara Falls, New York, United States, are connected by two international bridges.\nNiagara Falls were formed when glaciers receded at the end of the Wisconsin glaciation (the last ice age). Water from the newly formed Great Lakes carved a path through the Niagara Escarpment en route to the Atlantic Ocean. The Escarpment has hard limestone on top and soft shale below.\nAlthough not very high, Niagara Falls is very wide, and is probably the most popular waterfall in the world. The Horseshoe Falls are the largest out of the three falls. It is named the Horseshoe Falls because it looks like a horse shoe. \nNiagara Falls is a very popular tourist destination and many people visit it on holiday in Canada.\nNiagara Falls is one Canada's proudest place.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Niagara_Falls"
+    },
+    {
+        "title": "Great Wall of China",
+        "content": "The Great Wall of China is an ancient wall in China. The wall is made of cement, rocks, bricks, and powdered dirt. It was finished in 1878 and it was meant to protect the north of the empire of China from enemy attacks. It is the longest structure humans have ever built. It is about 21,196 kilometres (13,171 miles) long, 9.1 metres (30 feet) wide and 15 metres (50 feet) high. The earlier sections on the wall are made of compacted dirt and stone. Later in the Ming Dynasty they used bricks. There are 7,000 watch towers, block houses for soldiers and beacons to send smoke signals.\nNineteen walls have been built that were called the Great Wall of China. The first was built in the 7th century BC. The most famous wall was built between 226\u2013200 BC by the first Emperor of Imperial China, Qin Shai Hong, during the Qin Dynasty. Not much of this wall remains as people have been stealing from it. It was much farther north than the current wall. The current wall was built during the Ming Dynasty. (Qin pronounced like Chin).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Great_Wall_of_China"
+    },
+    {
+        "title": "Machu Picchu",
+        "content": "Machu Picchu is a pre-Columbian 15th-century Inca site in Peru, in South America.\nThe Incas built the city on a mountain ridge, 2430m above sea level. They lived there between 1200 and 1450 AD. Other people lived there before about 650 AD. \nThe Incas built houses, fields and temples by cutting the rock on the mountain so it was flat. They built an Observatory to look at the stars.\nWhen the Spanish invaded Peru, the Incas left Machu Picchu. Nobody knows for sure why they did that, but some think it was because of diseases from Europe. The city was left unfinished, most likely due to the Spanish invasion and/or a civil war between the ruling rival Inca brothers named Huascar and Atahualpa. The Spanish never found Machu Picchu or the lost city during their occupation.\nMachu Picchu is very difficult to get to because it is so high in the mountains. It has only one way in and a stone wall to protect it. Most people on Earth did not know it was there until a Yale graduate named Hiram Bingham rediscovered it in 1911. He heard rumours of a hidden city which was already known to the native Peruvians, who guided him there. He led a restoration project that was partly funded by the National Geographic Society. Bingham made a deal with the government to take artifacts to the Peabody Museum for study. Peru is still trying to have those artifacts returned to them.\nMachu Picchu was declared a Peruvian Historical Sanctuary in 1981 and a UNESCO World Heritage Site in 1983. In 2007, Machu Picchu was voted one of the New Seven Wonders of the World in a worldwide Internet poll.\nToday, there is a new road so that tourists can visit. People can also walk along the Inca Trail, or take a train from Cusco.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Machu_Picchu"
+    },
+    {
+        "title": "Mount Kilimanjaro",
+        "content": "Kilimanjaro (or Kilima Njaro, which means \"shining mountain\" in Swahili), formerly Kaiser-Wilhelm-Spitze, is a mountain in northeastern Tanzania. Kilimanjaro is the tallest free-standing mountain rise in the world, rising 4600 meters (15,000 ft) from the base, and is the highest peak in Africa at 5,895 meters (19,340 ft). It gives a dramatic view from the surrounding plains.  Almost 85% of the ice cover on Kilimanjaro disappeared from October 1912 to June 2011.\nKilimanjaro is also a strato-like volcano. It has explosive eruptions. The last major eruption was about 100,000 years ago.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Mount_Kilimanjaro"
+    },
+    {
+        "title": "Mount Everest",
+        "content": "Mount Everest  is the highest mountain on Earth. Mount Everest is in the Himalayas, the highest mountain range in the world. It is about 8,848.00 metres (29,028.87 ft) high.Its peak is on the border of Nepal and China. It is above the Death Zone where the air is too thin for a human being to live, so usually compressed gas tanks with different gas mixes for different altitudes are used when climbing. The Death Zone refers to the parts of Mount Everest that are above 7,600 metres (24,900 ft) above sea level.\nTwo other mountains also can be named as the \"highest\" mountains - the Hawaiian volcano Mauna Loa on Hawaii island is the highest mountain measured from the base underwater to the summit (more than 11 kilometres), and the summit of Mount Chimborazo is the fixed point on Earth which is the greatest distance from the center. This is because of the shape of the Earth: the circumference around the Equator is greater than around the poles.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Mount_Everest"
+    },
+    {
+        "title": "London Eye",
+        "content": "The London Eye is a large metal Ferris wheel. It is also known as the Millennium Wheel and is one of the largest observation wheels in the world. Since mid-January 2015 it has been known in branding as the Coca-Cola London Eye, after an agreement signed in September 2014. The London Eye is at the western end of Jubilee Garden, on the South Bank of the river Thames, between Westminster Bridge and Hungerford Bridge.\nThe Eye was opened in 2000.  It is 135 metres high(442ft). At the time it was built, in 1999, it was the tallest giant wheel in the world, and at present it is Europe's tallest Ferris wheel. It offered the highest public viewing point in London. The 245-metre (804 ft) observation deck on the 72nd floor of The Shard is now the highest public view of London.It is the most popular paid tourist attraction in the United Kingdom: there are over 2.2 million visitors annually, and the Eye has made many appearances in popular culture.\nThe London Eye was overtaken in height by the Star of Nanchang, which is 160 meters high. On  the 11th February 2008 the Singapore Flyer overtook the Star of Nanchang with 165 meters,It is known as the Coke Cola London Eye.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/London_Eye"
+    },
+    {
+        "title": "London Eye",
+        "content": "The London Eye is a large metal Ferris wheel. It is also known as the Millennium Wheel and is one of the largest observation wheels in the world. Since mid-January 2015 it has been known in branding as the Coca-Cola London Eye, after an agreement signed in September 2014. The London Eye is at the western end of Jubilee Garden, on the South Bank of the river Thames, between Westminster Bridge and Hungerford Bridge.\nThe Eye was opened in 2000.  It is 135 metres high(442ft). At the time it was built, in 1999, it was the tallest giant wheel in the world, and at present it is Europe's tallest Ferris wheel. It offered the highest public viewing point in London. The 245-metre (804 ft) observation deck on the 72nd floor of The Shard is now the highest public view of London.It is the most popular paid tourist attraction in the United Kingdom: there are over 2.2 million visitors annually, and the Eye has made many appearances in popular culture.\nThe London Eye was overtaken in height by the Star of Nanchang, which is 160 meters high. On  the 11th February 2008 the Singapore Flyer overtook the Star of Nanchang with 165 meters,It is known as the Coke Cola London Eye.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/London_Eye"
+    },
+    {
+        "title": "London Eye",
+        "content": "The London Eye is a large metal Ferris wheel. It is also known as the Millennium Wheel and is one of the largest observation wheels in the world. Since mid-January 2015 it has been known in branding as the Coca-Cola London Eye, after an agreement signed in September 2014. The London Eye is at the western end of Jubilee Garden, on the South Bank of the river Thames, between Westminster Bridge and Hungerford Bridge.\nThe Eye was opened in 2000.  It is 135 metres high(442ft). At the time it was built, in 1999, it was the tallest giant wheel in the world, and at present it is Europe's tallest Ferris wheel. It offered the highest public viewing point in London. The 245-metre (804 ft) observation deck on the 72nd floor of The Shard is now the highest public view of London.It is the most popular paid tourist attraction in the United Kingdom: there are over 2.2 million visitors annually, and the Eye has made many appearances in popular culture.\nThe London Eye was overtaken in height by the Star of Nanchang, which is 160 meters high. On  the 11th February 2008 the Singapore Flyer overtook the Star of Nanchang with 165 meters,It is known as the Coke Cola London Eye.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/London_Eye"
+    }
+]

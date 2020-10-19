@@ -1,0 +1,812 @@
+[
+    {
+        "title": "Indische K\u00fcche",
+        "content": "Die Indische K\u00fcche umfasst viele unterschiedliche regionale Gerichte und Kochstile, die vom Himalaya bis zur S\u00fcdspitze Indiens reichen. Charakteristisch f\u00fcr die K\u00fcche des gesamten Subkontinents sind Currys und die Vielfalt der Gew\u00fcrze.\nDie Vielf\u00e4ltigkeit der indischen K\u00fcche spiegelt nicht nur die enorme Gr\u00f6\u00dfe des Landes, sondern auch dessen Religions- und Kulturgeschichte wider. So findet man in der indischen K\u00fcche viele Elemente der orientalischen K\u00fcche wie zum Beispiel Pilaw, aber auch westliche Einfl\u00fcsse der ehemaligen Kolonialm\u00e4chte wie Tomaten, Kartoffeln und Chili.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Indische_K%C3%BCche"
+    },
+    {
+        "title": "Chinesische K\u00fcche",
+        "content": "Die chinesische K\u00fcche (chinesisch \u4e2d\u570b\u83dc / \u4e2d\u56fd\u83dc, Pinyin Zh\u014dnggu\u00f3c\u00e0i) umfasst diverse chinesische Regionalk\u00fcchen, die teilweise sehr unterschiedlich ausgepr\u00e4gt sind.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Chinesische_K%C3%BCche"
+    },
+    {
+        "title": "Thail\u00e4ndische K\u00fcche",
+        "content": "Die thail\u00e4ndische K\u00fcche ist eine Mischung aus chinesischen, indischen und europ\u00e4ischen Einfl\u00fcssen, die im Laufe der Jahrhunderte zu einer Landesk\u00fcche verschmolzen sind.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Thail%C3%A4ndische_K%C3%BCche"
+    },
+    {
+        "title": "Italienische K\u00fcche",
+        "content": "Die italienische K\u00fcche besteht aus einer Vielzahl von regionalen K\u00fcchen, und bedingt durch die geografische Lage und lange Kochtradition Italiens kann sie auf zahlreiche Zutaten und Spezialit\u00e4ten zur\u00fcckgreifen. Historisch unterscheidet man vor allem zwischen der Cucina alto-borghese (womit die exklusive Kochtradition der h\u00f6heren St\u00e4nde seit der Renaissance bezeichnet wird) sowie der Cucina povera (der regionalen b\u00e4uerlichen und st\u00e4dtischen K\u00fcche). Dazu kommt das reichhaltige einheimische Weinangebot (zum Beispiel Chianti und Barolo). In Italien ist \u00fcblicherweise das Abendessen die Hauptmahlzeit, die aus einer Vorspeise (Antipasto), zwei Hauptg\u00e4ngen und der Nachspeise besteht.\nWie wenig andere kulinarische Traditionen fand die italienische K\u00fcche seit dem 2. Jahrhundert weltweite Verbreitung, und ihre bekanntesten Gerichte wie Pasta und Pizza werden heute auf allen Kontinenten zubereitet. Andere international bekannte Produkte sind italienisches Oliven\u00f6l, diverse K\u00e4sesorten (zum Beispiel Parmesan, Mozzarella, Gorgonzola), sowie Wurst und Fleischerzeugnisse (wie Mortadella, Salami, San-Daniele-Schinken, Parmaschinken). Seit 2010 wird die italienische K\u00fcche auf der Liste des immateriellen Kulturerbes der Menschheit der UNESCO gef\u00fchrt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Italienische_K%C3%BCche"
+    },
+    {
+        "title": "Franz\u00f6sische K\u00fcche",
+        "content": "Die franz\u00f6sische K\u00fcche (franz\u00f6sisch Cuisine fran\u00e7aise) ist die Nationalk\u00fcche Frankreichs. Sie galt seit der fr\u00fchen Neuzeit als sehr einflussreiche Landesk\u00fcche Europas. Die sogenannte haute cuisine entstand im 19. Jahrhundert und entwickelte sich zur franz\u00f6sischen Nationalk\u00fcche. Auch in Frankreich existieren verschiedene Regionalk\u00fcchen, die auf unterschiedlichen Zutaten, Kombinationen und Zubereitungsarten basieren. Die franz\u00f6sische K\u00fcche ist sowohl f\u00fcr ihre Qualit\u00e4t als auch ihre Vielseitigkeit weltber\u00fchmt.\nDas Essen ist in Frankreich ein wichtiger Bereich des t\u00e4glichen Lebens und die Pflege der K\u00fcche ein unverzichtbarer Bestandteil der nationalen Kultur. Das \u201egastronomische Mahl der Franzosen\u201c wurde 2010 als immaterielles Kulturerbe von der UNESCO anerkannt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Franz%C3%B6sische_K%C3%BCche"
+    },
+    {
+        "title": "Balkank\u00fcche",
+        "content": "Balkank\u00fcche ist ein h\u00e4ufig verwendeter Oberbegriff f\u00fcr verschiedene Landesk\u00fcchen, die geografisch zum Balkan geh\u00f6ren. Dazu geh\u00f6ren die bulgarische K\u00fcche, die rum\u00e4nische K\u00fcche, die Regionalk\u00fcchen des ehemaligen Jugoslawiens, die albanische, die griechische und die t\u00fcrkische K\u00fcche. Die K\u00fcche der Balkanl\u00e4nder wurde vom 14. bis zum 19. Jahrhundert durch die Kultur des Osmanischen Reiches und die entsprechende K\u00fcche gepr\u00e4gt, so dass eine relativ homogene Regionalk\u00fcche entstand. Je weiter \u00f6stlich man in dieser Region vordringt, desto st\u00e4rker ist au\u00dferdem der Einfluss der orientalischen K\u00fcche zu erkennen. Ebenso ist in der zugeh\u00f6rigen Gastronomie der \u00dcbergang zur ungarischen K\u00fcche wenig trennscharf abgegrenzt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Balkank%C3%BCche"
+    },
+    {
+        "title": "Hamburger",
+        "content": "Ein Hamburger (kurz Burger) ist ein weltweit verbreitetes Sandwich, das aus einem speziellen Br\u00f6tchen, dem Bun besteht, das mit verschiedenen Bel\u00e4gen, haupts\u00e4chlich jedoch einer gegrillten Scheibe aus Rinderhackfleisch (dem Patty, einer Art Hacksteak), belegt wird. Oftmals dient es als warmes Schnell- oder Fertiggericht als Standardartikel vieler Fast-Food-Ketten, h\u00e4lt aber zunehmend Einzug in die klassische und sogar die gehobene Gastronomie.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Hamburger"
+    },
+    {
+        "title": "Fish and Chips",
+        "content": "Fish and Chips (kurz Fish \u2019n\u2019 Chips) ist ein Gericht aus in Backteig frittiertem Fischfilet (Fish) und dicken frittierten Kartoffelst\u00e4bchen (Chips). Sie gelten als \u201einoffizielles Nationalgericht\u201c des Vereinigten K\u00f6nigreiches und sind bis heute ein fester Bestandteil der englischen, schottischen und irischen K\u00fcche und Esskultur. Obgleich es in den letzten Jahren etwas an Popularit\u00e4t gegen\u00fcber internationalem Street Food verloren hat, konnte das Gericht seine Vorrangstellung behaupten.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fish_and_Chips"
+    },
+    {
+        "title": "Frucht",
+        "content": "Die Frucht (von lateinisch fructus, in Fachw\u00f6rtern karp- von altgriechisch \u03ba\u03b1\u03c1\u03c0\u03cc\u03c2) einer Pflanze ist die Gesamtheit der Organe, die aus einer Bl\u00fcte hervorgehen, und die die Pflanzensamen bis zu deren Reife umschlie\u00dfen. Fr\u00fcchte bilden prinzipiell nur die Pflanzen, die einen geschlossenen Fruchtknoten besitzen (Bedecktsamer = Angiospermen). Bei den Nacktsamern (Gymnospermen; hierzu geh\u00f6ren Nadelb\u00e4ume und Ginkgo-Baum) entstehen nur freie Samen.\nAn der Bildung einer Frucht k\u00f6nnen au\u00dfer dem Fruchtblatt zum Beispiel folgende Organe beteiligt sein: Achsengewebe (beispielsweise der Bl\u00fctenboden), Bl\u00fctenh\u00fclle, Spelzen. Die Frucht dient der Ausbreitung. Je nachdem, ob die Samen von der Frucht eingeschlossen oder im reifen Zustand freigesetzt werden, unterscheidet man zwischen Schlie\u00df- und \u00d6ffnungs- bzw. Streufr\u00fcchten.\nIm allgemeinen Sprachgebrauch wird unter Fr\u00fcchten auch Obst verstanden und nicht immer zwischen den Samen und der Frucht klar unterschieden.\nEssbare Pflanzenteile, die gem\u00e4\u00df unterschiedlicher Definitionen einerseits Gem\u00fcse und andererseits Obst zugeordnet sind, werden als Fruchtgem\u00fcse bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Frucht"
+    },
+    {
+        "title": "Gem\u00fcse",
+        "content": "Gem\u00fcse (mhd. gem\u00fcese, urspr\u00fcngliche Bedeutung: Mus aus Nutzpflanzen) ist heute ein Sammelbegriff f\u00fcr essbare Pflanzenteile wild wachsender oder in Kultur genommener Pflanzen. Meist handelt es sich um Bl\u00e4tter, Knollen, St\u00e4ngel oder Wurzeln von ein- oder zweij\u00e4hrigen krautigen Pflanzen, die roh, gekocht oder konserviert genossen werden. Im Gegensatz zu Pflanzen oder Pflanzenteilen, die vor allem wegen ihrer Reservestoffe (Kohlenhydrate, Eiwei\u00df und Fette) genutzt werden und deshalb die Grundkost in der Ern\u00e4hrung des Menschen darstellen, wird Gem\u00fcse vor allem wegen seines Gehalts an Vitaminen, Mineralstoffen und sekund\u00e4ren Pflanzenstoffen als Beikost verzehrt. Gem\u00fcse ist geschmacksgebend und kalorienarm. Zudem hat Gem\u00fcse aufgrund seines hohen Gehalts an Ballaststoffen eine wichtige Funktion f\u00fcr die Verdauung.\nTrockene Samen wie Erbsen oder Linsen und Getreidek\u00f6rner z\u00e4hlen nicht zum Gem\u00fcse. Pflanzenteile, die als Gem\u00fcse und Gew\u00fcrz genutzt werden, wie Paprika oder Zwiebeln, gelten nur dann als Gem\u00fcse, wenn sie eine erkennbare Hauptkomponente der Mahlzeit bilden.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gem%C3%BCse"
+    },
+    {
+        "title": "Pavlova",
+        "content": "Pavlova (manchmal auf Deutsch auch Pawlova geschrieben) ist eine mit Sahne und Fr\u00fcchten gef\u00fcllte Torte aus einer Baisermasse, die sowohl in Australien als auch in Neuseeland als ein Nationalgericht angesehen wird. Beide L\u00e4nder beanspruchen die Erfindung der S\u00fc\u00dfspeise f\u00fcr sich. Fest steht, dass die Torte nach der russischen Ballerina Anna Pawlowa benannt wurde, die Ende der 1920er Jahre in beiden L\u00e4ndern Gastauftritte hatte. Das Oxford English Dictionary nennt Neuseeland als Ursprungsort, weil das \u00e4lteste bekannte Rezept dieses Namens 1927 dort erschien.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pavlova"
+    },
+    {
+        "title": "Gordon Ramsay",
+        "content": "Gordon James Ramsay, OBE (* 8. November 1966 in Johnstone, Schottland) ist ein britischer Koch, Gastronom, Fernsehkoch und Kochbuchverfasser. Die Gordon Ramsay Group betreibt 35 Restaurants weltweit, davon 15 in London. Vier der betriebenen Restaurants sind vom Guide Michelin mit Sternen ausgezeichnet (Stand 2019), das Gordon Ramsay mit drei, das Le Pressoir d'Argent mit zwei und das P\u00e9trus sowie das Gordon Ramsay au Trianon mit jeweils einem.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gordon_Ramsay"
+    },
+    {
+        "title": "Di\u00e4t",
+        "content": "Die Bezeichnung Di\u00e4t kommt von altgriechisch \u03b4\u03af\u03b1\u03b9\u03c4\u03b1 d\u00edaita und wurde urspr\u00fcnglich im Sinne von \u201eLebensf\u00fchrung\u201c/\u201eLebensweise\u201c verwendet. Die Di\u00e4tetik besch\u00e4ftigt sich auch heute noch wissenschaftlich mit der \u201erichtigen\u201c Ern\u00e4hrungs- und Lebensweise. Im deutschsprachigen Raum bezeichnet der Begriff bestimmte Ern\u00e4hrungsweisen und Kostformen, die entweder zur Gewichtsab- oder -zunahme oder zur Behandlung von Krankheiten dienen sollen. Umgangssprachlich wird der Begriff in Deutschland h\u00e4ufig mit einer Reduktionsdi\u00e4t (Reduktionskost) zur Gewichtsabnahme gleichgesetzt. Er bildet somit ein Synonym zur Schlankheitskur.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Di%C3%A4t"
+    },
+    {
+        "title": "Vegetarische K\u00fcche",
+        "content": "Die vegetarische K\u00fcche bezeichnet eine Ern\u00e4hrung und die zugeh\u00f6rigen Speisen, die, mit Ausnahme von Milchprodukten, Eiern und gegebenenfalls auch Honig, bewusst auf tierische Lebensmittel verzichtet. W\u00e4hrend der weltanschauliche Begriff Vegetarismus als solcher erst im England des 19. Jahrhunderts entstanden ist, gibt es \u00e4hnliche Ern\u00e4hrungsweisen erheblich l\u00e4nger. Sie gehen neben individuellen Wertvorstellungen, Nahrungstabus und Ern\u00e4hrungs- und Gesundheitslehren auch auf Vorgaben von Religionen und religi\u00f6sen Richtungen zur\u00fcck, die dauerhaft oder zeitweise den Verzicht auf Fleisch f\u00f6rdern.\nMit dem Adjektiv vegetarisch werden auch traditionelle Gerichte bezeichnet, die durch Weglassen von tierischen Produkten oder den Einsatz von verschiedenen Fleischersatzprodukten ver\u00e4ndert wurden.\nEine ovo-lacto-vegetarische Kost bezieht neben pflanzlichen Lebensmitteln zus\u00e4tzlich Eier und Milchprodukte, ovo-vegetarische oder lacto-vegetarische Kost nur Eier beziehungsweise nur Milchprodukte mit ein.\nIn der streng vegetarischen oder auch veganen K\u00fcche werden s\u00e4mtliche Produkte tierischen Ursprungs ausgelassen. Veganer versuchen, in ihrem Lebensstil weitestgehend ohne tierische Produkte auszukommen. Die Auswirkungen einer solchen Ern\u00e4hrung auf die Gesundheit sind umstritten.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Vegetarische_K%C3%BCche"
+    },
+    {
+        "title": "Pizza",
+        "content": "Pizza (Aussprache [\u02c8p\u026atsa], ital. [\u02c8pitsa], Plural die Pizzas oder die Pizzen) ist ein vor dem Backen w\u00fcrzig belegtes Fladenbrot aus einfachem Hefeteig aus der italienischen K\u00fcche. Die heutige international verbreitete Variante mit Tomatensauce und K\u00e4se als Basis stammt vermutlich aus Neapel. 2017 wurde die neapolitanische Kunst des Pizzab\u00e4ckers (Art of Neapolitan \u2018Pizzaiuolo\u2019) von der UNESCO in die repr\u00e4sentative Liste des immateriellen Kulturerbes der Menschheit aufgenommen.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pizza"
+    },
+    {
+        "title": "K\u00e4se",
+        "content": "K\u00e4se ist ein festes Milcherzeugnis, das \u2013 bis auf wenige Ausnahmen \u2013 durch Gerinnen aus einem Eiwei\u00dfanteil der Milch, dem Kasein, gewonnen wird. Es ist das \u00e4lteste Verfahren zur Haltbarmachung von Milch und deren Erzeugnissen. Das neuhochdeutsche Wort \u201eK\u00e4se\u201c geht \u00fcber mhd. k\u00e6se, \u201eK\u00e4se, Quark\u201c, ahd. k\u0101si auf lat. c\u0101seus, eigentlich: \u201eGegorenes, sauer Gewordenes\u201c, zur\u00fcck, das u. a. auch dem engl. cheese und dem span. queso zu Grunde liegt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/K%C3%A4se"
+    },
+    {
+        "title": "Joghurt",
+        "content": "Joghurt (gelegentlich Jogurt; von t\u00fcrkisch yo\u011furt) ist ein Nahrungsmittel, das aus durch Milchs\u00e4urebakterien verdickter Milch hergestellt ist. Es wird als Naturjoghurt ohne Zus\u00e4tze sowie mit Zus\u00e4tzen wie Zucker oder Obstbestandteilen in verschiedenen Geschmacksrichtungen vermarktet. Naturjoghurt hat in seiner origin\u00e4ren Substanz einen s\u00e4uerlichen Geschmack.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Joghurt"
+    },
+    {
+        "title": "Fast Food",
+        "content": "Der Anglizismus Fast Food [\u02c8f\u0251st\u02ccfud] (englisch fast food, \u201eschnelle Nahrung\u201c, Schnellimbiss) steht in der Gastronomie f\u00fcr standardisierte Speisen mit einfachen Zubereitungsverfahren, die f\u00fcr den schnellen Verzehr gedacht sind. Als Gegensatz dazu versteht sich die in den 80er Jahren entstandene Slow Food-Bewegung.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fast_Food"
+    },
+    {
+        "title": "Slow Food",
+        "content": "Slow Food (engl. slow \u201alangsam\u2018 und food \u201aEssen\u2018) wurde von der gleichnamigen Organisation als Begriff gepr\u00e4gt f\u00fcr genussvolles, bewusstes und regionales Essen und bezeichnet eine Gegenbewegung zum uniformen und globalisierten Fastfood. Die urspr\u00fcnglich aus Italien stammende Bewegung bem\u00fcht sich um die Erhaltung der regionalen K\u00fcche mit heimischen pflanzlichen und tierischen Produkten und deren lokale Produktion.\nDer Gr\u00fcnder und internationale Vorsitzende Carlo Petrini definierte 2006 die Grundbegriffe der \u201eNeuen Gastronomie\u201c als Ma\u00dfstab: Buono, pulito e giusto \u2013 gut, sauber und fair. Wenn ein Element fehle, sei das laut Petrini nicht Slow Food.\nNach Ansicht des Publizisten Matthias Horx ist \u201eSlow Food\u201c einer von 18 Trends, die das Leben von morgen auf dem Gebiet der Ern\u00e4hrung beeinflussen werden. Slow Food steht in diesem Zusammenhang f\u00fcr Produkte mit authentischem Charakter (regional, saisonal), die auf traditionelle oder urspr\u00fcngliche Weise hergestellt und genossen werden. Lebensmittel, die nach Slow-Food-Kriterien angebaut, produziert, verkauft oder verzehrt werden, sollen regionale Wirtschaftskreisl\u00e4ufe st\u00e4rken und Menschen wieder mit Auge, Ohr, Mund und H\u00e4nden an ihre Region binden.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Slow_Food"
+    },
+    {
+        "title": "Dessert",
+        "content": "Mit Dessert (Aussprache: [d\u025b\u02c8se\u02d0\u0250\u032f], [d\u025b\u02c8s\u025b\u02d0\u0250\u032f], [d\u025b\u02c8s\u025b\u0281t] oder [\u02c8d\u025bs\u025b\u02d0r]) bezeichnet man im deutschen Sprachraum den Nachtisch bzw. eine Nachspeise. Es steht traditionell am Ende eines Men\u00fcs als Speisenfolge.Dessert ist der Franz\u00f6sischen Sprache entlehnt, wo es als dessert bzw. desserte verwendet wurde. Abgeleitet wird es vom Begriff desservir als Gegenteil zu servir f\u00fcr \u201eaufwarten\u201c bzw. \u201edienen\u201c. Das Dessert ist daher der Gang, der nach dem Abr\u00e4umen der Tafel verzehrt wurde.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Dessert"
+    },
+    {
+        "title": "Mittagessen",
+        "content": "Als Mittagessen oder auch Mittagbrot (vor allem in einigen Regionen Ostdeutschlands gebr\u00e4uchlich), auf Schweizerdeutsch und in \u00f6sterreichischem Deutsch auch als Zmittag oder veraltet Dejeuner, bezeichnet man eine in den Mittagsstunden eingenommene Mahlzeit beliebiger Art. Zeitpunkt und Umfang dieses Mittagsmahls sind von kulturellen Gepflogenheiten und individuellen Gewohnheiten gepr\u00e4gt.\nDie warme, s\u00e4ttigende und oftmals fleischhaltige Hauptmahlzeit des Tages wird mit den dazugeh\u00f6rigen meist kalten Getr\u00e4nken in Deutschland, \u00d6sterreich und der Schweiz zur Mittagszeit eingenommen, w\u00e4hrend am Abend als Abendessen eher eine kalte Speise \u00fcblich ist. In mediterranen L\u00e4ndern wie Frankreich, Italien oder Spanien ist das warme Mittagessen die Hauptmahlzeit, wobei abends ebenfalls warm gegessen wird (zwei warme Mahlzeiten am Tag). Typisch f\u00fcr den englischsprachigen Raum \u2013 Vereinigtes K\u00f6nigreich, USA \u2013 und die davon beeinflussten L\u00e4nder wie Australien und Kanada sowie f\u00fcr Skandinavien ist eine andere Struktur: Mittags Kleinigkeiten, Snacks oder ein kalter Imbiss (Lunch), das Abendessen ist dort oft die warme Hauptmahlzeit (Dinner).",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Mittagessen"
+    },
+    {
+        "title": "Fr\u00fchst\u00fcck",
+        "content": "Das Fr\u00fchst\u00fcck (schweizerisch Morgenessen oder dialektisch Zmorge, veraltet auch Fr\u00fchkost oder Dejeuner) ist die in der Regel morgens zu sich genommene erste Mahlzeit des Tages.\nIn Deutschland, \u00d6sterreich und der Schweiz besteht das Fr\u00fchst\u00fcck oft aus einem Hei\u00dfgetr\u00e4nk (in der Regel Kaffee, Tee, Milch oder Kakao) sowie aus Backwaren, vornehmlich Brot, Toastbrot oder Br\u00f6tchen (s\u00fcddeutsch/\u00f6sterreichisch Semmeln, Wecken; schweizerisch Weggli), dazu Butter oder Margarine und als s\u00fc\u00dfer Aufstrich Marmelade, Honig, Nuss-Nougat-Creme oder Zuckerr\u00fcbensirup oder als salziger Belag Wurst oder K\u00e4se. Weitere beliebte Bestandteile eines Fr\u00fchst\u00fccks im deutschsprachigen Raum sind Quark (\u00f6sterreichisch Topfen) und Joghurt, ein Fr\u00fchst\u00fccksei oder Ham and Eggs, M\u00fcsli, Fr\u00fchst\u00fccksflocken, Saft und Obst.\nEine Sonderform ist der Brunch, der Fr\u00fchst\u00fcck und Mittagessen kombiniert und eher am sp\u00e4ten Vormittag eingenommen wird. Der Ausdruck \u201eBrunch\u201c ist ein englisches Kofferwort und setzt sich aus Teilen der W\u00f6rter breakfast (Fr\u00fchst\u00fcck) und lunch (Mittagessen) zusammen. Da es den Brunch h\u00e4ufig in Buffetform mit reicher Auswahl gibt, ersetzt er in solchen F\u00e4llen Fr\u00fchst\u00fcck und Mittagessen gleichzeitig und gilt damit als geeignet f\u00fcr Sp\u00e4taufsteher.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fr%C3%BChst%C3%BCck"
+    },
+    {
+        "title": "Donut",
+        "content": "Ein Donut ([\u02c8do\u028a\u032fnat] oder [\u02c8do\u02d0nat], vom amerikanischen Englisch donut, englisch doughnut, von dough, \u201eTeig\u201c, und nut in der \u00e4lteren Bedeutung \u201ekleiner runder Kuchen oder Keks\u201c) ist ein handtellergro\u00dfer amerikanischer/kanadischer Krapfen aus Hefeteig oder R\u00fchrteig (auch Schmalzgeb\u00e4ckkringel oder Lochkrapfen genannt). Die Form ist entweder ein Torus (Ring \u00e4hnlich einem Bagel) oder \u2013 seltener \u2013 ein abgeflachter Ballen, der h\u00e4ufig Schokolade oder eine andere s\u00fc\u00dfe F\u00fcllung enth\u00e4lt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Donut"
+    },
+    {
+        "title": "Croissant",
+        "content": "Das Croissant (von franz\u00f6sisch croissant (de lune) = zunehmende Mondsichel), H\u00f6rnchen, Beugel, Kipferl (in Bayern und \u00d6sterreich), Cornetto (in Italien) oder auch (in der Schweiz) [der(das)] Gipfel(i) ist ein franz\u00f6sisches Geb\u00e4ck aus leicht ges\u00fc\u00dftem, eihaltigen Plunderteig. In vielen Lehrb\u00fcchern steht, dass gute Croissants eine mattgl\u00e4nzende, zarte, r\u00f6sche Kruste und eine bl\u00e4ttrige Krume aufweisen sollen. Croissants sind beliebte Fr\u00fchst\u00fccksgeb\u00e4cke. Die \u00f6sterreichischen Kipfel oder Kipferl waren urspr\u00fcnglich ein Geb\u00e4ck aus einfachem Hefeteig in H\u00f6rnchenform und wurden noch 1894 in einem gastronomischen Lexikon als Hefegeb\u00e4ck bezeichnet. Es ist umstritten, ob diese mit Croissants gleichgesetzt werden k\u00f6nnen.\nCroissants werden in vielen B\u00e4ckereien auch pikant mit K\u00e4se \u00fcberbacken oder mit K\u00e4se und Schinken gef\u00fcllt angeboten. Daneben wird in Deutschland, \u00d6sterreich und der Schweiz das Croissant als s\u00fc\u00dfe Variante mit Schokoladen- oder Nougatf\u00fcllung als Schokocroissant verkauft (vergleiche mit dem Pain au chocolat). Ebenso wie die Brioches geh\u00f6rt auch das Croissant heute zu den klassischen Bestandteilen eines franz\u00f6sischen Fr\u00fchst\u00fccks, ist jedoch heute auch in anderen L\u00e4ndern popul\u00e4r.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Croissant"
+    },
+    {
+        "title": "Geb\u00e4ck",
+        "content": "Als Geb\u00e4ck werden in der Alltagssprache Backwaren aus Teig bezeichnet, die auf einem Backblech oder in einer Form im Ofen gebacken werden oder in Fett ausgebacken werden. B\u00e4cker und Konditoren bezeichnen diese Geb\u00e4cke als Feingeb\u00e4ck im Unterschied zum so genannten Kleingeb\u00e4ck aus Brotteig (Br\u00f6tchen und Brezeln). In \u00d6sterreich bezeichnet \u201eGeb\u00e4ck\u201c \u00fcblicherweise Kleingeb\u00e4ck (auch f\u00fcr die Einzelst\u00fccke); in Deutschland bezeichnet Geb\u00e4ck im engeren Begriff oft eher s\u00fc\u00dfe Backwaren wie Kekse, Kuchen, Plunder u. \u00c4.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Geb%C3%A4ck"
+    },
+    {
+        "title": "\u00c4thiopische K\u00fcche",
+        "content": "Die \u00c4thiopische K\u00fcche (wie auch die K\u00fcche Eritreas) unterscheidet sich stark von den Essgewohnheiten sowohl des \u00fcbrigen Subsahara-Afrika als auch des orientalischen Raums. Grundnahrungsmittel bildet ein spezielles Sauerteig-Fladenbrot namens Injera. Dieses wird idealtypisch hergestellt aus dem einheimischen \u00e4thiopischen Getreide Teff. Da Teff jedoch nur unter bestimmten Bedingungen von H\u00f6he und Klima gut gedeiht und etwas teurer ist als andere Getreide, verbacken \u00e4rmere Menschen auch andere Getreide zu Injera. Dazu werden verschiedene Saucen, Wot genannt, serviert, die es in verschiedenen vegetarischen und fleischhaltigen Ausf\u00fchrungen gibt. Dabei gilt: Wer es sich leisten kann, isst Fleisch, wobei unter anderem Lammfleisch beliebt ist. Schweinefleisch wird dagegen nur von missionierten Christen gegessen, weil der Islam und die \u00c4thiopisch-Orthodoxe Kirche dessen Verzehr \u00e4chten.\nDie \u00e4thiopische Kirche verbietet, wie die meisten orthodoxen Kirchen, mittwochs und freitags sowie w\u00e4hrend der vor\u00f6sterlichen Fastenzeit den Genuss von allen tierischen Produkten, so dass von Christen an diesen Tagen Linsenbrei oder Kichererbsenbrei verspeist wird. In Restaurants gibt es an diesen Tagen rein vegetarische bzw. vegane Gerichte, bei denen verschiedene Bohnen / Erbsen / Linsensorten in unterschiedlichsten Kombinationen zubereitet werden. Typische Speisen sind etwa der Gem\u00fcseeintopf Ye Zom Alitscha Wot [Zom -> fasten, Alitscha -> mild, Wot -> Sauce] oder der Sh\u2018ro Wot eine Sauce, die aus Saubohnen erzeugt wird. Gegessen wird mit der rechten Hand. Dabei ersetzt das Injera das Besteck und stellt zugleich die Beilage dar, bzw. das Brot. Man rei\u00dft einfach kleine Teile des Fladens ab, ergreift damit ein St\u00fcck der Fleisch- oder Gem\u00fcsezubereitungen und f\u00fchrt es zum Mund. Als besonders freundschaftlich gilt es, den anderen am Mahl Partizipierenden hin und wieder eine Portion direkt in den Mund zu stecken (Gursha). Generell ist das \u00e4thiopische Essen sehr scharf, meist durch das Gew\u00fcrz Berbere oder Mit Mita. In den meisten \u00e4thiopischen Restaurants in Europa kann man aber auch mildere Varianten bestellen; eine scharfe, kalt verr\u00fchrte Berbere-So\u00dfe wird dazu oft gesondert in kleinen Sch\u00e4lchen gereicht.\nEine besondere \u00e4thiopische Spezialit\u00e4t sind Gerichte aus rohem Rindfleisch. In seiner einfachsten Form wird es als tere siga gegessen. Gehobenere Varianten sind Kitfo und Gored Gored.\u00c4thiopische Getr\u00e4nke sind der Honigwein Tej, das einfachere Hirsebier Tella und im Land angebauter Kaffee, der traditionell frisch ger\u00f6stet und in einer besonderen Kanne (Jabana) ausgeschenkt wird.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/%C3%84thiopische_K%C3%BCche"
+    },
+    {
+        "title": "Libanesische K\u00fcche",
+        "content": "Die Libanesische K\u00fcche ist die Landesk\u00fcche des Libanon. Sie beeinflusste im Lauf der Geschichte stark die K\u00fcche des Osmanischen Reiches, so wie auch andere L\u00e4nder dieser Region.\nGrundbestandteile sind Gem\u00fcse, Obst, getrocknete H\u00fclsenfr\u00fcchte, Bulgur, Reis, Fisch, Fleisch, Huhn, N\u00fcsse, Oliven, Joghurt und Tahini. Viele Speisen sind vegetarisch. Fett wird traditionell nur sparsam verwendet. Zu den bekanntesten Gerichten geh\u00f6rt Kibbeh, das in der gesamten Region gegessen wird. Typisch sind auch Hummus und Taboul\u00e9. Verbreitet sind au\u00dferdem gef\u00fclltes Gem\u00fcse und Eintopfgerichte mit Fleisch und Gem\u00fcse. Die libanesischen Mezze gelten als sehr schmackhaft. Burghul bi d'feeneh ist ein Eintopf aus Bulgur, Kichererbsen, Fleisch und Zwiebeln. Hindbeh bilzeyt ist gekochter L\u00f6wenzahn mit Knoblauch, Oliven\u00f6l und Zitronensaft.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Libanesische_K%C3%BCche"
+    },
+    {
+        "title": "Namibische K\u00fcche",
+        "content": "Die namibische K\u00fcche hat ihre Verbreitung in der im s\u00fcdlichen Afrika gelegenen Republik Namibia.\nDie namibische K\u00fcche als fester Begriff ist nicht klar definiert und basiert auf Einfl\u00fcssen der verschiedenen Ethnien im Land und den Einfl\u00fcssen der s\u00fcdafrikanischen und deutschen K\u00fcche.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Namibische_K%C3%BCche"
+    },
+    {
+        "title": "Mexikanische K\u00fcche",
+        "content": "Die mexikanische K\u00fcche zeichnet sich durch die Synthese von vor allem pr\u00e4kolumbischen und spanischen, aber auch franz\u00f6sischen, arabischen und karibischen Traditionen aus. Mais, Bohnen, (milde) Chilis, Fr\u00fcchte und bestimmte Gem\u00fcsesorten spielen eine dominante Rolle. Es gibt in Mexiko verschiedene Regionalk\u00fcchen, die sich deutlich voneinander unterscheiden. Im Norden herrscht der Einfluss der spanischen K\u00fcche vor, w\u00e4hrend sich im S\u00fcden die indigene K\u00fcche st\u00e4rker erhalten hat. Die mexikanische K\u00fcche wird als immaterielles Weltkulturerbe anerkannt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Mexikanische_K%C3%BCche"
+    },
+    {
+        "title": "Japanische K\u00fcche",
+        "content": "Das Grundnahrungsmittel der japanischen K\u00fcche (japanisch \u548c\u98df washoku \u65e5\u672c\u6599\u7406 nihon ry\u014dri) ist der japanische Reis z. B. Koshihikari, der in Japan die Grundlage fast jeder Mahlzeit ist. Die Beilagen werden mit okazu (jap. \u304a\u6570) bezeichnet. In der japanischen Sprache wird die Reispflanze ine (\u7a32 oder \u79be) und der ungekochte Reis kome (\u7c73) genannt. Der gekochte Reis hei\u00dft han, ii oder meshi (\u98ef), was auch Mahlzeit bedeutet. \u2013 Normalerweise sagt man gohan (\u3054\u98ef), das Honorativpr\u00e4fix go bildet mit dem Wort han eine Einheit, so dass man diese Kombination als feststehendes Idiom betrachten kann. Kleine Kinder sagen manma (\u307e\u3093\u307e) bzw. \u00e4ltere Menschen mama (\u307e\u307e).\nWeil Japan ein Archipel ist, spielen Fisch und Meeresfr\u00fcchte eine wichtige Rolle in der Ern\u00e4hrung. W\u00e4hrend der Besatzung durch die US-Amerikaner nach dem Zweiten Weltkrieg wurde Brot als Nahrungsmittel eingef\u00fchrt.\nDie japanische K\u00fcche hat einige \u00c4hnlichkeit mit der K\u00fcche anderer ostasiatischer L\u00e4nder; der bedeutendste Unterschied ist die sehr viel sparsamere Verwendung von \u00d6l und Gew\u00fcrzen. Vielmehr soll der Eigengeschmack der frischen Produkte m\u00f6glichst deutlich erhalten bleiben.\nDie in der japanischen K\u00fcche verwendeten Lebensmittel und die Weise ihrer Zubereitung werden gerne als zus\u00e4tzliche Gr\u00fcnde f\u00fcr die auffallend hohe Lebenserwartung der japanischen Bev\u00f6lkerung angesehen. Die UNESCO erkl\u00e4rte die japanische K\u00fcche im Dezember 2013 zum immateriellen Weltkulturerbe. Diese hohe Ehre wurde zuvor nur der franz\u00f6sischen K\u00fcche zuteil.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Japanische_K%C3%BCche"
+    },
+    {
+        "title": "Georgische K\u00fcche",
+        "content": "Unter dem Begriff georgische K\u00fcche fasst man die verschiedenen Kochstile zusammen, die in Georgien vorherrschen.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Georgische_K%C3%BCche"
+    },
+    {
+        "title": "Russische K\u00fcche",
+        "content": "Die russische K\u00fcche  (russisch \u0440\u0443\u0301\u0441\u0441\u043a\u0430\u044f \u043a\u0443\u0301\u0445\u043d\u044f russkaja kuchnja) existiert in ihrer heutigen Form seit etwa hundert Jahren. Entwickelt hat sie sich aus einer langen Tradition, die mehrere Phasen durchlief:\n\ndie Altrussische K\u00fcche vom 9. bis zum 16. Jahrhundert\ndie K\u00fcche des Moskauer Staates im 17. Jahrhundert\ndie K\u00fcche des 18. Jahrhunderts und die Petersburger K\u00fcche in dieser Zeit\ndie gesamtrussische K\u00fcche im 19. Jahrhundert\ndie sowjetische K\u00fcche seit 1917.Einzelne Gerichte und Zutaten der russischen K\u00fcche sind weltbekannt, zum Beispiel Kaviar, Salzgurken, Wodka, Krimsekt, Borschtsch, Pelmeni, Schaschlik, Piroschki, B\u0153uf Stroganoff, Kiewer Kotelett, Sauerkraut (russisch \u043a\u0432\u0430\u0301\u0448\u0435\u043d\u0430\u044f \u043a\u0430\u043f\u0443\u0301\u0441\u0442\u0430 kwaschenaja kapusta) und Kohlrouladen (russisch \u0433\u043e\u043b\u0443\u0431\u0446\u044b\u0301 golubzy). Andere traditionelle Gerichte sind au\u00dferhalb der Landesgrenzen eher unbekannt, und russische Restaurants im Ausland waren bis zum Fall des Eisernen Vorhanges \u00e4u\u00dferst selten.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Russische_K%C3%BCche"
+    },
+    {
+        "title": "Essbesteck",
+        "content": "Mit Essbesteck, Tafelbesteck oder kurz Besteck werden Werkzeuge bezeichnet, die zur Nahrungsaufnahme verwendet werden. Das heute im europ\u00e4ischen Kulturkreis gebr\u00e4uchliche Essbesteck besteht aus Messer, Gabel und L\u00f6ffel.\nViele Menschen verwenden als Essbesteck jedoch Essst\u00e4bchen (Ostasien). In den meisten Kulturen weltweit wird ganz oder teilweise auf Essbesteck verzichtet und mit den Fingern gegessen, meist nach strikten Regeln. Im islamischen Kulturbereich und bei Anh\u00e4ngern des Hinduismus darf nur die rechte Hand zur Nahrungsaufnahme verwendet werden, da mit der linken die K\u00f6rperreinigung vorgenommen wird und diese daher als unrein gilt.\nDas universellste Tafelger\u00e4t ist der L\u00f6ffel, der sowohl in den Kulturen, die Messer und Gabel oder Essst\u00e4bchen benutzen, im Gebrauch ist als auch in einigen Regionen, in denen neben den Fingern der L\u00f6ffel als einziges Besteck zur Verf\u00fcgung steht.\nDas Essen mit der Gabel ist eine vergleichsweise neue Sitte, die sich erst im b\u00fcrgerlichen Europa des 19. Jahrhunderts durchsetzte, jedoch ihre Urspr\u00fcnge im Italien des 17. Jahrhunderts hat.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Essbesteck"
+    },
+    {
+        "title": "Gastronomie",
+        "content": "Die Gastronomie ist jener Teilbereich des Gastgewerbes, der sich mit der Bewirtung von G\u00e4sten befasst. Im Gegensatz zu den Gastst\u00e4tten befriedigt Gastronomie nicht nur die Bed\u00fcrfnisse Hunger und Durst, sondern auch den kulturellen Bedarf an Erlebnis und Kommunikation. Gastronomie ist eine Sonderform der Gemeinschaftsverpflegung.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gastronomie"
+    },
+    {
+        "title": "Bratensauce",
+        "content": "Als Bratensauce bezeichnet man allgemein eine Sauce, die zu gebratenem oder gegrilltem Fleisch (auch Gefl\u00fcgel) serviert wird. Darunter fallen dunkle Fonds (Grandjus) genauso wie Braune Grundsaucen und deren Ableitungen. Ebenso bezeichnet man auch Jus (brauner Fleischfond). In der Deutschen Sprache steht Bratensauce f\u00fcr Saucen aus dem Bratensaft, wobei der Begriff sowohl f\u00fcr Jus als auch der Kochfl\u00fcssigkeit von geschmorten Fleischgerichten steht.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bratensauce"
+    },
+    {
+        "title": "Tee",
+        "content": "Tee (chinesisch \u8336, Pinyin ch\u00e1, IPA (hochchinesisch) [t\u0282\u02b0\u0251\u02e7\u02e5], Jyutping caa4, Pe\u030dh-\u014de-j\u012b t\u00ea) im eigentlichen Sinne ist ein hei\u00dfes Aufgussgetr\u00e4nk, das in der Hauptsache aus den Bl\u00e4ttern und Blattknospen (buds) der Teepflanze zubereitet wird. Einige Spezialtees enthalten auch St\u00e4ngel (Kukicha). Tee ist ein Genussmittel.\nTee enth\u00e4lt, je nach Pflanzenteil (Knospe am meisten, Bl\u00e4tter absteigend) bis zu 4,5 % Coffein. Im 19. Jahrhundert wurde dieser Wirkstoff im Tee als \u201eThein\u201c oder \u201eTeein\u201c bezeichnet. Das Getr\u00e4nk wurde bis zur Rechtschreibreform von 1901 mit th als \u201eThee\u201c geschrieben.\nIm weiteren Sinne wird als \u201eTee\u201c ein hei\u00dfes Aufgussgetr\u00e4nk bezeichnet, das aus unterschiedlichen Teilen verschiedener Pflanzen zubereitet wird. Dazu geh\u00f6ren auch Kr\u00e4utertees und Fr\u00fcchtetees. Verwendete Pflanzenteile sind je nach Sorte der Pflanzen Bl\u00e4tter, Knospen, Bl\u00fcten, Fr\u00fcchte, St\u00e4ngel, Rinde oder auch Wurzeln.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tee"
+    },
+    {
+        "title": "Kaffee",
+        "content": "Kaffee (Standardaussprache in Deutschland: [\u02c8kafe\u02d0]; in \u00d6sterreich und in der Schweiz: [ka\u02c8fe\u02d0] ; umgangssprachlich in Norddeutschland auch [\u02c8kaf\u0259] ; von t\u00fcrkisch kahve aus arabisch \u0642\u0647\u0648\u0629 qahwa  f\u00fcr \u201eanregendes Getr\u00e4nk\u201c, urspr\u00fcnglich auch \u201eWein\u201c, in Anlehnung an die Ursprungsregion Kaffa) oder Kaffeegetr\u00e4nk ist ein schwarzes, psychotropes, koffeinhaltiges Getr\u00e4nk, das aus ger\u00f6steten und gemahlenen Kaffeebohnen, den Samen der Frucht der Kaffeepflanze, und hei\u00dfem Wasser hergestellt wird.\nR\u00f6st- und Mahlgrad variieren je nach Zubereitungsart. Kaffee enth\u00e4lt das Vitamin Niacin. Die Bezeichnung \u201eBohnenkaffee\u201c bedeutet nicht, dass der Kaffee noch ungemahlen ist, sondern bezieht sich auf die Reinheit des Produkts (arabisch bunn \u0628\u0646 \u201eKaffeebohnen\u201c, amharisch bunaa \u1261\u1293 \u201eKaffee\u201c) und dient der Unterscheidung von Ersatzkaffee (aus Zichorien, Gerstenmalz usw.). Kaffee ist ein Genussmittel.\nDie Kaffeebohnen werden aus Steinfr\u00fcchten verschiedener Pflanzenarten aus der Familie der Rubiaceae gewonnen. Die beiden wichtigsten Arten der Kaffeepflanze sind Coffea arabica (Arabica-Kaffee) und Coffea canephora (Robusta-Kaffee) mit vielen Sorten und Variet\u00e4ten. Je nach Sorte und Anbauort gibt es unterschiedliche Qualit\u00e4tsstufen. Kaffee wird in \u00fcber 50 L\u00e4ndern weltweit angebaut. Es existieren 124 wilde Kaffee-Arten, von denen etwa 60 % als gef\u00e4hrdet gelten.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kaffee"
+    },
+    {
+        "title": "Guacamole",
+        "content": "Guacamole [\u0261u\u032faka\u02c8mo\u02d0l\u0259] ist ein Avocado-Dip aus der mexikanischen K\u00fcche. Das Wort Guacamole stammt von dem Nahuatl-Wort ahuacamolli, was so viel wie \u201eAvocadosauce\u201c bedeutet, zusammengesetzt aus \u0101huacatl [a\u02d0\u02c8wakat\u0361\u026c] (\u201eAvocado\u201c, w\u00f6rtlich \u201eHoden\u201c) + molli [\u02c8mol\u02d0i] (\u201eSo\u00dfe\u201c, w\u00f6rtlich \u201eGebr\u00e4u\u201c). Sie ist auch in der Tex-Mex-K\u00fcche beliebt und verbreitet.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Guacamole"
+    },
+    {
+        "title": "Sauce",
+        "content": "Sauce oder So\u00dfe (von franz\u00f6sisch sauce, auch Tunke, Br\u00fche; aus lateinisch salsa \u201agesalzene Br\u00fche\u2018) ist eine fl\u00fcssig bis s\u00e4mig gebundene, w\u00fcrzende Beigabe zu warmen und kalten Gerichten, Salaten und Desserts.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Sauce"
+    },
+    {
+        "title": "Salat (Speise)",
+        "content": "Ein Salat ist eine Speise der Kalten K\u00fcche und wird entweder als Vorspeise, S\u00e4ttigungsbeilage, als Hauptspeise oder Dessert gereicht. Salate k\u00f6nnen pikant oder fruchtig sein und werden fast immer kalt serviert (bis auf wenige Ausnahmen). Zum Zubereiten von Salaten werden Salatsaucen verwendet. Traditionelle Mayonnaise-Ableitungen werden zunehmend von den energiereduzierten Dressings (Joghurtsauce, Essig-\u00d6l-Kr\u00e4uter-Saucen, Tomatensaucen) verdr\u00e4ngt. Innerhalb eines Men\u00fcs nehmen Salate weniger die Stelle eines Extragangs ein, sondern vielmehr als Beilage sowie als Vorspeise oder Zwischengericht.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Salat_(Speise)"
+    },
+    {
+        "title": "Junkfood",
+        "content": "Der Anglizismus Junkfood (amerikanisches Englisch junk food, von englisch junk, \u201eAbfall\u201c, \u201eMist\u201c, \u201eminderwertiges Material\u201c) steht f\u00fcr kalorienreiche Nahrung mit einem ungesund hohen Anteil von salzhaltigen, zuckerhaltigen oder fetthaltigen Inhaltsstoffen mit geringem N\u00e4hrwert.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Junkfood"
+    },
+    {
+        "title": "Bohne",
+        "content": "Als Bohne bezeichnet man sowohl die runden, teils l\u00e4nglichen oder nierenf\u00f6rmigen Samen als auch die sie umgebende H\u00fclse mitsamt den eingeschlossenen Samen (zum Beispiel Gr\u00fcne Bohnen, Prinzessbohnen, Ackerbohnen, auch von der Linsen-Wicke) und ebenfalls die gesamte solche Samen bildende Pflanze aus der Familie der H\u00fclsenfr\u00fcchtler (Fabaceae oder auch Leguminosae). Es gibt zahlreiche Gattungen und Arten von Pflanzen mit unterschiedlicher Herkunft und unterschiedlichen Eigenschaften und Verwendungszwecken, die alle als Bohnen bezeichnet werden. Verschiedene Bohnen sind bedeutende Nutzpflanzen. Die wichtigsten Bohnen in Mitteleuropa sind die Samen der Gartenbohne (Phaseolus vulgaris). \nManche Bohnen sind nur nach dem Garen genie\u00dfbar; durch das Erhitzen werden die gesundheitssch\u00e4dlichen Lektine zerst\u00f6rt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bohne"
+    },
+    {
+        "title": "H\u00fclsenfrucht",
+        "content": "Als H\u00fclsenfrucht wird die charakteristische Streufrucht der H\u00fclsenfr\u00fcchtler oder Leguminosen bezeichnet. In der K\u00fcche werden nicht die Fr\u00fcchte selbst, sondern die darin eingeschlossenen, bei der Nutzung meist luftgetrockneten, Samen als H\u00fclsenfr\u00fcchte bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/H%C3%BClsenfrucht"
+    },
+    {
+        "title": "Meeresfr\u00fcchte",
+        "content": "Als Meeresfr\u00fcchte bezeichnet man in der Regel alle essbaren Meerestiere, die keine Wirbeltiere sind. Typische Meeresfr\u00fcchte sind Muscheln und Wasserschnecken, Tintenfische und Kalmare, Garnelen, Krabben, Langusten und Hummer. Meeresfr\u00fcchte k\u00f6nnen Fang- oder Zuchtprodukte sein. \nAus dieser Bezeichnung spricht ein deutlich agrarisch gepr\u00e4gtes Verst\u00e4ndnis in der Nutzung des Meeres, wie es sich idealerweise im Mittelmeerraum, speziell in Italien, auspr\u00e4gen konnte. Insbesondere die R\u00f6mer verstanden diese Nahrung als Segen der Meere und ihrer G\u00f6tter, was z. B. im mehrmaligen Auftreten der Muschel in der antiken Mythologie belegt wird. In der christlichen Heiligenverehrung wurde die Muschel gleicherma\u00dfen \u00fcbernommen (siehe Jakobsmuschel). Selbst in der Architektur des Barock und des Rokoko wurde die Muschel als vollkommenes Produkt der Natur neben anderen pflanzlichen Motiven zu einem der herausragenden Ornamente erkoren (siehe Rocaille).\nNach den traditionellen j\u00fcdischen Speisegesetzen gelten Meeresfr\u00fcchte, da sie keine Schuppen haben, in der Regel als rituell unrein (tame) und kommen daher im koscheren Speiseplan nicht vor.\nDer Begriff Meeresfr\u00fcchte ist enger gefasst als das englische Seafood: Zum Seafood z\u00e4hlen alle essbaren Tiere und Pflanzen aus dem Meer, also auch Fische, Meeress\u00e4uger und Algen.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Meeresfr%C3%BCchte"
+    },
+    {
+        "title": "Brotb\u00fcchse",
+        "content": "Als Brotb\u00fcchse oder Brotdose bezeichnete man urspr\u00fcnglich Beh\u00e4lter zum Transport von Butterbroten. Regional variieren die Bezeichnungen f\u00fcr \u00e4hnliche Beh\u00e4ltnisse stark. In Norddeutschland wird sie \"Pat\u00fclle\" genannt. Im Nordostdeutschland werden sie wie die Brote als Stullendose, in Ostdeutschland (DDR-Zeit) als Brotschi, in Westdeutschland als Butterbrotdose, in S\u00fcddeutschland als Vesperdose oder Brotzeitdose, in \u00d6sterreich als Jausenbox, in Sachsen als Bemmenb\u00fcchse und parallel dazu in diversen Kombinationen der Wortbestandteile bezeichnet. War die Form urspr\u00fcnglich durch die aufbewahrten Brote nierenf\u00f6rmig, so variieren die Formen je nach Verwendung. Wurde urspr\u00fcnglich vor allem Blech und Holz zur Herstellung verwendet, \u00fcberwiegt nun der Einsatz von Kunststoffen.\nDie Bezeichnungen Brotb\u00fcchse und Brotdose werden auch f\u00fcr Lunch boxes benutzt, die im englischsprachigen Gebiet f\u00fcr die Aufbewahrung des Lunchs (des Mittagessens) verwendet werden. Diese sind jedoch meist gr\u00f6\u00dfer, oft einem kleinen Koffer nachempfunden, und bieten dadurch Platz f\u00fcr Fr\u00fcchte, S\u00fc\u00dfwaren oder Getr\u00e4nke. Parallel zur Brotb\u00fcchse wurde der Henkelmann f\u00fcr den Transport warmer Mahlzeiten genutzt.\nIn Japan gibt es vergleichbare Beh\u00e4lter, die Bent\u014d-Box genannt werden. Sie k\u00f6nnen aus Korbwaren bestehen, kunstvolle K\u00e4stchen aus Holz oder Lackware (Urushi (jap. \u6f06)) sein und sind billig auch aus Kunststoff mit durchsichtigem Deckel erh\u00e4ltlich. In ihnen werden meist Sushi ansprechend dekoriert untergebracht. Manchmal werden Einweg-Essst\u00e4bchen (wari-bashi) beigelegt. Urspr\u00fcnglich hatten sie die gleiche Funktion wie die Brotdose, werden aber auch fertig von Sushi-Restaurants als kleiner Snack f\u00fcr unterwegs oder zuhause angeboten. Mit Bent\u014d vergleichbar ist Dosirak (\ub3c4\uc2dc\ub77d) in S\u00fcdkorea und Kwakpap (\uacfd\ubc25) in Nordkorea.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Brotb%C3%BCchse"
+    },
+    {
+        "title": "Milchshake",
+        "content": "Ein Milchshake (von engl. milk \u201eMilch\u201c und to shake \u201esch\u00fctteln\u201c, in der Schweiz als Frapp\u00e9 bezeichnet) ist ein Getr\u00e4nk, f\u00fcr das Milch mit Speiseeis, Obst (z.\u2009B. Erdbeeren oder Bananen), Schokolade oder Aromen wie Vanille in einem Mixer verquirlt wird. Ein Milchshake wird meist erst unmittelbar vor dem Trinken zubereitet, um zu vermeiden, dass sich die unterschiedlich schweren Bestandteile wieder trennen.\nAls Erfinder des Milchshake gilt Ivar \u201ePop\u201c Coulson aus Chicago, der 1922 auf die Idee kam, Milch, Schokolade, Malz und Speiseeis zu einem Getr\u00e4nk zu mischen. Popul\u00e4r wurden Milchshakes in den USA durch die Milchbars und geh\u00f6ren heute zum Standardangebot vieler Eisdielen, Caf\u00e9s und Fastfood-Ketten.\nEin verwandtes Getr\u00e4nk, das jedoch nicht zwingend zu einem gro\u00dfen Teil aus Milch besteht, ist in Spanien unter der Bezeichnung Granizado bekannt. Granizado besteht ausschlie\u00dflich aus Fruchtsaft oder Mandelmilch (span.: horchata), welche(r) mit viel zerkleinertem Eis vermengt wird. Ebenfalls verwandt mit dem Milchshake ist der Caf\u00e9 frapp\u00e9.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Milchshake"
+    },
+    {
+        "title": "Speiseeis",
+        "content": "Speiseeis, in der Schweiz und Luxemburg die Glace [\u02c8\u0261las\u0259] (aus dem Franz.), veraltet Gefrorenes, ist eine Zubereitung aus verschiedenen Zutaten, die durch einen Gefrierprozess in einen festen oder pastenf\u00f6rmigen Zustand gebracht wird. Aus Speiseeis werden Eisspeisen hergestellt.\nDie Zutaten eines Speiseeises sind vorwiegend Fl\u00fcssigkeiten wie Wasser, Milch, Sahne, gelegentlich auch Lagerbutter und eventuell Eigelb, verr\u00fchrt mit Zucker und verschiedenen geschmacksgebenden Zus\u00e4tzen wie Fruchtmus, Vanille oder Schokolade. Um diese Emulsion besser zu einer Creme verbinden zu k\u00f6nnen, f\u00fcgt man heute h\u00e4ufig nat\u00fcrliche Verdickungsmittel wie St\u00e4rkesirup, Pektin oder Johannisbrotkernmehl hinzu. Durch Schlagen bzw. R\u00fchren bei gleichzeitiger K\u00fchlung der Grundmasse und der Lebensmittelzusatzstoffe entsteht eine Creme ohne Eiskristallbildung.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Speiseeis"
+    },
+    {
+        "title": "Ern\u00e4hrung",
+        "content": "Ern\u00e4hrung oder Nutrition (sp\u00e4tlateinisch nutritio  \u201aErn\u00e4hrung\u2018, lateinisch nutrire  \u201an\u00e4hren\u2018) ist die Aufnahme von organischen und anorganischen Stoffen, die in der Nahrung in fester, fl\u00fcssiger, gasf\u00f6rmiger oder gel\u00f6ster Form vorliegen. Mit Hilfe dieser Stoffe wird die K\u00f6rpersubstanz aufgebaut oder erneuert und der f\u00fcr alle Lebensvorg\u00e4nge notwendige Energiebedarf gedeckt.\nIn der \u00d6kologie wird untersucht, welche Anspr\u00fcche ein Lebewesen bez\u00fcglich der Ern\u00e4hrung an seine Umwelt stellt (Aut\u00f6kologie), in welchen Wechselwirkungen es bei der Ern\u00e4hrung zu anderen Lebewesen steht (Syn\u00f6kologie) und welche Auswirkungen diese Beziehungen auf die Entwicklung einer Population haben (Populations\u00f6kologie). Dar\u00fcber hinaus wird in der \u00d6kologie das Gesamtn\u00e4hrstoffangebot (Trophie) eines \u00d6kosystems untersucht.\nVerschiedene Zweige der Biologie setzen sich mit weiteren Aspekten der Ern\u00e4hrung auseinander:\n\nAnatomie und Morphologie: Bau der Mundwerkzeuge und des Verdauungstraktes bei Tieren beziehungsweise der Transportsysteme bei Pflanzen.\nErn\u00e4hrungsphysiologie: Aufnahme, Verdauung, Resorption, Ausscheidung und Verwertung (Stoffwechsel) der N\u00e4hrstoffe.\nEthologie: angeborene oder erlernte Verhaltensweisen der Tiere beim Nahrungserwerb und bei der Brutpflege.\nEvolutionsbiologie: Entwicklung und Anpassung der Ern\u00e4hrungssysteme in der Evolution.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ern%C3%A4hrung"
+    },
+    {
+        "title": "Haferbrei",
+        "content": "Haferbrei, auch Porridge () [\u02c8p\u0252r\u026ad\u0292] (engl. f\u00fcr \u201eBrei\u201c) oder Oatmeal () [\u02c8\u0259\u028at.mi\u02d0l] (US-amerik. f\u00fcr \u201eHaferschrot\u201c), ist ein Getreidebrei (Gr\u00fctze), der aus Haferflocken oder Hafermehl sowie Wasser und/oder Milch zubereitet wird. Hafersuppe ist die verd\u00fcnnte Variante; Haferschleim ist der nach dem Kochen von Haferflocken abgeseihte Schleim.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Haferbrei"
+    },
+    {
+        "title": "Erdnussbutter",
+        "content": "Erdnussbutter, auch als Erdnusscreme, Erdnussmus oder Erdnusspaste bezeichnet, ist ein energiereicher Brotaufstrich, dessen Hauptbestandteil gemahlene Erdn\u00fcsse sind.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Erdnussbutter"
+    },
+    {
+        "title": "\u00d6le",
+        "content": "\u00d6le (von lateinisch oleum, von altgriechisch \u1f14\u03bb\u03b1\u03b9\u03bf\u03bd  \u201aOliven\u00f6l\u2018) ist eine Sammelbezeichnung f\u00fcr organische Fl\u00fcssigkeiten, die sich nicht mit Wasser mischen lassen. \u00d6le weisen eine h\u00f6here Viskosit\u00e4t auf als Wasser.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/%C3%96le"
+    },
+    {
+        "title": "Einlegen",
+        "content": "Einlegen ist eine M\u00f6glichkeit, Lebensmittel zu konservieren und zu w\u00fcrzen. Einlegen ist eine Form des Beizens von Lebensmitteln.\nDie Lebensmittel werden etwa mit einem w\u00fcrzigen Essigsud oder Salzwasser vollst\u00e4ndig bedeckt. In Italien und anderen Mittelmeerl\u00e4ndern werden Nahrungsmittel auch in Oliven\u00f6l eingelegt. Eingelegt werden zum Beispiel Gew\u00fcrzgurken, Senfgurken, K\u00fcrbis, Maisk\u00f6lbchen, Perlzwiebeln, Rote Bete, Bismarckhering, Sherry-Sild, Soleier und andere Lebensmittel.\nBei Gem\u00fcse sollte der Sud hei\u00df \u00fcber die Lebensmittel gegossen werden, damit ein m\u00f6glicherweise entstehender G\u00e4rprozess m\u00f6glichst lange unterbunden wird. Zum Luftabschluss wird Zellophan oder Einmachhaut verwendet, die abgebunden wird. Heute werden eher Einmachgl\u00e4ser benutzt, da sie Keime besser ausschlie\u00dfen und Luftdichtigkeit besser gew\u00e4hrleistet ist. Es k\u00f6nnen auch gro\u00dfe Gl\u00e4ser, sogenannte H\u00e4fen oder Keramikkruken verwendet werden.\nEine Besonderheit ist das saure Einlegen von Salzgurken und anderem Sauergem\u00fcse, bei dem die Milchs\u00e4ureg\u00e4rung als eine Art der nat\u00fcrlichen Fermentation erw\u00fcnscht ist und durch die Zugabe von Bakterienkulturen bewusst gef\u00f6rdert werden kann. Die Milchs\u00e4urebakterien unterdr\u00fccken die Entwicklung von unerw\u00fcnschten Bakterien und Hefen und erm\u00f6glichen eine sehr lange Haltbarkeit. Es wird angenommen, dass solcherart fermentierte Lebensmittel der Gesundheit f\u00f6rderlich sind. Neben der Milchs\u00e4ure kann in geringer Menge Alkohol und Essig entstehen. Da sich zudem regelm\u00e4\u00dfig Kohlendioxid bildet, k\u00f6nnen die Gef\u00e4\u00dfe nicht luftdicht verschlossen werden. Traditionell wurde das Gem\u00fcse durch die Beschwerung mit Steinen unter der Wasseroberfl\u00e4che gehalten, um den Kontakt mit der Luft zu vermeiden. Heute wird h\u00e4ufig ein G\u00e4rverschluss verwendet. Sich auf der Oberfl\u00e4che bildende Kahmhefe kann einfach abgesch\u00f6pft werden.\nDie Aufbewahrung sollte dunkel und k\u00fchl erfolgen und es sollte m\u00f6glichst kein Staub in den Sud gelangen k\u00f6nnen. Eingelegte Nahrungsmittel k\u00f6nnen etwa ein Jahr gelagert und verzehrt werden, ein vorzeitiges Verderben ist aber immer m\u00f6glich und gelegentliche Kontrollen daher empfehlenswert. Viele verbreitete Schimmelpilze sind giftig, k\u00f6nnen chronische Erkrankungen und sogar Krebs verursachen. Dies gilt auch f\u00fcr einige Bakterienarten, die unter Umst\u00e4nden schlechter zu bemerken sind. Eine starke Tr\u00fcbung oder ein auff\u00e4lliger Geruch k\u00f6nnen darauf hinweisen.\nDer Verzehr von steril eingelegten Lebensmitteln, die nicht milchsauer vergoren wurden, sollte binnen einiger Tage erfolgen, da mit der ersten Entnahme Mikroorganismen in den Sud gelangen. Zur Entnahme sollte man nur sauberes Besteck verwenden, wodurch sich das Einbringen sch\u00e4dlicher Mikroorganismen in Grenzen h\u00e4lt. Auch durch anschlie\u00dfende K\u00fchlung kann der Verderb stark verz\u00f6gert werden.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Einlegen"
+    },
+    {
+        "title": "Popcorn",
+        "content": "Popcorn (auch: Puffmais, Knallmais) ist ein als Snack dienendes Nahrungsmittel, das durch starkes Erhitzen einer speziellen Maissorte, Zea mays convar. microsperma  hergestellt wird.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Popcorn"
+    },
+    {
+        "title": "Braten (Kochen)",
+        "content": "Braten ist trockenes Garen bei starker Hitze. Dabei entstehen durch die Maillard-Reaktion an der Oberfl\u00e4che des Bratguts Verbindungen aus Eiwei\u00dfen, Fetten und Zuckern, die f\u00fcr die Br\u00e4unung und den typischen Geschmack verantwortlich sind. Beim Braten von Gem\u00fcse mit geringem Eiwei\u00dfanteil spielt die Maillard-Reaktion nur eine geringe Rolle, Br\u00e4unung und Aroma entstehen dort vor allem durch Karamellisierung.\nDas Braten d\u00fcrfte die \u00e4lteste Kochtechnik sein, denn es erfordert nicht unbedingt Gef\u00e4\u00dfe, sondern nur die Kontrolle des Feuers.\nUnter Braten werden im allgemeinen Sprachgebrauch das Grillen, das Braten im Backofen und das offene Braten in der Pfanne (auch Sautieren genannt) zusammengefasst. Es besteht allerdings ein wesentlicher Unterschied zwischen dem Grillen und dem Braten im Ofen einerseits, bei dem die W\u00e4rmestrahlung die Hauptrolle spielt, und dem Braten in der Pfanne andererseits, das auf W\u00e4rmeleitung beruht. Wird nach dem Anbraten Fl\u00fcssigkeit hinzugegeben, spricht man von Schmoren.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Braten_(Kochen)"
+    },
+    {
+        "title": "Barbecue",
+        "content": "Barbecue (oftmals abgek\u00fcrzt als BBQ) ist eine Garmethode, bei der gro\u00dfe Fleischst\u00fccke in einer Grube oder speziellen Barbecue-Smokern langsam bei m\u00e4\u00dfiger Temperatur in der hei\u00dfen Abluft eines Holzfeuers gegart werden. Das Wort kann dabei sowohl die Garmethode selbst als auch das damit zubereitete Essen oder eine Veranstaltung bezeichnen, bei der dieses Essen zubereitet wird. Verbreitet ist Barbecue vor allem in den S\u00fcdstaaten der USA.\nH\u00e4ufig zubereitetes Fleisch ist Schweinefleisch (vor allem Schweineschultern, Spareribs oder ganze Schweine), Rindfleisch (vor allem die Brust), Hammel und Gefl\u00fcgel. Gr\u00f6\u00dfere Fleischst\u00fccke, zum Beispiel die Schultern, werden nach der Zubereitung in kleinen Teilen vom Knochen gel\u00f6st und zerkleinert auf einem Sandwich gereicht. Die Barbecue-Saucen unterscheiden sich je nach Region stark, generell reichen sie von \u201etrockenen\u201c Zubereitungen nur mit Gew\u00fcrzen, \u00fcber essig-, senf- oder tomatenbasierte Saucen bis hin zu Saucen, die vor allem aus Ketchup und Sirup bestehen.\nBarbecue ist nicht nur ein wichtiges Element der S\u00fcdstaatenk\u00fcche, sondern hat wie jede Form der Esskultur auch eine wichtige Funktion f\u00fcr die Ausbildung des Identit\u00e4tsgef\u00fchls. Es ist eine Aktivit\u00e4t, die im S\u00fcden der USA relativ klassen\u00fcbergreifend betrieben wird und deshalb etwas Gemeinsames konstituiert, aber auch ausgepr\u00e4gte regionale und lokale Unterschiede zul\u00e4sst.\nIm weiteren Sinn wird Barbecue oft als Synonym f\u00fcr Grillen verwendet, unterscheidet sich aber hinsichtlich der Garmethode erheblich. Wesentlich enger verwandt mit dem Barbecue sind Jerk, ein in der Karibik weit verbreitetes Essen, und das mexikanische Barbacoa.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Barbecue"
+    },
+    {
+        "title": "Quiche",
+        "content": "Eine Quiche [ki:\u0283] ist eine Spezialit\u00e4t der franz\u00f6sischen K\u00fcche, die urspr\u00fcnglich aus dem Raum Lothringen stammt. Es handelt sich um einen in einer runden, flachen Form gebackenen herzhaften M\u00fcrbeteig mit einer w\u00fcrzigen F\u00fcllung bzw. Auflage, die ein Gemisch aus Eiern und Milch enth\u00e4lt.Die franz\u00f6sische Bezeichnung \u201eQuiche\u201c wurde um 1845 von dem fr\u00e4nkisch-lothringischen Wort Kichel bzw. Kuechel abgeleitet, das dem hochdeutschen Wort \u201eKuchen\u201c entspricht (vergleiche K\u00fcchlein sowie luxemburgisch Kichelchen f\u00fcr Keks). Quiches werden in runden Tarte-Formen gebacken. \nH\u00e4ufig werden heute unter der Bezeichnung \u201eQuiche\u201c \u00e4hnliche Gerichte angeboten, deren Merkmale ebenfalls der M\u00fcrbeteigboden und die Eiermilch sind, f\u00fcr deren Belag aber beispielsweise Spinat, Lauch oder andere Zutaten verwendet werden. Obwohl diese in Frankreich im strengen Sinne nicht mehr Quiche, sondern Tarte genannt werden, b\u00fcrgerte sich diese Bezeichnung beiderseits des Rheins ein.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Quiche"
+    },
+    {
+        "title": "Restaurant",
+        "content": "Restaurants (franz\u00f6sische Substantivierung aus restaurer, \u201ewiederherstellen\u201c, \u201est\u00e4rken\u201c) sind heute gehobene Gastst\u00e4tten, in denen Speisen und Getr\u00e4nke angeboten und verzehrt werden. Sie bieten eine Auswahl an Gerichten an und haben separate Tische oder R\u00e4ume f\u00fcr ihre G\u00e4ste. Die Bezeichnung \u201eRestaurant\u201c entstand im 18. Jahrhundert in Frankreich.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Restaurant"
+    },
+    {
+        "title": "B\u00e4ckerei",
+        "content": "Eine B\u00e4ckerei ist ein Handwerksbetrieb, in dem Backwaren wie zum Beispiel Brot, Br\u00f6tchen, Brezeln, Kaffeegeb\u00e4cke oder Kuchen hergestellt werden.\nDie meist unmittelbar an die Produktionsr\u00e4ume angrenzenden Verkaufsr\u00e4umlichkeiten hei\u00dfen B\u00e4ckerladen und sind oft mit einer Brezel auf dem Nasenschild gekennzeichnet. Der Produktionsbereich wird Backstube genannt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/B%C3%A4ckerei"
+    },
+    {
+        "title": "Gew\u00fcrz",
+        "content": "Gew\u00fcrze sind Pflanzenteile (Bl\u00e4tter, Bl\u00fcten, Rinde, Wurzeln, Fr\u00fcchte, Saft), die frisch, getrocknet oder bearbeitet vorkommen und die wegen ihres nat\u00fcrlichen Gehaltes an Geschmacks- und Geruchsstoffen (\u00e4therischen \u00d6len) als w\u00fcrzende oder geschmacksgebende Zutaten bei der Zubereitung von Speisen und Getr\u00e4nken aller Art eingesetzt werden. S\u00e4mtliche sonstigen Stoffe, die der Geschmacksverbesserung dienen oder die Bek\u00f6mmlichkeit verbessern, werden als W\u00fcrzmittel bezeichnet.\nGew\u00fcrze haben zudem nicht nur geschmacklichen Nutzen, sondern werden traditionell auch zur Haltbarmachung von Lebensmitteln und Getr\u00e4nken verwendet. Ferner vertreibt ihr Duft auch Vorratssch\u00e4dlinge.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gew%C3%BCrz"
+    },
+    {
+        "title": "Sandwich",
+        "content": "Ein  Sandwich (Aussprache deutsch [\u02c8s\u025bntv\u026at\u0361\u0283], englisch [\u02c8s\u00e6n(d)w\u026ad\u0361\u0292]) ist eine urspr\u00fcnglich englische, heute international verbreitete Zwischenmahlzeit. Sie besteht aus zwei oder mehr d\u00fcnnen Brotscheiben, zwischen denen sich ein beliebiger w\u00fcrziger Belag wie kalter Braten, Schinken, Thunfisch, K\u00e4se, Eier-, Gurken- oder Tomatenscheiben, auch kombiniert, befindet. F\u00fcr klassische Sandwiches wird meist unger\u00f6stetes Toastbrot ohne Rinde verwendet, die belegten Scheiben werden diagonal zu Dreiecken geschnitten.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Sandwich"
+    },
+    {
+        "title": "Suppe",
+        "content": "Suppe bezeichnet eine fl\u00fcssige bis d\u00fcnnbreiige Speise, die auf Grundlage eines Fonds und weiteren Zutaten hergestellt werden kann. Den meist als Vorspeise servierten Suppen werden oft zus\u00e4tzlich Suppeneinlagen beigef\u00fcgt. Es wird im Allgemeinen zwischen klaren und gebundenen, auch warmen und kalten Suppen unterschieden. Sie werden nach Herstellungsprinzipien, Rohstoffen oder der Herkunft eingeteilt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Suppe"
+    },
+    {
+        "title": "Zucker",
+        "content": "Als Zucker wird neben verschiedenen anderen Zuckerarten ein s\u00fc\u00df schmeckendes, kristallines Lebens- und W\u00fcrzmittel bezeichnet, das aus Pflanzen gewonnen wird und haupts\u00e4chlich aus Saccharose besteht.\nHauptquellen sind Zuckerrohr (Anbau in den Tropen), Zuckerr\u00fcbe (Anbau in gem\u00e4\u00dfigten Breiten, z. B. Mitteleuropa) und die transgene Zuckerr\u00fcbe H7-1 (USA). 2018 wurden weltweit etwa 275 Mio. Tonnen Zuckerr\u00fcben und 1,907 Mrd. Tonnen Zuckerrohr produziert. Hauptanbaul\u00e4nder f\u00fcr Zuckerr\u00fcben sind Russland, Frankreich und die USA, f\u00fcr Zuckerrohr sind es Brasilien, Indien und China. Die durchschnittliche Jahresversorgung mit Zucker lag 2013 in Deutschland bei 35,61 kg pro Kopf. Jahresversorgung ist nicht gleichbedeutend mit Jahresverbrauch. Es ist lediglich ein statistischer Jahresdurchschnittswert aus Produktion + Importe - Exporte, umgerechnet pro Kopf der Bev\u00f6lkerung.\nSein physiologischer Brennwert betr\u00e4gt 16,8 kJ oder 4,0 kcal pro Gramm (zum Vergleich: Alkohol liefert 29,8 kJ pro Gramm, Fette etwa 39 kJ pro Gramm), mit einer Dichte von 1,6 g/cm\u00b3 ist er schwerer als Wasser (1 g/cm\u00b3). (F\u00fcr die Messung von Zuckermengen im Haushalt muss nicht von der Dichteangabe ausgegangen werden, sondern von der Sch\u00fcttgutdichte, die geringer ausf\u00e4llt. Sie liegt f\u00fcr Kristallzucker bzw. gek\u00f6rnten Zucker zwischen 0,67 und 1,02 g/cm\u00b3.) Bei 20 \u00b0C sind 203,9 g Zucker in 100 ml Wasser l\u00f6slich, bei 100 \u00b0C 487,2 g in 100 ml.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zucker"
+    },
+    {
+        "title": "Taco",
+        "content": "Ein Taco ist ein Fast-Food-Gericht der mexikanischen K\u00fcche, das sich in ganz Nord- und Mittelamerika gro\u00dfer Beliebtheit erfreut. Es besteht aus einer Tortilla aus Weizen oder Mais, die mit zahlreichen Zutaten gef\u00fcllt werden kann. In den meisten F\u00e4llen wird der Taco mit einer scharfen Salsa abgeschmeckt. Tacos werden meist aus der Hand gegessen.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Taco"
+    },
+    {
+        "title": "Vitamin",
+        "content": "Vitamine sind organische Verbindungen, die ein Organismus nicht als Energietr\u00e4ger, sondern f\u00fcr andere lebenswichtige Funktionen ben\u00f6tigt, die jedoch der Stoffwechsel nicht bedarfsdeckend synthetisieren kann. Vitamine m\u00fcssen mit der Nahrung aufgenommen werden, sie geh\u00f6ren zu den essentiellen Stoffen. Pflanzen ben\u00f6tigen normalerweise keine zus\u00e4tzlichen Vitamine, sie k\u00f6nnen alle f\u00fcr sie notwendigen organischen Stoffe selbst synthetisieren.\nEinige Vitamine werden dem K\u00f6rper als Vorstufen, sogenannte Provitamine zugef\u00fchrt, die der K\u00f6rper dann erst in die Wirkform umwandelt. Man unterteilt Vitamine in fettl\u00f6sliche (lipophile) und wasserl\u00f6sliche (hydrophile) Vitamine. Chemisch bilden die Vitamine keine einheitliche Stoffgruppe. Da es sich bei den Vitaminen um recht komplexe organische Molek\u00fcle handelt, kommen sie in der unbelebten Natur nicht vor. Vitamine m\u00fcssen erst von Pflanzen, Bakterien oder Tieren gebildet werden. Namentlich unterschieden werden die Vitamine durch Benennung mit verschiedenen Buchstaben.\nBei unterschiedlichen Tieren gelten zum Teil verschiedene Substanzen als Vitamine. So k\u00f6nnen etwa die meisten Tiere Vitamin C selbst produzieren, anstatt es mit der Nahrung aufnehmen zu m\u00fcssen. Trockennasenprimaten, zu denen auch Menschen z\u00e4hlen, einige Familien in der Ordnung der Fledertiere und Sperlingsv\u00f6gel, alle Echten Knochenfische sowie Meerschweinchen k\u00f6nnen dies nicht, weil ihnen das Enzym L-Gulonolactonoxidase fehlt. Somit ist Vitamin C f\u00fcr die meisten Tiere kein Vitamin, sondern ein Metabolit. Katzen ben\u00f6tigen ebenfalls Retinol (oder Vitamin A1), nehmen aber eine Sonderstellung ein, da sie im Gegensatz zu fast allen anderen Tieren \u03b2-Carotin nicht in Retinol umwandeln k\u00f6nnen.Beim Menschen gilt die oben angegebene Definition f\u00fcr 13 organische Verbindungen. Von diesen k\u00f6nnen 11 auf keine Weise vom Organismus selbst synthetisiert werden. Cholecalciferol (auch Colecalciferol oder kurz Calciol; Vitamin D3 oder ungenau Vitamin D) kann der K\u00f6rper selbst herstellen, sofern ausreichend Sonnenexposition besteht (Photosynthese). Eigensynthese besteht auch f\u00fcr Niacin, das aus der Aminos\u00e4ure Tryptophan hergestellt werden kann. Die notwendige Niacinzufuhr richtet sich nach der Menge an zugef\u00fchrtem Protein und wird damit von den Ern\u00e4hrungsgewohnheiten beeinflusst.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Vitamin"
+    },
+    {
+        "title": "Kohlenhydrate",
+        "content": "Kohlenhydrate oder Saccharide bilden eine biochemisch bedeutsame Stoffklasse. Kohlenhydrate kommen im Stoffwechsel aller Lebewesen vor. Als Produkt der Photosynthese machen Kohlenhydrate etwa zwei Drittel der weltweiten Biomasse aus. Kohlenhydrate sind die am h\u00e4ufigsten vorkommende Klasse von Biomolek\u00fclen. Die Wissenschaft, die sich mit der Biologie der Kohlenhydrate und dem Kohlenhydratstoffwechsel besch\u00e4ftigt, hei\u00dft Glycobiologie. Kohlenhydrate werden oftmals mit dem Suffix \u201e-ose\u201c gekennzeichnet.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kohlenhydrate"
+    },
+    {
+        "title": "Pescetarismus",
+        "content": "Pescetarismus (von italienisch pesce \u201eFisch\u201c) ist eine Ern\u00e4hrungsweise, bei der auf den Verzehr von Fleisch, nicht jedoch auf Fisch verzichtet wird. Im Allgemeinen werden auch Eier und Milch gegessen sowie teilweise Krebs- und Weichtiere.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pescetarismus"
+    },
+    {
+        "title": "Schokolade",
+        "content": "Schokolade ist ein Lebens- und Genussmittel, dessen wesentliche Bestandteile Kakaoerzeugnisse und Zuckerarten, im Falle von Milchschokolade auch Milcherzeugnisse sind. Schokolade wird in reiner Form genossen und als Halbfertigprodukt weiterverarbeitet. Das Wort leitet sich vom Namen des ersten kakaohaltigen Getr\u00e4nks ab, dem xoc\u00f3atl oder xoc\u00f3latl [\u0283okola\u02d0t\u026c] (Nahuatl: x\u00f3coc \u201abitter\u2018, atl \u201aWasser\u2018; also \u201abitteres Wasser\u2018 oder \u201aKakaowasser\u2018) der Azteken in Mexiko. Dabei handelte es sich um eine Mischung aus Wasser, Kakao, Vanille und Cayennepfeffer.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schokolade"
+    },
+    {
+        "title": "K\u00fcchenchef",
+        "content": "Als K\u00fcchenchef oder Chefkoch (franz\u00f6sisch Ma\u00eetre de Cuisine bzw. Chef de Cuisine) bezeichnet man die Person, die in (gehobenen) K\u00fcchenbetrieben durch Leitung der K\u00fcchenbrigade den operativen K\u00fcchenbetrieb sicherstellt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/K%C3%BCchenchef"
+    },
+    {
+        "title": "Protein",
+        "content": "Ein Protein, umgangssprachlich Eiwei\u00df (veraltet Eiwei\u00dfstoff) genannt, ist ein biologisches Makromolek\u00fcl, das aus Aminos\u00e4uren aufgebaut wird, die durch Peptidbindungen verkn\u00fcpft sind.\n\nProteine finden sich in jeder Zelle und machen zumeist mehr als die H\u00e4lfte des Trockengewichts aus. Sie dienen ihr als molekulare \u201eWerkzeuge\u201c und erf\u00fcllen je nach der besonderen Struktur unterschiedliche Aufgaben, indem sie beispielsweise Zellbewegungen erm\u00f6glichen, Metabolite transportieren, Ionen pumpen, chemische Reaktionen katalysieren oder Signalstoffe erkennen k\u00f6nnen. \u00dcberwiegend aus Proteinen bestehen so auch Muskeln, Herz, Hirn, Haut und Haare.\nDie Gesamtheit aller Proteine in einem Lebewesen, einem Gewebe, einer Zelle oder einem Zellkompartiment, unter exakt definierten Bedingungen und zu einem bestimmten Zeitpunkt, wird als Proteom bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Protein"
+    },
+    {
+        "title": "Mineral",
+        "content": "Ein Mineral (aus mittellat. aes minerale \u201eGrubenerz\u201c, im 16. Jahrhundert nach franz\u00f6sischem Vorbild gepr\u00e4gt) ist im Gegensatz zum Gestein ein einzelnes Element oder eine einzelne chemische Verbindung, die im Allgemeinen kristallin und durch geologische Prozesse gebildet worden ist. Der Plural lautet Minerale (in der Wissenschaft in Deutschland und \u00d6sterreich verwendet) oder Mineralien (von Sammlern, H\u00e4ndlern und in der Deutschschweiz als Synonym zu Minerale verwendet).Die Mehrzahl der heute bekannten und von der International Mineralogical Association (IMA) als eigenst\u00e4ndig anerkannten rund 5.600 Mineralarten (Stand 2020) ist anorganisch, doch auch einige organische Substanzen wie beispielsweise Mellit und Evenkit oder die Nierensteinbildner Whewellit und Weddellit sind als Minerale anerkannt, weil sie sich auch in freier Natur bilden. Einschlie\u00dflich aller bekannten Mineral-Variet\u00e4ten und synonymer Bezeichnungen (ca. 1200) sowie noch nicht anerkannter Mineralarten (ca. 120) existieren allerdings \u00fcber 6.800 Mineralnamen (Stand 2018/19).Die Lehre von den Mineralen ist die Mineralogie, die von ihrer Verwendung und Bearbeitung die Lithurgik.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Mineral"
+    },
+    {
+        "title": "Fats",
+        "content": "Fats steht f\u00fcr:\n\nFats Domino (1928\u20132017), eigentlich Antoine Domino, amerikanischer Rhythm-and-Blues-Musiker\nFats Everett (1915\u20131969), eigentlich Robert Ashton Everett, amerikanischer Politiker\nFats Fern\u00e1ndez, (* 1937), argentinischer Jazztrompeter, siehe Roberto Fern\u00e1ndez (Musiker)\nFats Heard (1923\u20131987), eigentlich Eugene M. Heard, amerikanischer Jazzschlagzeuger\nFats Navarro (1923\u20131950), eigentlich Theodore Navarro, amerikanischer Jazztrompeter\nFats Ortwein, (1935\u20131990), deutscher Rhythm-and-Blues-Musiker, siehe Otto Ortwein\nFats Pichon (1906\u20131967), eigentlich Walter G. Pichon, amerikanischer Jazzpianist\nFats Ponder, (1946\u20132013), amerikanischer Jazzgitarrist, siehe Jimmy Ponder\nFats Sadi (1927\u20132009), eigentlich Sadi Lallemand, belgischer Jazzvibraphonist, -schlagzeuger und -s\u00e4nger\nFats Theus (* um 1930), eigentlich Arthur James Theus, amerikanischer Rhythm-and-Blues-Musiker\nFats Waller (1904\u20131943), eigentlich Thomas Wright Waller, amerikanischer Jazzpianist und -organist\nHollywood Fats (1954\u20131986), eigentlich Michael Leonard Mann, amerikanischer BluesgitarristFATS steht f\u00fcr:\n\nFernsteuerbares, adressierbares Teilnehmer-Konverter-System, Begriff in der Kommunikationstechnologie\nForeign Affiliates Statistics, Statistik \u00fcber auslandskontrollierte Unternehmen (Eurostat-Abk\u00fcrzung)\nForeign Affiliate Trade Statistics, Statistik \u00fcber den Au\u00dfenhandel von auslandskontrollierten Unternehmen (UNCTAD-Abk\u00fcrzung)\nForeign Affiliates Trade in Services, Statistik \u00fcber den Au\u00dfenhandel mit Dienstleistungen von auslandskontrollierten Unternehmen (OECD-Abk\u00fcrzung)",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fats"
+    },
+    {
+        "title": "Welthunger",
+        "content": "Mit dem Ausdruck Welthunger wird die Situation beschrieben, dass international Menschen l\u00e4ngerfristig unter Unter- oder Mangelern\u00e4hrung leiden. Der Personenkreis erleidet Hunger aufgrund von Nahrungsmangel.\nNach Definition der Ern\u00e4hrungs- und Landwirtschaftsorganisation der Vereinten Nationen ist chronischer Hunger der Zustand einer Person, der eintritt, sobald ihre Energiezufuhr dauerhaft niedriger als 8.800 kJ (= 2.100 kcal) pro Tag betr\u00e4gt. Neben einem Energie- und Proteinmangel kann Unterern\u00e4hrung auch durch das Fehlen einzelner N\u00e4hrstoffe, zum Beispiel Vitaminen oder Mineralstoffen, entstehen. Hiervon abzugrenzen ist Hunger, der durch akute Hungersn\u00f6te entsteht. Dieser wird durch Naturkatastrophen oder Konflikte ausgel\u00f6st. Chronischer Hunger macht den \u00fcberwiegenden Teil des heutigen Welthungers aus.\nLaut dem Weltern\u00e4hrungsprogramm der Vereinten Nationen leiden rund 821 Millionen Menschen weltweit an Hunger (Stand 2017), also etwa jeder neunte (11 %). Nach Angaben der FAO ist die Zahl der Hungernden zwar von 1990 bis 2015 um 216 Millionen zur\u00fcckgegangen, in den folgenden Jahren aber wieder signifikant gestiegen. An den Folgen von Hunger und Unterern\u00e4hrung sterben mehr Menschen als an HIV/AIDS, Malaria und Tuberkulose zusammen. Jedes Jahr sterben laut Jean Ziegler etwa 30\u201340 Millionen Menschen an Hunger bzw. den unmittelbaren Folgen (Stand 2007). H\u00e4ufig sind Kinder unter f\u00fcnf Jahren betroffen. Jedes siebte ist weltweit untergewichtig (Stand 2014) und jedes vierte ist chronisch unterern\u00e4hrt (Stand 2012). Unterern\u00e4hrung tr\u00e4gt j\u00e4hrlich und weltweit zum Tod von 3,1 Millionen Kindern unter f\u00fcnf Jahren bei, was mehr als 45 % aller Sterbef\u00e4lle von Kindern unter f\u00fcnf Jahren entspricht (Stand 2013).98 % der Hungernden leben in Entwicklungsl\u00e4ndern (779,9 Millionen). Die meisten leben in Asien (511,7 Millionen) und Afrika (232,5 Millionen), aber auch in Lateinamerika (26,8 Millionen), in den Industriestaaten (14,7 Millionen), in der Karibik (7,5 Millionen) und in Ozeanien (1,4 Millionen).",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Welthunger"
+    },
+    {
+        "title": "Recht auf angemessene Ern\u00e4hrung",
+        "content": "Das Recht auf Nahrung, zutreffender Recht auf angemessene Ern\u00e4hrung genannt, ist als Menschenrecht v\u00f6lkerrechtlich verankert in Artikel 11 des Internationalen Pakts \u00fcber wirtschaftliche, soziale und kulturelle Rechte (UN-Sozialpakt). Das Recht auf \u201eausreichende Ern\u00e4hrung\u201c findet sich dort in Artikel 11, Absatz 1 als Teil des Rechts auf angemessenen Lebensstandard, sowie in Absatz 2 noch einmal herausgehoben als \u201egrundlegendes Recht eines jeden, vor Hunger gesch\u00fctzt zu sein\u201c. Es ist au\u00dferdem enthalten in Artikel 25 der Allgemeinen Erkl\u00e4rung der Menschenrechte. UN-Sonderberichterstatterin f\u00fcr das Recht auf angemessene Ern\u00e4hrung ist Hilal Elver. Mehrere Staaten haben das Recht auf angemessene Ern\u00e4hrung in ihren Verfassungen verankert.\nDas Recht auf angemessene Ern\u00e4hrung gilt als verletzt, wenn durch dauerhaften Entzug von Nahrung oder Ern\u00e4hrungsgrundlagen die W\u00fcrde des Menschen verletzt ist. Umgekehrt ausgedr\u00fcckt hei\u00dft es im Allgemeinen Kommentar Nr. 12 des Sozialausschusses der Vereinten Nationen: \u201eDas Recht auf angemessene Nahrung ist dann verwirklicht, wenn jeder Mann, jede Frau und jedes Kind, einzeln oder gemeinsam mit anderen, jederzeit physisch und wirtschaftlich Zugang zu angemessener Nahrung oder Mitteln zu ihrer Beschaffung haben.\u201c Angesichts der von der Ern\u00e4hrungs- und Landwirtschaftsorganisation FAO gesch\u00e4tzten 1.000.000.000 Hungernden weltweit und \u00fcber 24.000 Hungertoten pro Tag d\u00fcrfte es sich um eines der \u00fcber viele Jahrzehnte hinweg am massivsten verletzten Menschenrechte handeln. W\u00e4hrend der FAO zufolge die Zahl der Hungernden in China r\u00fcckl\u00e4ufig ist, stagniert sie in Indien und w\u00e4chst in Afrika. Die Demokratische Republik Kongo hat mit 70 Prozent den weltweit h\u00f6chsten Anteil von unterern\u00e4hrten Menschen in ihrer Bev\u00f6lkerung. Alle Zahlenangaben sind allerdings mangels empirischer Grundlagen mit Vorsicht zu verwenden.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Recht_auf_angemessene_Ern%C3%A4hrung"
+    },
+    {
+        "title": "Tiefk\u00fchlkost",
+        "content": "Tiefk\u00fchlkost (kurz TKK, auch Feinfrost) ist die Bezeichnung f\u00fcr industriell hergestellte Lebensmittel, die durch das Verfahren der Tiefk\u00fchlung konserviert werden. Zur Tiefk\u00fchlkost z\u00e4hlen sowohl tiefgefrorene Zutaten f\u00fcr die Weiterverarbeitung als auch Fertiggerichte. Gem\u00e4\u00df dem deutschen Lebensmittelrecht darf die Lagertemperatur von Tiefk\u00fchlkost h\u00f6chstens \u221218 \u00b0C betragen:",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tiefk%C3%BChlkost"
+    },
+    {
+        "title": "Fingerfood",
+        "content": "Fingerfood (von engl. finger \u201aFinger\u2018 und food \u201aNahrung\u2018) bezeichnet Speisen, die mit den Fingern statt mit Besteck gegessen werden.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fingerfood"
+    },
+    {
+        "title": "Bio-Lebensmittel",
+        "content": "Als Bio-Lebensmittel werden Lebensmittel aus der \u00f6kologischen Landwirtschaft bezeichnet. Der Begriff ist in der EU gesetzlich definiert. Diese Produkte m\u00fcssen aus \u00f6kologisch kontrolliertem Anbau stammen, d\u00fcrfen nicht gentechnisch ver\u00e4ndert sein und werden ohne Einsatz von chemisch-synthetischen Pflanzenschutzmitteln, Kunstd\u00fcnger oder Kl\u00e4rschlamm angebaut. Tierische Produkte stammen von Tieren, die artgerecht gem\u00e4\u00df EG-\u00d6ko-Verordnung gehalten werden und in der Regel nicht mit Antibiotika und Wachstumshormonen behandelt wurden. Die Produkte sind nicht ionisierend bestrahlt und enthalten weniger Lebensmittelzusatzstoffe als konventionelle Lebensmittel, d\u00fcrfen aber bis zu 5 % nicht \u00f6kologisch erzeugte Zutaten enthalten.\n\nDie EG-\u00d6ko-Verordnung von 2007 definiert, wie landwirtschaftliche Erzeugnisse und Lebensmittel, die als \u00d6ko-Produkte gekennzeichnet sind, hergestellt und gekennzeichnet werden m\u00fcssen.\nUm konventionell von \u00f6kologisch hergestellten Lebensmitteln zu unterscheiden, f\u00fchrte Deutschland 2001 das staatlich kontrollierte Bio-Siegel ein, mit dem nur nach der EG-\u00d6ko-Verordnung hergestellte Produkte gekennzeichnet werden d\u00fcrfen. W\u00e4hrend Biokost ein Synonym f\u00fcr Lebensmittel aus kontrolliert biologischem Anbau ist, kann Naturkost auch konventionell produziert sein.\nErh\u00e4ltlich sind Bio-Lebensmittel in Biol\u00e4den, Reformh\u00e4usern und zunehmend im Lebensmitteleinzelhandel sowie in Superm\u00e4rkten. Es gibt in Deutschland eine Reihe von \u00f6kologischen Anbauverb\u00e4nden, deren Richtlinien zum Teil deutlich strenger sind, als von der EG-\u00d6ko-Verordnung vorgeschrieben.\nBei einer Umstellung von konventioneller Landwirtschaft auf Bio-Landwirtschaft ergibt sich ein R\u00fcckgang der Produktionsmenge je Fl\u00e4cheneinheit, der je nach hergestelltem Lebensmittel unterschiedlich ausf\u00e4llt. Vor dem Hintergrund, dass bei einzelnen Lebensmitteln die Produktionsmenge nicht ausreicht, um den laufenden Verbrauch zu decken (z. B. bei Getreide in den Agrarjahren 2012/2013 und 2018/2019) ist dies ein Nachteil von \u00f6kologischer Landwirtschaft.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bio-Lebensmittel"
+    },
+    {
+        "title": "Backofen",
+        "content": "Ein Backofen ist ein elektrisch- oder brennstoffbeheizter Apparat zum Backen, Braten und Grillen von Lebensmitteln. Er findet Einsatz im Haushalt, im Handwerk sowie im industriellen Bereich. In Teilen Deutschlands und \u00d6sterreichs wird der Backofen Backrohr, auch Backr\u00f6hre oder nur Rohr genannt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Backofen"
+    },
+    {
+        "title": "Grill",
+        "content": "Grill (Plural Grills) steht f\u00fcr:\n\nein Ger\u00e4t zum Grillen von Fleisch und anderen Nahrungsmitteln\nden Grillrost auf einem Grillger\u00e4t oder einer Feuerstelle\nbei einem Auto der K\u00fchlergrill\nGrill (Schmuck), ein aus der amerikanischen Rap-Szene stammender Zahnschmuck\nGrill method, englische Bezeichnung f\u00fcr ein kryptanalytisches Verfahren, siehe RastermethodeGeographie:\n\nGrill (Pfaffing), Ortsteil der Gemeinde Pfaffing, Landkreis Rosenheim, Bayern\nGrill (Rechtmehring), Ortsteil der Gemeinde Rechtmehring, Landkreis M\u00fchldorf am Inn, BayernPersonen:\n\nAlexander Grill (1938\u20132009), \u00f6sterreichischer Schauspieler\nAndrea Grill (* 1975), \u00f6sterreichische Biologin und Schriftstellerin\nAnnika Grill (* 1994), \u00f6sterreichische Miss Austria 2015\nBartholom\u00e4us Grill (* 1954), deutscher Journalist und Afrika-Experte\nBernhard Grill (* 1961), deutscher Elektrotechniker\nBruno Stane-Grill (1927\u20132012), kroatischer Bildhauer, Maler und Zeichner\nBryan Grill (* 1965), VFX Supervisor\nErwin Grill (* 1957), deutscher Botaniker und Hochschullehrer\nEvelyn Grill (* 1942), \u00f6sterreichische Schriftstellerin\nFranz Grill (1756\u20131793), \u00f6sterreichischer Komponist\nGeorg Grill (?\u20131638), \u00f6sterreichischer Ordensgeistlicher (OCist), Abt des Stifts Wilhering\nGerhard Grill (1936\u20132014), deutscher Handballspieler\nHarald Grill (* 1951), deutscher Schriftsteller\nHeinz Grill (1909\u20131983), \u00f6sterreichischer Archivar und Schriftsteller\nHelmut Grill (* 1965), \u00f6sterreichischer K\u00fcnstler\nJohann Grill (1835\u20131917), deutscher Bergsteiger und Bergf\u00fchrer\nJulius Grill (1840\u20131930), deutscher evangelischer Theologe, Indologe und Religionswissenschaftler\nKalanit Grill-Spector (* vor 1970), israelische Neuropsychologin und Hochschullehrerin\nKurt-Dieter Grill (* 1943), deutscher Politiker (CDU)\nLennart Grill (* 1999), deutscher Fu\u00dfballtorh\u00fcter\nLeopold Grill (1903\u20131987), \u00f6sterreichischer Zisterzienser und Ordenshistoriker\nLisa Grill (* 2000), \u00f6sterreichische Skirennl\u00e4uferin\nLukas Grill (Fu\u00dfballspieler, 1991) (* 1991), \u00f6sterreichischer Fu\u00dfballspieler\nLukas Grill (Fu\u00dfballspieler, 1993) (* 1993), deutscher Fu\u00dfballspieler\nMarkus Grill (* 1968), deutscher Journalist\nMartha Grill (* 1912), jugoslawiendeutsche Autorin und Germanistin\nMaximilian Grill (* 1976), deutscher Schauspieler\nOswald Grill (1878\u20131964), \u00f6sterreichischer Maler\nRoman Grill (* 1966), deutscher Fu\u00dfballspieler und Spielerberater\nRudolf Grill (1910\u20131987), \u00f6sterreichischer Geologe\nSeverin Grill (1893\u20131975), \u00f6sterreichischer Zisterzienser und Theologe\nStephan Grill (* 1974), deutscher Biophysiker\nTheodor Grill (1902\u20131986), \u00f6sterreichischer Kommunalpolitiker (BM von Linz)\nWerner Grill (1920\u20132014), deutscher Chirurg\nWilliam Grill (* 1990), britischer Illustrator und Kinderbuchautor\nWilly Grill (1883\u20131957), deutscher Schauspieler\nWolfgang Grill, deutscher Handelslehrer und Fachbuchautor (Bankwesen)Siehe auch:\n\nKrill (Begriffskl\u00e4rung)\nCrill",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Grill"
+    },
+    {
+        "title": "Ern\u00e4hrungssicherung",
+        "content": "Ern\u00e4hrungssicherung und Ern\u00e4hrungssicherheit (auch Nahrungssicherung oder Nahrungssicherheit) beziehen sich auf die Verf\u00fcgbarkeit von Nahrung und den Zugang zu Lebensmitteln, insbesondere Grundnahrungsmitteln. Ein Haushalt gilt als \u201eern\u00e4hrungsgesichert\u201c, wenn seine Mitglieder nicht hungern oder Unterern\u00e4hrung bef\u00fcrchten m\u00fcssen. Nach Angaben der Ern\u00e4hrungs- und Landwirtschaftsorganisation der Vereinten Nationen (2013) leiden weltweit rund 842 Millionen Menschen unter chronischem Hunger durch extreme Armut, und f\u00fcr bis zu zwei Milliarden Menschen ist die Ern\u00e4hrung zumindest zeitweise unsicher. \nAuch durch extreme Preisausschl\u00e4ge bei Nahrungsmitteln (wie 2008 und 2011) wird die Ern\u00e4hrungssicherheit von Menschen in Entwicklungsl\u00e4ndern gef\u00e4hrdet. In einer Studie f\u00fcr das Hamburger GIGA-Institut kam Hans-Heinrich Bass zu der Auffassung, dass die Ursachen der steigenden Nahrungsmittelpreise sowohl in strukturellen Ver\u00e4nderungen bei Angebot und Nachfrage auf den Weltm\u00e4rkten als auch in Ver\u00e4nderungen auf den Finanzm\u00e4rkten zu sehen seien. Die Wachstumspotenziale der Gr\u00fcnen Revolution seien weitgehend ausgesch\u00f6pft. Auch die steigende Fl\u00e4chenkonkurrenz zu anderen Nutzpflanzen f\u00fchre zu geringeren Zuwachsraten bei der Weltgetreideproduktion. Die Verwendung von Getreide als Viehfutter und als Rohstoff f\u00fcr Agrosprit sowie die bis 2014 steigenden Preise f\u00fcr Erd\u00f6l h\u00e4tten ebenfalls zu einem tendenziellen Anstieg der Preise f\u00fcr Nahrungsmittel beigetragen. Auf der Basis tendenziell steigender Rohstoffpreise treten immer mehr Kapitalanleger mit indexorientiertem Investitionsverhalten an den Warenterminb\u00f6rsen auf. Mit der Deregulierung der Finanzm\u00e4rkte seien einschl\u00e4gige Finanzmarktinstrumente bereitgestellt worden. Die Liquidit\u00e4ts- und Ersparnisflut in Hocheinkommens- und Schwellenl\u00e4ndern motiviere Anleger, sich dieser Instrumente zu bedienen. Sie verst\u00e4rkten damit den Aufw\u00e4rtstrend bei den Nahrungsmittelpreisen und f\u00f6rderten das Entstehen von Preisblasen. Die Auswirkungen einer globalen Teuerung auf die nationale und lokale Ern\u00e4hrungssicherheit in Entwicklungs- und Schwellenl\u00e4ndern w\u00fcrden versch\u00e4rft durch einen fallenden Au\u00dfenwert der heimischen W\u00e4hrung im Verh\u00e4ltnis zum US-Dollar, unzureichenden Wettbewerb auf dem nationalen Getreidemarkt, eine geringe Eigenversorgung sowie durch einen hohen Anteil der Nahrungsmittelausgaben an den Konsumausgaben.Seit 2014/15 fallen jedoch im Zuge der krisenhaften Entwicklung verschiedener Schwellenl\u00e4nder auch die Agrarpreise deutlich. So fiel der Preis f\u00fcr Kaffee innerhalb eines Jahres (Januar 2015 bis Januar 2016) um 34 Prozent, der f\u00fcr Weizen um 14 Prozent, f\u00fcr Sojabohnen um 10 Prozent, f\u00fcr Mais um 6 Prozent, aber auch f\u00fcr andere Futtermittel, Terminkontrakte f\u00fcr Vieh usw. Dies ist zum einen bedingt durch zunehmende Exportanstrengungen der \u00f6lexportierenden L\u00e4nder, die die Verluste aus dem Verfall der \u00d6lpreise durch Agrarexporte kompensieren wollen, zum anderen durch sinkende Nachfrage der neuen Mittelschichten in vielen Schwellenl\u00e4ndern und schlie\u00dflich auch durch sinkende Frachtraten.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ern%C3%A4hrungssicherung"
+    },
+    {
+        "title": "Reis",
+        "content": "Als Reis werden die Getreidek\u00f6rner der Pflanzenarten Oryza sativa und Oryza glaberrima bezeichnet. Oryza sativa wird weltweit in vielen L\u00e4ndern angebaut, Oryza glaberrima (auch \u201eafrikanischer Reis\u201c genannt) in Westafrika. Zur Gattung Reis (Oryza) geh\u00f6ren au\u00dfer diesen beiden Reispflanzen noch weitere 17 Arten, die aber nicht domestiziert wurden.\nReis ist vor allem in Asien ein Grundnahrungsmittel und bildet damit die Nahrungsgrundlage eines gro\u00dfen Teils der Weltbev\u00f6lkerung. Nur von drei Nutzpflanzen werden noch gr\u00f6\u00dfere Mengen produziert: Zuckerrohr, Mais und Weizen (Stand 2016), wobei Mais nur zu einem geringen Teil als Lebensmittel genutzt wird (Mais wird \u00fcberwiegend an Tiere verf\u00fcttert). Bei der Weltgetreideernte z\u00e4hlt Reis daher zusammen mit Weizen zu den beiden wichtigsten Getreidearten f\u00fcr die Ern\u00e4hrung des Menschen.\nDunkle Getreidek\u00f6rner, die im Handel und in der Gastronomie als \u201eWildreis\u201c bezeichnet werden, geh\u00f6ren botanisch nicht zur Gattung Reis (Oryza), sondern zur Gattung Wasserreis (Zizania). Sie werden in diesem Artikel nicht behandelt.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Reis"
+    },
+    {
+        "title": "Kartoffel",
+        "content": "Die Kartoffel (Solanum tuberosum), in Teilen Deutschlands, \u00d6sterreichs und der Schweiz auch als Erdapfel, Erdbirne, Grundbirne, Potaten (nur im Plural) und weiteren Regionalnamen bekannt, ist eine Nutzpflanze aus der Familie der Nachtschattengew\u00e4chse (Solanaceae). Im allgemeinen Sprachgebrauch werden mit Kartoffeln meist die im Boden heranwachsenden Knollen bezeichnet, mit denen die Pflanze sich vegetativ vermehrt.\nDas Wort Kartoffel (im 17. Jahrhundert noch Tartuffel) leitet sich von tartufolo ab, dem italienischen Wort f\u00fcr Tr\u00fcffel, das wiederum abgeleitet ist von lateinisch terrae tuber (\u201eErdknolle\u201c). Die nur entfernt verwandte S\u00fc\u00dfkartoffel (Ipomoea batatas) bekam ihren Namen wegen der \u00e4hnlichen Verwendung und des \u00e4hnlichen Aussehens der Knollen.\nDie Samen werden in tomaten\u00e4hnlichen Beeren gebildet, welche, wie alle gr\u00fcnen Teile der Pflanze und die Keime der Knolle, f\u00fcr Menschen leicht giftig sind.\nWeltweit werden j\u00e4hrlich etwa 376 Millionen Tonnen Kartoffeln  geerntet. Die Kartoffel ist eines der wichtigsten Nahrungsmittel der Welt, daneben aber auch Futtermittel und Industrierohstoff.",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kartoffel"
+    }
+]

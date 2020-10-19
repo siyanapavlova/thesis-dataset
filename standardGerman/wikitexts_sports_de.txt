@@ -1,0 +1,842 @@
+[
+    {
+        "title": "Aerobic",
+        "content": "Aerobic ist ein dynamisches Fitnesstraining in der Gruppe mit rhythmischen Bewegungen zu motivierender Musik. Die Grundelemente sind haupts\u00e4chlich (aerobe) Ausdauer und Koordination. Die in einer Choreografie zusammengestellten \u00dcbungen, die von einem Aerobic-Trainer vorgef\u00fchrt werden, sind eine Mischung aus klassischer Gymnastik und Tanz.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Aerobic"
+    },
+    {
+        "title": "Bogenschie\u00dfen",
+        "content": "Das sportliche Bogenschie\u00dfen ist ein Schie\u00dfsport mit Pfeil und Bogen. Heute ist das Schie\u00dfen auf standardisierte Zielscheiben mit Recurveb\u00f6gen, an denen Zielvorrichtungen und Stabilisatoren angebaut sind, die am weitesten verbreitete Bogensportart. Der verwendete Bogen, der h\u00e4ufig als \u201eolympischer Bogen\u201c bezeichnet wird, ist ein technologisch hoch entwickeltes Sportger\u00e4t, mit welchem genaue Treffer auf gro\u00dfe Distanzen erzielt werden k\u00f6nnen. Das Bogenschie\u00dfen z\u00e4hlt zu den Pr\u00e4zisionssportarten.\nBogenschie\u00dfen geh\u00f6rt seit 1972 zu den olympischen Sportarten. Zuvor war es bereits in den Jahren 1900, 1904, 1908 und 1920 im Programm der Olympischen Spiele vertreten. 1904 war es die einzige Sportart bei diesen Spielen, bei der auch Frauen teilnahmeberechtigt waren.\nNeben dem sportlichen Bogenschie\u00dfen wird im meditativen und therapeutischen Bogenschie\u00dfen der Bogen als Mittel zur Pers\u00f6nlichkeitsentwicklung genutzt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bogenschie%C3%9Fen"
+    },
+    {
+        "title": "Leichtathletik",
+        "content": "Die Leichtathletik hat die seit Urzeiten nat\u00fcrlichen und grundlegenden menschlichen Bewegungsabl\u00e4ufe des Laufens, Springens und Werfens in feste Bahnen des Sports gelenkt und durch ein umfangreiches Regelwerk die individuelle Leistung exakt vergleichbar und messbar gemacht. Sie steht damit Pate f\u00fcr das Motto \u201eSchneller, h\u00f6her, weiter\u201c und bildet mit ihren Disziplinen das Herzst\u00fcck der Olympischen Spiele. Breitensportliche Bedeutung jenseits des Leistungsanspruchs hat vor allem der Ausdauerlauf gewonnen.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Leichtathletik"
+    },
+    {
+        "title": "Badminton",
+        "content": "Die Ballsportart Badminton ist ein R\u00fcckschlagspiel, das mit einem Federball (Shuttlecock) und jeweils einem Badmintonschl\u00e4ger pro Person gespielt wird. Dabei versuchen die Spieler, den Ball so \u00fcber ein Netz zu schlagen, dass die Gegenseite ihn nicht den Regeln entsprechend zur\u00fcckschlagen kann. Es kann sowohl von zwei Spielern als Einzel, als auch von vier Spielern als Doppel oder Mixed gespielt werden. Es wird in der Halle ausgetragen und erfordert wegen der Schnelligkeit und der gro\u00dfen Laufintensit\u00e4t eine hohe k\u00f6rperliche Fitness. Weltweit wird Badminton von \u00fcber 14 Millionen Spielern in mehr als 160 Nationen wettkampfm\u00e4\u00dfig betrieben.\nDer Begriff Badminton wird oft f\u00e4lschlicherweise mit dem Freizeitspiel Federball gleichgesetzt, das im Gegensatz zu Badminton m\u00f6glichst lange Ballwechsel zum Ziel hat, w\u00e4hrend Badminton ein Wettkampfsport ist und nach festen Regeln gespielt wird.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Badminton"
+    },
+    {
+        "title": "Baseball",
+        "content": "Baseball ist ein Schlagballspiel mit zwei Mannschaften. Die Verteidiger bringen einen Ball ins Spiel, den die Angreifer mit einem Schl\u00e4ger treffen m\u00fcssen. Wurde der Ball erfolgreich getroffen, k\u00f6nnen die Angreifer durch das Ablaufen von vier Laufmalen (bases) Punkte erzielen. Die Verteidiger versuchen dies zu verhindern, indem sie den geschlagenen Ball vorher zum Laufmal werfen.\nDas amerikanische Baseball ist aus europ\u00e4ischen Schlagball-Varianten des 18. Jahrhunderts hervorgegangen. Auswanderer brachten das Spiel in die Vereinigten Staaten, wo ab Mitte des 19. Jahrhunderts die heutigen Regeln entwickelt wurden.\nDie wirtschaftlich st\u00e4rkste Profi-Liga der Welt ist die nordamerikanische Major League Baseball (MLB) mit einem Umsatz von \u00fcber 9 Mrd. USD. Dar\u00fcber hinaus genie\u00dft Baseball vor allem in Teilen Lateinamerikas und Ostasiens Popularit\u00e4t.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Baseball"
+    },
+    {
+        "title": "Basketball",
+        "content": "Basketball ist eine meist in der Halle betriebene Ballsportart, bei der zwei Mannschaften versuchen, den Ball in den jeweils gegnerischen Korb zu werfen. Die K\u00f6rbe sind 3,05 Meter hoch an den beiden Schmalseiten des Spielfelds angebracht. Eine Mannschaft besteht in der Regel aus f\u00fcnf Feldspielern (wobei es auch andere Variationen wie die zunehmend popul\u00e4re 3 gegen 3-Variante gibt) und bis zu sieben Auswechselspielern, die beliebig oft wechseln k\u00f6nnen. Jeder Treffer in den Korb aus dem Spiel heraus z\u00e4hlt je nach Entfernung zwei oder drei Punkte. Ein getroffener Freiwurf z\u00e4hlt einen Punkt. Es gewinnt die Mannschaft mit der h\u00f6heren Punktzahl.\nBasketball wurde im Jahr 1891 vom kanadischen Arzt und P\u00e4dagogen James Naismith als Hallensport urspr\u00fcnglich f\u00fcr YMCA-Studenten erfunden und erfuhr \u00fcber den YMCA schnell weltweite Verbreitung. Seit 1936 ist die Sportart f\u00fcr M\u00e4nner, seit 1976 auch f\u00fcr Frauen olympisch. Heute hat der Basketballsport global, insbesondere in den Vereinigten Staaten, China, den Philippinen, Litauen und S\u00fcdeuropa einen hohen Stellenwert und ist auch in einigen weiteren L\u00e4ndern wie z. B. Kanada, Australien und weiten Teilen Lateinamerikas sowie Mittel- und Osteuropas popul\u00e4r. Die weltweit mit Abstand popul\u00e4rste und professionellste Liga ist die nordamerikanische NBA. Alle vier Jahre findet in einem jeweils anderen Land eine Basketball-Weltmeisterschaft statt, die vom Weltbasketballverband FIBA veranstaltet wird.\nLaut FIBA spielen etwa 450 Millionen Menschen weltweit Basketball. Die erfolgreichsten Athleten z\u00e4hlen international zu den h\u00f6chstbezahlten Profisportlern.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Basketball"
+    },
+    {
+        "title": "Fahrrad",
+        "content": "Ein Fahrrad, kurz Rad, in der Schweiz Velo (von franz\u00f6sisch le v\u00e9lo, Kurzform f\u00fcr v\u00e9locip\u00e8de  \u201aSchnellfu\u00df\u2018; lateinisch velox  \u201aschnell\u2018 und pes  \u201aFu\u00df\u2018), ist ein mindestens zweir\u00e4driges, f\u00fcr gew\u00f6hnlich einspuriges Landfahrzeug, das ausschlie\u00dflich durch die Muskelkraft auf ihm befindlicher Personen durch das Treten von Pedalen oder Handkurbeln angetrieben wird. Durch den Nachlauf entsteht bei einem Lenkausschlag ein Drehmoment, das diesem als R\u00fcckstellmoment entgegengerichtet ist. Dadurch lenkt das rollende Fahrzeug selbstst\u00e4ndig zur\u00fcck bis (fast) zur Geradeausstellung. Die Kreiselkr\u00e4fte stabilisieren das Fahrrad beim Fahren zus\u00e4tzlich abh\u00e4ngig vom Tr\u00e4gheitsmoment und der Geschwindigkeit. Au\u00dferdem haben weitere Faktoren wie die Masseverteilung einen Einfluss auf die Fahrstabilit\u00e4t von einspurigen Fahrzeugen (siehe auch: Fahrphysik (Fahrrad)).\nEin Einrad hat nur ein Laufrad, \u00fcber welchem alle Kipprichtungen balanciert werden m\u00fcssen. Das Tandemrad ist eine Sonderform, die es zwei oder mehr Personen erm\u00f6glicht, einen eigenen Sitzplatz einzunehmen und die eigene Muskelkraft einzusetzen. Sonderformen wie Dreir\u00e4der f\u00fcr Kinder oder Senioren und dreir\u00e4drige Lieger\u00e4der haben drei R\u00e4der und sind dreispurig. Fahrradrikschas (wie beispielsweise Fahrradtaxis) k\u00f6nnen sowohl dreir\u00e4drig als auch vierr\u00e4drig (zweispurig) sein. Eine weitere Sonderform sind Experimentalfahrr\u00e4der, welche eine Vielzahl von Laufr\u00e4dern oder andere muskelbetriebene Antriebsformen aufweisen.\nF\u00fcr die Benutzung eines Fahrrades im \u00f6ffentlichen Stra\u00dfenverkehr gibt es in jedem Land spezifische gesetzliche Bestimmungen (siehe Radverkehr).",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fahrrad"
+    },
+    {
+        "title": "Fahrradfahren",
+        "content": "Der Ausdruck Fahrradfahren \u2013 auch Radfahren oder Radeln, schweizerisch Velofahren \u2013 bezeichnet die Fortbewegung auf einem Fahrrad, sei es als Verkehrsmittel oder zudem als Transportmittel, im Radverkehr oder als Sportart, die als Freizeitbesch\u00e4ftigung, zur Erhaltung der Gesundheit oder als sportlicher Wettkampf bis hin zum Leistungssport betrieben wird.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fahrradfahren"
+    },
+    {
+        "title": "Bobsport",
+        "content": "Der Bobsport ist eine Wintersportart, die Ende des 19. Jahrhunderts in der Schweiz von Engl\u00e4ndern entwickelt wurde und heute Teil des olympischen Programms bei den Olympischen Winterspielen ist. Der Bobsport ist auch eng mit dem Rennrodeln und noch mehr mit dem Skeleton verwandt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bobsport"
+    },
+    {
+        "title": "Boxen",
+        "content": "Boxen ist eine Kampfsportart, bei der sich zwei Kontrahenten unter festgelegten Regeln nur mit den F\u00e4usten bek\u00e4mpfen. Ziel ist es, m\u00f6glichst viele Treffer beim Gegner zu erzielen oder diesen durch einen Knockout au\u00dfer Gefecht zu setzen. Die K\u00e4mpfer sind f\u00fcr gew\u00f6hnlich mit gepolsterten Handschuhen ausgestattet und m\u00fcssen derselben Gewichtsklasse angeh\u00f6ren.\nEin Boxkampf wird unter der Aufsicht eines Ringrichters \u00fcber mehrere ein bis drei Minuten dauernde Runden ausgetragen. Er ist entschieden, wenn ein Gegner vom Ringrichter als unf\u00e4hig erachtet wird, den Kampf fortzuf\u00fchren, eine schwerwiegende Regelverletzung vorliegt, eine Aufgabe signalisiert wird oder der Ablauf der regul\u00e4ren Rundenzahl zu einer Punktentscheidung f\u00fchrt.\nEs wird grunds\u00e4tzlich zwischen Amateur- und Profiboxen unterschieden. Amateurboxen ist bei den Olympischen Spielen und den Commonwealth Games vertreten und besitzt eine eigene Weltmeisterschaft. Profiboxk\u00e4mpfe werden von kommerziellen Boxverb\u00e4nden organisiert. Profiboxer d\u00fcrfen seit 2016 ebenfalls bei den Olympischen Spielen antreten.\nW\u00e4hrend es Wettk\u00e4mpfe Mann gegen Mann vermutlich bereits seit Anbeginn der Menschheitsgeschichte gibt, k\u00f6nnen die Anf\u00e4nge des Faustkampfes als organisierte Sportart bis zu den Olympischen Spielen der Griechen im Jahr 688 v. Chr. zur\u00fcckverfolgt werden. Das moderne Boxen entwickelte sich aus regelm\u00e4\u00dfig veranstalteten Preisk\u00e4mpfen im England des 17. und 18. Jahrhunderts. Mitte des 19. Jahrhunderts wurden die Basisregeln des modernen Boxsportes, die sogenannten Queensberry-Regeln, festgelegt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Boxen"
+    },
+    {
+        "title": "Medaille",
+        "content": "Eine Medaille (ital. medaglia, lat. metallum = Metall, franz. m\u00e9daille) ist ein m\u00fcnz\u00e4hnliches Erinnerungsst\u00fcck meist aus Metall mit bildlichen Darstellungen und anlassbedingten Aufschriften. Medaillen dienen auch als Ehren- und Verdienstauszeichnungen. Sie vermitteln eine F\u00fclle von Informationen und belegen anschaulich den Wandel der Stilrichtungen in der Kunst seit der Renaissance.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Medaille"
+    },
+    {
+        "title": "Kanu",
+        "content": "Ein Kanu ist ein Boot, das mit Paddeln in Blickrichtung bewegt wird, auch Paddelboot genannt. Die wesentlichen Gattungen sind Kajaks und Kanadier. Im Gegensatz dazu werden Ruderboote in der Regel mit dem R\u00fccken zur Fahrtrichtung gerudert. Bei Ruderbooten ist das Skull oder der Riemen mit dem Bootsrumpf verbunden (Dolle), w\u00e4hrend in einem Kanu die Paddel frei gef\u00fchrt werden.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kanu"
+    },
+    {
+        "title": "Catcher",
+        "content": "Der Catcher oder F\u00e4nger ist ein Spieler und/oder eine Position im Baseball- und Softballsport. Er hockt normalerweise direkt hinter der Home Plate, solange seine Mannschaft in der Defensive ist. Die Kombination aus Catcher und Pitcher wird als battery oder batterymen bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Catcher"
+    },
+    {
+        "title": "Meisterschaft (Sport)",
+        "content": "Im Sport ist eine Meisterschaft ein sportlicher Wettbewerb, in dem die besten Teilnehmer einer bestimmten Disziplin ermittelt werden.\nMeisterschaften werden regional abgestuft durchgef\u00fchrt (z. B. Stadt-, Kreis-, Bezirks-, Landes-, Bundes-, Europa-, Weltmeisterschaften) und in den meisten Sportarten auf nationaler Ebene j\u00e4hrlich, international in mehrj\u00e4hrigem Rhythmus ausgetragen.\nMeisterschaften werden von Einzelpersonen oder Mannschaften ausgetragen. In der Regel erhalten die drei Erstplatzierten eine Auszeichnung in Form einer Medaille oder eines Pokals. Das Metall des Siegers ist goldfarben, des Zweiten silberfarben und des Dritten bronzefarben. Bei vielen Sportarten erhalten die Gewinner auch einen Geldpreis.\nDie Ermittlung der Gewinner erfolgt mit Messmitteln bzw. Messger\u00e4ten (z. B. Stoppuhr, Ma\u00dfband) oder im direkten Vergleich der Konkurrenten, in Vor- und Finalrunden (siehe  Turnierform)",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Meisterschaft_(Sport)"
+    },
+    {
+        "title": "Trainer",
+        "content": "Ein Trainer (englisch to train \u201aausbilden; dressieren\u2018) ist im Sport eine Person, die Einzelsportler oder eine Mannschaft strategisch (taktisch), technisch und konditionell anleitet. Entsprechende deutsche Begriffe sind (je nach Kontext) \u00dcbungsleiter, Ausbilder oder Betreuer. Im amerikanischen Englisch ist ein Trainer der Physiotherapeut einer Mannschaft, w\u00e4hrend die Aufgaben des deutschen Trainers durch den Coach wahrgenommen werden. Der oberste Trainer eines Trainerstabs wird Cheftrainer \u2013 im US-Sport Head Coach \u2013 genannt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Trainer"
+    },
+    {
+        "title": "Wettkampf",
+        "content": "Ein Wettkampf, auch Wettbewerb (\u00f6sterreichisch: Bewerb) oder Wettstreit, ist ein Kampf um beste Leistungen, etwa um  sportliche, dichterische, k\u00fcnstlerische, musische, handwerkliche oder andere kulturelle Leistungen. Latente Wettbewerbssituationen gibt es in vielen Situationen. Wettk\u00e4mpfe im Sport treten medial besonders stark ins \u00f6ffentliche Bewusstsein. Im kulturellen Bereich wird eher von Wettbewerben gesprochen. Hier gibt es ein regelrechtes Wettbewerbswesen. Herman Nohl meint, dass Wetteifer eine p\u00e4dagogische Kategorie ist, die sich bei Kindern und Jugendlichen von fr\u00fchester Jugend an manifestiert.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wettkampf"
+    },
+    {
+        "title": "Cricket",
+        "content": "Cricket (engl. [\u02c8k\u0279\u026ak\u026at]; in Deutschland amtlich Kricket, in den Anf\u00e4ngen auch \u201eThorball\u201c) ist ein Schlagballspiel mit zwei Mannschaften.  Dabei dreht sich alles um das Duell zwischen dem Werfer (Bowler) und dem Schlagmann (Batsman). Der Bowler versucht, den Batsman zu einem Fehler zu bewegen, damit dieser ausscheidet, der Batsman seinerseits versucht, den Ball wegzuschlagen, um Punkte (Runs) zu erzielen. Der Bowler wird durch die anderen Feldspieler unterst\u00fctzt, die den Ball so schnell wie m\u00f6glich zur\u00fcckzubringen versuchen.\nDie Sportart wird vor allem in den L\u00e4ndern des Commonwealth als Sommersport betrieben und ist in einigen L\u00e4ndern auch Nationalsport.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Cricket"
+    },
+    {
+        "title": "Cross Country",
+        "content": "Cross Country steht f\u00fcr:\n\nCross Country (Mountainbike), eine Mountainbike-Disziplin\nCross Country (Motorradsport), eine Offroad-Motorradsport-Disziplin\ndie englische Bezeichnung f\u00fcr Skilanglauf\nden Pferdesport\nder Crosslauf\ndie Allradversion des Volvo V70.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Cross_Country"
+    },
+    {
+        "title": "Curling",
+        "content": "Curling [\u02c8k\u02b0\u025c\u02d0l\u026a\u014b] ist eine auf dem Eis gespielte Wintersportart, die dem Eisstockschie\u00dfen \u00e4hnelt und Parallelen zu den Kugelsportarten Boule-Spiel und Boccia aufweist. Zwei Mannschaften zu je vier Spielern versuchen, ihre Curlingsteine n\u00e4her an den Mittelpunkt eines Zielkreises auf einer Eisbahn zu spielen als die gegnerische Mannschaft. Curling ist besonders in Kanada, Schottland, Skandinavien und der Schweiz popul\u00e4r und wird wegen seiner komplexen taktischen M\u00f6glichkeiten auch als Schach auf dem Eis bezeichnet. Es geh\u00f6rt zu den Pr\u00e4zisions- und Mannschaftssportarten.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Curling"
+    },
+    {
+        "title": "Darts",
+        "content": "Darts, auch Dart (s\u00fcddeutsch Spicken/Spicker/Spickern), ist ein Geschicklichkeitsspiel und ein Pr\u00e4zisionssport, bei dem mit Pfeilen (den Darts, s\u00fcddeutsch Spickern) auf eine runde Scheibe (die Dartscheibe) geworfen wird.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Darts"
+    },
+    {
+        "title": "Kreuzheben",
+        "content": "Das Kreuzheben (englisch Deadlift = \u201eHeben eines ruhenden Gewichts (engl. dead lift)\u201c) ist eine Kraft\u00fcbung, bei der ein auf dem Boden liegendes Gewicht aus einer vorn\u00fcbergebeugten, stabilen Position hochgehoben wird. Es ist neben dem Kniebeugen und dem Bankdr\u00fccken eine Teildisziplin des Kraftdreikampfes und die letzte der drei \u00dcbungen eines Wettkampfes.\nDas Kreuzheben trainiert den gesamten K\u00f6rper, vornehmlich aber die Griffst\u00e4rke, die R\u00fcckenstrecker, den Gluteus Maximus, die Oberschenkel und den Soleus. Da zudem diverse andere Muskelgruppen zu Stabilisierungsarbeit herangezogen werden, wobei besonders der obere R\u00fcckenbereich zu erw\u00e4hnen w\u00e4re, bezeichnet man das Kreuzheben auch als Ganzk\u00f6rper\u00fcbung oder Grund\u00fcbung.\nWie f\u00fcr das Bankdr\u00fccken gibt es auch f\u00fcr das Kreuzheben Einzelwettk\u00e4mpfe. Einiger Beliebtheit erfreuen sich auch Turniere mit der Kombination aus Bankdr\u00fccken und Kreuzheben, sog. Push-&-Pull-Wettk\u00e4mpfe. Im Wettkampf werden zwei Varianten des Kreuzhebens angewendet \u2013 die klassische Variante sowie das Sumo-Kreuzheben.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kreuzheben"
+    },
+    {
+        "title": "Zehnkampf",
+        "content": "Der Zehnkampf (auch Dekathlon, von griechisch \u03b4\u03ad\u03ba\u03b1 d\u00e9ka \u201azehn\u2018 und \u1f04\u03b8\u03bb\u03bf\u03c2 \u00e1thlos bzw. \u1f04\u03b8\u03bb\u03bf\u03bd \u00e1thlon \u201aHeldentat\u2018; englisch decathlon) ist ein sportlicher Leichtathletikwettbewerb, bei dem in Form eines Mehrkampfes innerhalb von zwei Tagen zehn Einzelwettk\u00e4mpfe in verschiedenen Disziplinen ausgetragen werden. Deren Ergebnisse werden nach einer Punktetabelle umgerechnet, die sich am jeweiligen Weltrekord orientiert; der g\u00fcltige Weltrekord in jeder Einzeldisziplin wird jeweils mit rund 1200 Punkten angesetzt. Sieger ist der Sportler mit der h\u00f6chsten Punktesumme aus allen zehn Teildisziplinen. Zehnk\u00e4mpfe werden bei internationalen Meisterschaften nur von m\u00e4nnlichen Sportlern der Altersgruppen Jugend, Junioren und M\u00e4nner mit gleichen Disziplinen und Reihenfolge durchgef\u00fchrt. Die vier Lauf-, drei Sprung- und drei Wurfdisziplinen erfordern gro\u00dfe Vielseitigkeit und Ausdauer der Sportler. Deshalb wird der Zehnkampf auch die K\u00f6nigsdisziplin der Leichtathletik genannt.\n\nDie zehn Einzeldisziplinen:\n\nErster Tag: 100-Meter-Lauf, Weitsprung, Kugelsto\u00dfen, Hochsprung, 400-Meter-Lauf\nZweiter Tag: 110-Meter-H\u00fcrdenlauf, Diskuswurf, Stabhochsprung, Speerwurf, 1500-Meter-LaufDer Zehnkampf mit diesen Einzeldisziplinen ist seit 1912 Bestandteil der Olympischen Spiele.\nMit Stand 2018 wird der Zehnkampf bei internationalen H\u00f6hepunkten nur f\u00fcr M\u00e4nner ausgetragen. Erst seit Jahresbeginn 2005 wird von World Athletics auch ein Weltrekord f\u00fcr Frauen offiziell gef\u00fchrt, da im Frauensport traditionell Siebenkampf betrieben wird.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zehnkampf"
+    },
+    {
+        "title": "Wasserspringen",
+        "content": "Das Wasserspringen ist eine Wassersportart, bei der es darum geht, aus unterschiedlichen H\u00f6hen und mit verschiedenen Techniken m\u00f6glichst elegant ins Wasser zu springen. Dieser Wettkampfsport ist mit mehreren Disziplinen seit 1904 Bestandteil der Olympischen Spiele. Unterschieden werden die Disziplinen Kunstspringen (1-m- und 3-m-Brett), Turmspringen (5-m-, 7,5-m- und 10-m-Turm) und Synchronspringen (3-m-Brett und 10-m-Turm). Wasserspringen ist auch ein beliebter Freizeitsport, der in vielen Schwimm- und Freizeitb\u00e4dern ausge\u00fcbt werden kann. Als wichtiger Bestandteil der meisten Schwimmabzeichen und des Rettungsschwimmens hat Wasserspringen auch eine sicherheitsrelevante Bedeutung.\nEine Extremsportvariante des Wasserspringens ist das Klippenspringen. Dabei springen die Sportler von Felsklippen aus \u00fcber zehn Metern H\u00f6he in offene Gew\u00e4sser. Sie verbindet Techniken des Turmspringens mit den Anforderungen, die die freie Natur an die Sportler stellt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wasserspringen"
+    },
+    {
+        "title": "Ausr\u00fcstung",
+        "content": "Ausr\u00fcstung bzw. Equipment steht f\u00fcr:\n\nbewegliche Sachen, siehe Zubeh\u00f6r\nf\u00fcr die Produktion zugelieferte Bauteile und -gruppen, siehe Zulieferer\nAusr\u00fcstung (Textil), die Veredlung von Textilien oder Garnen\nAusr\u00fcstung (Papier), Prozess des Zuschneidens und Verpackens von Papier\nMilit\u00e4rische Ausr\u00fcstungSiehe auch:\n\nPers\u00f6nliche Ausr\u00fcstung\nSchutzausr\u00fcstung\nAusstattung",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ausr%C3%BCstung"
+    },
+    {
+        "title": "Fechten",
+        "content": "Fechten ist in erster Linie eine Kampfsportart. Vor ihrer Etablierung als Sportart war die Austragungsform als Duell weit verbreitet. Die historischen Urspr\u00fcnge dieser Kampftechnik gehen auf die Verfeinerung der Waffen und der Bewegungsabl\u00e4ufe gegen\u00fcber Schwert- und S\u00e4belk\u00e4mpfen zur\u00fcck.\nHeute wird mit Fechten \u00fcberwiegend das Sportfechten bezeichnet; gefochten wird mit Florett, Degen und (leichtem) S\u00e4bel. Offizielle Wettkampfsprache beim Fechten (franz\u00f6sisch Escrime) ist Franz\u00f6sisch. Anders als beim modernen Sportfechten bezeichnet historisches Fechten fr\u00fchere Stile, wie die der Renaissance und des Mittelalters. Dabei wird versucht, diese Stile m\u00f6glichst originalgetreu nachzustellen.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fechten"
+    },
+    {
+        "title": "Fitness",
+        "content": "Unter Fitness wird im Allgemeinen k\u00f6rperliches und oft auch geistiges Wohlbefinden verstanden. Fitness dr\u00fcckt das Verm\u00f6gen aus, im Alltag leistungsf\u00e4hig zu sein und Belastungen eher standzuhalten. Der Begriff ist insofern ungenau, als er als Modebegriff nicht klar definierbar ist und von verschiedenen Personen und Interessengruppen unterschiedlich interpretiert wird.\nDas Risiko f\u00fcr Zivilisationskrankheiten wie Herzinfarkt und Fettleibigkeit kann durch ein gezieltes Fitnesstraining verringert werden. Konzentrations- und Lernf\u00e4higkeit werden gesteigert. Menschen, die sich aktiv fit halten, gelten als ges\u00fcnder und haben, statistisch gesehen, eine h\u00f6here Lebenserwartung.\nZur Fitness von K\u00f6rper und Geist geh\u00f6rt zum einen eine regelm\u00e4\u00dfige k\u00f6rperliche Bet\u00e4tigung, zum anderen eine gesunde, ausgewogene und n\u00e4hr- wie ballaststoffreiche Ern\u00e4hrung. Ungesunde Erg\u00e4nzungsmittel (Doping, Anabolika) sind mit Fitness genauso wenig zu vereinbaren wie die Beschr\u00e4nkung auf reines Krafttraining.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fitness"
+    },
+    {
+        "title": "Eiskunstlauf",
+        "content": "Der Eiskunstlauf ist eine Form des Eislaufs, bei dem es auf die kunstvolle Ausf\u00fchrung von Spr\u00fcngen, Pirouetten und Schritten ankommt. Es gibt internationale Eiskunstlaufwettbewerbe, z. B. die Weltmeisterschaft, und Eiskunstlauf ist auch eine offizielle Disziplin bei den Olympischen Winterspielen.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Eiskunstlauf"
+    },
+    {
+        "title": "Frisbee",
+        "content": "Ein Frisbee, auch Flugscheibe, Segelscheibe oder wie in der DDR Wurfscheibe oder Schwebedeckel genannt, ist ein meist aus Kunststoff gefertigtes, scheibenf\u00f6rmiges Sport- und Freizeitger\u00e4t. Es wird durch aerodynamischen Auftrieb und Kreiselbewegung in der Luft gehalten. Neben der bekannten Verwendung als Rasen- oder Strandspielzeug werden mit diesem Sportger\u00e4t auch zahlreiche Einzel- und Mannschaftssportarten gespielt. Urspr\u00fcnglich aus den USA stammend, haben sich vor allem die Frisbee-Sportarten Ultimate und Discgolf mittlerweile rund um den Erdball verbreitet. Der Begriff Frisbee ist, obwohl er zumeist als Gattungsname verwendet wird, eine eingetragene Marke des Spielzeugherstellers Wham-O.\n\nDen Rekord f\u00fcr den weitesten Frisbeewurf h\u00e4lt David Wiggins, Jr. aus den USA mit 338,00 m.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Frisbee"
+    },
+    {
+        "title": "Geocaching",
+        "content": "Geocaching (englisch ['d\u0292i\u02d0o\u028a\u032fk\u00e6\u0283\u026a\u014b] () oder deutsch ['ge\u02d0ok\u025b\u0283\u026a\u014b] (), abgeleitet von altgriechisch \u03b3\u1fc6 g\u0113 \u201eErde\u201c und englisch cache \u201eVersteck, geheimes Lager\u201c), im deutschsprachigen Raum auch GPS-Schnitzeljagd genannt, ist eine Art Schatzsuche, die sich Ende des 20. Jahrhunderts auszubreiten begann. Die Verstecke (\u201eGeocaches\u201c, auf Deutsch ['ge\u02d0ok\u025b\u0283\u0258s] (), auf Deutsch kurz \u201eCaches\u201c [k\u025b\u0283\u0259s]) () werden anhand geographischer Koordinaten im Internet ver\u00f6ffentlicht und k\u00f6nnen anschlie\u00dfend mithilfe eines GPS-Empf\u00e4ngers gesucht werden. Mit genauen Landkarten oder \u00fcber entsprechende Apps auf dem Smartphone ist die Suche alternativ auch ohne separaten GPS-Empf\u00e4nger m\u00f6glich.\nEin Geocache ist in der Regel ein wasserdichter Beh\u00e4lter, in dem sich ein Logbuch sowie h\u00e4ufig auch verschiedene kleine Tauschgegenst\u00e4nde befinden. Der Besucher kann sich in ein Logbuch eintragen, um seine erfolgreiche Suche zu dokumentieren. Anschlie\u00dfend wird der Geocache wieder an der Stelle versteckt, an der er zuvor gefunden wurde. Der Fund kann im Internet auf der zugeh\u00f6rigen Seite vermerkt und gegebenenfalls durch Fotos erg\u00e4nzt werden. So k\u00f6nnen auch andere Personen \u2013 insbesondere der Verstecker oder Owner (englisch f\u00fcr \u201eEigent\u00fcmer\u201c) \u2013 die Geschehnisse rund um den Geocache verfolgen. Wesentlich beim gesamten Such- und Tauschvorgang ist, dass von anderen anwesenden Personen das Vorhaben nicht erkannt wird und so der Geocache uneingeweihten Personen verborgen bleibt. Im Fr\u00fchjahr 2019 soll es bereits rund drei Millionen Teilnehmer des abwechslungsreichen Spiels (genannt \u201eCacher\u201c) in vielen L\u00e4ndern der Welt geben.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Geocaching"
+    },
+    {
+        "title": "Torwart",
+        "content": "Der Torwart oder Torh\u00fcter (Torw\u00e4chter, Torsteher, Tormann oder Torspieler, auch: Schlussmann, Keeper oder Goalie) ist ein Mitspieler in Ballsportarten. Er ist der defensivste Spieler seiner Mannschaft und seine Hauptaufgabe besteht darin zu verhindern, dass das Spielger\u00e4t (beispielsweise ein Ball) ins Tor der eigenen Mannschaft gelangt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Torwart"
+    },
+    {
+        "title": "Medaille",
+        "content": "Eine Medaille (ital. medaglia, lat. metallum = Metall, franz. m\u00e9daille) ist ein m\u00fcnz\u00e4hnliches Erinnerungsst\u00fcck meist aus Metall mit bildlichen Darstellungen und anlassbedingten Aufschriften. Medaillen dienen auch als Ehren- und Verdienstauszeichnungen. Sie vermitteln eine F\u00fclle von Informationen und belegen anschaulich den Wandel der Stilrichtungen in der Kunst seit der Renaissance.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Medaille"
+    },
+    {
+        "title": "Golf (Sport)",
+        "content": "Golf ist eine traditionelle Ballsportart. Es gilt, einen Ball mit m\u00f6glichst wenigen Schl\u00e4gen, in \u00dcbereinstimmung mit den offiziellen Golfregeln, vom Abschlag in das Loch zu spielen, wobei verschiedene Golfschl\u00e4ger zum Einsatz kommen. Eine Golfrunde besteht in der Regel aus 9 oder 18 Spielbahnen, die nacheinander auf einem Golfplatz absolviert werden.\nDer internationale Dachverband ist die International Golf Federation (IGF) mit Sitz in Lausanne, in der 143 Mitgliedsverb\u00e4nde aus 138 L\u00e4ndern organisiert sind. Insgesamt gibt es weltweit mehr als 60 Millionen organisierte Golfspieler.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Golf_(Sport)"
+    },
+    {
+        "title": "Turnhalle",
+        "content": "Eine Turnhalle (auch Sporthalle oder Turnsaal) ist eine gedeckte Halle oder ein entsprechend gro\u00dfer, hallenartiger Raum in einem Geb\u00e4ude zur Aus\u00fcbung verschiedener Sportarten. Tr\u00e4ger ist oft eine Schule, die Gemeinde oder ein Sportverein.\nOft werden Schulturnhallen ebenfalls von Sportvereinen genutzt, beispielsweise durch w\u00f6chentliche Miete am Abend.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Turnhalle"
+    },
+    {
+        "title": "Gymnastik",
+        "content": "Die Gymnastik (griechisch: \u03b3\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03b9\u03ba\u03ae [\u03c4\u03ad\u03c7\u03bd\u03b7] gymnastik\u00e9 [t\u00e9chn\u0113] = \u201eGymnastik\u201c; \u03b3\u03c5\u03bc\u03bd\u03ac\u03b6\u03c9 gymn\u00e1zo = \u201eturnen\u201c, \u201e\u00fcben\u201c, \u201eschulen\u201c; \u03b3\u03c5\u03bc\u03bd\u03ac\u03c3\u03b9\u03bf\u03bd gymn\u00e1sion = \u201eGymnasium\u201c) ist die Kunst der Leibes\u00fcbungen. Das Wort Gymnastik leitet sich vom altgriechischen Adjektiv nackt ab (\u03b3\u03c5\u03bc\u03bd\u03cc\u03c2 gymn\u00f3s = \u201enackt\u201c), da vergleichbare Leibes\u00fcbungen im antiken Griechenland nackt ausgef\u00fchrt wurden. Das heutige Wort Gymnastik bezeichnet:\n\ndas wissenschaftlich begr\u00fcndete und allseitig ausgebildete System der Pflege, St\u00e4rkung und \u00dcbung der K\u00f6rperkr\u00e4fte sowie\nauch die \u00dcbung selbst.Indem die Gymnastik ihren Zweck auf die allgemeine und gleichm\u00e4\u00dfige Ausbildung des K\u00f6rpers richtet, unterscheidet sie sich von der Athletik (Leicht- und Schwerathletik), die den K\u00f6rper in speziellen Disziplinen zu hervorragenden Leistungen schulen will, und von der Agonistik, die bei ihren \u00dcbungen vorzugsweise das Auftreten in Wettk\u00e4mpfen im Auge hat.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gymnastik"
+    },
+    {
+        "title": "Handball",
+        "content": "Handball ist eine Sportart, bei der zwei Mannschaften mit je sieben Spielern (sechs Feldspieler und ein Torwart) gegeneinander spielen. Das Ziel des Spiels besteht darin, den Handball in das gegnerische Tor zu werfen und damit ein Tor zu erzielen. Es gewinnt die Mannschaft, die nach Ablauf der Spielzeit (zweimal 30 Minuten; bei Jugendmannschaften k\u00fcrzere Spielzeiten) die meisten Tore erzielt hat.\nNeben dem Hallenhandball (meist abgek\u00fcrzt Handball genannt) gibt es noch zwei weitere Varianten: den fr\u00fcher wesentlich h\u00e4ufiger gespielten Feldhandball und den Beachhandball, der sich wachsender Beliebtheit erfreut.\nIn den Vereinigten Staaten wird unter \u201eHandball\u201c American Handball verstanden, was eine v\u00f6llig andere Sportart ist.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Handball"
+    },
+    {
+        "title": "Eishockey",
+        "content": "Eishockey ist eine Mannschaftssportart, die mit f\u00fcnf Feldspielern und einem Torwart auf einer etwa 60 m langen und 30 m breiten Eisfl\u00e4che gespielt wird. Ziel des Spiels ist es, das Spielger\u00e4t, den Puck, eine kleine Hartgummischeibe, in das gegnerische Tor zu bef\u00f6rdern. Die Spielzeit betr\u00e4gt \u00fcblicherweise dreimal 20 Minuten netto. Da bei jeder Spielunterbrechung die Uhr angehalten wird, dauert ein Spiel etwa zwei bis zweieinhalb Stunden.\nVerbreitung fand der Sport insbesondere durch die Erfindung und Errichtung von Kunsteisbahnen seit Anfang des 20. Jahrhunderts.\nEishockey ist durch die Internationale Eishockey-F\u00f6deration (IIHF) international organisiert. Der Weltverband hat Stand 2019 81 Mitgliedsverb\u00e4nde. Als spielerisch beste Eishockeyliga der Welt gilt die nordamerikanische National Hockey League (NHL).",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Eishockey"
+    },
+    {
+        "title": "Eisbahn",
+        "content": "Eine Eisbahn bezeichnet eine Fl\u00e4che, die vereist ist. Die Vereisung kann nat\u00fcrlich (Natureisbahn) oder k\u00fcnstlich (Kunsteisbahn) erfolgen.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Eisbahn"
+    },
+    {
+        "title": "Jogging",
+        "content": "Jogging (engl. jog \u201etrotten\u201c), auch als Dauerlauf bezeichnet, ist eine Form des Freizeit- beziehungsweise Laufsports, bei der durch gem\u00e4chliche Dauerl\u00e4ufe die Kondition (Ausdauer) gesteigert wird.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Jogging"
+    },
+    {
+        "title": "Seilspringen",
+        "content": "Seilspringen ist eine Sportart, bei der ein Seil verwendet wird, durch das der Seilspringer kunstvoll oder m\u00f6glichst schnell hindurch springt. Einst als Kinderspiel bekannt, hat sich das Seilspringen mittlerweile zu einer Wettkampfsportart entwickelt. Dazu ist in Deutschland vor allem die englische Bezeichnung Rope Skipping gel\u00e4ufig, auch in der Schweiz finden die Meisterschaften unter diesem Namen statt. Auch f\u00fcr Disziplinen, Spr\u00fcnge, Seiltypen und Kommandos sind englische Bezeichnungen \u00fcblich. Seilspringen ist nicht nur als einzelne Sportart bekannt, sondern ist zugleich ein Element verschiedener Fitnesssportarten, wie zum Beispiel CrossFit.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Seilspringen"
+    },
+    {
+        "title": "Karate",
+        "content": "Karate [ka\u027aate]  (japanisch \u7a7a\u624b, dt. \u201eleere Hand\u201c) ist eine Kampfkunst, deren Geschichte sich sicher bis ins Okinawa des 19. Jahrhunderts zur\u00fcckverfolgen l\u00e4sst, wo einheimische okinawanische Traditionen (okinawa Ti, \u624b) mit chinesischen Einfl\u00fcssen (jap. Shorin Kemp\u014d / Kenp\u014d; chin. Sh\u00e0ol\u00edn Qu\u00e1nf\u01ce) zum historischen Tode (okin. T\u014ddi, \u5510\u624b) verschmolzen. Zu Beginn des 20. Jahrhunderts fand dieses seinen Weg nach Japan und wurde nach dem Zweiten Weltkrieg von dort als Karate \u00fcber die ganze Welt verbreitet.\nInhaltlich wird Karate vor allem durch Schlag-, Sto\u00df-, Tritt- und Blocktechniken sowie Fu\u00dffegetechniken als Kern des Trainings charakterisiert. Einige wenige Hebel und W\u00fcrfe werden (nach ausreichender Beherrschung der Grundtechniken) ebenfalls gelehrt, im fortgeschrittenen Training werden auch W\u00fcrgegriffe und Nervenpunkttechniken ge\u00fcbt. Manchmal wird die Anwendung von Techniken unter Zuhilfenahme von Kobud\u014dwaffen ge\u00fcbt, wobei das Waffentraining kein integraler Bestandteil des Karate ist.\nRecht hoher Wert wird meistens auf die k\u00f6rperliche Kondition gelegt, die heutzutage insbesondere Beweglichkeit, Schnellkraft und anaerobe Belastbarkeit zum Ziel hat. Die Abh\u00e4rtung der Gliedma\u00dfen u. a. mit dem Ziel des Bruchtests (jap. Tameshiwari, \u8a66\u3057\u5272\u308a), also des Zerschlagens von Brettern oder Ziegeln, ist heute weniger popul\u00e4r, wird aber von einzelnen Stilen (Beispielsweise: Okinawan Goju Ryu) immer noch betrieben.\nDas moderne Karate-Training ist h\u00e4ufig eher sportlich orientiert. Das hei\u00dft, dass dem Wettkampf eine gro\u00dfe Bedeutung zukommt. Diese Orientierung wird h\u00e4ufig kritisiert, da man glaubt, dass dadurch die Vermittlung effektiver Selbstverteidigungstechniken, die durchaus zum Karate geh\u00f6ren, eingeschr\u00e4nkt und das Karate verw\u00e4ssert wird.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Karate"
+    },
+    {
+        "title": "Kickball",
+        "content": "Kickball (englisch: kick = sto\u00dfen) ist ein Ballsport, der vor allem in den Vereinigten Staaten betrieben wird.\nEs \u00e4hnelt dem Baseball und wurde erstmals nachweislich 1917 erw\u00e4hnt. Es wird auf einem Softball-Feld mit einem 250 bis 400 mm gro\u00dfen aufgeblasenen Gummiball gespielt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kickball"
+    },
+    {
+        "title": "Kajak",
+        "content": "Ein Kajak (gr\u00f6nl\u00e4ndisch Qajaq, Plural Qajat) ist ein Paddelboot mit Ursprung in der Arktis und bezeichnet einen Bootstyp, der mittels Doppelpaddel angetrieben wird und dessen Insassen in Fahrtrichtung sitzen. Von der Sitzposition Langsitz aus werden die Oberschenkel seitlich im Rumpf verspreizt. Kajaks und Kanadier (kniend mit Stechpaddel) bilden die beiden wesentlichen Untergruppen von Kanus.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kajak"
+    },
+    {
+        "title": "Chinesische Kampfk\u00fcnste",
+        "content": "Als chinesische Kampfk\u00fcnste werden alle Kampfk\u00fcnste und Kampfsportarten bezeichnet, die aus China stammen. F\u00fcr viele Stile wird der Begriff Kung Fu (chinesisch \u529f\u592b, Pinyin G\u014dngfu \u2013 \u201ehart erarbeitete Fertigkeit\u201c) verwendet, der im Chinesischen eigentlich eine umfassendere Bedeutung tr\u00e4gt, aber mittlerweile in China der vorherrschende \u00dcberbegriff f\u00fcr chinesische Kampfk\u00fcnste ist. Andere Bezeichnungen sind W\u01d4sh\u00f9 (chinesisch \u6b66\u8853 / \u6b66\u672f \u2013 \u201eKriegskunst\u201c) oder G\u00faosh\u00f9 (chinesisch \u570b\u8853 / \u56fd\u672f \u2013 \u201eNationale Kunst\u201c), fr\u00fcher war auch das Wort Qu\u00e1nf\u01ce (chinesisch \u62f3\u6cd5, kantonesisch Kuen Fat \u2013 \u201eMethode der Faust (-kampftechnik)\u201c) gebr\u00e4uchlich.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Chinesische_Kampfk%C3%BCnste"
+    },
+    {
+        "title": "Lacrosse",
+        "content": "Lacrosse ist ein Mannschaftssport, der mit einem Lacrosseschl\u00e4ger und einem Hartgummiball gespielt wird und deswegen zu den Ballsportarten z\u00e4hlt.\nBei den Olympischen Spielen 1904 in St. Louis und bei den Spielen 1908 in London war Lacrosse eine Wettkampfdisziplin, bei den Spielen 1928 in Amsterdam, 1932 in Los Angeles und 1948 in London nur noch Demonstrationssport, und verlor danach weiter an Bedeutung. Lacrosse gilt neben Eishockey als kanadischer Nationalsport.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Lacrosse"
+    },
+    {
+        "title": "Kampfkunst",
+        "content": "Als Kampfkunst bezeichnet man Stile, die Fertigkeiten und Techniken der ernsthaften k\u00f6rperlichen Auseinandersetzung mit einem Gegner unterrichten. Dabei werden die Bewegungsmuster oft in tradierten Abl\u00e4ufen (Kata oder Form) unterrichtet und gelernt. Zudem existieren h\u00e4ufig ein philosophischer \u00dcberbau und ethisch-moralische Anforderungen. Zu beachtende Regeln reichen bis in die t\u00e4gliche Lebensf\u00fchrung, Ern\u00e4hrung usw. hinein. Die Betreibenden sehen in der Kampfkunst h\u00e4ufig einen Lebensweg. \nKampfsport ist ein aus den Kampfkunststilen hervorgegangener sportlicher Vergleichskampf. Je nach Stilrichtung sind seine Beziehungen zur Ursprungskampfkunst mehr oder weniger gut zu erkennen. Es gibt jedoch auch Kampfk\u00fcnste, die nicht in der Variation des sportlichen Vergleichskampfes ge\u00fcbt werden.  \nIn der Praxis findet man zahlreiche Stile, die eine Mischung aus Kampfsport und Kampfkunst sind und den Unterricht um weitere Aspekte wie Philosophie, Kultur, religi\u00f6se Elemente, Denkweise, Alltagsleben und Gesundheit erweitern.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kampfkunst"
+    },
+    {
+        "title": "Ski Nordisch",
+        "content": "Ski Nordisch ist ein Sammelbegriff f\u00fcr die in Skandinavien entstandenen Skisportarten:\n\nSkilanglauf\nSkispringen\nNordische Kombination, der Kombination aus Skisprung und Langlauf.Seit 1924 werden Weltmeisterschaften in den nordischen Disziplinen durchgef\u00fchrt.\nMit dem nordischen Skisport verwandt, aber nicht dazu z\u00e4hlend ist Biathlon.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ski_Nordisch"
+    },
+    {
+        "title": "Olympische Spiele",
+        "content": "Olympische Spiele (von altgriechisch \u03c4\u1f70 \u1f48\u03bb\u03cd\u03bc\u03c0\u03b9\u03b1 ta Ol\u00fdmpia \u201edie Olympischen Spiele\u201c neugriechisch \u03bf\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03af \u03b1\u03b3\u03ce\u03bd\u03b5\u03c2 olymbiak\u00ed ag\u00f3nes \u201eolympische Wettk\u00e4mpfe\u201c) ist die Sammelbezeichnung f\u00fcr regelm\u00e4\u00dfig ausgetragene Sportwettkampfveranstaltungen, die \u201eOlympischen Spiele\u201c und \u201eOlympischen Winterspiele\u201c. Bei diesen treten Athleten und Mannschaften in verschiedenen Sportarten gegeneinander an. Organisiert werden sie vom Internationalen Olympischen Komitee (IOC). Der Zeitraum zwischen den Spielen wird als \u201eOlympiade\u201c (von \u03bf\u03bb\u03c5\u03bc\u03c0\u03b9\u03ac\u03b4\u03b1) bezeichnet.\nDie Einf\u00fchrung der Olympischen Spiele der Neuzeit wurde 1894 als Wiederbegr\u00fcndung der antiken Festspiele in Olympia auf Anregung von Pierre de Coubertin beschlossen. Als \u201eTreffen der Jugend der Welt\u201c sollten sie dem sportlichen Vergleich und der V\u00f6lkerverst\u00e4ndigung dienen, sie ersetzten die seit 1856 stattfindenden Olympien. Seit 1896 finden alle vier Jahre Olympische Spiele und seit 1924 Olympische Winterspiele statt. Seit 1994 alternieren Winter- und Sommerspiele im zweij\u00e4hrigen Rhythmus. Eine Ausnahme bilden die 32. Olympischen Sommerspiele in Tokio. Diese h\u00e4tten turnusgem\u00e4\u00df 2020 stattfinden sollen, wurden aber wegen der COVID-19-Pandemie auf das Jahr 2021 verschoben.\nDas IOC \u00fcbernimmt auch die Schirmherrschaft f\u00fcr die Paralympics als Wettk\u00e4mpfe behinderter Sportler, der Deaflympics, Special Olympics und der World Games f\u00fcr nichtolympische Sportarten. Dar\u00fcber hinaus gibt es seit 2010 die Olympischen Jugendspiele, die f\u00fcr Jugendliche im Alter von 14 bis 18 Jahren bestimmt sind.\nDie Olympischen Spiele sind in ihrem Umfang stetig gewachsen, so dass mittlerweile fast jedes Land der Welt mit Sportlern vertreten ist. Neben den Fu\u00dfball-Weltmeisterschaften gelten sie gegenw\u00e4rtig als das gr\u00f6\u00dfte Sportereignis der Welt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Olympische_Spiele"
+    },
+    {
+        "title": "Paintball",
+        "content": "Paintball ist ein taktischer Mannschaftssport, bei dem sich Spieler mittels Markierern mit Farbkugeln markieren. Der getroffene und damit markierte Spieler muss das Spielfeld in der Regel verlassen.\nDer Paintball \u2013 meist nur kurz \u201ePaint\u201c genannt \u2013 bezeichnet die verwendeten Farbkugeln, die normalerweise aus einer Gelatineh\u00fclle bestehen und fr\u00fcher mit einer Mischung aus Kartoffelst\u00e4rke, Pflanzen\u00f6l und Lebensmittelfarbe gef\u00fcllt waren, heute jedoch meist mit gef\u00e4rbtem Polyethylenglycol gef\u00fcllt werden. Sie gab dem Sport seinen Namen. Die Paint ist umweltfreundlich und wird im Freien innerhalb von zwei Wochen biologisch r\u00fcckstandsfrei abgebaut.\nDer Markierer ist eine Druckluftwaffe, die in der Regel den Gasdruck einer CO2- oder Druckluftflasche nutzt, um die Paint zu verschie\u00dfen.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Paintball"
+    },
+    {
+        "title": "Paddeln",
+        "content": "Paddeln bezeichnet die Fortbewegung eines Kanus durch einen Kanuten mittels Paddel (Doppelpaddel oder Stechpaddel) und kommt vom frei in der Hand bewegten Paddel (engl. paddle \u201er\u00fchren\u201c). Die einzelnen  Paddelschl\u00e4ge werden dabei genutzt, um das Boot voranzutreiben, abzubremsen, zu steuern oder dem Boot zus\u00e4tzliche Stabilit\u00e4t des labilen Gleichgewichts auf dem Wasser zu geben.\nDas Paddeln unterscheidet sich in mehreren Punkten vom Rudern. Man benutzt nur ein Paddel, das frei beweglich ist, und man bewegt sich in Blickrichtung vorw\u00e4rts. Durch die fehlende Hebelwirkung ist ein Paddelboot im Allgemeinen bedeutend langsamer als ein Ruderboot, jedoch unterliegt man aufgrund der kleineren Spannweite und der h\u00f6heren Wendigkeit geringeren Einschr\u00e4nkungen bei der Auswahl der Gew\u00e4sser.\nNeben der Beherrschung der einzelnen Schl\u00e4ge ist die Planung wichtig. Die zu paddelnde Strecke muss ebenso ber\u00fccksichtigt werden wie das Wetter und der Wasserstand.\n\nNeben dem Ein- und Aussteigen ist die Beherrschung der geeigneten Rettungstechniken essentiell.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Paddeln"
+    },
+    {
+        "title": "Medaille",
+        "content": "Eine Medaille (ital. medaglia, lat. metallum = Metall, franz. m\u00e9daille) ist ein m\u00fcnz\u00e4hnliches Erinnerungsst\u00fcck meist aus Metall mit bildlichen Darstellungen und anlassbedingten Aufschriften. Medaillen dienen auch als Ehren- und Verdienstauszeichnungen. Sie vermitteln eine F\u00fclle von Informationen und belegen anschaulich den Wandel der Stilrichtungen in der Kunst seit der Renaissance.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Medaille"
+    },
+    {
+        "title": "Schwimmbecken",
+        "content": "Ein Schwimmbecken, oft auch englisch Swimmingpool genannt, ist ein Becken, das zum Baden, Schwimmen, Spielen oder f\u00fcr den Schwimmsport und andere Wassersportarten verwendet wird. Das klassische Schwimmbecken besitzt eine rechteckige Form und ist meistens gefliest.\nBesonders Hotels in w\u00e4rmeren Gebieten haben im Freien oft Schwimmbecken mit allen m\u00f6glichen Formen, da diese bevorzugt zur Erholung, zum Spielen und Planschen genutzt werden. F\u00fcr den Schwimmsport werden jedoch rechteckige Becken ben\u00f6tigt, damit sie mit schwimmenden Abgrenzungen in mehrere Schwimmbahnen aufgeteilt werden k\u00f6nnen. Diese Becken sind in der Regel nach den Standards der FINA (F\u00e9d\u00e9ration Internationale de Natation) ausgelegt. Diese definieren eine Langbahn mit 50\u202fm L\u00e4nge und eine Kurzbahn mit 25\u202fm L\u00e4nge, auf letzterer werden die Kurzbahnwettk\u00e4mpfe ausgetragen.\nDaneben gibt es an Schulen Lehrschwimmbecken, die als Schwimmlernzentren einer oder oft mehreren Schulen zugeordnet sind. Werden die schulischen Schwimmlernzentren nicht f\u00fcr das Schulschwimmen genutzt, stehen sie in der Regel dem Schwimmsport zur Verf\u00fcgung.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schwimmbecken"
+    },
+    {
+        "title": "Rafting",
+        "content": "Rafting (engl. raft \u201aFlo\u00df\u2018) oder Wildwasserfahren ist eine in Mitteleuropa seit Mitte der 1980er Jahre popul\u00e4r gewordene Freizeitsportart. Bei dieser Wassersportart wird mit einem Schlauchboot (Raft) ein Fluss befahren. Gew\u00f6hnlich bef\u00e4hrt man Wildwasser h\u00f6herer Schwierigkeitsgrade. Rafting wird \u00fcber kommerzielle Anbieter als Freizeitsport betrieben. Einige Kanusportvereine bieten ebenfalls Rafting an.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Rafting"
+    },
+    {
+        "title": "Segeln",
+        "content": "Segeln ist die Fortbewegung eines Segelschiffs oder eines Segelboots unter Nutzung der Windenergie.\nSegelschiffe hatten \u00fcber viele Jahrhunderte weltweit eine gro\u00dfe Bedeutung f\u00fcr Handel und Transport, Kriegsf\u00fchrung und Fischfang. Gegen Ende des 19. Jahrhunderts begann ihre Verdr\u00e4ngung durch maschinengetriebene Schiffe, die von den Bedingungen des Wetters weniger abh\u00e4ngig waren und k\u00fcrzere Fahrtzeiten, geringeres Personal und damit sinkende Transportkosten erm\u00f6glichten.\nHeutzutage wird in den Industriel\u00e4ndern Segeln fast nur noch als Freizeitaktivit\u00e4t oder Wettkampfsport betrieben, wenn auch Kriegs- und Handelsmarinen weiterhin Segelschulschiffe zur Ausbildung ihres Nachwuchses unterhalten. In anderen, weniger entwickelten Regionen hingegen konnten Segelschiffe teilweise ihre wirtschaftliche Bedeutung bis heute bewahren. Vom persischen Golf beispielsweise bef\u00f6rdern Daus wie vor hunderten von Jahren Lasten nach Indien und Afrika.\nIm Laufe der Zeit haben sich Segelschiffe in vielen unterschiedlichen Konstruktionen und Gr\u00f6\u00dfen entwickelt, wobei grunds\u00e4tzlich zwischen Verdr\u00e4ngern (meist gr\u00f6\u00dfere und schwerere Schiffe) und Gleitern (meist kleine, leichte und schnelle Boote) unterschieden werden kann. Die Spannbreite reicht von der Ein-Personen-Jolle \u00fcber Yachten und Katamarane bis zum Gro\u00dfsegler mit mehreren Dutzend Mann Besatzung. F\u00fcr die unterschiedlichen Schiffstypen hat sich eine Vielfalt von Segelman\u00f6vern entwickelt, die in sportlichen Wettk\u00e4mpfen zur Perfektion gef\u00fchrt werden. Dazu ist ein grundlegendes Verst\u00e4ndnis vom Aufbau des Schiffes und der physikalischen Grundlagen des Segelns hilfreich. Je nach Schiffsgr\u00f6\u00dfe und Fahrtgebiet sind zum Segeln au\u00dferdem seemannschaftliche Grundlagen und Kenntnisse \u00fcber verschiedene gesetzliche Regelungen und Konventionen erforderlich.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Segeln"
+    },
+    {
+        "title": "Ger\u00e4tetauchen",
+        "content": "Das Ger\u00e4tetauchen ist eine Form des Tauchens, bei der der Taucher ein Drucklufttauchger\u00e4t (englisch scuba), ein Kreislauftauchger\u00e4t (Rebreather) oder ein Helmtauchger\u00e4t verwendet, um unter Wasser \u00fcberleben zu k\u00f6nnen. Durch die k\u00fcnstliche Atemgasversorgung sind \u2013 im Gegensatz zum Apnoetauchen \u2013 Tauchg\u00e4nge von mehreren Stunden m\u00f6glich. Anders als beim oberfl\u00e4chenversorgten Tauchen tr\u00e4gt der Ger\u00e4tetaucher einen Atemgas-Vorrat w\u00e4hrend des Tauchgangs mit sich. Normalerweise handelt es sich dabei um Druckluft, es werden aber auch andere Gemische wie Nitrox, Trimix oder Heliox verwendet. Ein Ger\u00e4tetaucher bewegt sich, angetrieben durch seine Tarierweste und Flossen oder Tauchscooter frei im dreidimensionalen Raum, den ihm das Wasser bietet. Das Ger\u00e4tetauchen wird in unterschiedlichen Formen ausge\u00fcbt: beim Sporttauchen als reine Freizeitbesch\u00e4ftigung, beim Berufstauchen als Beruf.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ger%C3%A4tetauchen"
+    },
+    {
+        "title": "Skifahren",
+        "content": "Beim Skifahren (in \u00d6sterreich oft auch Schifahren geschrieben) oder Skilaufen (Schilaufen) gleitet ein Skifahrer auf einer Skipiste oder im freien Gel\u00e4nde auf zwei Skiern \u00fcber den Schnee.\nWird mit dem Ausdruck Skifahren in der Regel die breitensportliche Variante definiert, so hat der Wettkampfsport die Bezeichnung \u201eSki Alpin\u201c. Skilauf als Gesamtkonzept des Wintersports umfasst auch den Langlauf.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Skifahren"
+    },
+    {
+        "title": "Ski-Orientierungslauf",
+        "content": "Ski-Orientierungslauf, abgek\u00fcrzt Ski-OL, ist eine aus dem Orientierungslauf und dem Skilanglauf kombinierte Skisportart.\nBeim Ski-OL m\u00fcssen die Sportler wie beim Orientierungslauf anhand einer Karte eine bestimmte Anzahl Posten in m\u00f6glichst kurzer Zeit anlaufen. Sie bewegen sich dabei mit Langlaufskiern auf einem pr\u00e4parierten Loipennetz, das auf der Karte mit seinen verschiedenen Schwierigkeitsgraden vermerkt ist. Wie beim Orientierungslauf zu Fu\u00df ist als Hilfsmittel ein Kompass gestattet.\n\nDie besondere Herausforderung des Ski-OL liegt darin, die Strecken zu den Posten anhand der Karte entsprechend den pers\u00f6nlichen Skifertigkeiten und dem pers\u00f6nlichen Ausdauerverhalten zu w\u00e4hlen.\nSki-OL ist ein von der International Orienteering Federation organisierter Wettkampfsport mit zweij\u00e4hrlich stattfindenden Ski-Orientierungslauf-Weltmeisterschaften und ebenfalls zweij\u00e4hrlich ausgetragenem Weltcup. Die ersten Weltmeisterschaften fanden 1975 im finnischen Hyvink\u00e4\u00e4 statt. Dominierende Nationen sind heute die skandinavischen L\u00e4nder Schweden und Norwegen sowie Finnland und Russland.\nAu\u00dferdem gibt es j\u00e4hrlich die Junioren-Weltmeisterschaften (Ski-JWOC).",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ski-Orientierungslauf"
+    },
+    {
+        "title": "Slalom",
+        "content": "Als Slalom oder Torlauf wird in mehreren Sportarten die schnelle, wiederholte Folge von Kurven bezeichnet, die durch eine Reihe von Toren festgelegt sind.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Slalom"
+    },
+    {
+        "title": "Snowboard",
+        "content": "Ein Snowboard ist ein Wintersportger\u00e4t in Form eines Brettes, um damit auf Schnee zu fahren. Der Fahrer steht seitlich zur Fahrtrichtung auf dem Brett. Seit 1998 ist Snowboarden in mehreren Disziplinen olympisch.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Snowboard"
+    },
+    {
+        "title": "Football (Sportart)",
+        "content": "Football ist der Oberbegriff f\u00fcr verschiedene Sportarten (englisch: codes of football), die sich aus den Fr\u00fchformen des Fu\u00dfballs und des Rugbys entwickelt haben.\nIm angels\u00e4chsischen Sprachraum steht das Wort in der Regel f\u00fcr eine bestimmte Sportart, meistens die lokale Variante. Im britischen Englisch wird unter \u201efootball\u201c Fu\u00dfball verstanden. Demgegen\u00fcber steht dort Rugby mit dem getragenen ovalen Ball, welches gelegentlich unter dem Begriff rugby football beim Begriff football mit einbezogen wird. Die international unmissverst\u00e4ndliche Bezeichnung ist association football. Davon abgeleitet ist soccer football oder kurz soccer, unter dem der Sport vor allem in Nordamerika, aber auch in einigen anderen L\u00e4ndern bekannt ist. So steht der Begriff football traditionell f\u00fcr American Football bzw. Canadian Football in den USA und Kanada, f\u00fcr Rugby Union in Neuseeland, und f\u00fcr Rugby League bzw. Australian Football in Australien. International besteht jedoch die Tendenz, dass in der Alltagssprache soccer immer weiter durch football verdr\u00e4ngt wird. 2005 \u00e4nderte beispielsweise der australische Verband seinen Namen von Soccer Association in Football Association, 2006 folgte der neuseel\u00e4ndische Verband.\nDas Treten des Balles mit dem Fu\u00df ist nicht in allen Football-Sportarten die vorherrschende Aktion. Eine Hypothese \u00fcber die Etymologie des Wortes ist, dass \u201efoot ball\u201c allgemein \u201ezu Fu\u00df gespielte Ballsportarten\u201c bedeutete, in Abgrenzung zu Sportarten, die zu Pferde ausgef\u00fchrt wurden. Eine andere Hypothese besagt, dass sich football auf die L\u00e4nge eines ovalen Spielballs (ein Fu\u00df; englisch foot) bezieht.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Football_(Sportart)"
+    },
+    {
+        "title": "Stadion",
+        "content": "Ein Stadion (Plural Stadien), teilweise auch als Arena bezeichnet, ist ein Austragungsort von sportlichen Wettk\u00e4mpfen in Form eines Spielfeldes, umgeben von einer nach oben meist offenen baulichen Struktur, die es dem Publikum erm\u00f6glicht, von Steh- oder Sitzpl\u00e4tzen aus das Geschehen zu beobachten. Oft werden Stadien auch f\u00fcr Konzerte und andere Gro\u00dfveranstaltungen benutzt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Stadion"
+    },
+    {
+        "title": "Sport",
+        "content": "Unter dem Begriff Sport werden verschiedene Bewegungs-, Spiel- und Wettkampfformen zusammengefasst, die meist im Zusammenhang mit k\u00f6rperlichen Aktivit\u00e4ten des Menschen stehen, ohne in erster Linie der Warenproduktion, kriegerischen Kampfhandlungen, dem Transport von Waren bzw. Gep\u00e4ck oder der alleinigen Ortsver\u00e4nderung zu dienen. Das Wort selbst wurde im 19. Jahrhundert vom englischen sport entlehnt, welches durch Prokope aus disport entstand und aus dem Altfranz\u00f6sischen entlehnt ist. \nIns Deutsche wurde das Wort \u201eSport\u201c dann durch den F\u00fcrsten P\u00fcckler eingef\u00fchrt. Der Gesundheitsaspekt an sportlicher Bet\u00e4tigung kann als essentiell angesehen werden.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Sport"
+    },
+    {
+        "title": "Sum\u014d",
+        "content": "Sum\u014d [s\u026fmo\u02d0] (japanisch \u76f8\u64b2, Sum\u014d bzw. \u5927\u76f8\u64b2, \u014czum\u014d) ist eine aus Japan stammende Form des Ringkampfs. Einen Sum\u014d-K\u00e4mpfer bezeichnet man als Sum\u014dtori oder Rikishi.\nZiel des Kampfes ist es, den Gegner aus einem sandbedeckten, mit einem Strohseil abgesteckten Kreis zu dr\u00e4ngen oder ihn so aus dem Gleichgewicht zu bringen, dass er den Boden mit einem anderen K\u00f6rperteil als den Fu\u00dfsohlen ber\u00fchrt. Ein einzelner Kampf dauert meist nur einige Sekunden; w\u00e4hrend eines regul\u00e4ren Turniers finden mehrere hundert K\u00e4mpfe statt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Sum%C5%8D"
+    },
+    {
+        "title": "Wellenreiten",
+        "content": "Das Wellenreiten, auch Surfen, ist ein Wassersport, bei dem die dynamische Form einer Wasserwelle ausgenutzt wird, um sich auf einem Surfbrett stehend auf dem Wasser fortzubewegen. Die heutige Form des Wellenreitens stammt von den Inseln Hawaiis. Nachdem es im 19. Jahrhundert von Missionaren fast zum Erliegen gebracht worden war, erlebte das Surfen in den 1950er Jahren einen neuen Boom, als viele US-Amerikaner diesen Sport f\u00fcr sich entdeckten. Heutzutage werden viele Wettbewerbe veranstaltet, bei denen Surfer ihr K\u00f6nnen beweisen. Wellenreiten kann man nicht nur auf Hawaii, in Kalifornien oder Australien, sondern auch in Europa gibt es zahlreiche Str\u00e4nde, die sich gut zum Surfen eignen. Ben\u00f6tigt werden lediglich ein Surfbrett, Surfwachs, eine Leash (in Australien als \u201eLegrope\u201c bezeichnet), eine etwa zwei Meter lange Schnur, mit der das Brett am Bein gesichert wird, und evtl. ein Surfanzug. Die beiden m\u00f6glichen Stellungen auf dem Brett werden als Regular Foot und Goofy Foot bezeichnet.\nWellenreiten wird in der Regel an Meeresk\u00fcsten und seltener auf Fl\u00fcssen (Flusssurfen) ausge\u00fcbt.\nBei den Olympischen Sommerspielen 2020 sollte Surfen eigentlich zum ersten Mal als olympischer Wettkampf ausgetragen werden.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wellenreiten"
+    },
+    {
+        "title": "Schwimmen",
+        "content": "Schwimmen bezeichnet das Schweben eines K\u00f6rpers in einer Fl\u00fcssigkeit und die Fortbewegung von Lebewesen im Wasser.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schwimmen"
+    },
+    {
+        "title": "Synchronschwimmen",
+        "content": "Synchronschwimmen oder auch Kunstschwimmen ist eine Form des Schwimmens, die zu Musik, alleine, zu zweit, in einer Gruppe oder in der Kombination von einer bis meist zehn Personen geschwommen wird. Synchron bezieht sich hier sowohl auf die Synchronit\u00e4t mit der Musik als auch die der einzelnen Schwimmer untereinander. Synchronschwimmen f\u00fcr Frauen ist eine olympische Disziplin. Der Deutsche Schwimm-Verband l\u00e4sst M\u00e4nner an Wettk\u00e4mpfen teilnehmen. Seit 2015 sind nach FINA-Regeln M\u00e4nner in der Disziplin Mixed-Duett international zugelassen. Ebenfalls hat die FINA die Bezeichnung Synchronised swimming 2017 zu artistic swimming ge\u00e4ndert. Der Sport verlangt hohe k\u00f6rperliche Leistungen unter Luftmangel, rhythmisches Musikgef\u00fchl und Beweglichkeit.\nDas eng verwandte Reigenschwimmen beschr\u00e4nkt sich auf das Figurenlegen mit mehreren Personen im Wasser, auch Bilderlegen genannt. Musik dient hier nur zur Untermalung, und der Wechsel der Figuren wird durch Handzeichen vom Beckenrand bzw. Ufer angezeigt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Synchronschwimmen"
+    },
+    {
+        "title": "Tischtennis",
+        "content": "Tischtennis ist eine gegen Ende des 19. Jahrhunderts in England entstandene Ballsportart.\nZur Aus\u00fcbung wird ein matt-gr\u00fcner oder matt-blauer Tischtennistisch mit Netzgarnitur, ein matt-wei\u00dfer oder matt-oranger Tischtennisball aus Kunststoff (fr\u00fcher Zelluloid) mit einem vorgeschriebenen Durchmesser von 40 mm (+/-) sowie pro Spieler ein Tischtennisschl\u00e4ger mit schwarz-roten Bel\u00e4gen ben\u00f6tigt. Der Schl\u00e4ger wird zumeist im Shakehand-Griff gehalten, vor allem in Asien ist aber der Penholder-Stil verbreitet. Bei Wettk\u00e4mpfen wird im Einzel, Doppel und Mixed gespielt. Ein Satz endet, sobald ein Spieler elf Punkte erzielt hat und um mindestens zwei Punkte Vorsprung f\u00fchrt. Jeder Spieler hat zwei Aufschl\u00e4ge hintereinander, danach wechselt das Aufschlagsrecht. Ein Spiel geht im regul\u00e4ren Punktspielbetrieb \u00fcber drei Gewinns\u00e4tze (\u201eBest-of-Five\u201c), bei gro\u00dfen Turnieren wird \u00fcber vier Gewinns\u00e4tze (\u201eBest-of-Seven\u201c) gespielt.\nWichtigste Turniere neben den Olympischen Spielen und den ein- bis zweij\u00e4hrlich stattfindenden Kontinental- (z. B. Europa-) und Weltmeisterschaften sind der World Cup, die World Tour Grand Finals und die World Cup-Qualifikationsturniere wie das europ\u00e4ische Ranglistenturnier Europe-Top-16. Tischtennis gilt \u2013 bezogen auf die Zeit zwischen zwei Ballkontakten \u2013 als schnellste R\u00fcckschlagsportart der Welt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tischtennis"
+    },
+    {
+        "title": "Rugby",
+        "content": "Rugby (engl. auch Rugby Football) geh\u00f6rt zur Familie der Mannschaftssportarten, die gemeinsam mit dem Fu\u00dfball in England entstanden sind. American Football und Canadian Football haben sich sp\u00e4ter aus dem Rugby entwickelt. Die am weitesten verbreiteten Varianten sind Rugby Union und Rugby League. Rugby Union hat sich seit seiner Professionalisierung in den 1990er Jahren als die global f\u00fchrende Rugby-Sportart etabliert, auch wenn sich im Breitensport zunehmend die kontaktarme Variante Touch Rugby durchsetzt und die olympisch gewordene Variante 7er-Rugby gegenw\u00e4rtig einen Entwicklungsschub erf\u00e4hrt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Rugby"
+    },
+    {
+        "title": "Triathlon",
+        "content": "Triathlon ist eine Ausdauersportart, bestehend aus einem Mehrkampf der Disziplinen Schwimmen, Radfahren und Laufen, die nacheinander und in genau dieser Reihenfolge zu absolvieren sind. Die Besonderheit dieses Sports besteht darin, dass eine bestimmte, festgelegte Strecke mit unterschiedlichen Fortbewegungsmitteln so schnell wie m\u00f6glich zur\u00fcckzulegen ist, wobei die Uhr auch bei zeitlichen Unterbrechungen wie z. B. den Wechseln zwischen den Disziplinen weiter l\u00e4uft. Hierin unterscheidet sich Triathlon von anderen Vielseitigkeitssportarten, wie z. B. der Nordischen Kombination, dem Zehnkampf, dem Racketlon oder dem Modernen F\u00fcnfkampf. Verwandte Sportarten des Triathlon sind Paratriathlon, Winter-Triathlon, Duathlon, Swim & Run/Aquathlon und Bike & Run. Die Wortsch\u00f6pfung \u201eTriathlon\u201c setzt sich aus den griechischen Ausdr\u00fccken \u03c4\u03c1\u03b5\u1fd6\u03c2/\u03c4\u03c1\u03af\u03b1 bzw. treis/tria, \u201edrei\u201c, und \u1f06\u03b8\u03bb\u03bf\u03c2 bzw. athlos, \u201eWettkampf\u201c zusammen. Triathlon ist seit dem Jahr 2000 auch eine olympische Disziplin.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Triathlon"
+    },
+    {
+        "title": "Marathonlauf",
+        "content": "Der Marathonlauf (kurz Marathon) ist eine auf Stra\u00dfen oder Wegen ausgetragene sportliche Laufveranstaltung und zugleich die l\u00e4ngste olympische Laufdisziplin in der Leichtathletik, deren Streckenl\u00e4nge 1921 auf 42,195 Kilometer festgelegt wurde. Manche L\u00e4ufe, insbesondere bei leichtathletischen Jahresh\u00f6hepunkten, f\u00fchren zum Zieleinlauf ins Stadion, wo abschlie\u00dfend noch etwa eine Runde zu laufen ist.\nBei Olympischen Spielen wird die Marathonstrecke seit 1896 von den M\u00e4nnern gelaufen \u2013 zun\u00e4chst auf 25 Meilen, mithin etwa 40 Kilometer \u2013 und von Frauen seit 1984.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Marathonlauf"
+    },
+    {
+        "title": "Ultramarathon",
+        "content": "Ein Ultramarathon ist eine Laufveranstaltung \u00fcber eine Strecke, die l\u00e4nger als die Marathondistanz von 42,195 km ist.\nDie popul\u00e4rste unter diesen Distanzen ist der 100-km-Stra\u00dfenlauf, \u00fcber den World Athletics Rekordlisten f\u00fchrt. Die g\u00fcltigen Leichtathletik-Weltrekorde halten bei den M\u00e4nnern Nao Kazami (Japan) mit 6:09:14 h und bei den Frauen Tomoe Abe (Japan) mit 6:33:11 h. Viele dieser L\u00e4ufe finden auf offiziell vermessenen 5-km- oder 10-km-Runden statt, allerdings gibt es auch 100-km-L\u00e4ufe, die auf einer einzigen gro\u00dfen Runde ausgetragen werden, wie zum Beispiel die 100 km von Biel. Die meisten Ultramarathons sind Landschaftsl\u00e4ufe (s. Traillauf), deren L\u00e4ngen nicht normiert sind und sich nach den topographischen Gegebenheiten richten. Ultramarathons mit mehr als 2000 Meter H\u00f6hendifferenz werden als Ultraberglauf bezeichnet.\nAu\u00dfer den unten aufgef\u00fchrten Ultramarathon-Veranstaltungen \u00fcber bestimmte Distanzen gibt es auch L\u00e4ufe, die \u00fcber eine bestimmte Zeit ausgetragen werden. Die k\u00fcrzeste dieser Disziplinen, die als Ultramarathon gilt, ist der 6-Stunden-Lauf; l\u00e4ngere Mehrstundenl\u00e4ufe werden \u00fcber 12, 24, 48, 72 etc. Stunden ausgetragen.\nIn Deutschland gibt es seit 1987 Deutsche Meisterschaften des Deutschen Leichtathletik-Verbandes (DLV) \u00fcber 100 km. Seit 2019 gibt es auch im 50 km- und 24-Stunden-Lauf offizielle Deutsche Meisterschaften, die vorher von der Deutschen Ultramarathon-Vereinigung (DUV) veranstaltet wurden und auch weiterhin von ihr ausgerichtet werden. Auch der 6-Stunden-Lauf wurde in das Wettkampfprogramm des DLV aufgenommen.International veranstaltet die International Association of Ultrarunners (IAU) unter der Schirmherrschaft von World Athletics vier internationale Jahresh\u00f6hepunkte: Einen Weltcup (World Cup) \u00fcber 100 Kilometer, einen 24-Stunden-Lauf, einen Gel\u00e4nde-Ultralauf und einen 50-Kilometer-Lauf (50 km Trophy). Diese sind allerdings keine offiziellen World-Athletics-Weltmeisterschaften. Der Europacup der Ultramarathons ist ein Cup-Wettbewerb, der einige der gr\u00f6\u00dften Ultramarathons Europas umfasst. Des Weiteren veranstaltet das Sri Chinmoy Marathon Team (SCMT) seit 1977 weltweit UM-L\u00e4ufe.\nDas Training f\u00fcr einen Ultramarathon ist dem f\u00fcr einen Marathonlauf \u00e4hnlich, jedoch werden die \u201elangen langsamen L\u00e4ufe\u201c auf \u00fcber drei Stunden Dauer ausgedehnt. Die gesundheitlichen Risiken entsprechen denen beim Marathonlauf.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ultramarathon"
+    },
+    {
+        "title": "Einrad",
+        "content": "Das Einrad ist ein Fahrzeug, das \u2013 idealisiert \u2013 nur mit einem Punkt (dem Rad) den Boden ber\u00fchrt. Meist versteht man darunter ein mit Muskelkraft angetriebenes Pedalfahrzeug, das vor allem als Sportger\u00e4t, aber auch von Artisten im Zirkus oder Variet\u00e9 genutzt wird. Es kann als Sonderform eines Fahrrads, insbesondere Hochrads gesehen werden.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Einrad"
+    },
+    {
+        "title": "Volleyball",
+        "content": "Volleyball () ist eine olympische Mannschaftssportart aus der Gruppe der R\u00fcckschlagspiele. Zwei Mannschaften mit jeweils sechs Spielern stehen sich dabei auf einem durch ein Netz geteilten Spielfeld gegen\u00fcber. Ziel des Spiels ist es, einen Ball so \u00fcber das Netz zu schlagen, dass der Ball den Boden der gegnerischen Spielfeldh\u00e4lfte ber\u00fchrt oder die gegnerische Mannschaft einen Fehler begeht. Eine Mannschaft darf den Ball dreimal in Folge ber\u00fchren, um ihn zur\u00fcckzuspielen. Ein etwaiger Block z\u00e4hlt dabei nicht mit. Der Ball wird volley gespielt (daher kommt der Name der Sportart) und darf mit jedem K\u00f6rperteil ber\u00fchrt werden, jedoch werden in der Praxis fast ausschlie\u00dflich die H\u00e4nde oder Arme verwendet.\nVolleyball entstand Ende des 19. Jahrhunderts in den Vereinigten Staaten. Die Sportart wird mittlerweile weltweit betrieben. Der Weltverband FIVB umfasst 222 nationale Verb\u00e4nde und somit mehr Mitglieder als die FIFA oder die Vereinten Nationen. Seit Mitte des 20. Jahrhunderts werden Weltmeisterschaften und olympische Turniere ausgetragen. Weitere hochklassige Wettbewerbe sind die j\u00e4hrlich ausgetragene Volleyball Nations League und der Volleyball World Cup. Hinzu kommen die kontinentalen Turniere (beispielsweise die Europameisterschaft), die Europapokal-Wettbewerbe f\u00fcr Vereinsmannschaften sowie nationale Meisterschaften und Pokalwettbewerbe.\nIn den fr\u00fchen Jahrzehnten (Mitte des 20. Jahrhunderts) dominierten in Wettbewerben vor allem die National- und Vereinsmannschaften der Sowjetunion, Nationalteams der Tschechoslowakei (M\u00e4nner) und Japan (Frauen) und Vereinsmannschaften aus Rum\u00e4nien. Ende des 20. Jahrhunderts kamen die Vereinigten Staaten, Brasilien und Italien als f\u00fchrende Nationen hinzu. Bei den M\u00e4nnern ist au\u00dferdem Polen erfolgreich und bei den Frauen haben China und Kuba mehrere Titel gewonnen.\nTrotz der weltweiten Verbreitung wird Volleyball in einzelnen L\u00e4ndern unterschiedlich wahrgenommen. W\u00e4hrend es im deutschsprachigen Raum eher eine Randsportart ist, werden die Spiele in Polen intensiv in den Medien \u00fcbertragen. Es gibt mehrere Sportarten und Varianten, die sich aus dem Volleyball entwickelt haben. Die bekannteste Variante ist das ebenfalls olympische Beachvolleyball.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Volleyball"
+    },
+    {
+        "title": "Wasserball",
+        "content": "Wasserball ist ein Ballspiel in einem abgegrenzten Feld im Wasser, bei dem die Spieler zweier Mannschaften versuchen, den Ball durch geschicktes Taktieren und Abspielen in das gegnerische Tor zu werfen. Ziel des Spieles ist es, mehr Tore als die gegnerische Mannschaft zu erzielen. Die Mannschaft mit den meisten anerkannten Toren ist der Sieger.\nWasserball gilt als Teildisziplin des Schwimmsports, so dass der Weltschwimmverband FINA der internationale Dachverband der Sportart Wasserball ist.\nEine Mannschaft besteht aus maximal 13 Spielern (bei einigen Turnieren bis zu 15 Spieler), von denen sich im regul\u00e4ren Verlauf jeweils der Torh\u00fcter und sechs Feldspieler im Wasser befinden; die \u00fcbrigen Spieler stehen nach aktuellem Bedarf zum Auswechseln bereit.\nDie Regeln des Spiels sind unter Wasserballregeln dargestellt.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wasserball"
+    },
+    {
+        "title": "Wasserski",
+        "content": "Bei der Sportart Wasserski wird die ausf\u00fchrende Person auf Skiern, die Schneeskiern \u00e4hneln, stehend \u00fcber eine Wasseroberfl\u00e4che gezogen. Der Antrieb erfolgt \u00fcblicherweise von einem Motorboot oder durch einen Wasserskilift \u00fcber eine Wasserskileine mit einem Haltegriff, der auch Hantel genannt wird.\nZum \u00dcben wird zum Teil auch eine stabile Haltestange direkt am Boot befestigt, so dass die \u00dcbenden neben dem Boot fahren und mit dem Trainer sprechen k\u00f6nnen.\nDie Wasserski sind vorne nach oben aufgebogen und haben eine weiche Gummimanschette, die als Bindung bezeichnet wird und in der die F\u00fc\u00dfe Halt finden. Die F\u00fchrung der Wasserski geschieht mittels einer kleinen Finne hinten auf der Unterseite.\nDiese Wassersportart ist \u2013 vor allem bei Touristen \u2013 in den warmen Monaten sehr beliebt,  durch eine sehr hohe Anzahl an Wasserskiliften in Deutschland popul\u00e4r und im Gegensatz zum Motorboot auch relativ kosteng\u00fcnstig.\nAls Erfinder dieser Sportart gilt der US-Amerikaner Ralph Samuelson.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wasserski"
+    },
+    {
+        "title": "Kraftdreikampf",
+        "content": "Der Kraftdreikampf, international auch Powerlifting genannt, ist eine Wettkampfsportart der Schwerathletik bzw. des Kraftsports und setzt sich aus den drei Disziplinen Kniebeugen, Bankdr\u00fccken und Kreuzheben (offizielle Reihenfolge) zusammen.\nKraftdreikampf ist am ehesten mit dem olympischen Zweikampf beim Gewichtheben (Rei\u00dfen und Sto\u00dfen) vergleichbar. Ziel ist es, gr\u00f6\u00dftm\u00f6gliche Lasten zu bew\u00e4ltigen. Obwohl gute Technik sehr wichtig ist und dieser im Training gro\u00dfe Aufmerksamkeit gilt, z\u00e4hlt im Wettkampf nur die H\u00f6he des Gewichts.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kraftdreikampf"
+    },
+    {
+        "title": "Windsurfen",
+        "content": "Windsurfen (fr\u00fcher auch Brettsegeln oder Stehsegeln genannt) ist eine Wassersportart, bei der man, auf einem Surfbrett stehend, ein Segel zur Fortbewegung nutzt. Das Segel ist dreh- und kippbar mit dem Brett verbunden, was spektakul\u00e4re Man\u00f6ver und Tricks erm\u00f6glicht. Die in den USA entwickelte Sportart wurde zur Trendsportart und hat sich weltweit etabliert.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Windsurfen"
+    },
+    {
+        "title": "Kitesurfen",
+        "content": "Kitesurfen, auch Kiteboarden, ist ein Wassersport, der aus dem Kitesailing entstanden ist. Beim Kitesurfen steht der Sportler auf einem Board, das \u00c4hnlichkeit mit einem kleinen Surfbrett oder Wakeboard aufweist. Er wird dabei von einem Lenkdrachen (engl. \u201ekite\u201c) gezogen. Wellen und der Zug des Drachen k\u00f6nnen dabei f\u00fcr Spr\u00fcnge als Unterst\u00fctzung genutzt werden.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kitesurfen"
+    },
+    {
+        "title": "Weltcup",
+        "content": "Ein Weltcup ist eine weltweite, j\u00e4hrlich ausgetragene sportliche Veranstaltungsserie. \nZahlreiche weitere sportliche und nicht sportliche Veranstaltungen mit einem anderen Austragungsmodus f\u00fchren diese Bezeichnung (siehe  World Cup). \nWeltcup-Veranstaltungen werden vom jeweiligen Dachverband der Sportart organisiert. Ein Weltcup besteht aus mehreren Wettbewerben, die \u00fcber eine Saison verteilt meist an verschiedenen Orten ausgetragen werden. Ihren Platzierungen bei den Weltcups entsprechend erhalten die Sportler Punkte. Gesamtweltcupsieger wird der Teilnehmende, der im Laufe der Saison die meisten Punkte erreicht.\nIn vielen Sportarten werden solche Wettkampfserien als Weltmeisterschaft ausgetragen, beispielsweise im Motorsport, z. B. bei der Formel 1, oder beim Triathlon. Keine klassische Weltcups sind der Geher-Weltcup, Orientierungslauf-Weltcup und der Leichtathletik-Weltcup.\nUnter anderem werden die folgenden Weltcups ausgetragen:",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Weltcup"
+    },
+    {
+        "title": "Ringen",
+        "content": "Ringen ist ein Kampf- und Kraftsport mit Ganzk\u00f6rpereinsatz ohne weitere Hilfsmittel.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ringen"
+    },
+    {
+        "title": "Schach",
+        "content": "Schach (von persisch \u0634\u0627\u0647 \u0161\u0101h, \u201aSchah, K\u00f6nig\u2018 \u2013 daher die Bezeichnung \u201edas k\u00f6nigliche Spiel\u201c) ist ein strategisches Brettspiel, bei dem zwei Spieler abwechselnd Spielsteine (die Schachfiguren) auf einem Spielbrett (dem Schachbrett) bewegen. Ziel des Spiels ist es, den Gegner schachmatt zu setzen, das hei\u00dft, dessen K\u00f6nig so anzugreifen, dass diesem weder Abwehr noch Flucht m\u00f6glich ist.\nSchach ist weltweit bekannt und hat eine tiefe kulturelle Bedeutung erlangt. Viele Schachspieler sind Mitglieder von Schachvereinen, die ihrerseits regionalen und nationalen Schachverb\u00e4nden angeh\u00f6ren und sich weltweit im Weltschachbund (FIDE) zusammengeschlossen haben. Schachturniere werden von privaten Veranstaltern, von Schachvereinen oder von Schachverb\u00e4nden organisiert. Schach gilt als Sportart. Derzeitiger Schachweltmeister der Herren ist Magnus Carlsen aus Norwegen, derzeitige Schachweltmeisterin ist Ju Wenjun aus China.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schach"
+    },
+    {
+        "title": "Paralympische Spiele",
+        "content": "Die Paralympischen Spiele, auch Paralympics (engl. [\u02ccp\u00e6r\u0259\u02c8l\u026amp\u026aks]) genannt, sind die an die Idee der Olympischen Spiele angelehnten globalen Sportwettbewerbe f\u00fcr Sportler mit Behinderung.\nDie Paralympics, organisiert vom Internationalen Paralympischen Komitee (IPC), sind aufgeteilt in Paralympische Sommerspiele und Paralympische Winterspiele. Die jeweiligen Spiele des Sommers und des Winters finden turnusm\u00e4\u00dfig an denselben Orten alle vier Jahre direkt im Anschluss an die Olympischen Sommerspiele bzw. die Olympischen Winterspiele statt.\nAls paralympisch anerkannte Sportarten und deren Startklassen werden weltweit einheitlich anerkannt, klassifiziert und in Meisterschaften f\u00fcr Sportler auf Welt- und Kontinentalebene organisiert.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Paralympische_Spiele"
+    },
+    {
+        "title": "Motorsport",
+        "content": "Der Motorsport umfasst alle Sportarten, die das m\u00f6glichst schnelle oder auch geschickte Bewegen motorgetriebener Fahrzeuge durch ihre Fahrer zum Ziel haben. Im Wesentlichen sind dies Automobilsport sowie Kartsport, Motorradsport und Motorbootrennen. Daneben z\u00e4hlen aber auch noch Wettbewerbe mit Spezialfahrzeugen wie beispielsweise Traktoren (Tractorpulling), Lastkraftwagen (Truck Racing) oder Flugzeugen (Luftrennen) zum Motorsport.\nW\u00e4hrend die meisten Motorsportarten auf geschlossenen, eigens gebauten Rennstrecken betrieben werden, finden besonders im Rallyesport auch Rennen auf \u00f6ffentlichen Stra\u00dfen statt, die zu diesem Zweck gesperrt werden. Manche Veranstaltungen, etwa die Rallye Dakar, werden mit gel\u00e4ndeg\u00e4ngigen Fahrzeugen oft abseits von Stra\u00dfen und Pisten ausgetragen, etwa in W\u00fcstengebieten wie der Sahara.\nNicht zum Motorsport gerechnet werden illegale Stra\u00dfenrennen. Sie erf\u00fcllen nicht die Standards des modernen Sports, insbesondere Regeln der Fairness und der Nicht-Gef\u00e4hrdung Dritter. Da sie nicht auf abgesperrten Stra\u00dfen oder eigenen Rennstrecken stattfinden, sondern im sonstigen Stra\u00dfenverkehr, werden dabei andere Verkehrsteilnehmer sowie die Teilnehmer am Rennen gef\u00e4hrdet.\nDer \u201eIm Automobil von Peking nach Paris\u201c genannte Wettbewerb war 1907 eine der ersten ausgeschriebenen \u201eRennveranstaltungen\u201c. Abenteuerlust, der Drang nach technischem Fortschritt und sportliche Motivation waren die Triebfedern der ersten Motorsportler.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Motorsport"
+    },
+    {
+        "title": "Wintersport",
+        "content": "Unter Wintersport werden im deutschsprachigen Raum Sportarten verstanden, die sinnbildlich f\u00fcr Winter stehen, weil sie auf Schnee und Eis ausge\u00fcbt werden. Fr\u00fcher fanden diese wegen der jahreszeitlichen Abh\u00e4ngigkeit nur im Winter statt, heutzutage sind sie durch Eis- und Skihallen zu jeder Jahreszeit und in allen klimatischen Gebieten m\u00f6glich. In anderen Kulturkreisen, etwa dem nordamerikanischen, versteht man unter Wintersport hingegen jene Sportarten, die in der Regel im Winter in der Halle und bei k\u00fcnstlichem Licht ausge\u00fcbt werden, wie z. B. Gymnastik, Basketball oder Eishockey.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wintersport"
+    },
+    {
+        "title": "Paralympische Spiele",
+        "content": "Die Paralympischen Spiele, auch Paralympics (engl. [\u02ccp\u00e6r\u0259\u02c8l\u026amp\u026aks]) genannt, sind die an die Idee der Olympischen Spiele angelehnten globalen Sportwettbewerbe f\u00fcr Sportler mit Behinderung.\nDie Paralympics, organisiert vom Internationalen Paralympischen Komitee (IPC), sind aufgeteilt in Paralympische Sommerspiele und Paralympische Winterspiele. Die jeweiligen Spiele des Sommers und des Winters finden turnusm\u00e4\u00dfig an denselben Orten alle vier Jahre direkt im Anschluss an die Olympischen Sommerspiele bzw. die Olympischen Winterspiele statt.\nAls paralympisch anerkannte Sportarten und deren Startklassen werden weltweit einheitlich anerkannt, klassifiziert und in Meisterschaften f\u00fcr Sportler auf Welt- und Kontinentalebene organisiert.",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Paralympische_Spiele"
+    }
+]

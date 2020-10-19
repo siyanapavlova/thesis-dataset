@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Aerobics",
+        "content": "Aerobics is a form of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the goal of improving all elements of fitness (flexibility, muscular strength, and cardio-vascular fitness). It is usually performed to music and may be practiced in a group setting led by an instructor (fitness professional), although it can be done solo and without musical accompaniment. With the goal of preventing illness and promoting physical fitness, practitioners perform various routines comprising a number of different dance-like exercises. Formal aerobics classes are divided into different levels of intensity and complexity and will have five components: warm-up (5\u201310 minutes), cardiovascular conditioning (25\u201330 minutes), muscular strength and conditioning (10\u201315 minutes), cool-down (5\u20138 minutes) and stretching and flexibility (5\u20138 minutes). Aerobics classes may allow participants to select their level of participation according to their fitness level. Many gyms offer a variety of aerobic classes. Each class is designed for a certain level of experience and taught by a certified instructor with a specialty area related to their particular class.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Aerobics"
+    },
+    {
+        "title": "Archery",
+        "content": "Archery is the art, sport, practice, or skill of using a bow to shoot arrows. The word comes from the Latin arcus for bow. Historically, archery has been used for hunting and combat. In modern times, it is mainly a competitive sport and recreational activity. A person who participates in archery is typically called an archer or a bowman, and a person who is fond of or an expert at archery is sometimes called a toxophilite or a marksman.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Archery"
+    },
+    {
+        "title": "Sport of athletics",
+        "content": "Athletics is a group of sporting events that involves competitive running, jumping, throwing, and walking. The most common types of athletics competitions are track and field, road running, cross country running, and race walking.\nThe results of racing events are decided by finishing position (or time, where measured), while the jumps and throws are won by the athlete that achieves the highest or furthest measurement from a series of attempts. The simplicity of the competitions, and the lack of a need for expensive equipment, makes athletics one of the most common types of sports in the world. Athletics is mostly an individual sport, with the exception of relay races and competitions which combine athletes' performances for a team score, such as cross country.\nOrganized athletics are traced back to the Ancient Olympic Games from 776 BC. The rules and format of the modern events in athletics were defined in Western Europe and North America in the 19th and early 20th century, and were then spread to other parts of the world. Most modern top level meetings are held under the auspices of World Athletics, the global governing body for the sport of athletics, or its member continental and national federations.\nThe athletics meeting forms the backbone of the Summer Olympics. The foremost international athletics meeting is the World Athletics Championships, which incorporates track and field, marathon running and race walking. Other top level competitions in athletics include the World Athletics Cross Country Championships and the World Half Marathon Championships. Athletes with a physical disability compete at the Summer Paralympics and the World Para Athletics Championships.\nThe word athletics is derived from the Ancient Greek \u1f00\u03b8\u03bb\u03b7\u03c4\u03ae\u03c2 (athl\u0113t\u0113s, \"combatant in public games\") from \u1f06\u03b8\u03bb\u03bf\u03bd (athlon, \"prize\") or \u1f06\u03b8\u03bb\u03bf\u03c2 (athlos, \"competition\"). Initially, the term described athletic contests in general \u2013 i.e. sporting competition based primarily on human physical feats. In the 19th century, the term athletics acquired a more narrow definition in Europe and came to describe sports involving competitive running, walking, jumping and throwing. This definition continues to be prominent in the United Kingdom and the former British Empire.  Related words in Germanic and Romance languages also have a similar meaning.\nIn much of North America, athletics is synonymous with sports in general, maintaining the historical usage of the term. The word \"athletics\" is rarely used to refer to the sport of athletics in this region. Track and field is preferred, and is used in the United States and Canada to refer to athletics events, including racewalking and marathon running (although cross country running is typically considered a separate sport).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sport_of_athletics"
+    },
+    {
+        "title": "Badminton",
+        "content": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are \"singles\" (with one player per side) and \"doubles\" (with two players per side). Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court. Points are scored by striking the shuttlecock with the racquet and landing it within the opposing side's half of the court.\nEach side may only strike the shuttlecock once before it passes over the net. Play ends once the shuttlecock has struck the floor or if a fault has been called by the umpire, service judge, or (in their absence) the opposing side.The shuttlecock is a feathered or (in informal matches) plastic projectile which flies differently from the balls used in many other sports. In particular, the feathers create much higher drag, causing the shuttlecock to decelerate more rapidly. Shuttlecocks also have a high top speed compared to the balls in other racquet sports. The flight of the shuttlecock gives the sport its distinctive nature.\nThe game developed in British India from the earlier game of battledore and shuttlecock. European play came to be dominated by Denmark but the game has become very popular in Asia, with recent competitions dominated by China. Since 1992, badminton has been a Summer Olympic sport with four events: men's singles, women's singles, men's doubles, and women's doubles, with mixed doubles added four years later. At high levels of play, the sport demands excellent fitness: players require aerobic stamina, agility, strength, speed, and precision. It is also a technical sport, requiring good motor coordination and the development of sophisticated racquet movements.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Badminton"
+    },
+    {
+        "title": "Baseball",
+        "content": "Baseball is a bat-and-ball game played between two opposing teams who take turns batting and fielding. The game proceeds when a player on the fielding team, called the pitcher, throws a ball which a player on the batting team tries to hit with a bat. The objective of the offensive team (batting team) is to hit the ball into the field of play, allowing its players to run the bases, having them advance counter-clockwise around four bases to score what are called \"runs\". The objective of the defensive team (fielding team) is to prevent batters from becoming runners, and to prevent runners' advance around the bases. A run is scored when a runner legally advances around the bases in order and touches home plate (the place where the player started as a batter). The team that scores the most runs by the end of the game is the winner.\nThe first objective of the batting team is to have a player reach first base safely. A player on the batting team who reaches first base without being called \"out\" can attempt to advance to subsequent bases as a runner, either immediately or during teammates' turns batting. The fielding team tries to prevent runs by getting batters or runners \"out\", which forces them out of the field of play. Both the pitcher and fielders have methods of getting the batting team's players out. The opposing teams switch back and forth between batting and fielding; the batting team's turn to bat is over once the fielding team records three outs. One turn batting for each team constitutes an inning. A game is usually composed of nine innings, and the team with the greater number of runs at the end of the game wins. If scores are tied at the end of nine innings, extra innings are usually played. Baseball has no game clock, although most games end in the ninth inning.\nBaseball evolved from older bat-and-ball games already being played in England by the mid-18th century. This game was brought by immigrants to North America, where the modern version developed. By the late 19th century, baseball was widely recognized as the national sport of the United States. Baseball is popular in North America and parts of Central and South America, the Caribbean, and East Asia, particularly in Japan, South Korea and Taiwan.\nIn the United States and Canada, professional Major League Baseball (MLB) teams are divided into the National League (NL) and American League (AL), each with three divisions: East, West, and Central. The MLB champion is determined by playoffs that culminate in the World Series. The top level of play is similarly split in Japan between the Central and Pacific Leagues and in Cuba between the West League and East League. The World Baseball Classic, organized by the World Baseball Softball Confederation, is the major international competition of the sport and attracts the top national teams from around the world.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Baseball"
+    },
+    {
+        "title": "Basketball",
+        "content": "Basketball, colloquially referred to as hoops, is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball (approximately 9.4 inches (24 cm) in diameter) through the defender's hoop (a basket 18 inches (46 cm) in diameter mounted 10 feet (3.048 m) high to a backboard at each end of the court) while preventing the opposing team from shooting through their own hoop. A field goal is worth two points, unless made from behind the three-point line, when it is worth three. After a foul, timed play stops and the player fouled or designated to shoot a technical foul is given one or more one-point free throws. The team with the most points at the end of the game wins, but if regulation play expires with the score tied, an additional period of play (overtime) is mandated.\nPlayers advance the ball by bouncing it while walking or running (dribbling) or by passing it to a teammate, both of which require considerable skill. On offense, players may use a variety of shots\u2014the lay-up, the jump shot, or a dunk; on defense, they may steal the ball from a dribbler, intercept passes, or block shots; either offense or defense may collect a rebound, that is, a missed shot that bounces from rim or backboard. It is a violation to lift or drag one's pivot foot without dribbling the ball, to carry it, or to hold the ball with both hands then resume dribbling.\nThe five players on each side fall into five playing positions. The tallest player is usually the center, the second-tallest and strongest is the power forward, a slightly shorter but more agile player is the small forward, and the shortest players or the best ball handlers are the shooting guard and the point guard, who implements the coach's game plan by managing the execution of offensive and defensive plays (player positioning). Informally, players may play three-on-three, two-on-two, and one-on-one.\nInvented in 1891 by Canadian-American gym teacher James Naismith in Springfield, Massachusetts, United States, basketball has evolved to become one of the world's most popular and widely viewed sports. The National Basketball Association (NBA) is the most significant professional basketball league in the world in terms of popularity, salaries, talent, and level of competition. Outside North America, the top clubs from national leagues qualify to continental championships such as the EuroLeague and the Basketball Champions League Americas. The FIBA Basketball World Cup and Men's Olympic Basketball Tournament are the major international events of the sport and attract top national teams from around the world. Each continent hosts regional competitions for national teams, like EuroBasket and FIBA AmeriCup.\nThe FIBA Women's Basketball World Cup and Women's Olympic Basketball Tournament feature top national teams from continental championships. The main North American league is the WNBA (NCAA Women's Division I Basketball Championship is also popular), whereas strongest European clubs participate in the EuroLeague Women.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Basketball"
+    },
+    {
+        "title": "Bicycle",
+        "content": "A bicycle, also called a bike or cycle, is a human-powered or motor-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.\nBicycles were introduced in the 19th century in Europe, and by the early 21st century, more than 1 billion were in existence at a given time. These numbers far exceed the number of cars, both in total and ranked by the number of individual models produced. They are the principal means of transportation in many regions. They also provide a popular form of recreation, and have been adapted for use as children's toys, general fitness, military and police applications, courier services, bicycle racing, and bicycle stunts.\nThe basic shape and configuration of a typical upright or \"safety bicycle\", has changed little since the first chain-driven model was developed around 1885. However, many details have been improved, especially since the advent of modern materials and computer-aided design. These have allowed for a proliferation of specialized designs for many types of cycling.\nThe bicycle's invention has had an enormous effect on society, both in terms of culture and of advancing modern industrial methods. Several components that eventually played a key role in the development of the automobile were initially invented for use in the bicycle, including ball bearings, pneumatic tires, chain-driven sprockets and tension-spoked wheels.Although bike and cycle are used interchangebly to refer mostly to 2 types of 2 wheelers the terms still vary across the world. In India for example a cycle refers only to a 2 wheeler using pedal power whereas the term bike is used to describe a 2 wheeler using internal combustion engine or electric motors as a source of motive power instead of motorcycle/motorbike.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bicycle"
+    },
+    {
+        "title": "Cycling",
+        "content": "Cycling, also called bicycling or biking, is the use of bicycles for transport, recreation, exercise or sport. People engaged in cycling are referred to as \"cyclists\", \"bicyclists\", or \"bikers\". Apart from two-wheeled bicycles, \"cycling\" also includes the riding of unicycles, tricycles, quadracycles, recumbent and similar human-powered vehicles (HPVs).\nBicycles were introduced in the 19th century and now number approximately one billion worldwide. They are the principal means of transportation in many parts of the world.\nCycling is widely regarded as a very effective and efficient mode of transportation optimal for short to moderate distances.\nBicycles provide numerous possible benefits in comparison with motor vehicles, including the sustained physical exercise involved in cycling, easier parking, increased maneuverability, and access to roads, bike paths and rural trails. Cycling also offers a reduced consumption of fossil fuels, less air or noise pollution, and much reduced traffic congestion. These lead to less financial cost to the user as well as to society at large (negligible damage to roads, less road area required). By fitting bicycle racks on the front of buses, transit agencies can significantly increase the areas they can serve.In addition, cycling provides a variety of health benefits. The World Health Organization (WHO) states that cycling can reduce the risk of cancers, heart disease, and diabetes that are prevalent in sedentary lifestyles. Cycling on stationary bikes have also been used as part of rehabilitation for lower limb injuries, particularly after hip surgery. Individuals who cycle regularly have also reported mental health improvements, including less perceived stress and better vitality.Among the disadvantages of cycling are the requirement of bicycles (excepting tricycles or quadracycles) to be balanced by the rider in order to remain upright, the reduced protection in crashes in comparison to motor vehicles, often longer travel time (except in densely populated areas), vulnerability to weather conditions, difficulty in transporting passengers, and the fact that a basic level of fitness is required for cycling moderate to long distances.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+        "title": "billiadrs",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Bobsleigh",
+        "content": "Bobsleigh or bobsled is a team winter sport that involves making timed runs down narrow, twisting, banked, iced tracks in a gravity-powered sleigh. International bobsleigh competitions are governed by the International Bobsleigh and Skeleton Federation, also known as FIBT from the French F\u00e9d\u00e9ration Internationale de Bobsleigh et de Tobogganing.  National competitions are often governed by bodies such as the United States Bobsled and Skeleton Federation and Bobsleigh Canada Skeleton.\nThe first bobsleds were built in St. Moritz, Switzerland, in the late 19th century by wealthy tourists from Victorian Britain who were staying at the Palace Hotel owned by Caspar Badrutt. The early sleds were adapted from boys' delivery sleds and toboggans. These eventually evolved into bobsleighs, luges and skeletons. Initially the tourists would race their hand-built contraptions down the narrow streets of St. Moritz, however, as collisions increased growing opposition from St Moritz residents led to bobsledding being eventually banned from public highways. In the winter of 1884, Badrutt had a purpose-built run constructed near the hamlet of Cresta. The Cresta Run remains the oldest in the world and is the home of the St. Moritz Tobogganing Club. It has hosted two Olympic Winter Games and is still in use.\nModern bobsleigh teams compete to complete a downhill route in the fastest times. An aggregate time from several runs is used to determine the winners. The four-man event has been featured since the first Winter Games in 1924 in Chamonix, France. The only exception was the 1960 games in Squaw Valley when the organizing committee decided not to build a track to reduce costs.  The two-man event was introduced at the 1932 games and a two-woman event was first contested at the 2002 Winter Olympics.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bobsleigh"
+    },
+    {
+        "title": "Boxing",
+        "content": "Boxing is a combat sport in which two people, usually wearing protective gloves, throw punches at each other for a predetermined amount of time in a boxing ring.\nAmateur boxing is both an Olympic and Commonwealth Games sport and is a standard fixture in most international games\u2014it also has its own World Championships. Boxing is overseen by a referee over a series of one-to-three-minute intervals called rounds.\nA winner can be resolved before the completion of the rounds when a referee deems an opponent incapable of continuing, disqualification of an opponent, or resignation of an opponent.  When the fight reaches the end of its final round with both opponents still standing, the judges' scorecards determine the victor. In the event that both fighters gain equal scores from the judges, professional bouts are considered a draw. In Olympic boxing, because a winner must be declared, judges award the contest to one fighter on technical criteria.\nWhile humans have fought in hand-to-hand combat since the dawn of human history, the earliest evidence of fist-fighting sporting contests date back to the ancient Near East in the 3rd and 2nd millennia BC. The earliest evidence of boxing rules date back to Ancient Greece, where boxing was established as an Olympic game in 688 BC. Boxing evolved from 16th- and 18th-century prizefights, largely in Great Britain, to the forerunner of modern boxing in the mid-19th century with the 1867 introduction of the Marquess of Queensberry Rules.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Boxing"
+    },
+    {
+        "title": "Bronze medal",
+        "content": "A bronze medal in sports and other similar areas involving competition is a medal made of bronze awarded to the third-place finisher of contests or  competitions such as the Olympic Games, Commonwealth Games, etc. The outright winner receives a gold medal and the second place a silver medal. More generally, bronze is traditionally the most common metal used for all types of high-quality medals, including artistic ones.  The practice of awarding bronze third place medals began at the 1904 Olympic Games in St. Louis, Missouri, before which only first and second places were awarded.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bronze_medal"
+    },
+    {
+        "title": "Canoe",
+        "content": "A canoe is a lightweight narrow vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using a single-bladed paddle.In British English, the term \"canoe\" can also refer to a kayak, while canoes are then called Canadian or open canoes to distinguish them from kayaks.\nCanoes are widely used for competition and pleasure, such as racing, whitewater, touring and camping, freestyle and general recreation. Canoeing has been part of the Olympics since 1936. The intended use of the canoe dictates its hull shape, length, and construction material. Historically, canoes were dugouts or made of bark on a wood frame, but construction materials evolved to canvas on a wood frame, then to aluminum. Most modern canoes are made of molded plastic or composites such as fiberglass.\nCanoes were developed by cultures all over the world, including some designed for use with sails or outriggers. Until the mid-1800s the canoe was an important means of transport for exploration and trade, and in some places is still used as such, sometimes with the addition of an outboard motor. Where the canoe played a key role in history, such as the northern United States, Canada, and New Zealand, it remains an important theme in popular culture.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Canoe"
+    },
+    {
+        "title": "Canoeing",
+        "content": "Canoeing is an activity which involves paddling a canoe with a single-bladed paddle. Common meanings of the term are limited to when the canoeing is the central purpose of the activity. Broader meanings include when it is combined with other activities such as canoe camping, or where canoeing is merely a transportation method used to accomplish other activities. Most present-day canoeing is done as or as a part of a sport or recreational activity. In some parts of Europe canoeing refers to both canoeing and kayaking, with a canoe being called an open canoe.\nA few of the recreational forms of canoeing are canoe camping and canoe racing.  Other forms include a wide range of canoeing on lakes, rivers, oceans, ponds and streams.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Canoeing"
+    },
+    {
+        "title": "Catcher",
+        "content": "Catcher is a position for a baseball or softball player. When a batter takes his/her turn to hit, the catcher crouches behind home plate, in front of the (home) umpire, and receives the ball from the pitcher. In addition to this primary duty, the catcher is also called upon to master many other skills in order to field the position well. The role of the catcher is similar to that of the wicket-keeper in cricket, but in cricket, wicketkeepers are increasingly known for their batting abilities.\nPositioned behind home plate, the catcher can see the whole field, and is therefore in the best position to direct and lead the other players in a defensive play. The catcher typically calls for pitches using hand signals. The calls are based on the pitcher's mechanics and strengths, as well as the batter's tendencies and weaknesses. Foul tips, bouncing balls in the dirt, and contact with runners during plays at the plate are all events to be handled by the catcher, necessitating the use of protective equipment. This includes a mask, chest and throat protectors, shin guards, and a heavily padded catcher's mitt.\nBecause the position requires a comprehensive understanding of the game's strategies, the pool of former catchers yields a disproportionate number of managers in both Major League Baseball and Minor League Baseball, including such prominent examples as Connie Mack, Steve O'Neill, Al L\u00f3pez, Mike Scioscia, and Joe Torre. The physical and mental demands of being involved on every defensive play can wear catchers down over a long season, and can have a negative effect on their offensive output.Because of the strategic defensive importance of catching, if a catcher has exceptional defensive skills, teams are often willing to overlook their relative offensive weaknesses. A knowledgeable catcher's ability to work with the pitcher, via pitch selection and location, can diminish the effectiveness of the opposing team's offense. Many great defensive catchers toiled in relative anonymity, because they did not produce large offensive numbers. Notable examples of light-hitting, defensive specialists were Jerry Grote, Ray Schalk, Jim Hegan, Jim Sundberg and Brad Ausmus. Schalk's career batting average of .253 is the lowest of any position player in the Baseball Hall of Fame. That he was selected for enshrinement in 1955 was largely a tribute to his outstanding defensive skills.In the numbering system used to record baseball plays, the catcher is assigned the number '2'. (See Baseball scorekeeping.)",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Catcher"
+    },
+    {
+        "title": "Championship",
+        "content": "In sport, a championship is a competition in which the aim is to decide which individual or team is the champion.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Championship"
+    },
+    {
+        "title": "Coach (sport)",
+        "content": "In sports, a coach is a person involved in the direction, instruction and training of the operations of a sports team or of individual sportspeople. A coach may also be a teacher.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Coach_(sport)"
+    },
+    {
+        "title": "Competition",
+        "content": "Competition arises whenever at least two parties strive for a common goal which cannot be shared: where one's gain is the other's loss (an example of which is a zero-sum game).It is, in general, a rivalry between two or more entities: animals, organisms, economic groups, individuals, social groups, etc., for group or social status, leadership, profit, and recognition: awards, goods, mates, prestige, a niche, scarce resources, or a territory.\nCompetition occurs in nature, between living organisms which co-exist in the same environment. Animals compete over water supplies, food, mates, and other biological resources. Humans usually compete for food and mates, though when these needs are met deep rivalries often arise over the pursuit of wealth, power, prestige, and fame. Competition is a major tenet of market economies and business, often associated with business competition as companies are in competition with at least one other firm over the same group of customers. Competition inside a company is usually stimulated with the larger purpose of meeting and reaching higher quality of services or improved products that the company may produce or develop.\nCompetition is often considered to be the opposite of cooperation, however in the real world, mixtures of cooperation and competition are the norm. Optimal strategies to achieve goals are studied in the branch of mathematics known as game theory.\nCompetition has been studied in several fields, including psychology, sociology and anthropology. Social psychologists, for instance, study the nature of competition. They investigate the natural urge of competition and its circumstances. They also study group dynamics, to detect how competition emerges and what its effects are. Sociologists, meanwhile, study the effects of competition on society as a whole. Additionally, anthropologists study the history and prehistory of competition in various cultures. They also investigate how competition manifested itself in various cultural settings in the past, and how competition has developed over time.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Competition"
+    },
+    {
+        "title": "Cricket",
+        "content": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps. The batting side scores runs by striking the ball bowled at the wicket with the bat (and running between the wickets), while the bowling and fielding side tries to prevent this (by preventing the ball from leaving the field, and getting the ball to either wicket) and dismiss each batter (so they are \"out\"). Means of dismissal include being bowled, when the ball hits the stumps and dislodges the bails, and by the fielding side either catching the ball after it is hit by the bat, but before it hits the ground, or hitting a wicket with the ball before a batter can cross the crease in front of the wicket. When ten batters have been dismissed, the innings ends and the teams swap roles. The game is adjudicated by two umpires, aided by a third umpire and match referee in international matches. They communicate with two off-field scorers who record the match's statistical information.\nForms of cricket range from Twenty20, with each team batting for a single innings of 20 overs, to Test matches played over five days. Traditionally cricketers play in all-white kit, but in limited overs cricket they wear club or team colours. In addition to the basic kit, some players wear protective gear to prevent injury caused by the ball, which is a hard, solid spheroid made of compressed leather with a slightly raised sewn seam enclosing a cork core layered with tightly wound string.\nThe earliest reference to cricket is in South East England in the mid-16th century. It spread globally with the expansion of the British Empire, with the first international matches in the second half of the 19th century. The game's governing body is the International Cricket Council (ICC), which has over 100 members, twelve of which are full members who play Test matches. The game's rules, the Laws of Cricket, are maintained by Marylebone Cricket Club (MCC) in London. The sport is followed primarily in the Indian subcontinent, Australasia, the United Kingdom, southern Africa and the West Indies. Women's cricket, which is organised and played separately, has also achieved international standard. The most successful side playing international cricket is Australia, which has won seven One Day International trophies, including five World Cups, more than any other country and has been the top-rated Test side more than any other country.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cricket"
+    },
+    {
+        "title": "Cross country",
+        "content": "Cross country or cross-country may refer to:",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cross_country"
+    },
+    {
+        "title": "Curling",
+        "content": "Curling is a sport in which players slide stones on a sheet of ice toward a target area which is segmented into four concentric circles. It is related to bowls, boules and shuffleboard. Two teams, each with four players, take turns sliding heavy, polished granite stones, also called rocks, across the ice curling sheet toward the house, a circular target marked on the ice. Each team has eight stones, with each player throwing two. The purpose is to accumulate the highest score for a game; points are scored for the stones resting closest to the centre of the house at the conclusion of each end, which is completed when both teams have thrown all of their stones. A game usually consists of eight or ten ends.\nThe player can induce a curved path, described as curl, by causing the stone to slowly turn as it slides. The path of the rock may be further influenced by two sweepers with brooms or brushes, who accompany it as it slides down the sheet and sweep the ice in front of the stone. \"Sweeping a rock\" decreases the friction, which makes the stone travel a straighter path (with less \"curl\") and a longer distance. A great deal of strategy and teamwork go into choosing the ideal path and placement of a stone for each situation, and the skills of the curlers determine the degree to which the stone will achieve the desired result. This gives curling its nickname of \"chess on ice\".",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Curling"
+    },
+    {
+        "title": "Darts",
+        "content": "Darts is a sport in which two or more players throw small missiles, also known as darts, at a circular target, known as a \"dartboard\".. Points can be scored by hitting specific marked areas of the board, though, unlike in sports such as archery, these areas are distributed all across the board and do not follow a principle of points increasing towards the centre of the board. Though a number of similar games using various boards and rules exist, the term \"darts\" usually now refers to a standardised game involving a specific board design and set of rules. \nAs well as being a professional competitive sport, darts is a traditional pub game. Darts is commonly played in the United Kingdom and the Republic of Ireland; it is, however, enjoyed across the world.\nDarts players are sometimes termed \"dartists\".",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Darts"
+    },
+    {
+        "title": "Deadlift",
+        "content": "The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground.  It is one of the three powerlifting exercises, along with the squat and bench press.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Deadlift"
+    },
+    {
+        "title": "Decathlon",
+        "content": "The decathlon is a combined event in athletics consisting of ten track and field events. The word \"decathlon\" was formed, in analogy to the word \"pentathlon\", from Greek \u03b4\u03ad\u03ba\u03b1 (d\u00e9ka, meaning \"ten\") and \u1f04\u03b8\u03bb\u03bf\u03c2 (\u00e1thlos, or \u1f04\u03b8\u03bb\u03bf\u03bd, \u00e1thlon, meaning \"contest\" or \u201cprize\u201d). Events are held over two consecutive days and the winners are determined by the combined performance in all. Performance is judged on a points system in each event, not by the position achieved. The decathlon is contested mainly by male athletes, while female athletes typically compete in the heptathlon.\nTraditionally, the title of \"World's Greatest Athlete\" has been given to the person who wins the decathlon, thus the world's greatest athlete of all times is the record-man of decathlon (Kevin Mayer as of September 2018). This began when King Gustav V of Sweden told Jim Thorpe, \"You, sir, are the world's greatest athlete\" after Thorpe won the decathlon at the Stockholm Olympics in 1912.The event is similar to the pentathlon held at the ancient Greek Olympics, and also similar to a competition called an \"all-around\", which was contested at the United States amateur championships in 1884. Another all-around was held at the 1904 Summer Olympics. The modern decathlon first appeared at the 1912 Games.The current official decathlon world record holder is French Kevin Mayer, who scored a total of 9,126 points at the 2018 D\u00e9castar in France.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Decathlon"
+    },
+    {
+        "title": "Diving (sport)",
+        "content": "Diving is the sport of jumping or falling into water from a platform or springboard, usually while performing acrobatics. Diving is an internationally recognized sport that is part of the Olympic Games.  In addition, unstructured and non-competitive diving is a recreational pastime.\nCompetitors possess many of the same characteristics as gymnasts and dancers, including strength, flexibility, kinaesthetic judgment and air awareness. Some professional divers were originally gymnasts or dancers as both the sports have similar characteristics to diving. Dmitri Sautin holds the record for most Olympic diving medals won, by winning eight medals in total between 1992 and 2008.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Diving_(sport)"
+    },
+    {
+        "title": "Equipment",
+        "content": "Equipment most commonly refers to a set of tools or other objects commonly used to achieve a particular objective. Different jobs require different kinds of equipment.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Equipment"
+    },
+    {
+        "title": "Fencing",
+        "content": "Fencing is a group of three related combat sports. The three disciplines in modern fencing are the  foil, the \u00e9p\u00e9e, and the sabre (also saber); winning points are made through the weapon's contact with an opponent. A fourth discipline, singlestick, appeared in the 1904 Olympics but was dropped after that, and is not a part of modern fencing. Fencing was one of the first sports to be played in the Olympics. Based on the traditional skills of swordsmanship, the modern sport arose at the end of the 19th century, with the Italian school having modified the historical European martial art of classical fencing, and the French school later refining the Italian system. There are three forms of modern fencing, each of which uses a different kind of weapon and has different rules; thus the sport itself is divided into three competitive scenes: foil, \u00e9p\u00e9e, and sabre. Most competitive fencers choose to specialize in one weapon only.\nCompetitive fencing is one of the five activities which have been featured in every modern Olympic Games, the other four being athletics, cycling, swimming, and gymnastics.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fencing"
+    },
+    {
+        "title": "Physical fitness",
+        "content": "Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports,  occupations and daily activities. Physical fitness is generally achieved through proper nutrition, moderate-vigorous physical exercise, and sufficient rest.Before the industrial revolution, fitness was defined as the capacity to carry out the day\u2019s activities without undue fatigue. However, with automation and changes in lifestyles physical fitness is now considered a measure of the body's ability to function efficiently and effectively in work and leisure activities, to be healthy, to resist hypokinetic diseases, and to meet emergency situations.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+        "title": "Figure skating",
+        "content": "Figure skating is a sport in which individuals, pairs, or groups perform on figure skates on ice. It was the first winter sport to be included in the Olympic Games, when contested at the 1908 Olympics in London. The four Olympic disciplines are men's singles, ladies' singles, pair skating, and ice dance; the non-Olympic disciplines include synchronized skating, Theater on Ice, and four skating. From intermediate through senior-level competition, skaters generally perform two programs (the short program and the free skate), which, depending on the discipline, may include spins, jumps, moves in the field, lifts, throw jumps, death spirals, and other elements or moves.\nThe blade of a figure skate has a groove on the bottom creating two distinct edges: inside and outside. Judges prefer that skaters glide on one edge of the blade and not on both at the same time, which is referred to as a \"flat edge\". Skates used in singles and pair skating have a set of large, jagged teeth called a \"toe pick\" on the front of each blade. The toe picks are mainly used to help launch the skater into the air for the take-off when performing jumps. Ice dance blades have smaller toe picks than blades used for the other disciplines. During a spin, skaters use the \"sweet spot\" of the blade, formally called a rocker, which is the roundest portion of the blade, just behind the toe pick and near the middle of the blade.\nFigure skaters compete at various levels from beginner up to the Olympic level (senior) at local, regional, sectional, national, and international competitions. The International Skating Union (ISU) regulates international figure skating judging and competitions. These include the Winter Olympics, the World Championships, the World Junior Championships, the European Championships, the Four Continents Championships, the Grand Prix series (senior and junior), and the ISU Challenger Series.\nThe sport is also associated with show business. Major competitions generally conclude with exhibition galas, in which the top skaters from each discipline perform non-competitive programs. Many skaters, both during and after their competitive careers, also skate in ice shows, which run during the competitive season and the off-season.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Figure_skating"
+    },
+    {
+        "title": "Frisbee",
+        "content": "A frisbee (pronounced FRIZ-bee, origin of the term dates to 1957, also called a flying disc or simply a disc) is a gliding toy or sporting item that is generally made of injection molded plastic and roughly 8 to 10 inches (20 to 25 cm) in diameter with a pronounced lip.  It is used recreationally and competitively for throwing and catching, as in flying disc games. The shape of the disc is an airfoil in cross-section which allows it to fly by generating lift as it moves through the air. Spinning the disc imparts a stabilizing gyroscopic force, allowing it to be both aimed with accuracy and thrown for distance.\nA wide range is available of flying disc variants. Those for disc golf are usually smaller but denser and tailored for particular flight profiles to increase or decrease stability and distance. The longest recorded disc throw is by David Wiggins Jr. with a distance of 1,109 feet (338 m). Disc dog sports use relatively slow-flying discs made of more pliable material to better resist a dog's bite and prevent injury to the dog. Flying rings are also available which typically travel significantly farther than any traditional flying disc. Illuminated discs are made of phosphorescent plastic or contain chemiluminescent fluid or battery-powered LEDs for play after dark. Others whistle when they reach a certain velocity in flight.\nThe term frisbee is often used generically to describe all flying discs, but Frisbee is a registered trademark of the Wham-O toy company. This protection results in organized sports such as Ultimate or disc golf having to forgo use of the word \"Frisbee\".",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Frisbee"
+    },
+    {
+        "title": "Geocaching",
+        "content": "Geocaching  is an outdoor recreational activity, in which participants use a Global Positioning System (GPS) receiver or mobile device and other navigational techniques to hide and seek containers, called \"geocaches\" or \"caches\", at specific locations marked by coordinates all over the world.A typical cache is a small waterproof container containing a logbook and sometimes a pen or pencil. The geocacher signs the log with their established code name and dates it, in order to prove that they found the cache. After signing the log, the cache must be placed back exactly where the person found it.  Larger containers such as plastic storage containers (Tupperware or similar) or ammunition boxes can also contain items for trading, such as toys or trinkets, usually of more sentimental worth than financial. Geocaching shares many aspects with benchmarking, trigpointing, orienteering, treasure-hunting, letterboxing, waymarking and Munzee.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Geocaching"
+    },
+    {
+        "title": "Goalkeeper",
+        "content": "In many team sports which involve scoring goals, the goalkeeper (sometimes termed goaltender, netminder, goalie or keeper) is a designated player charged with directly preventing the opposing team from scoring by blocking or intercepting opposing shots on goal that kicks the ball from the other player.\nSuch positions exist in bandy, rink bandy, camogie, association football, Gaelic football, international rules football, floorball, handball, hurling, field hockey, ice hockey, roller hockey, lacrosse, ringette, rinkball, water polo, and shinty as well as in other sports.\nIn most sports which involve scoring in a net, special rules apply to the goalkeeper that do not apply to other players. These rules are often instituted to protect the goalkeeper (being a target for dangerous or even violent actions). \nThis is most apparent in sports such as ice hockey and lacrosse, where goalkeepers are required to wear special equipment like heavy pads and a face mask to protect their bodies from the impact of the playing object (eg. ball or puck.)\nIn some sports, goalkeepers may have the same rights as other players; in association football, for example, the keeper is allowed to kick the ball just as any other player, but may also use their hands to handle the ball in a restricted area. In other sports, goalkeepers may be limited in the actions they are allowed to take or the area of the field or rink where they may be; in the NHL, for example, goalkeepers may not play the puck in the restricted areas behind the net or take the puck across the red line.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Goalkeeper"
+    },
+    {
+        "title": "Gold medal",
+        "content": "A gold medal is a medal awarded for highest achievement in a non-military field. Its name derives from the use of at least a fraction of gold in form of plating or alloying in its manufacture.\nSince the eighteenth century, gold medals have been awarded in the arts, for example, by the Royal Danish Academy, usually as a symbol of an award to give an outstanding student some financial freedom. Others offer only the prestige of the award. Many organizations now award gold medals either annually or extraordinarily, including UNESCO and various academic societies.\nWhile some gold medals are solid gold, others are gold-plated or silver-gilt, like those of the Olympic Games, the Lorentz Medal, the United States Congressional Gold Medal  and the Nobel Prize medal.  Nobel Prize medals consist of 18 karat green gold plated with 24 karat gold. Before 1980 they were struck in 23 karat gold.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gold_medal"
+    },
+    {
+        "title": "Golf",
+        "content": "Golf is a club-and-ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible.\nGolf, unlike most ball games, cannot and does not utilize a standardized playing area, and coping with the varied terrains encountered on different courses is a key part of the game. The game at the usual level is played on a course with an arranged progression of 18 holes, though recreational courses can be smaller, often having nine holes. Each hole on the course must contain a teeing ground to start from, and a putting green containing the actual hole or cup 4 1\u20444 inches (11 cm) in diameter. There are other standard forms of terrain in between, such as the fairway, rough (long grass), bunkers (or \"sand traps\"), and various hazards (water, rocks) but each hole on a course is unique in its specific layout and arrangement.\nGolf is played for the lowest number of strokes by an individual, known as stroke play, or the lowest score on the most individual holes in a complete round by an individual or team, known as match play. Stroke play is the most commonly seen format at all levels, but most especially at the elite level.\nThe modern game of golf originated in 15th century Scotland. The 18-hole round was created at the Old Course at St Andrews in 1764. Golf's first major, and the world's oldest tournament in existence, is The Open Championship, also known as the British Open, which was first played in 1860 in Ayrshire, Scotland. This is one of the four major championships in men's professional golf, the other three being played in the United States: The Masters, the U.S. Open, and the PGA Championship.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+        "title": "Gym",
+        "content": "A gymnasium, also known as a gym, is a covered location for athletics. The word is derived from the ancient Greek gymnasium. They are commonly found in athletic and fitness centers, and as activity and learning spaces in educational institutions. \"Gym\" is also slang for \"fitness center\", which is often an area for indoor recreation. A gym may be open air as well. A gym is a place with a number of equipments and machines used by the people to do exercises.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gym"
+    },
+    {
+        "title": "Gymnastics",
+        "content": "Gymnastics is a sport that includes physical exercises requiring balance, strength, flexibility, agility, coordination, and endurance. The movements involved in gymnastics contribute to the development of the arms, legs, shoulders, back, chest, and abdominal muscle groups. Alertness, precision, daring, self-confidence, and self-discipline are mental traits that can also be developed through gymnastics evolved from exercises used by the ancient Greeks that included skills for mounting and dismounting a horse and from circus performance skills.\nThe most common form of competitive gymnastics is artistic gymnastics, which consists of (for women WAG) the events floor, vault, uneven bars, and beam. For men MAG, it consists of the events floor, vault, rings, pommel horse, parallel bars, and horizontal bar.  The governing body for gymnastics through out the world is the F\u00e9d\u00e9ration Internationale de Gymnastique (FIG). Eight sports are governed by the FIG, which include Gymnastics for All, Men's and Women\u2019s Artistic Gymnastics, Rhythmic Gymnastics, Trampoline (including Double Mini-trampoline), Tumbling, acrobatic, and aerobic.  Disciplines not currently recognized by FIG include wheel gymnastics, aesthetic group gymnastics, men's rhythmic gymnastics, TeamGym, and mallakhamba.\nParticipants in gymnastics-related sports can include young children, recreational-level athletes, and competitive athletes at varying levels of skill, including world-class athletes.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gymnastics"
+    },
+    {
+        "title": "Handball",
+        "content": "Handball (also known as team handball, European handball or Olympic handball) is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins.\nModern handball is played on a court of 40 by 20 metres (131 by 66 ft), with a goal in the middle of each end. The goals are surrounded by a 6-meter (20 ft) zone where only the defending goalkeeper is allowed; goals must be scored by throwing the ball from outside the zone or while \"diving\" into it. The sport is usually played indoors, but outdoor variants exist in the forms of field handball, Czech handball (which were more common in the past) and beach handball. The game is fast and high-scoring: professional teams now typically score between 20 and 35 goals each, though lower scores were not uncommon until a few decades ago. Players may score hat tricks. Body contact is permitted for the defenders trying to stop the attackers from approaching the goal. No protective equipment is mandated, but players may wear soft protective bands, pads and mouth guards.The game was codified at the end of the 19th century in Denmark. The modern set of rules was published on 29 October 1917 in Berlin, which is seen as the date of birth of the sport, and had several revisions since. The first official handball match was played in the same year in Germany. The first international games were played under these rules for men in 1925 and for women in 1930. Men's handball was first played at the 1936 Summer Olympics in Berlin as outdoors, and the next time at the 1972 Summer Olympics in Munich as indoors, and has been an Olympic sport since. Women's team handball was added at the 1976 Summer Olympics.\nThe International Handball Federation was formed in 1946 and, as of 2016, has 197 member federations. The sport is most popular in Europe, and European countries have won all medals but one in the men's world championships since 1938. In the women's world championships, only two non-European countries have won the title: South Korea and Brazil. The game also enjoys popularity in East Asia, North Africa and parts of South America.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Handball"
+    },
+    {
+        "title": "Batting (baseball)",
+        "content": "In baseball, batting is the act of facing the opposing pitcher and trying to produce offense for one's team. A batter or hitter is a person whose turn it is to face the pitcher. The three main goals of batters are to become a baserunner, to drive runners home or to advance runners along the bases for others to drive home, but the techniques and strategies they use to do so vary.  Hitting uses a motion that is virtually unique to baseball, one that is rarely used in other sports.  Hitting is unique because it involves rotating in the horizontal plane of movement, unlike most sports movements which occur in the vertical plane.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Batting_(baseball)"
+    },
+    {
+        "title": "home team (sports)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Hurdle",
+        "content": "A hurdle (UK English, limited US English) is a moveable section of light fence.  In the United States, terms such as \"panel\", \"pipe panel\" or simply \"fence section\" are used to describe moveable sections of fencing intended for agricultural use and crowd control; \"hurdle\" refers primarily to fences used as jumping obstacles for steeplechasing with horses or human track and field competition.\nTraditional hurdles were made from wattle, but modern designs for fencing are often made of metal. They are used for handling livestock, as decorative fencing, for steeplechasing and in the track and field event of hurdling.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Hurdle"
+    },
+    {
+        "title": "Ice hockey",
+        "content": "Ice hockey is a contact team sport played on ice, usually in a rink, in which two teams of skaters use their sticks to shoot a vulcanized rubber puck into their opponent's net to score goals. The sport is known to be fast-paced and physical, with teams usually fielding six players at a time: one goaltender, and five players who skate the span of the ice trying to control the puck and score goals against the opposing team.\nIce hockey is most popular in Canada, central and eastern Europe, the Nordic countries, Russia, and the United States. Ice hockey is the official national winter sport of Canada. In addition, ice hockey is the most popular winter sport in Belarus, Croatia, the Czech Republic, Finland, Latvia, Russia, Slovakia, Sweden, and Switzerland. North America's National Hockey League (NHL) is the highest level for men's ice hockey and the strongest professional ice hockey league in the world. The Kontinental Hockey League (KHL) is the highest league in Russia and much of Eastern Europe. The International Ice Hockey Federation (IIHF) is the formal governing body for international ice hockey, with the IIHF managing international tournaments and maintaining the IIHF World Ranking. Worldwide, there are ice hockey federations in 76 countries.In Canada, the United States, Nordic countries, and some other European countries the sport is known simply as hockey; the name \"ice hockey\" is used in places where \"hockey\" more often refers to field hockey, such as countries in South America, Asia, Africa, Australasia, and some European countries including the United Kingdom, Ireland and the Netherlands.Ice hockey is believed to have evolved from simple stick and ball games played in the 18th and 19th centuries in the United Kingdom and elsewhere. These games were brought to North America and several similar winter games using informal rules were developed, such as shinny and ice polo. The contemporary sport of ice hockey was developed in Canada, most notably in Montreal, where the first indoor hockey game was played on March 3, 1875. Some characteristics of that game, such as the length of the ice rink and the use of a puck, have been retained to this day. Amateur ice hockey leagues began in the 1880s, and professional ice hockey originated around 1900. The Stanley Cup, emblematic of ice hockey club supremacy, was first awarded in 1893 to recognize the Canadian amateur champion and later became the championship trophy of the NHL. In the early 1900s, the Canadian rules were adopted by the Ligue Internationale de Hockey Sur Glace, the precursor of the IIHF and the sport was played for the first time at the Olympics during the 1920 Summer Olympics.\nIn international competitions, the national teams of six countries (the Big Six) predominate: Canada, Czech Republic, Finland, Russia, Sweden and the United States. Of the 69 medals awarded all-time in men's competition at the Olympics, only seven medals were not awarded to one of those countries (or two of their precursors, the Soviet Union for Russia, and Czechoslovakia for the Czech Republic). In the annual Ice Hockey World Championships, 177 of 201 medals have been awarded to the six nations. Teams outside the Big Six have won only five medals in either competition since 1953. The World Cup of Hockey is organized by the National Hockey League and the National Hockey League Players' Association (NHLPA), unlike the annual World Championships and quadrennial Olympic tournament, both run by the International Ice Hockey Federation. World Cup games are played under NHL rules and not those of the IIHF, and the tournament occurs prior to the NHL pre-season, allowing for all NHL players to be available, unlike the World Championships, which overlaps with the NHL's Stanley Cup playoffs. Furthermore, all 12 Women's Olympic and 36 IIHF World Women's Championship medals were awarded to one of the Big Six. The Canadian national team or the United States national team have between them won every gold medal of either series.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ice_hockey"
+    },
+    {
+        "title": "Ice rink",
+        "content": "An ice rink (or ice skating rink) is a frozen body of water and/or hardened chemicals where people can ice skate or play winter sports. Besides recreational ice skating, some of its uses include ice hockey, bandy, rink bandy, ringette, broomball, speed skating, figure skating, ice stock sport and curling as well as exhibitions, contests and ice shows. There are two types of rinks in prevalent use today: natural, where freezing occurs from cold ambient temperatures, and artificial (or mechanically frozen), where a coolant produces cold temperatures in the surface below the water, causing the water to freeze. There are also synthetic ice rinks where skating surfaces are made out of plastics.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ice_rink"
+    },
+    {
+        "title": "Ice skating",
+        "content": "Ice skating is the self-propulsion of a person across a sheet of ice, using metal-bladed ice skates to glide on the ice surface. This activity can be carried out for various reasons, including recreation, sport, exercise, and travel. Ice skating may be performed on specially prepared ice surfaces (arenas, tracks, parks), both indoors and outdoors, as well as on naturally occurring bodies of frozen water, such as ponds, lakes and rivers.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ice_skating"
+    },
+    {
+        "title": "Jogging",
+        "content": "Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress on the body than from faster running but more than walking, or to maintain a steady speed for longer periods of time. Performed over long distances, it is a form of aerobic endurance training.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Jogging"
+    },
+    {
+        "title": "Skipping rope",
+        "content": "A skipping rope (British English) or jump rope (American English) is a tool used in the sport of skipping/jump rope where one or more participants jump over a rope swung so that it passes under their feet and over their heads. There are multiple subsets of skipping/jump rope, including single freestyle, single speed, pairs, three-person speed (Double Dutch), and three-person freestyle (Double Dutch freestyle). Often separated by sex and age, events include hundreds of competitive teams all around the world. There are a few major organizations that support jump rope as a sport as seen below. In the US, schools rarely have jump rope teams, and states do not sanction official events for high school or elementary school. In freestyle events, jumpers use a variety of basic and advanced techniques in a routine of one minute, which is judged by a head judge, content judges, and performance judges. In speed events, a jumper alternates their feet with the rope going around the jumper every time one of their feet hit the ground for 30 seconds, one minute, or three minutes. The jumper is judged on the number of times the right foot touches the ground in those times.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Skipping_rope"
+    },
+    {
+        "title": "Karate",
+        "content": "Karate (\u7a7a\u624b) (; Japanese pronunciation: [ka\u027eate] (listen); Okinawan pronunciation: [ka\u027dati]) is a martial art developed in the Ryukyu Kingdom. It developed from the indigenous Ryukyuan martial arts (called te (\u624b), \"hand\"; tii in Okinawan) under the influence of Kung Fu, particularly Fujian White Crane. Karate is now predominantly a striking art using punching, kicking, knee strikes, elbow strikes and open-hand techniques such as knife-hands, spear-hands and palm-heel strikes. Historically, and in some modern styles, grappling, throws, joint locks, restraints and vital-point strikes are also taught. A karate practitioner is called a karateka (\u7a7a\u624b\u5bb6), and its plural is \"karateka\" or \"karatekas\".\nThe Empire of Japan annexed the Ryukyu Kingdom in 1879. Karate came to the Japanese archipelago in the early 20th century during a time of migration as Ryukyuans, especially from Okinawa, looked for work in the main islands of Japan. It was systematically taught in Japan after the Taish\u014d era of 1912\u20131926. In 1922 the Japanese Ministry of Education invited Gichin Funakoshi to Tokyo to give a karate demonstration. In 1924 Keio University established the first university karate club in mainland Japan, and by 1932 major Japanese universities had karate clubs. In this era of escalating Japanese militarism, the name was changed from \u5510\u624b (\"Chinese hand\" or \"Tang hand\") to \u7a7a\u624b (\"empty hand\") \u2013 both of which are pronounced karate in Japanese \u2013 to indicate that the Japanese wished to develop the combat form in Japanese style. After World War II, Okinawa became (1945) an important United States military site and karate became popular among servicemen stationed there.The martial-arts movies of the 1960s and 1970s served to greatly increase the popularity of martial arts around the world, and English-speakers began to use the word karate in a generic way to refer to all striking-based Asian martial arts. Karate schools began appearing across the world, catering to those with casual interest as well as those seeking a deeper study of the art.\nShigeru Egami, Chief Instructor of Shotokan D\u014dj\u014d, opined that \"the majority of followers of karate in overseas countries pursue karate only for its fighting techniques ... Movies and television ... depict karate as a mysterious way of fighting capable of causing death or injury with a single blow ... the mass media present a pseudo art far from the real thing.\" Sh\u014dshin Nagamine said: \"Karate may be considered as the conflict within oneself or as a life-long marathon which can be won only through self-discipline, hard training and one's own creative efforts.\"On 28 September 2015 karate featured on a shortlist (along with baseball, softball, skateboarding, surfing, and sport climbing) for consideration for inclusion in the 2020 Summer Olympics. On 1 June 2016 the International Olympic Committee's executive board announced they were supporting the inclusion of all five sports (counting baseball and softball as only one sport) for inclusion in the 2020 Games.\nWeb Japan (sponsored by the Japanese Ministry of Foreign Affairs) claims that karate has 50 million practitioners worldwide, while the World Karate Federation claims there are 100 million practitioners around the world.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Karate"
+    },
+    {
+        "title": "Kickball",
+        "content": "Kickball (also known as soccer baseball in most of Canada) is a game and league game, similar to baseball, invented in the United States by Nicholas C. Seuss. As in baseball, one team tries to score by having its players return a ball from home base to the field and then circle the bases, while the other team tries to stop them by tagging them \"out\" with the ball before they can return to the home base. Instead of hitting a small, hard ball with a bat, players kick an inflated rubber ball; this makes it more accessible to young children. As in baseball, teams alternate half-innings. The team with the most runs after a predefined number of innings wins.\nKickball is a popular playground game and is typically played among young, school-age children. The lack of both specialized equipment and highly skill-based positions (like pitcher) makes the game an accessible introduction to other sports. It is just as popular among adults, who are more commonly known to play similar games like softball and baseball.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Kickball"
+    },
+    {
+        "title": "Kayak",
+        "content": "A kayak is a small, narrow watercraft which is typically propelled by means of a double-bladed paddle. The word kayak originates from the Greenlandic word qajaq (IPA: [qaj\u0251q]).\nThe traditional kayak has a covered deck and one or more cockpits, each seating one paddler. The cockpit is sometimes covered by a spray deck that prevents the entry of water from waves or spray, differentiating the craft from a canoe. The spray deck makes it possible for suitably skilled kayakers to roll the kayak: that is, to capsize and right it without it filling with water or ejecting the paddler.\n\nSome modern boats vary considerably from a traditional design but still claim the title \"kayak\", for instance in eliminating the cockpit by seating the paddler on top of the boat (\"sit-on-top\" kayaks); having inflated air chambers surrounding the boat; replacing the single hull by twin hulls, and replacing paddles with other human-powered propulsion methods, such as foot-powered rotational propellers and \"flippers\". Kayaks are also being sailed, as well as propelled by means of small electric motors, and even by outboard gas engines.\n\nThe kayak was first used by the indigenous Aleut, Inuit, Yupik and possibly Ainu hunters in subarctic regions of the world.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Kayak"
+    },
+    {
+        "title": "Chinese martial arts",
+        "content": "Chinese martial arts, often named under the umbrella terms kung fu (; Chinese: \u529f\u592b; pinyin: g\u014dngfu; Cantonese Yale: g\u016bng f\u016b), kuoshu (\u570b\u8853; gu\u00f3sh\u00f9) or wushu (\u6b66\u8853; w\u01d4sh\u00f9), are several hundred fighting styles that have developed over the centuries in China. These fighting styles are often classified according to common traits, identified as \"families\" (\u5bb6; ji\u0101), \"sects\" (\u6d3e; p\u00e0i) or \"schools\" (\u9580; m\u00e9n) of martial arts. Examples of such traits include Shaolinquan  (\u5c11\u6797\u62f3) physical exercises involving Five Animals (\u4e94\u5f62) mimicry or training methods inspired by Old Chinese philosophies, religions and legends. Styles that focus on qi manipulation are called internal (\u5185\u5bb6\u62f3; n\u00e8iji\u0101qu\u00e1n), while others that concentrate on improving muscle and cardiovascular fitness are called external (\u5916\u5bb6\u62f3; w\u00e0iji\u0101qu\u00e1n). Geographical association, as in northern (\u5317\u62f3; b\u011biqu\u00e1n) and southern (\u5357\u62f3; n\u00e1nqu\u00e1n), is another popular classification method.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Chinese_martial_arts"
+    },
+    {
+        "title": "Lacrosse",
+        "content": "Lacrosse is a team sport played with a lacrosse stick and a lacrosse ball. It is the oldest organized sport in North America, with its origins in a tribal game played by the indigenous peoples of the Eastern Woodlands and by various other indigenous peoples of North America. The game was extensively modified reducing the violence  by European colonizers to create its current collegiate and professional form.The modern sport is governed by World Lacrosse and is the only international sport organization to recognize First Nations bands and Native American tribes as sovereign nations. The organization hosts the World Lacrosse Championship for men, the Women's Lacrosse World Cup, the World Indoor Lacrosse Championship for box lacrosse, and the Under-19 World Lacrosse Championships for both men and women. Each is held every four years. Lacrosse at the Summer Olympics has been contested at two editions of the Summer Olympic Games, 1904 and 1908. It was also held as a demonstration event at the 1928, 1932, and 1948 Summer Olympics.Players use the head of the lacrosse stick to carry, pass, catch, and shoot the ball into the goal. The sport has four versions that have different sticks, fields, rules and equipment: field lacrosse, women's lacrosse, box lacrosse and intercrosse. The men's games, field lacrosse (outdoor) and box lacrosse (indoor), are contact sports and all players wear protective gear: helmet, gloves, shoulder pads, and elbow pads. The women's game is played outdoors and does not allow body contact but does allow stick to stick contact. The only protective gear required for women players is eyegear, while goalies wear helmets and protective pads. Intercrosse is a mixed-gender non-contact sport played indoors that uses an all-plastic stick and a softer ball.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Lacrosse"
+    },
+    {
+        "title": "Martial arts",
+        "content": "Martial arts are codified systems and traditions of combat practiced for a number of reasons such as self-defense; military and law enforcement applications; competition;  physical, mental, and spiritual development; entertainment; and the preservation of a nation's intangible cultural heritage.Although the term martial art has become associated with the fighting arts of East Asia, it originally referred to the combat systems of Europe as early as the 1550s. The term is derived from Latin and means \"arts of Mars\", the Roman god of war. Some authors have argued that fighting arts or fighting systems would be more appropriate on the basis that many martial arts were never \"martial\" in the sense of being used or created by professional warriors.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Martial_arts"
+    },
+    {
+        "title": "Nordic skiing",
+        "content": "Nordic skiing encompasses the various types of skiing in which the toe of the ski boot is fixed to the binding in a manner that allows the heel to rise off the ski, unlike Alpine skiing, where the boot is attached to the ski from toe to heel. Recreational disciplines include cross-country skiing and Telemark skiing.\nOlympic events are competitive cross-country skiing, ski jumping, biathlon and Nordic combined\u2014competition in which athletes both cross-country ski and ski jump. The FIS Nordic World Ski Championships host these sports, plus Telemark skiing, at the championship level in the winter of every odd-numbered year. Biathlon combines cross-country skiing and rifle shooting, but is not included as a Nordic discipline under the rules of the International Ski Federation (FIS). Instead, it comes under the jurisdiction of the International Biathlon Union.The biomechanics of competitive cross-country skiing and ski jumping have been the subject of serious study. Cross-country skiing requires strength and endurance and ski jumping requires aerodynamic efficiency, both of which requirements translate into specific skills\nto be optimized in training and competition.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Nordic_skiing"
+    },
+    {
+        "title": "Olympic Games",
+        "content": "The modern Olympic Games or Olympics (French: Jeux olympiques) are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating. The Olympic Games are normally held every four years, alternating between the Summer and Winter Olympics every two years in the four-year period.\nTheir creation was inspired by the ancient Olympic Games (Ancient Greek: \u1f48\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03af \u1f08\u03b3\u1ff6\u03bd\u03b5\u03c2), held in Olympia, Greece from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894, leading to the first modern Games in Athens in 1896. The IOC is the governing body of the Olympic Movement, with the Olympic Charter defining its structure and authority.\nThe evolution of the Olympic Movement during the 20th and 21st centuries has resulted in several changes to the Olympic Games. Some of these adjustments include the creation of the Winter Olympic Games for snow and ice sports, the Paralympic Games for athletes with disabilities, the Youth Olympic Games for athletes aged 14 to 18, the five Continental games (Pan American, African, Asian, European, and Pacific), and the World Games for sports that are not contested in the Olympic Games. The IOC also endorses the Deaflympics and the Special Olympics. The IOC has needed to adapt to a variety of economic, political, and technological advancements. The abuse of amateur rules by the Eastern Bloc nations prompted the IOC to shift away from pure amateurism, as envisioned by Coubertin, to the acceptance of professional athletes participating at the Games. The growing importance of mass media has created the issue of corporate sponsorship and general commercialisation of the Games. World wars led to the cancellation of the 1916, 1940, and 1944 Olympics; large-scale boycotts during the Cold War limited participation in the 1980 and 1984 Olympics; and the 2020 Olympics were postponed until 2021 as a result of the COVID-19 pandemic.\nThe Olympic Movement consists of international sports federations (IFs), National Olympic Committees (NOCs), and organising committees for each specific Olympic Games. As the decision-making body, the IOC is responsible for choosing the host city for each Games, and organises and funds the Games according to the Olympic Charter. The IOC also determines the Olympic programme, consisting of the sports to be contested at the Games. There are several Olympic rituals and symbols, such as the Olympic flag and torch, as well as the opening and closing ceremonies. Over 14,000 athletes competed at the 2016 Summer Olympics and 2018 Winter Olympics combined, in 35 different sports and over 400 events. The first, second, and third-place finishers in each event receive Olympic medals: gold, silver, and bronze, respectively.\nThe Games have grown so much that nearly every nation is now represented. This growth has created numerous challenges and controversies, including boycotts, doping, bribery, and a terrorist attack in 1972. Every two years the Olympics and its media exposure provide athletes with the chance to attain national and sometimes international fame. The Games also constitute an opportunity for the host city and country to showcase themselves to the world.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Olympic_Games"
+    },
+    {
+        "title": "orienteeting",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Paintball",
+        "content": "Paintball is a competitive team shooting sport in which players eliminate opponents from play by hitting them with spherical dye-filled gelatin capsules called paintballs that break upon impact. Paintballs are usually shot using low-energy air weapons called paintball markers that are powered by compressed air (nitrogen) or carbon dioxide and were originally designed for remotely marking trees and cattle.The game was initially developed in May 1981 in New Hampshire by Hayes Noel, a Wall Street stock trader, and Charles Gaines, an outdoorsman and writer. A debate arose between them about whether a city-dweller had the instinct to survive in the woods against a man who had spent his youth hunting, fishing, and building cabins. The two men chanced upon an advertisement for a paint gun in a farm catalogue and were inspired to use it to settle their argument with 10 other men all in individual competition, eventually creating the sport of paintball.The sport is played for recreation and is also played at a formal sporting level with organized competition that involves major tournaments, professional teams, and players. Paintball technology is also used by military forces, law enforcement, paramilitary, and security organizations to supplement military or other training.\nGames can be played on indoor or outdoor fields of varying sizes. A playing field may have natural or artificial terrain which players use for tactical cover. Game types and goals vary, but include capture the flag, elimination,  defending or attacking a particular point or area, or capturing objects of interest hidden in the playing area. Depending on the variant played, games can last from minutes to hours, or even days in \"scenario play\".\nThe legality of the sport and use of paintball markers varies among countries and regions. In most areas where regulated play is offered, players are required to wear protective masks, use barrel-blocking safety equipment, and strictly enforce safe game rules.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Paintball"
+    },
+    {
+        "title": "Paddling",
+        "content": "Paddling with regard to watercraft is the act of manually propelling a boat using a paddle.  The paddle, which consists of one or two blades joined to a shaft, is also used to steer the vessel. The paddle is not connected to the boat (unlike in rowing where the oar is connected to the boat).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Paddling"
+    },
+    {
+        "title": "Silver medal",
+        "content": "A silver medal in sports and other similar areas involving competition is a medal made of, or plated with, silver awarded to the second-place finisher, or runner-up, of contests or competitions such as the Olympic Games, Commonwealth Games, etc. The outright winner receives a gold medal and the third place a bronze medal. More generally, silver is traditionally a metal sometimes used for all types of high-quality medals, including artistic ones.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Silver_medal"
+    },
+    {
+        "title": "Swimming pool",
+        "content": "A swimming pool, swimming bath, wading pool, paddling pool, or simply pool is a structure designed to hold water to enable swimming or other leisure activities. Pools can be built into the ground (in-ground pools) or built above ground (as a freestanding construction or as part of a building or other larger structure), and are also a common feature aboard ocean-liners and cruise ships. In-ground pools are most commonly constructed from materials such as concrete, natural stone, metal, plastic, or fiberglass, and can be of a custom size and shape or built to a standardized size, the largest of which is the Olympic-size swimming pool.\nMany health clubs, fitness centers, and private clubs have pools used mostly for exercise or recreation. Many towns and cities provide public pools. Many hotels have pools available for their guests to use at their own leisure. Educational facilities such as high schools and universities sometimes have pools for physical education classes, recreational activities, leisure, and competitive athletics such as swimming teams. Hot tubs and spas are pools filled with hot water, used for relaxation or hydrotherapy. They are common in hotels and health clubs, and can also be found in many private homes. Special swimming pools are also used for diving, specialized water sports, and physical therapy, as well as for the training of lifeguards and astronauts. Swimming pools may be heated or unheated.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Swimming_pool"
+    },
+    {
+        "title": "Quidditch",
+        "content": "Quidditch  is a fictional sport invented by author J.K. Rowling for her fantasy book series Harry Potter. It is a dangerous but popular sport played by witches and wizards riding flying broomsticks.\nMatches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker. The Chasers and the Keeper respectively score with and defend the goals against the Quaffle; the two Beaters bat the Bludgers away from their teammates and towards their opponents; and the Seeker locates and catches the Golden Snitch, whose capture simultaneously wins the Seeker's team 150 points and ends the game. The team with the most points at the end wins.\nHarry Potter plays as Seeker for his house team at Hogwarts. Regional and international Quidditch competitions are mentioned throughout the series. Aspects of the sport's history are revealed in Quidditch Through the Ages, published by Rowling in 2001 to benefit Comic Relief.\nA real-life version of the game has been created, in which the players use brooms, but run instead of flying.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Quidditch"
+    },
+    {
+        "title": "Rafting",
+        "content": "Rafting and white water rafting are recreational outdoor activities which use an inflatable raft to navigate a river or other body of water. This is often done on whitewater or different degrees of rough water. Dealing with risk and the need for teamwork is often a part of the experience.This activity as an adventure sport has become popular since the 1950s, if not earlier, evolving from individuals paddling 10 feet (3.0 m) to 14 feet (4.3 m) rafts with double-bladed paddles or oars to multi-person rafts propelled by single-bladed paddles and steered by a person at the stern, or by the use of oars.Rafting on certain sections of rivers is considered an extreme sport and can be fatal, while other sections are not so extreme or difficult. Rafting is also a competitive sport practiced around the world which culminates in a world rafting championship event between the participating nations. The International Rafting Federation, often referred to as the IRF, is the worldwide body which oversees all aspects of the sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Rafting"
+    },
+    {
+        "title": "refferee",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "rock climing",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Roller skating",
+        "content": "Roller skating is the traveling on surfaces with roller skates. It is a form of recreational activity as well as a sport, and can also be a form of transportation. In fact, as the United States readied for World War II, the government entertained the notion to add roller skates as essential equipment to move infantry around Europe to save gas. Skates generally come in three basic varieties: quad roller skates, inline skates or blades and tri-skates, though some have experimented with a single-wheeled \"quintessence skate\" or other variations on the basic skate design. In America, this hobby was most popular first between 1935 and the early 1960s and then in the 1970s, when polyurethane wheels were created and disco music oriented roller rinks were the rage and then again in the 1990s when in-line outdoor roller skating, thanks to the improvement made to inline roller skates in 1981 by Scott Olson, took hold.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Roller_skating"
+    },
+    {
+        "title": "Rowing",
+        "content": "Rowing is the act of propelling a boat using the motion of oars in the water by displacing water to propel the boat forward. Rowing and paddling are similar. However, rowing requires oars to have a mechanical connection with the boat, while paddles (used for paddling) are hand-held and have no mechanical connection.\nThis article focuses on the general types of rowing, such as the recreation and the transport rather than the sport of competitive rowing which is a specialized case of racing using strictly regulated equipment and a highly refined technique.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Rowing"
+    },
+    {
+        "title": "Running",
+        "content": "Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. Running is a type of gait characterized by an aerial phase in which all feet are above the ground (though there are exceptions). This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight and the center of gravity vaults over the stance leg or legs in an inverted pendulum fashion. A feature of a running body from the viewpoint of spring-mass mechanics is that changes in kinetic and potential energy within a stride occur simultaneously, with energy storage accomplished by springy tendons and passive muscle elasticity. The term running can refer to any of a variety of speeds ranging from jogging to sprinting.\nRunning in humans is associated with improved health and life expectancy.It is assumed that the ancestors of humankind developed the ability to run for long distances about 2.6 million years ago, probably in order to hunt animals. Competitive running grew out of religious festivals in various areas. Records of competitive racing date back to the Tailteann Games in Ireland between 632 BCE and 1171 BCE, while the first recorded Olympic Games took place in 776 BCE. Running has been described as the world's most accessible sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Running"
+    },
+    {
+        "title": "Sailing",
+        "content": "Sailing  \nemploys the wind\u2014acting on sails, wingsails or kites\u2014to propel a craft on the surface of the water (sailing ship, sailboat, windsurfer, or kitesurfer), on ice (iceboat) or on land (land yacht) over a chosen course, which is often part of a larger plan of navigation.\nA course defined with respect to the true wind direction is called a point of sail.\nConventional sailing craft cannot derive power from sails on a point of sail that is too close to the wind. On a given point of sail, the sailor adjusts the alignment of each sail with respect to the apparent wind direction (as perceived on the craft) to mobilize the power of the wind. The forces transmitted via the sails are resisted by forces from the hull, keel, and rudder of a sailing craft, by forces from skate runners of an iceboat, or by forces from wheels of a land sailing craft to allow steering the course.\nIn the 21st century, most sailing represents a form of recreation or sport. Recreational sailing or yachting can be divided into racing and cruising.  Cruising can include extended offshore and ocean-crossing trips, coastal sailing within sight of land, and daysailing.\nUntil the mid of the 19th century, sailing ships were the primary means for marine commerce; this period is known as the Age of Sail.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sailing"
+    },
+    {
+        "title": "Scuba diving",
+        "content": "Scuba diving is a mode of underwater diving where the diver uses a self-contained underwater breathing apparatus (scuba), which is completely independent of surface supply, to breathe underwater. Scuba divers carry their own source of breathing gas, usually compressed air, allowing them greater independence and freedom of movement than surface-supplied divers, and longer underwater endurance than breath-hold divers. Although the use of compressed air is common, a mixture of air and oxygen called enriched air or nitrox has become popular due to its benefit of reduced nitrogen intake during long or repetitive dives. Open circuit scuba systems discharge the breathing gas into the environment as it is exhaled, and consist of one or more diving cylinders containing breathing gas at high pressure which is supplied to the diver through a regulator. They may include additional cylinders for range extension, decompression gas or emergency breathing gas. Closed-circuit or semi-closed circuit rebreather scuba systems allow recycling of exhaled gases. The volume of gas used is reduced compared to that of open circuit, so a smaller cylinder or cylinders may be used for an equivalent dive duration. Rebreathers extend the time spent underwater compared to open circuit for the same gas consumption; they produce fewer bubbles and less noise than open circuit scuba which makes them attractive to covert military divers to avoid detection, scientific divers to avoid disturbing marine animals, and media divers to avoid bubble interference.Scuba diving may be done recreationally or professionally in a number of applications, including scientific, military and public safety roles, but most commercial diving uses surface-supplied diving equipment when this is practicable. Scuba divers engaged in armed forces covert operations may be referred to as frogmen, combat divers or attack swimmers.A scuba diver primarily moves underwater by using fins attached to the feet, but external propulsion can be provided by a diver propulsion vehicle, or a sled pulled from the surface. Other equipment needed for scuba diving includes a mask to improve underwater vision, exposure protection (ie: a wet suit or dry suit), equipment to control buoyancy, a diving regulator to control the pressure of breathing gas for diving, and equipment related to the specific circumstances and purpose of the dive. Some scuba divers use a snorkel when swimming on the surface. Scuba divers are trained in the procedures and skills appropriate to their level of certification by instructors affiliated to the diver certification organisations which issue these certifications. These include standard operating procedures for using the equipment and dealing with the general hazards of the underwater environment, and emergency procedures for self-help and assistance of a similarly equipped diver experiencing problems. A minimum level of fitness and health is required by most training organisations, but a higher level of fitness may be appropriate for some applications.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Scuba_diving"
+    },
+    {
+        "title": "Skiing",
+        "content": "Skiing is a means of transport using skis to glide on snow. Variations of purpose include basic transport, a recreational activity, or a competitive winter sport. Many types of competitive skiing events are recognized by the International Olympic Committee (IOC), and the International Ski Federation (FIS).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Skiing"
+    },
+    {
+        "title": "Ski orienteering",
+        "content": "Ski orienteering (SkiO) is a cross-country skiing endurance winter racing sport and one of the four orienteering disciplines recognized by the IOF. A successful ski orienteer combines high physical endurance, strength and excellent technical skiing skills with the ability to navigate and make the best route choices while skiing at a high speed.\nStandard orienteering maps are used, but with special green overprinting of trails and tracks to indicate their navigability in snow; other symbols indicate whether any roads are snow-covered or clear. Navigation tactics is similar to mountain bike orienteering. Standard skate-skiing equipment is used, along with a map holder attached to the chest. Compared to cross-country skiing, upper body strength is more important because of double poling needed along narrow snow trails.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ski_orienteering"
+    },
+    {
+        "title": "Slalom skiing",
+        "content": "Slalom is an alpine skiing and alpine snowboarding discipline, involving skiing between poles or gates. These are spaced more closely than those in giant slalom, super giant slalom and downhill, necessitating quicker and shorter turns.  Internationally, the sport is contested at the FIS Alpine World Ski Championships, and at the Olympic Winter Games.\nThe term may also refer to waterskiing on one ski.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Slalom_skiing"
+    },
+    {
+        "title": "Snowboard",
+        "content": "Snowboards are boards where both feet are secured to the same board, which are wider than skis, with the ability to glide on snow. Snowboards widths are between 6 and 12 inches or 15 to 30 centimeters. Snowboards are differentiated from monoskis by the stance of the user.  In monoskiing, the user stands with feet inline with direction of travel (facing tip of monoski/downhill) (parallel to long axis of board), whereas in snowboarding, users stand with feet transverse (more or less) to the longitude of the board.  Users of such equipment may be referred to as snowboarders. Commercial snowboards generally require extra equipment such as bindings and special boots which help secure both feet of a snowboarder, who generally rides in an upright position. These types of boards are commonly used by people at ski hills or resorts for leisure, entertainment, and competitive purposes in the activity called snowboarding.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Snowboard"
+    },
+    {
+        "title": "Football",
+        "content": "Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal.  Unqualified, the word football normally means the form of football that is the most popular where the word is used. Sports commonly called football include association football (known as soccer in some countries); gridiron football (specifically American football or Canadian football); Australian rules football; rugby football (either rugby union or rugby league); and Gaelic football. These various forms of football share to varying extent common origins and are known as football codes.\nThere are a number of references to traditional, ancient, or prehistoric ball games played in many different parts of the world. Contemporary codes of football can be traced back to the codification of these games at English public schools during the 19th century. The expansion and cultural influence of the British Empire allowed these rules of football to spread to areas of British influence outside the directly controlled Empire.  By the end of the 19th century, distinct regional codes were already developing: Gaelic football, for example, deliberately incorporated the rules of local traditional football games in order to maintain their heritage.  In 1888, The Football League was founded in England, becoming the first of many professional football competitions. During the 20th century, several of the various kinds of football grew to become some of the most popular team sports in the world.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+        "title": "Stadium",
+        "content": "A stadium (plural stadiums or stadia) is a place or venue for (mostly) outdoor sports, concerts, or other events and consists of a field or stage either partly or completely surrounded by a tiered structure designed to allow spectators to stand or sit and view the event.Pausanias noted that for about half a century the only event at the ancient Greek Olympic festival was the race that comprised one length of the stadion at Olympia, where the word \"stadium\" originated.Most of the stadiums with a capacity of at least 10,000 are used for association football. Other popular stadium sports include gridiron football, baseball, cricket, the various codes of rugby, field lacrosse, bandy, and bullfighting. Many large sports venues are also used for concerts.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Stadium"
+    },
+    {
+        "title": "Sport",
+        "content": "Sport includes all forms of competitive physical activity or games which, through casual or organized participation, at least in part aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators. Sports can bring positive results to one's physical health. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, simultaneously or consecutively, with one winner; in others, the contest (a match) is between two sides, each attempting to exceed the other. Some sports allow a \"tie\" or \"draw\", in which there is no single winner; others provide tie-breaking methods to ensure one winner and one loser. A number of contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs.\nSport is generally recognised as system of activities which are based in physical athleticism or physical dexterity, with the largest major competitions such as the Olympic Games admitting only sports meeting this definition, and other organisations such as the Council of Europe using definitions precluding activities without a physical element from classification as sports. However, a number of competitive, but non-physical, activities claim recognition as mind sports. The International Olympic Committee (through ARISF) recognises both chess and bridge as bona fide sports, and SportAccord, the international sports federation association, recognises five non-physical sports: bridge, chess, draughts (checkers), Go and xiangqi, and limits the number of mind games which can be admitted as sports.Sport is usually governed by a set of rules or customs, which serve to ensure fair competition, and allow consistent adjudication of the winner. Winning can be determined by physical events such as scoring goals or crossing a line first. It can also be determined by judges who are scoring elements of the sporting performance, including objective or subjective measures such as technical performance or artistic impression.\nRecords of performance are often kept, and for popular sports, this information may be widely announced or reported in sport news. Sport is also a major source of entertainment for non-participants, with spectator sport drawing large crowds to sport venues, and reaching wider audiences through broadcasting. Sport betting is in some cases severely regulated, and in some cases is central to the sport.\nAccording to A.T. Kearney, a consultancy, the global sporting industry is worth up to $620 billion as of 2013. The world's most accessible and practised sport is running, while association football is the most popular spectator sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sport"
+    },
+    {
+        "title": "Sumo",
+        "content": "Sumo (Japanese: \u76f8\u64b2, Hepburn: sum\u014d, [s\u026fmo\u02d0], lit. \"striking one another\") is a form of competitive full-contact wrestling where a rikishi (wrestler) attempts to force his opponent out of a circular ring (dohy\u014d) or into touching the ground with any body part other than the soles of his feet (usually by throwing, shoving or pushing him down).\nSumo originated in Japan, the only country where it is practiced professionally, where it is considered the national sport. It is considered a gendai bud\u014d, which refers to modern Japanese martial arts, but the sport has a history spanning many centuries. Many ancient traditions have been preserved in sumo, and even today the sport includes many ritual elements, such as the use of salt purification, from Shinto.\nLife as a wrestler is highly regimented, with rules regulated by the Japan Sumo Association. Most sumo wrestlers are required to live in communal sumo training stables, known in Japanese as heya, where all aspects of their daily lives\u2014from meals to their manner of dress\u2014are dictated by strict tradition.\nFrom 2008 to 2016, a number of high-profile controversies and scandals rocked the sumo world, with an associated effect on its reputation and ticket sales. These have also affected the sport's ability to attract recruits. Despite this setback, sumo's popularity and general attendance has rebounded due to having multiple yokozuna (or grand champions) for the first time in a number of years and other high-profile wrestlers such as End\u014d and Ichinoj\u014d grabbing the public's attention.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sumo"
+    },
+    {
+        "title": "Surfing",
+        "content": "Surfing is a surface water pastime in which the wave rider, referred to as a surfer, rides on the forward part, or face, of a moving wave, which usually carries the surfer towards the shore. Waves suitable for surfing are primarily found in the ocean, but can also be found in lakes or rivers in the form of a standing wave or tidal bore. However, surfers can also utilize artificial waves such as those from boat wakes and the waves created in artificial wave pools.\n\nThe term surfing usually refers to the act of riding a wave using a board, regardless of the stance. There are several types of boards. The Moche of Peru would often surf on reed craft while the native peoples of the Pacific, for instance, surfed waves on alaia, paipo, and other such craft. Ancient cultures often surfed on their belly and knees while the modern-day definition of surfing, however, most often refers to a surfer riding a wave standing on a surfboard; this is also referred to as stand-up surfing.\nAnother prominent form of surfing is body boarding, when a surfer rides the wave on a bodyboard, either lying on their belly, drop knee (one foot and one knee on the board), or sometimes even standing up on a body board. Other types of surfing include knee boarding, surf matting (riding inflatable mats), and using foils. Body surfing, where the wave is surfed without a board, using the surfer's own body to catch and ride the wave, is very common and is considered by some to be the purest form of surfing. The closest form of body surfing using a board is a handboard which normally has one strap over it to fit one hand in.\nThree major subdivisions within stand-up surfing are stand-up paddling, long boarding and short boarding with several major differences including the board design and length, the riding style, and the kind of wave that is ridden.\nIn tow-in surfing (most often, but not exclusively, associated with big wave surfing), a motorized water vehicle such as a personal watercraft, tows the surfer into the wave front helping the surfer match a large wave's speed, which is generally a higher speed than a self-propelled surfer can produce. Surfing-related sports such as paddle boarding and sea kayaking do not require waves, and other derivative sports such as kite surfing and windsurfing rely primarily on wind for power, yet all of these platforms may also be used to ride waves. Recently with the use of V-drive boats, Wakesurfing, in which one surfs on the wake of a boat, has emerged. The Guinness Book of World Records recognized a 23.8 m (78 ft) wave ride by Garrett McNamara at Nazar\u00e9, Portugal as the largest wave ever surfed.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Surfing"
+    },
+    {
+        "title": "Swimming",
+        "content": "Swimming is the self-propulsion of a person through water, usually for recreation, sport, exercise, or survival.  Locomotion is achieved through coordinated movement of the limbs, the body, or both.  Humans can hold their breath underwater and undertake rudimentary locomotive swimming within weeks of birth, as a survival response.Swimming is consistently among the top public recreational activities, and in some countries, swimming lessons are a compulsory part of the educational curriculum.  As a formalized sport, swimming features in a range of local, national, and international competitions, including every modern Summer Olympics.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Swimming"
+    },
+    {
+        "title": "Synchronized swimming",
+        "content": "Synchronised swimming (in American English, synchronized swimming) or artistic swimming is a hybrid form of swimming, dance, and gymnastics, consisting of swimmers performing a synchronised routine (either solo, duet, trio,  mixed duet, free team, free combination, and highlight) of elaborate moves in the water, accompanied by music. Artistic swimming is governed internationally by FINA, and has been part of the Summer Olympics programme since 1984.\nSynchronised swimming demands advanced water skills, requires great strength, endurance, flexibility, grace, artistry and precise timing, as well as exceptional breath control when upside down underwater. Competitors show off their strength, flexibility, and aerobic endurance required to perform difficult routines. Swimmers perform two routines for judges, one technical and one free, as well as age group routines and figures. Synchronized swimming is both an individual and team sport. Swimmers compete individually during figures, and then as a team during the routine. Figures are made up of a combination of skills and positions that often require control, strength, and flexibility. Swimmers are ranked individually for this part of the competition. The routine involves teamwork and synchronisation. It is choreographed to music and often has a theme.\nSince the 20th century, synchronised swimming has predominantly been considered a women's sport, with the Summer Olympics only featuring women's duet and team events. However, international, national and regional competitions may allow men to compete, and FINA introduced a new mixed duet competition at the 2015 World Aquatics Championships. FINA officially renamed the sport from \"synchronized swimming\" to \"artistic swimming\" in 2017\u2014a decision that faced mixed reception.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Synchronized_swimming"
+    },
+    {
+        "title": "Table tennis",
+        "content": "Table tennis, also known as ping-pong and whiff-whaff, is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small rackets. The game takes place on a hard table divided by a net. Except for the initial serve, the rules are generally as follows: players must allow a ball played toward them to bounce one time on their side of the table, and must return it so that it bounces on the opposite side at least once. A point is scored when a player fails to return the ball within the rules. Play is fast and demands quick reactions. Spinning the ball alters its trajectory and limits an opponent's options, giving the hitter a great advantage.\nTable tennis is governed by the worldwide organization International Table Tennis Federation (ITTF), founded in 1926. ITTF currently includes 226 member associations. The table tennis official rules are specified in the ITTF handbook. Table tennis has been an Olympic sport since 1988, with several event categories. From 1988 until 2004, these were men's singles, women's singles, men's doubles and women's doubles. Since 2008, a team event has been played instead of the doubles.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Table_tennis"
+    },
+    {
+        "title": "Tetherball",
+        "content": "Tetherball is a game for two opposing players. While not officially recognized as a sport, it is typically an outdoor activity. The equipment consists of a stationary metal pole, from which is hung a volleyball from a rope or tether. The two players stand on opposite sides of the pole.  Each player tries to hit the ball one way; one clockwise, and one counterclockwise. The game ends when one player manages to wind the ball all the way around the pole so that it is stopped by the rope. It must not bounce.An early variant described in  Jessie H. Bancroft's 1909 book Games for the Playground... involves a tethered tennis ball hit by racquets, with similar rules of the game.The game begins when one player enters the court and yells \"Sides and ways\" then serves the ball in the direction he or she chooses (provided that person yelled it first), usually by hitting it off the post, or after the opposing player serves it, he or she cannot touch it until the other player touches it. The opposing player then attempts to return the serve by hitting it in the opposite direction. The object is to hit the ball in such a way that one's opponent will be unable to alter the ball's direction. This gives the server an advantage since the server has more control over the ball from the beginning. It is generally acceptable to hit the ball with either the fist or the open hand or swing.\nA player commits a violation if he/she steps onto his opponent's half of the pole, by touching the rope instead of the ball, hitting the ball before it has either circled the pole or been returned by the opponent or, in some variants, struck the pole. Generally, after a violation occurs, the game pauses and the person who committed the violation is out; the number of wraps around the pole is re-created (or a penalty-wrap is awarded to the player who did not commit the foul). The player who did not commit the violation then serves the ball. If, however, the violation appears to be intentional, it may result in loss of game. One variation legalizes throws and double hits.\nThe game ends when one player hits the ball around the pole in their own direction as far as it will go, so that the ball hits the pole. In addition, the ball must strike the pole with the final wrap above a line marked on the pole. A 5-foot-high (1.5 m) mark is satisfactory, though a lower mark might be used for younger players. A match can go on for at least 2 or more games. If a player breaks any of these rules he/she is out and it is the next person's turn to play the winner. If played with only two people, the \"loser\" now gets his/her turn to serve to even out the odds for their win.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tetherball"
+    },
+    {
+        "title": "Rugby football",
+        "content": "Rugby football is a collective name for the family of team sports of rugby union and rugby league, as well as the earlier forms of football from which both games, Association football, Australian rules football, and Gridiron football evolved. Canadian football (Grey Cup still has \"Rugby Football\" written on it), and to a lesser extent American football were also broadly considered forms of rugby football but are seldom now referred to as such.Rugby football started about 1845 at Rugby School in Rugby, Warwickshire, England, although forms of football in which the ball was carried and tossed date to medieval times. Rugby split into two sports in 1895, when twenty-one clubs split from the Rugby Football Union to form the Northern Rugby Football Union (later renamed the Rugby Football League in 1922) in the George Hotel, Huddersfield, over broken-time payments to players who took time off from work to play the sport, thus making rugby league the first code to turn professional and pay players. Rugby union turned professional one hundred years later in 1995, following the 1995 Rugby World Cup in South Africa. The respective world governing bodies are World Rugby (rugby union) and the Rugby League International Federation (rugby league).\nRugby football was one of many versions of football played at English public schools in the 19th century. Although rugby league initially used rugby union rules, they are now wholly separate sports, with Rugby league being much more similar to Gridiron football. In addition to these two codes, both American and Canadian football evolved from rugby football in the beginning of the 20th century.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Rugby_football"
+    },
+    {
+        "title": "Track and field",
+        "content": "Track and field is a sport which includes athletic contests established on the skills of running, jumping, and throwing. The name is derived from where the sport takes place, a running track and a grass field for the throwing and some of the jumping events. Track and field is categorized under the umbrella sport of athletics, which also includes road running, cross country running, and racewalking.\nThe foot racing events, which include sprints, middle- and long-distance events, racewalking and hurdling, are won by the athlete who completes it in the least time. The jumping and throwing events are won by those who achieve the greatest distance or height. Regular jumping events include long jump, triple jump, high jump and pole vault, while the most common throwing events are shot put, javelin, discus and hammer. There are also \"combined events\" or \"multi events\", such as the pentathlon consisting of five events, heptathlon consisting of seven events, and decathlon consisting of ten events. In these, athletes participate in a combination of track and field events. Most track and field events are individual sports with a single victor; the most prominent team events are relay races, which typically feature teams of four. Events are almost exclusively divided by gender, although both the men's and women's competitions are usually held at the same venue. If a race has too many people to run all at once, preliminary heats will be run to narrow down the field of participants.\nTrack and field is one of the oldest sports. In ancient times, it was an event held in conjunction with festivals and sports meets such as the Ancient Olympic Games in Greece. In modern times, the two most prestigious international track and field competitions are the athletics competition at the Olympic Games and the World Athletics Championships. World Athletics, formerly known as the International Association of Athletics Federations is the international governing body for the sport of athletics.\nRecords are kept of the best performances in specific events, at world and national levels, right down to a personal level. However, if athletes are deemed to have violated the event's rules or regulations, they are disqualified from the competition and their marks are erased.\nIn the United States, the term track and field may refer to other athletics events, such as cross country, the marathon and road running, rather than strictly track-based events.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Track_and_field"
+    },
+    {
+        "title": "Triathlon",
+        "content": "A triathlon is an endurance multisport race consisting of swimming, cycling, and running over various distances. Triathletes compete for fastest overall completion time, racing each segment sequentially with the time transitioning between the disciplines included. The word is of Greek origin, from \u03c4\u03c1\u03b5\u1fd6\u03c2 or treis (three) and \u1f06\u03b8\u03bb\u03bf\u03c2 or athlos (competition).The sport has its roots in multi-event races held in France during the 1920s, with more specified rules and races forming during the late 1970s as sports clubs and individuals developed the sport. This history has meant that variations of the sport were created and still exist, it also lead to other three stage races to use the name triathlon despite not being continuous or not consisting of swim bike and run elements.Triathletes train to achieve endurance, strength, speed, requiring focused persistent and periodised training for each of the three disciplines, as well as combination workouts and general strength conditioning.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Triathlon"
+    },
+    {
+        "title": "Marathon",
+        "content": "The marathon is a long-distance race with an official distance of 42.195 kilometres (26 miles 385 yards), usually run as a road race. The event was instituted in commemoration of the fabled run of the Greek soldier Pheidippides, a messenger from the Battle of Marathon to Athens, who reported the victory. The marathon can be completed by running or with a run/walk strategy. There are also wheelchair divisions.\nThe marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921. More than 800 marathons are held throughout the world each year, with the vast majority of competitors being recreational athletes, as larger marathons can have tens of thousands of participants.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Marathon"
+    },
+    {
+        "title": "Ultramarathon",
+        "content": "An ultramarathon, also called ultra distance or ultra running, is any footrace longer than the traditional marathon length of 42.195 kilometres (26.219 mi).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ultramarathon"
+    },
+    {
+        "title": "Unicycle",
+        "content": "A unicycle is a vehicle that touches the ground with only one wheel. The most common variation has a frame with a saddle, and has a pedal-driven direct drive. A two speed hub is commercially available for faster unicycling. Unicycling is practiced professionally in circuses, by street performers, in festivals, and as a hobby. Unicycles have also been used to create new sports such as unicycle hockey. In recent years, unicycles have also been used in mountain unicycling, an activity similar to mountain biking or trials.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Unicycle"
+    },
+    {
+        "title": "Volleyball",
+        "content": "Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules. It has been a part of the official program of the Summer Olympic Games since Tokyo 1964.\nThe complete set of rules is extensive, but play essentially proceeds as follows: a player on one of the teams begins a 'rally' by serving the ball (tossing or releasing it and then hitting it with a hand or arm), from behind the back boundary line of the court, over the net, and into the receiving team's court. The receiving team must not let the ball be grounded within their court. The team may touch the ball up to 3 times, but individual players may not touch the ball twice consecutively. Typically, the first two touches are used to set up for an attack, an attempt to direct the ball back over the net in such a way that the serving team is unable to prevent it from being grounded in their court.\nThe rally continues, with each team allowed as many as three consecutive touches, until either (1): a team makes a kill, grounding the ball on the opponent's court and winning the rally; or (2): a team commits a fault and loses the rally. The team that wins the rally is awarded a point and serves the ball to start the next rally. A few of the most common faults include:\n\ncausing the ball to touch the ground or floor outside the opponents' court or without first passing over the net;\ncatching and throwing the ball;\ndouble hit: two consecutive contacts with the ball made by the same player;\nfour consecutive contacts with the ball made by the same team;\nnet foul: touching the net during play;\nfoot fault: the foot crosses over the boundary line when serving.The ball is usually played with the hands or arms, but players can legally strike or push (short contact) the ball with any part of the body.\nA number of consistent techniques have evolved in volleyball, including spiking and blocking (because these plays are made above the top of the net, the vertical jump is an athletic skill emphasized in the sport) as well as passing, setting, and specialized player positions and offensive and defensive structures.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Volleyball"
+    },
+    {
+        "title": "Road (sports)",
+        "content": "A road game or away game is a sports game where the specified team is not the host and must travel to another venue.  Most professional teams represent cities or towns and amateur sports teams often represent academic institutions.  Each team has a location where it practices during the season and where it hosts games.  \nWhen a team is not the host, it must travel to games (usually by bus or car, hence \"road\", though increasingly also by plane for longer journeys). Thus, when a team is not hosting a game, the team is described as the road team, the visiting team, or the away team, and the game is described as a road game or an away game for that team. The venue in which the game is played is described as the visiting stadium or the road.  The host team is said to be the home team.\nThe home team is often thought to have a home advantage over the visiting team, because of their familiarity with the environment, their shorter travel times, and the influence that a parochial crowd may have over an official's decisions. Another home team advantage that is unique to baseball is familiarity with the home ballpark's outfield dimensions and height of the outfield wall, as well as the size of foul territory and location of in-play obstacles (e.g., a bullpen on the playing field). Major sporting events, if not held at a neutral venue, are often over several legs at each team's home ground, so that neither team has an advantage over the other.\nOccasionally, the road team may not have to travel very far at all to a road game. These matches often become local derbies. (Also, see the article on Subway Series for baseball series played between the New York Yankees, and New York's National League teams, and similar series between other teams that play in the same city or state.) A few times a year, a road team may even be lucky enough to have the road game played at their own home stadium or arena. This is prevalent in college athletics where many schools will often play in regional leagues or groundshare.\nThe related term true road game has seen increasing use in U.S. college sports in the 21st century, especially in basketball. While regular-season tournaments and other special events have been part of college sports from their creation, the 21st century has seen a proliferation of such events. These are typically held at neutral sites, with some of them taking place outside the contiguous U.S. (as in the case of the Great Alaska Shootout and Maui Invitational) or even outside the country entirely (such as the Battle 4 Atlantis in The Bahamas). In turn, this has led to the use of \"true road game\" to refer to contests played at one team's home venue.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Road_(sports)"
+    },
+    {
+        "title": "Water polo",
+        "content": "Water polo is a competitive team sport played in water between two teams. The game consists of four quarters in which the two teams attempt to score goals by throwing the ball into the opposing team's goal. The team with the most goals at the end of the game wins the match. Each team is made up of six field players and one goalkeeper. Excluding the goalkeeper, players participate in both offensive and defensive roles. Water polo is typically played in an all-deep pool so that players cannot touch the bottom.\nA game of water polo mainly consists of the players swimming to move about the pool, treading water (mainly using the eggbeater kick), passing the ball, and shooting at the goal. Teamwork, tactical thinking and awareness are also highly important aspects in a game of water polo. Water polo is a highly physical and demanding sport and has frequently been cited as one of the most difficult sports to play.Special equipment for water polo includes a water polo ball, a ball of varying colors which floats on the water; numbered and coloured caps; and two goals, which either float in the water or are attached to the sides of the pool.\nThe game is thought to have originated in Scotland in the mid-19th century as a sort of \"water rugby\". William Wilson is thought to have developed the game in 1870s. The game thus developed with the formation of the London Water Polo League and has since expanded, becoming widely popular in various parts of Europe, the United States, Brazil, China, Canada and Australia.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Water_polo"
+    },
+    {
+        "title": "Water skiing",
+        "content": "Water skiing (also waterskiing or water-skiing) is a surface water sport in which an individual is pulled behind a boat or a cable ski installation over a body of water, skimming the surface on two skis or one ski. The sport requires sufficient area on a smooth stretch of water, one or two skis, a tow boat with tow rope, two or three people (depending on local boating laws), and a personal flotation device. In addition, the skier must have adequate upper and lower body strength, muscular endurance, and good balance.\nThere are water ski participants around the world, in Asia and Australia, Europe, Africa, and the Americas. In the United States alone, there are approximately 11 million water skiers and over 900 sanctioned water ski competitions every year. Australia boasts 1.3 million water skiers.There are many options for recreational or competitive water skiers. These include speed skiing, trick skiing, show skiing, slaloming, jumping, barefoot skiing and wakeski. Similar, related sports are wakeboarding, kneeboarding, discing, tubing, and sit-down hydrofoil.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Water_skiing"
+    },
+    {
+        "title": "Powerlifting",
+        "content": "Powerlifting is a strength sport that consists of three attempts at maximal weight on three lifts: squat, bench press, and deadlift. As in the sport of Olympic weightlifting, it involves the athlete attempting a maximal weight single lift of a barbell loaded with weight plates. Powerlifting evolved from a sport known as \"odd lifts\", which followed the same three-attempt format but used a wider variety of events, akin to strongman competition. Eventually odd lifts became standardized to the current three.\nIn competition, lifts may be performed equipped or un-equipped (typically referred to as 'classic' or 'raw' lifting in the IPF specifically). Equipment in this context refers to a supportive bench shirt or squat/deadlift suit or briefs. In some federations, knee wraps are permitted in the equipped but not un-equipped division; in others, they may be used in both equipped and un-equipped lifting. Weight belts, knee sleeves, wrist wraps and special footwear may also be used, but are not considered when distinguishing equipped from un-equipped lifting.Competitions take place across the world. Powerlifting has been a Paralympic sport (bench press only) since 1984 and, under the IPF, is also a World Games sport. Local, national and international competitions have also been sanctioned by other federations operating independently of the IPF.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Powerlifting"
+    },
+    {
+        "title": "Windsurfing",
+        "content": "Windsurfing is a surface water sport that is a combination of surfing and sailing. It is also referred to as \"sailboarding\" and \"boardsailing\", and emerged in the early 1970s from the surf culture of California. Windsurfing had gained a following across North America by the late 1970s and had achieved significant global popularity by the 1980s.Windsurfing is a recreational sport, most popular at flat water locations around the world that offer safety and accessibility for beginner and intermediate participants. The sport has two distinct interest groups, namely Racing and Riding, with many participants embracing both.\nProfessional World Titles are awarded for the overall winners from elite World Cup events around for Slalom, Wave and increasingly Foiling and Freestyle.Amateur World Titles come in many forms with many differences classes and disciplines of windsurfing equipment. The major titles include course racing disciplines such as the original Windsurfer Class, the high speed long board Raceboard Class, the faster shorter board Formula Class, and the Olympics that will use the new Windfoiling Class for France in 2024. Amateur world titles are also offered for highest speed racing known as slalom.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Windsurfing"
+    },
+    {
+        "title": "Kiteboarding",
+        "content": "Kiteboarding, also known as kitesurfing, is an action sport combining aspects of wakeboarding, snowboarding, windsurfing, surfing, paragliding, skateboarding and sailing into one extreme sport. A kiteboarder harnesses the power of the wind with a large controllable power kite to be propelled across the water, land, or snow.\nCompared to the other sailing sports, kiteboarding is both among the less expensive (including equipment) and the more convenient. It is also unique in that it harvests the wind energy from a much larger atmosphere volume, comparing to sail size.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Kiteboarding"
+    },
+    {
+        "title": "World cup",
+        "content": "A world cup is a global sporting competition in which the participant entities \u2013 usually international teams or individuals representing their countries \u2013 compete for the title of world champion. A world cup is generally considered the premier competition in its sport, with the victor attaining the highest honour in that sport and able to lay claim to the title of their sport's best. However, in some sports the Olympic title carries at least as much prestige.\nThere are a number of notable popular sports competitions labeled \"world cups\", such as the ICC Cricket World Cup, but perhaps the best known is the FIFA World Cup (an association football tournament, first held in 1930), which is widely known simply as \"the World Cup\".",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/World_cup"
+    },
+    {
+        "title": "Wrestling",
+        "content": "Wrestling is a combat sport involving grappling-type techniques such as clinch fighting, throws and takedowns, joint locks, pins and other grappling holds. The sport can either be genuinely competitive or sportive entertainment (see professional wrestling). Wrestling comes in different types such as folkstyle, freestyle, Greco-Roman, catch/submission, judo, sambo and others. A wrestling bout is a physical competition, between two (occasionally more) competitors or sparring partners, who attempt to gain and maintain a superior position. There are a wide range of styles with varying rules with both traditional historic and modern styles. Wrestling techniques have been incorporated into other martial arts as well as military hand-to-hand combat systems.\nThe term wrestling is attested in late Old English, as wr\u00e6stlunge (glossing palestram).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Wrestling"
+    },
+    {
+        "title": "Chess",
+        "content": "Chess is a two-player strategy board game played on a checkered board with 64 squares arranged in an 8\u00d78 square grid. Played by millions of people worldwide, chess is believed to be derived from the Indian game chaturanga sometime before the 7th century. Chaturanga is also the likely ancestor of the East Asian strategy games xiangqi (Chinese chess), janggi (Korean chess), and shogi (Japanese chess). Chess reached Europe via Persia and Arabia by the 9th century, due to the Umayyad conquest of Hispania. The queen and bishop assumed their current powers in Spain in the late 15th century, and the modern rules were standardized in the 19th century.\nPlay involves no hidden information. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. Each piece type moves differently, with the most powerful being the queen and the least powerful the pawn. The objective is to checkmate the opponent's king by placing it under an inescapable threat of capture. To this end, a player's pieces are used to attack and capture the opponent's pieces, while supporting one another. During the game, play typically involves exchanging pieces for the opponent's similar pieces, and finding and engineering opportunities to trade advantageously or to get a better position. In addition to checkmate, a player wins the game if the opponent resigns, or in a timed game, runs out of time. There are also several ways a game can end in a draw.\nThe first generally recognized World Chess Champion, Wilhelm Steinitz, claimed his title in 1886. Since 1948, the World Championship has been regulated by the F\u00e9d\u00e9ration Internationale des \u00c9checs (FIDE), the game's international governing body. FIDE also awards life-time master titles to skilled players, the highest of which is Grandmaster (GM). Many national chess organizations have a title system of their own. FIDE also organizes the Women's World Championship, the World Junior Championship, the World Senior Championship, the Blitz and Rapid World Championships, the Chess World Cup, and the Chess Olympiad, a popular competition among international teams. FIDE is a member of the International Olympic Committee, which can be considered recognition of chess as a sport. Several national sporting bodies (e.g. the Spanish Consejo Superior de Deportes) also recognize chess as a sport. Chess was included in the 2006 and 2010 Asian Games. There is also a Correspondence Chess World Championship and a World Computer Chess Championship. Online chess has opened amateur and professional competition to a wide and varied group of players.\nSince the second half of the 20th century, chess engines have been programmed to play with increasing success, to the point that many programs play at a higher level than the best human players. Since the 1990s, computer analysis has contributed significantly to chess theory, particularly in the endgame. The IBM computer Deep Blue was the first machine to overcome a reigning World Chess Champion in a match when it defeated Garry Kasparov in 1997. The rise of strong chess engines runnable on hand-held devices has led to increasing concern about cheating during tournaments.\nThere are many variants of chess that utilize different rules, pieces, or chessboards. One of these, Fischer Random Chess, has gained widespread popularity in addition to official FIDE recognition.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+        "title": "Paralympic Games",
+        "content": "The Paralympic Games or Paralympics are a periodic series of international multi-sport events involving athletes with a range of disabilities, including impaired muscle power (e.g. paraplegia and quadriplegia, muscular dystrophy, post-polio syndrome, spina bifida), impaired passive range of movement, limb deficiency (e.g. amputation or dysmelia), leg length difference, short stature, hypertonia, ataxia, athetosis, vision impairment and  intellectual impairment. There are Winter and Summer Paralympic Games, which since the 1988 Summer Olympics in Seoul, South Korea, are held almost immediately following the respective Olympic Games. All Paralympic Games are governed by the International Paralympic Committee (IPC).\nThe Paralympics has grown from a small gathering of British World War II veterans in 1948 to become one of the largest international sporting events by the early 21st century. The Paralympics has grown from 400 athletes with a disability from 23 countries in 1960 to thousands of competitors from over 100 countries at the 2012 Summer Olympics. Paralympians strive for equal treatment with non-disabled Olympic athletes, but there is a large funding gap between Olympic and Paralympic athletes.\nThe Paralympic Games are organized in parallel with the Olympic Games, while the IOC-recognized Special Olympics World Games include athletes with intellectual disabilities, and the Deaflympics include deaf athletes.Given the wide variety of disabilities that Paralympic athletes have, there are several categories in which the athletes compete. The allowable disabilities are broken down into ten eligible impairment types. The categories are impaired muscle power, impaired passive range of movement, limb deficiency, leg length difference, short stature, hypertonia, ataxia, athetosis, vision impairment and  intellectual impairment. These categories are further broken down into classifications, which vary from sport to sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Paralympic_Games"
+    },
+    {
+        "title": "Motorsport",
+        "content": "Motorsport, motorsports or motor sport is a global term used to encompass the group of competitive sporting events which primarily involve the use of motorised vehicles, whether for racing or non-racing competition.  The terminology can also be used to describe forms of competition of two-wheeled motorised vehicles under the banner of motorcycle racing, and includes off-road racing such as motocross.\nFour- (or more) wheeled motorsport competition is globally governed by the F\u00e9d\u00e9ration Internationale de l'Automobile (FIA); and the F\u00e9d\u00e9ration Internationale de Motocyclisme (FIM) governs two-wheeled competition. Likewise, the Union Internationale Motonautique (UIM) governs powerboat racing while the F\u00e9d\u00e9ration A\u00e9ronautique Internationale (FAI) governs air sports; including aeroplane racing.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Motorsport"
+    },
+    {
+        "title": "Winter sports",
+        "content": "Winter sports or winter activities are competitive sports or non-competitive recreational activities which are played on snow or ice. Most are variations of skiing, ice skating and sledding. Traditionally, such games were only played in cold areas during winter, but artificial snow and artificial ice allow more flexibility. Artificial ice can be used to provide ice rinks for ice skating, ice hockey, and bandy in a milder climate.\nCommon individual sports include cross-country skiing, alpine skiing, snowboarding, ski jumping, speed skating, figure skating, luge, skeleton, bobsleigh, ski orienteering and snowmobiling. Common team sports include ice hockey, curling, and bandy. Based on the number of participants, ice hockey is by far the world's most popular winter sport, followed by bandy. Winter sports have their own multi-sport events, such as the Winter Olympic Games and the Winter Universiade.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Winter_sports"
+    },
+    {
+        "title": "Paralympic Games",
+        "content": "The Paralympic Games or Paralympics are a periodic series of international multi-sport events involving athletes with a range of disabilities, including impaired muscle power (e.g. paraplegia and quadriplegia, muscular dystrophy, post-polio syndrome, spina bifida), impaired passive range of movement, limb deficiency (e.g. amputation or dysmelia), leg length difference, short stature, hypertonia, ataxia, athetosis, vision impairment and  intellectual impairment. There are Winter and Summer Paralympic Games, which since the 1988 Summer Olympics in Seoul, South Korea, are held almost immediately following the respective Olympic Games. All Paralympic Games are governed by the International Paralympic Committee (IPC).\nThe Paralympics has grown from a small gathering of British World War II veterans in 1948 to become one of the largest international sporting events by the early 21st century. The Paralympics has grown from 400 athletes with a disability from 23 countries in 1960 to thousands of competitors from over 100 countries at the 2012 Summer Olympics. Paralympians strive for equal treatment with non-disabled Olympic athletes, but there is a large funding gap between Olympic and Paralympic athletes.\nThe Paralympic Games are organized in parallel with the Olympic Games, while the IOC-recognized Special Olympics World Games include athletes with intellectual disabilities, and the Deaflympics include deaf athletes.Given the wide variety of disabilities that Paralympic athletes have, there are several categories in which the athletes compete. The allowable disabilities are broken down into ten eligible impairment types. The categories are impaired muscle power, impaired passive range of movement, limb deficiency, leg length difference, short stature, hypertonia, ataxia, athetosis, vision impairment and  intellectual impairment. These categories are further broken down into classifications, which vary from sport to sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Paralympic_Games"
+    }
+]

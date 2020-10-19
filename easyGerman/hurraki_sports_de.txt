@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Angeln",
+        "content": "Beim Angeln versucht man, Fische zu fangen.\nDazu braucht man eine Angelrute.  \n\n\n\nfischen.\nfangen.\nZum Angeln braucht man Zubeh\u00f6r.\nZum Beispiel eine Angel und eine Angel\u00b7schnur.\nMan braucht auch einen K\u00f6der.\nDamit lockt man die Fische an.\nDas schwere Wort f\u00fcr das Zubeh\u00f6r ist: Montage.\n\nEs gibt verschiedene Arten zu angeln. \nZum Beispiel:\nSchleppangeln.\nFliegenangeln.\nGrundangeln.\nMeeresangeln.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Angeln"
+    },
+    {
+        "title": "Usain Bolt",
+        "content": "Usain Bolt ist ein jamaikanischer Sprinter.\n\n\nUsain Bolt wurde am 21. August 1986 geboren.\nDas war in in Sherwood Content, Jamaika.\nUsain Bolt ist ein Sprinter.\nEin anderes Wort f\u00fcr Sprinter ist Kurz\u00b7strecken\u00b7l\u00e4ufer.\nIm Jahr 2002 hat Usain Bolt bei der Junioren\u00b7welt\u00b7meisterschaft mitgemacht.\nBeim 200-Meter-Lauf war Usain Bolt der Schnellste.\nDann war Usain Bolt Junioren\u00b7welt\u00b7meister.\n\nIm Jahr  2012 hat Usain Bolt bei den Olympischen Spielen mit gemacht.\nDas war in London.\nF\u00fcr den 100-Meter-Lauf hat 9,63 Sekunden gebraucht.\nDas ist Olympischer Rekord.\nDaf\u00fcr hat er eine Gold\u00b7medaille bekommen.\nUsain Bolt hat noch 2 Gold\u00b7medaille bekommen.\nUsain Bolt war auch der schnellste im 200-Meter-Lauf.\nDie dritte Gold\u00b7medaille hat er f\u00fcr den 4-mal-100-Meter-Staffel Lauf bekommen.\n\nIm Jahr 2016 hat Usain Bolt wieder bei den Olympischen Spielen mit gemacht.\nDas war in Rio de Janeiro, Brasilien.\nDort hat er 2 Gold\u00b7medaillen gewonnen.\nEr war der Schnellst im den 100-Meter-Lauf.\nUnd Usain Bolt war der Schnellste im 200-Meter-Lauf.\n\nIm Jahr 2017 Usain Bolt gesagt:\n\"Ich mach bei keinen Wett\u00b7k\u00e4mpfen mehr mit\"\n\nUsain Bolt lebt mit Kasi Bennett zusammen.\nZusammen haben sie eine Tochter.\nDie Tochter kam am 17.5.2020 auf die Welt.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Usain_Bolt"
+    },
+    {
+        "title": "Fitness",
+        "content": "Fitness ist wie gut man seinen K\u00f6rper bewegen kann. \nUnd wie gut man sich f\u00fchlt. \n\nMan kann Tests machen. \nDamit man wei\u00df wie gut die eigene Fitness ist. \nIn manchen Berufen muss man diese Tests machen. \nZum Beispiel bei Soldaten. \n\n\nWenn man eine gute Fitness hat,\nkann man besser Lernen. \nUnd man f\u00fchlt sich gut. \n\nWenn man sich viel bewegt kann man die Fitness ver\u00b7bessern. \nUnd wenn man eine gesunde Ern\u00e4hrung hat. \nMit Fitness\u00b7training ver\u00b7bessert man die Fitness.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Fitness"
+    },
+    {
+        "title": "Schiedsrichter",
+        "content": "\nEin Schiedsrichter passt beim Sport auf, dass sich alle an die Spielregeln halten.\n\n\n\nSchiedsrichter gibt es bei verschiedenen Sportarten.\n\nMeistens wenn zwei Mannschaften gegeneinader spielen. Zum Beispiel beim Fussball oder Eishockey\n\nSchiedsrichter gibt es auch bei Sportarten bei denen einer gegen den anderen spielt. Zum Beispiel beim Tennis\n\nDer Schiedsrichter passt auf, dass alle Spieler sich an die Regeln halten. \n\nDer Schiedsrichter sagt wann das Spiel anf\u00e4ngt. Beim Fussbal pfeift er dazu in seine Trillerpfeife. Dazu sagt man auch Anpfiff.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Schiedsrichter"
+    },
+    {
+        "title": "Eishockey",
+        "content": "Eishockey ist eine Sport. \n\nEishockey wird auf einer Eis-fl\u00e4che gespielt.\nDie Spieler haben Schlittschuhe an. \n\nBeim Eishockey muss man mit einem Schl\u00e4ger eine Gummischeibe schie\u00dfen.\nDiese Gummischeibe hei\u00dft Puck.\n\n\n\nIn jeder Mannschaft gibt es 6 Spieler. \nEiner davon ist der Torwart. \n\nEin Spiel dauert 60 Minuten. \nBei jedem Foul oder Tor wird die Zeit angehalten. \n\nEishockey wird bei den Olympische Winterspielen gespielt.\n\nSledge-Eishockey.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Eishockey"
+    },
+    {
+        "title": "Torwart",
+        "content": "Einen Tor\u00b7wart gibt es bei verschiedenen Mannschafts\u00b7sport\u00b7arten.\nZum Beispiel beim\nFu\u00df\u00b7ball, Hockey, Hand\u00b7ball.\n\nDer Tor\u00b7wart passt auf,\ndass der Ball oder Puck nicht in das Tor seiner Mannschaft geht.\n\n\nMeistens hat der Tor\u00b7wart Sonder\u00b7rechte.\nZum Beispiel:\nBeim Fu\u00df\u00b7ball darf der Tor\u00b7wart im die H\u00e4nde benutzen.\nEr darf die H\u00e4nde aber nur im Straf\u00b7raum benutzen.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Torwart"
+    },
+    {
+        "title": "Foul",
+        "content": "Foul ist ein englisches Wort.\nAuf deutsch hei\u00dft das Wort: \"Faul, schlecht, schmutzig\".\n\n\nDas Wort sagt man beim Sport.\nWenn sich Spieler nicht an die Regeln halten.\nZum Beispiel, wenn ein Spieler \neinen anderen Spieler schubst.\nDann ist das ein \"Foul\".\n\nWenn der Schiedsrichter sagt, \ndas war ein Foul,\ndann gibt es eine Strafe.\n\nZum Beispiel:\neinen Freisto\u00df\noder einen Freiwurf\noder es gibt eine gelbe Karte.\n\nDas Gegenteil von Foul, ist\nFair Play\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Foul"
+    },
+    {
+        "title": "Maria Sharapova",
+        "content": "Maria Sharapova ist eine Tennis\u00b7spielerin.\nSie ist aus Russland.\nMaria Sharapova ist am 19. April 1987 auf die Welt gekommen.\nDas war in Njagan, Russland.\n\nDer Vater von Maria Sharapova lernt Jewgeni Kafelnikow kennen.\nWar Jewgeni Kafelnikow mal Tennis\u00b7spieler.\nJewgeni Kafelnikow schenkt Maria Sharapova ihren ersten Tennis\u00b7schl\u00e4ger.\nDa ist Maria Sharapova 4 Jahre alt.\n\nMartina Navr\u00e1tilov\u00e1 war auch eine Tennis\u00b7spielerin.\nMartina Navr\u00e1tilov\u00e1 sieht wie Maria Sharapova Tennis spielt.\nDa ist Maria Sharapova 6 Jahre alt.\nMartina Navr\u00e1tilov\u00e1 sagt den Eltern.\nMaria Sharapova soll in die Sport\u00b7schule gehen.\nGenauer: In die IMG Academy in Florida, USA.\n\nDie Familie zieht in die USA.\nMit 9 Jahren geht Maria Sharapova in die IMG Academy.\n\nIm Jahr 2003 darf Maria Sharapova bei den Australian Open mit machen.\nUnd bei den French Open.\n\nMarija Scharapowa ist die zweite Russin die ein Grand Slam Turnier gewonnen hat.\nMarija Scharapowa war 2 mal die Erste auf der Welt\u00b7rang\u00b7liste.\nMarija Scharapowa hat jedes Grand Slam Turnier 1 mal gewonnen.\n\nMarija Scharapowa ist auch ein Modell.\nSie arbeitet bei der Model\u00b7agentur IMG Models.\nUnd sie verdient Geld mit Werbung.\nZum Beispiel:\nIm Jahr 2007 hat 20 Millionen US-Dollar mit Werbe\u00b7vertr\u00e4gen verdient.\nIm Jahr 2010 hat sie einen Werbe\u00b7vertrag mit der Firma Nike gemacht.\nNike gibt ihr daf\u00fcr 70  Millionen US-Dollar.\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Maria_Sharapova"
+    },
+    {
+        "title": "Tennis",
+        "content": "Tennis ist eine Sportart. \n\n\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Tennis"
+    },
+    {
+        "title": "Wladimir Klitschko",
+        "content": "Wladimir Klitschko ist ein bekannter Sportler.\nEr macht die Sportart Boxen.\n\nWladimir Klitschko ist am 25. M\u00e4rz 1976 geboren.\nSeit Wladimir Klitschko 14 Jahre alt ist,\nboxt er regelm\u00e4\u00dfig.\n \nEr hat 60 Boxk\u00e4mpfe gemacht.\nDavon hat er 57 Boxk\u00e4mpfe gewonnnen. \n3 Boxk\u00e4mpfe hat er verloren.\nEr hat 50. Knockouts geschafft. \n\nEr ist Weltmeister im Schwergewicht Boxen.\nBei allen Boxern, \ndie mehr als 90 Kilogramm wiegen, \nist er der beste. \n\nWladimir Klitschko hilft Kindern,\ndenen es nicht so gut geht. \nMit seinem Bruder hat er daf\u00fcr eine Stiftung gegr\u00fcndet. \nEine Stiftung hilft anderen mit Geld. \n\nWladimir Klitschko hat diese Auszeichnungen bekommen: \nBambi\nFelix Burda Award \nSteiger Award \nDVD Champion \nHeroes for Kids\n\nSein Bruder Vitali Klitschko ist auch Boxer.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Wladimir_Klitschko"
+    },
+    {
+        "title": "Knock Out",
+        "content": "Knockout  gibt es beim Sport.\nZum Beispiel beim Boxen. \nDurch einen Knockout gewinnt man den Kampf,\nweil der andere Boxer nicht mehr aufstehen kann. \n\n\n\nKnockout gibt es beim Boxen,\noder beim Kickboxen.\n\nKnockout heisst durch einen Schlag auf den Boden fallen. \nUnd gleichzeitig in Ohnmacht fallen. \nWenn der Sportler nach 10 Sekunden nicht aufstehen kann, \nverliert er den Kampf. \n\nEin bekannter Boxer ist Wladimir Klitschko.\nEr hat schon 50. Knockouts geschafft.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Knock_Out"
+    },
+    {
+        "title": "Boxen",
+        "content": "Boxen ist eine Sportart.\nBeim Boxen k\u00e4mpfen zwei Personen gegeneinander.\nDas machen sie mit ihren F\u00e4usten.\n\n\n\nBeim Boxen gibt es Einteilungen.\nDas sind die Gewichtsklassen.\nDas heisst,\ndie Boxer m\u00fcssen das gleiche K\u00f6rpergewicht haben.\nNur dann d\u00fcrfen sie gegeneinander Boxen.\n\nBei den Boxern gibt es einen Unterscheid.\nEs gibt Freizeitsportler.\nUnd es gibt Leistungssportler.\n\nBeim Boxen darf nur mit der Hand geschlagen werden.\nDie Hand muss dabei zur Faust gemacht werden.\nNur mit der Faust darf geboxt werden.\nWenn man mit einem anderen K\u00f6rperteil schl\u00e4gt,\nist das ein Foul.\nZum Beispiel mit dem Fu\u00df.\n\nBeim Boxen gibt es Punkte.\nWer die meisten Punkte vom Schiedsrichter bekommt,\nhat gewonnen.\n\nEinen Punkt gibt es f\u00fcr einen Treffer\nam Kopf,\nam Hals,\noder\nam Bauch\n\nMan kann auch durch einen Knock Out gewinnen. \n\nSchl\u00e4ge unter dem Bauchnabel sind verboten. \n\nDas ist ein Foul. \u2028\u2028\nF\u00fcr ein Foul werden Punkte abgezogen.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Boxen"
+    },
+    {
+        "title": "Aerobic",
+        "content": "Aerobic ist eine Sportart.\nMan bewegt sich zu Musik und macht gleichzeitig Sport. \n\n\n\nBeim Aerobic bewegt man sich zu Musik. \nDabei bewegt man den ganzen K\u00f6rper. \n\nAerobic ist gut f\u00fcr die Kondition.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Aerobic"
+    },
+    {
+        "title": "Basketball",
+        "content": "Basketball ist eine Sportart. \nMan muss den Ball mit den H\u00e4nden in den gegnerischen Korb werfen.\n\n\n\nEs spielen 2 (zwei) Mannschaften gegeneinander.\nIn jeder Mannschaft sind 5 (f\u00fcnf) Spieler.\nTrifft man den Korb, bekommt man zwei Punkte. \nTrifft man den Korb von weit weg, bekommt man drei Punkte.\n\nEinen Freiwurf bekommt man bei einem Foul. Bei einem Freiwurf darf der Spieler alleine an der Linie stehen und den Ball versuchen in den Korb zu werfen. \nF\u00fcr einen Treffer gibt es einen Punkt. \n\nFreiwurf\n\n\nBasketball gibt es auch f\u00fcr Rollstuhlfahrer. \n\nDer Korb h\u00e4ngt drei Meter \u00fcber dem Boden.\n\nEin besondere Wurf beim Baskteball ist der Dunking.\nBasketball ist in den USA sehr beliebt.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Basketball"
+    },
+    {
+        "title": "Olympische Spiele",
+        "content": "Die Olympischen Spiele sind ein Sport-wett-kampf.\n\n\n\nDie Olympischen Spiele gibt es seit dem Jahr 1896. \nDie Olympischen Spiele sind alle 4 Jahre.\nEs gibt Sommer\u00b7spiele und Winter\u00b7spiele.\nDie Zeit zwischen den Olympischen Spielen hei\u00dft: Olympiade\nDie Spiele beginnen mit einer Er\u00f6ffnungs\u00b7feier.\nBei der Er\u00f6ffnungs\u00b7feier wird das olympische Feuer mit der Fackel angez\u00fcndet.\n\nOlympische Spiele sind nicht wie andere Sport\u00b7wett\u00b7k\u00e4mpfe. \nBei den Olympischen Spielen geht es darum, wer der beste Sportler ist.\nBei Sport\u00b7wett\u00b7k\u00e4mpfen geht es oft darum, welches das beste Land ist.\n\nF\u00fcr Menschen mit einer K\u00f6rper\u00b7behinderung gibt es die Paralympics.\nF\u00fcr Menschen mit Lern\u00b7schwierigkeiten gibt es die Special Olympics.\n\nIn der Antike gab es schon einmal Olympische Spiele.\nSiehe: Olympische Spiele der Antike\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Olympische_Spiele"
+    },
+    {
+        "title": "Special Olympics",
+        "content": "Special Olympics sind Olympische Spiele f\u00fcr Menschen mit Lernschwierigkeiten.\n\n\n\nSpecial Olympics wurde in den USA im Jahr 1968 gegr\u00fcndet. \n\nDie Gr\u00fcnderin hei\u00dft Eunice Kennedy\n\nAuf deutsch hei\u00dft Special Olympics: \"Besondere Olympiade\".\n\nDas Wort wird so gesprochen: \"Spesch\u00e4l Olympicks\"\n\nDer Eid von Special Olympics lautet: \n\"Lasst mich gewinnen, doch wenn ich nicht gewinnen kann, lasst mich mutig mein Bestes geben!\"\nMit dem Eid wird jede Veranstaltung von Special Olympics feierlich er\u00f6ffnet und ein olympisches Feuer angez\u00fcndet.\nDer Eid ist eine Art Versprechen und wird von einem Athleten aufgesagt. \nIn diesem Moment vertritt er alle anderen Teilnehmer.\n\nInzwischen gibt es in 165 L\u00e4ndern eine Vertretung von Special Olympics. Auch in Deutschland.\nAuf der ganzen Welt trainieren mehr als 2,5 Millionen Athleten nach den Regeln von Special Olympics.\n\nBei den Special Olympics gibt es diese Sportarten: \nParalympics Schwimmen\n\n\n\n\n\nBasketball\n\n\n\n\n\nAlpinSki\nLeichtathletik\n\n\nBoccia\n\n\n\n\n\n\n\n\n\n\nBadminton\n\n\n\n\n\n\n\n\n\n\n\nBowling\nFahrradfahren\nSkilanglauf\nPferdesport\nEiskunstlauf\nHockey\n\n\n\n\n\n\n\nFu\u00dfball\n\n\n\n\n\n\n\nGolf\nGymnastik\nJudo\nGewichtheben\nRollerskaten\nSegeln\nSnowboarden\nSchneeschuhlaufen\nSoftball\nSpeedskating\nTischtennis\n\n\n\n\n\n\n\n\n\n\nHandball\n\n\n\n\n\n\n\nTennis\n\n\n\n\n\n\n\nVolleyball\n\n\n\n\n\n\nDie n\u00e4chsten Special Olympics sind in Garmisch-Partenkirchen.\nDie Special Olympics gehen vom 14. Januar,\nbis zum 17. Januar 2013.\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Special_Olympics"
+    },
+    {
+        "title": "Handball",
+        "content": "Handball ist eine Sportart. \nMan muss mit der Hand den Ball werfen. \nDas Spiel dauert 60 Minuten. \n\n\n\nTorwart.\nR\u00fcckraum.\nAu\u00dfen.\nKreisl\u00e4ufer..\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Handball"
+    },
+    {
+        "title": "Tischtennis",
+        "content": "Tischtennis ist eine Sportart. \n\n\n\nTischtennis wird auf einem Tisch gespielt. \nIn der Mitte des Tisches ist ein Netz. \n\nTischtennis wird mit einem Schl\u00e4ger pro Person gespielt. \nDer Tischtennisschl\u00e4ger ist aus Holz. Auf diesem Holz ist Gummi aufgeklebt. \n\nDen Spielball nennt man \"Tischtennisball\". Dieser Ball ist aus Kunststoff. \n\nDer Tischtennisball wird von den Spielern \u00fcber das Netz gespielt. \nEs wird versucht den Ball so oft wie m\u00f6glich \u00fcber das Netz zu spielen. \nWenn ein Spieler den Ball nicht zur\u00fcckspielen kann gibt es einen Punkt f\u00fcr den Gegner.\n\nTischtennis kann zu zweit oder zu viert gespielt werden. \nWenn ein Spieler gegen einen anderen spielt nennt man das \"Einzel\".\nWenn zwei Spieler gegen zwei Spieler spielen nennt man das \"Doppel\".\n\nBei den Paralympics im Sommer gibt es auch Tischtennis.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Tischtennis"
+    },
+    {
+        "title": "Volleyball",
+        "content": "Volley\u00b7ball ist eine Sport\u00b7art.\n\nBeim Volleyball gibt es 2 Mannschaften. \nJede Mannschaft hat 6 Spieler. \n\nEs gibt ein Spiel\u00b7feld.\nDas Spiel\u00b7feld hat 2 H\u00e4lften.\nJede Manschaft bekommt eine H\u00e4lfte.\nIn der Mitte vom Feld steht ein Netz. \n\nDer Ball muss \u00fcber dieses Netz gespielt werden. \nDer Ball soll immer in der Luft bleiben.\nDie Spieler d\u00fcrfen das Netz nicht ber\u00fchren.\nDer Ball darf den Boden nicht  ber\u00fchren. \n\nJede Mannschaft darf den Ball 3 mal spielen. \nDann muss er \u00fcber das Netz gespielt werden. \nF\u00e4llt der Ball auf der eigenen Seite auf den Boden, \nbekommt die andere Mannschaft einen Punkt. \nDie Spieler versuchen den Ball auf den Boden der anderen Mannschaft zu schie\u00dfen.\n\nBeim Volleyball gibt es mehrere Spiele. \nDas sind die \"Gewinn\u00b7s\u00e4tze\". \nEinen Gewinn\u00b7satz gewinnt die Mannschaft, d\nie zuerst 25 Punkte hat. \n\nZwischen den Gewinn\u00b7s\u00e4tzen gibt es immer eine Pause. \nDie Pause dauert 4 Minuten. \nDie Mannschaft, die zuerst 3 Gewinns\u00e4tze gewonnen hat ist Sieger. \n\nBeim Volleyball gibt es noch eine andere Art. \nDie hei\u00dft Beach\u00b7volley\u00b7ball. \nUnd Sitz\u00b7volley\u00b7ball.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Volleyball"
+    },
+    {
+        "title": "Beachvolleyball",
+        "content": "Beach\u00b7volley\u00b7ball ist eine Sport\u00b7art.\nBeach\u00b7volley\u00b7ball ist \u00e4hnlich wie Volley\u00b7ball. \nBeach\u00b7volley\u00b7ball spielt man auf Sand.\nBeim Beach\u00b7volley\u00b7ball gibt es 2 Mannschaften. \nJede Mannschaft hat 2 Spieler. \n\nEs gibt ein Spiel\u00b7feld.\nDas Spiel\u00b7feld hat 2 H\u00e4lften.\nJede Mannschaft bekommt eine H\u00e4lfte.\nIn der Mitte vom Feld steht ein Netz. \nDer Ball muss \u00fcber dieses Netz gespielt werden. \nDer Ball soll immer in der Luft bleiben.\nDie Spieler versuchen den Ball auf den Boden der anderen Mannschaft zu schie\u00dfen.\n\nBeim Beach\u00b7volley\u00b7ball gibt es mehrere Spiele. \nDas sind die \"Gewinn\u00b7s\u00e4tze\". \nEinen Gewinn\u00b7satz gewinnt die Mannschaft, die zuerst 21 Punkte hat. \nDie Mannschaft, die zuerst 3 Gewinn\u00b7s\u00e4tze gewonnen hat ist Sieger. \n\nBeach ist ein englisches Wort.\nBeach hei\u00dft auf deutsch Strand.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Beachvolleyball"
+    },
+    {
+        "title": "Sitzvolleyball",
+        "content": "Sitz\u00b7volley\u00b7ball ist eine Sportart.\n\nBeim Sitz\u00b7volley\u00b7ball sitzen die Spieler auf dem Boden.\nEs gibt 2 Mannschaften. \nJede Mannschaft hat 6 Spieler.\nEs gibt ein Spiel\u00b7feld.\nDas Spiel\u00b7feld hat 2 H\u00e4lften.\nJede Mannschaft bekommt eine H\u00e4lfte.\n\nIn der Mitte steht ein Netz. \nDer Ball muss \u00fcber dieses Netz gespielt werden.\nDabei darf der Ball nicht den Boden ber\u00fchren. \nDer Ball soll immer in der Luft bleiben.\nDie Spieler versuchen den Ball auf den Boden der anderen Mannschaft zu schie\u00dfen.\n\nDer Rumpf darf den Boden beim spielen nicht ber\u00fchren. \nDer Rumpf ist der Ober\u00b7k\u00f6rper.\n\nDas Netz ist nicht so hoch wie beim Volley\u00b7ball.\nEs gibt die gleichen Regeln wie beim Volley\u00b7ball.\n\nJede Mannschaft darf den Ball 3 mal spielen. \nDann muss er \u00fcber das Netz gespielt werden.\n\nF\u00e4llt der Ball auf der eigenen Seite auf den Boden, \nbekommt die andere Mannschaft einen Punkt.\n\nBeim Sitz\u00b7volley\u00b7ball gibt es mehrere Spiele. \nDas sind die \"Gewinn\u00b7s\u00e4tze\". \nEinen Gewinn\u00b7satz gewinnt die Mannschaft, die zuerst 25 Punkte hat.\nZwischen den Gewinn\u00b7s\u00e4tzen gibt es immer eine Pause. \nDie Pause dauert 4 Minuten.\nDie Mannschaft, die zuerst 3 Gewinns\u00e4tze gewonnen hat ist Sieger.\n\nSpieler beim Aufschlag\n\n\nSitz\u00b7volley\u00b7ball wurde in Holland erfunden. \nEs ist eine paralympische Sommer\u00b7sport\u00b7art.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sitzvolleyball"
+    },
+    {
+        "title": "Skilanglauf",
+        "content": "Skilanglauf ist eine Sportart. \nSkilanglauf macht man im Schnee. \nEs wird bergrunter oder bergauf gefahren.\nDazu werden an den F\u00fc\u00dfen Ski angezogen. \n\n\n\nOft werden beim Skilanglauf Loipen benutzt.\n\nF\u00fcr Skilanglauf werden Ski und St\u00f6cke gebraucht.  \n\n\n\nSkilanglauf gibt es als Freizeitsport\nund Leistungssport. \n\nSkilanglauf gibt es seit dem Jahr 1924\nbei den Olympische Winterspielen.\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Skilanglauf"
+    },
+    {
+        "title": "Freizeitsport",
+        "content": "\nFreizeitsport bedeutet Sport machen. \nBeim Freizeitsport macht man Sport aus Spa\u00df. \nZum Beispiel Joggen.\n\n\n\nFreizeitsport wird in der freien Zeit gemacht. \nFreie Zeit oder Freizeit ist wenn man nicht Arbeiten muss. \n\nDie meisten Menschen machen Sport,\num sich fit und gesund zu halten.\nFreizeitsport ist gut f\u00fcr den K\u00f6rper. \nWeil man sich bewegt. \nDas ist gesund. \n\nDas Gegenteil von Freizeitsport ist Leistungssport.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Freizeitsport"
+    },
+    {
+        "title": "Jogging",
+        "content": "\nJogging ist eine Sport\u00b7art. \nJogging ist langsames Rennen. \n\n\n\nDie meisten Menschen gehen joggen um sich fit und gesund zu halten. \nDurch Joggen kann man seine Kondition verbessern. \n\nJogging ist ein Laufsport.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Jogging"
+    },
+    {
+        "title": "Badminton",
+        "content": "Badminton ist eine Sportart. \n\n\n\nBadminton wird mit einem Schl\u00e4ger pro Person gespielt. \nDen Spielball nennt man \"Federball\". \n\nDer Federball wird von den Spielern \u00fcber das Netz geschlagen. \nEs wird versucht, den Federball so \u00fcber das Netz zu spielen, dass die Gegenspieler ihn nicht zur\u00fcckschlagen k\u00f6nnen. \nDer Federball darf den Boden nicht ber\u00fchren. \n\nDas Feld, in dem Badminton gespielt wird, sieht so \u00e4hnlich aus wie ein Tennisplatz. \n\nBadminton kann zu zweit oder zu viert gespielt werden. \nWenn ein Spieler gegen einen anderen spielt, nennt man das \"Einzel\".\nWenn zwei Spieler gegen zwei Spieler spielen, nennt man das \"Doppel\".\n\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Badminton"
+    },
+    {
+        "title": "Boccia",
+        "content": "Boccia ist eine Sportart.\nBoccia wird mit Kugeln gespielt. \n\n\n\nBoccia wird mit einer kleinen Kugel gespielt und mehreren gro\u00dfen Kugeln. \nDie kleine Kugel hei\u00dft Pallino. \nDie gro\u00dfen Kugeln hei\u00dfen Punktkugel. \n\nBeim Boccia muss man eine oder mehrere Kugeln so nah wie m\u00f6glich an den Pallino werfen. \nDaf\u00fcr gibt es einen Punkt. Wer zuerst 15 Punkte hat gewinnt das Spiel. \n\nBoccia-Kugeln\n\n\nBoccia kann man zu zweit (eins gegen eins) spielen. Dass wird Einzel genannt. Beim Einzel hat jeder Spieler vier Punktkugeln.\nBoccia kann man zu viert (zwei gegen zwei) spielen. Dass wird Doppel genannt. Beim Doppel hat jeder Spieler drei Punktkugeln.\nBoccia kann man zu sechst spielen (drei gegen drei) spielen. Dass wird Dreier genannt. Beim Dreier hat jeder Spieler zwei Punktkugeln.\n\nBoccia ist eine paralympische Sommersportart.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Boccia"
+    },
+    {
+        "title": "Paralympics Schwimmen",
+        "content": "Paralympics Schwimmen ist eine Sportart.\n\n\n\nIm Schwimmbecken gibt es 8 Bahnen.\nDiese Bahnen sind nebeneinander.\nAuf jeder Bahn kann ein Schwimmer starten.\n\nDie Sportler schwimmen gegeneinander.\nEine Bahnl\u00e4nge ist 50 Meter lang. \n\nDie Sportler schwimmen zwischen 50 Meter und 400 Meter. \nDer Sportler der diese Strecke am schnellsten schwimmt, \ngewinnt. \n\nEs gibt diese Schwimmarten:\nFreistilschwimmen\nR\u00fcckenschwimmen\nBrustschwimmen\nDelfinschwimmen\nLagenschwimmen\n\nBeim Paralympics Schwimmen gibt es zwei Einteilungen.\nDiese Einteilungen nennt man Klassifizierung. \n\n1. Sportler mit einer Sehbehinderung\nZum Beispiel blinde Sportler.\nBlinde Sportler haben einen Assistenten.\nDer Assisten hei\u00dft \"Tapper\".\nDer Tapper gibt den Sportlern Signale.\nZum Beispiel mit einer Glocke,\nwenn die Sportler im Ziel ankommen.\n\n2. Sportler mit einer K\u00f6rperbehinderung\nZum Beispiel Menschen die nur einen Arm bewegen k\u00f6nnen. \n\nSeit dem Jahr 1960 gibt es Schwimmen bei den Paralympics.\nEs ist eine paralympische Sommersportart.\n\nEine sehr bekannte Schwimmerin ist Kirsten Bruhn.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Paralympics_Schwimmen"
+    },
+    {
+        "title": "Delfinschwimmen",
+        "content": "Delfinschwimmen ist eine besondere Art zu schwimmen. \n\n\n\nBeim Delfinschwimmen bewegt der Sportler beide Arme gleichzeitig. \nBeide Arme werden \u00fcber den Kopf nach vorne ins Wasser bewegt. \nBeine und F\u00fc\u00dfe bewegt man gleichzeitig dazu. \nHoch und runter. \n\nDelfinschwimmen\n\n\nWeil das Delfinschwimmen wie ein Schmetterling aussieht,\nsagt man auch Schmetterlingsschwimmen dazu.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Delfinschwimmen"
+    },
+    {
+        "title": "Paintball",
+        "content": "Paintball ist ein Sport. \nBeim Paintball schie\u00dfen sich die Spieler mit Farbe an. \n\n\n\nPaintball spielt man mit Luftpistolen oder Luftgewehre.\nDie Waffen nennt man Markierer.\n\n\nDie Waffen sind mit Farbe gef\u00fcllt.\nDas sind kleine Kugeln mit Farbe. \n\n\nWer von den Kugeln getroffen wird muss vom Spielfeld gehen\n\nJeder Spieler muss eine Maske tragen. \nDamit die Spieler sich nicht verletzen. \n\n\nAusr\u00fcstung mit:\nKugeln, Markierer und Schutz-Maske\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Paintball"
+    },
+    {
+        "title": "Paralympics",
+        "content": "Die Paralympics sind Olympische Spiele f\u00fcr Menschen mit k\u00f6rperlichen Behinderungen\n\n\n\nDie Paralympics sind kurz nach den Olympischen Spielen.\nNur Menschen mit k\u00f6rperlichen Behinderungen k\u00f6nnen mit-machen.\nEs werden \u00e4hnliche Sportarten wie bei den Olympischen Spielen gemacht.\n\nEs gab Sommer-Paralympics zum Beispiel am 29. August 2012 in London.\nEs gab Winter-Paralympics vom 7. bis 16. M\u00e4rz 2014 in Sotschi.\nSommer-Paralympics finden alle 4 Jahre im Sommer statt.\nWinter-Paralympics finden alle 4 Jahre im Winter statt.\n\nBei den Paralympics im Sommer gibt es diese Sportarten: \nParalympics Bogenschie\u00dfen, Leichtathletik, Paralympics Boccia, Paralympics Radsport, Behindertenreitsport, Blindenfu\u00dfball, Goalball, Paralympics Tischtennis, Sitzvolleyball, Rollstuhlbasketball, Rollstuhlfechten, Rollstuhlrugby, Rollstuhltennis, Paralympics Judo, Paralympics Gewichtheben, Paralympics Rudern, Paralympics Segeln, Sportschie\u00dfen, Paralympics Schwimmen.\n\nBei den Paralympics im Winter gibt es diese Sportarten: \nBiathlon, Ski Alpin, Ski Nordisch, Sledge-Eishockey, Rollstuhlcurling.\n\nMenschen mit Lernschwierigkeiten d\u00fcrfen bei den Paralympics nicht mit-machen.\nDas ist seit dem Jahr 2004 so.\nF\u00fcr Menschen mit Lernschwierigkeiten gibt es die Special Olympics.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Paralympics"
+    },
+    {
+        "title": "Billard",
+        "content": "Billard ist eine Sport-Art.\nBillard hei\u00dft auf deutsch:\nkleine Kugel\nMan spricht es so aus: \nBilliard.\n\n(Die Engl\u00e4nder schreiben es auch mit i)\n\n\n\nBillard kommt aus dem Franz\u00f6sischen.\nEs hei\u00dft auf deutsch: \nkleine Kugel\n\nMan spielt Billard auf einem Billard-Tisch.\nAuf dem Tisch liegen die Billard-Kugeln.\n\nDie Kugeln darf man nicht anfassen.\nDie Spieler benutzen dazu einen Queue.\nDas ist Franz\u00f6sisch und hei\u00dft: \nStock\nMan spricht das so aus: \nK\u00f6\n\nDer Spieler zielen mit der Stock-Spitze auf eine Kugel.\nDann sto\u00dfen sie zu,\nals wollten sie die Kugel aufspie\u00dfen.\nAber die Kugel wird nicht aufgespie\u00dft,\nsondern sie rollt schnell los.\n\nEs gibt zwei Arten von Billard.\nDie erkennt man am Tisch:\nDer hat n\u00e4mlich entweder L\u00f6cher,\noder er hat keine.\n\nWenn der Tisch L\u00f6cher hat,\ndann wird Eight-Ball gespielt oder Snooker.\nBeides sind englische Worte.\nDa muss man die B\u00e4lle in die L\u00f6cher schie\u00dfen.\n\nWenn der Tisch keine L\u00f6cher hat,\ndann wird Karambolage gespielt.\nDas ist wieder Franz\u00f6sisch.\nDa muss man die B\u00e4lle gegeneinander schie\u00dfen.\n\nBeim Billard gibt es Meisterschaften,\nsogar Welt-Meisterschaften.\nGute Spieler k\u00f6nnen davon leben.\n\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Billard"
+    },
+    {
+        "title": "Call a Bike",
+        "content": "Mit Call a Bike kann man Fahrr\u00e4der ausleihen. \nMan meldet sich dazu an. \nDanach kann man an verschiedenen Orten ein Fahrrad aus\u00b7leihen. \n\n\n\nCall a Bike ist ein Fahrradverleihsystem. \nDas Angebot ist von DB Rent. \nEs gibt \u00fcber 7000 Fahrr\u00e4der. \n\nDie Fahrr\u00e4der stehen an verschiedenen Orten. \nZum Beispiel an einem Bahnhof.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Call_a_Bike"
+    },
+    {
+        "title": "Rugby",
+        "content": "Rugby ist eine Sportart.\nRugby wird mit der Hand und mit dem Fu\u00df gespielt. \n\n\n\nEs gibt zwei Mannschaften. Jede Mannschaft hat 15 Spieler. \nEin Rugby-Spiel geht zwei mal 40 Minuten. Insgesamt geht ein Spiel 80 Minuten. \n\nBeim Rugby darf man mit den H\u00e4nden oder mit den F\u00fc\u00dfen den Ball spielen. \nNach Vorne darf man nur mit dem Fu\u00df spielen. Nach hinten oder zur Seite darf mit der Hand gespielt werden. \n\nDer Rugby-Ball ist ein Ball aus Leder. Er sieht aus wie ein Ei.\n\n\nDer Ball muss auf die andere Seite ins Tor gelegt werden. Das Tor hei\u00dft \"Malfeld\". Wird der Ball in das Malfeld gelegt hei\u00dft das \"Versuch\". F\u00fcr einen Versuch gibt es 5 Punkte. \nNach einem Versuch kann der Ball noch \u00fcber die Torstangen geschossen werden. Das darf man mit dem Fu\u00df machen. Das nennt man \"Erh\u00f6hung\". F\u00fcr eine Erh\u00f6hung gibt es 2 extra Punkte. \n\nBeim Rugby darf man einen Spieler umwerfen. Den Spieler der den Ball hat. \nWenn der Spieler mit dem Ball am Boden liegt, mu\u00df er den Ball loslassen. \n\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Rugby"
+    },
+    {
+        "title": "E-Bike",
+        "content": "Ein E-Bike ist ein Fahr\u00b7rad mit einem elektrischem Hilfs\u00b7motor.\nDer Hilfs\u00b7motor unterst\u00fctzt beim Fahren.\nDas Fahren ist leichter als bei einem Fahr\u00b7rad\nMan muss weniger stark die Pedale treten.\n\nDas E-Bike hat eine gro\u00dfe Batterie.\nDie Batterie gibt Energie an den Motor ab.\nDie Batterie hei\u00dft auch Akku.\n\n\nEs gibt verschiedene Arten von E-Bikes.\nManche E-Bikes habe einen automatische Dreh\u00b7unterst\u00fctzung.\nDas hei\u00dft:\nDer elektrische Hilfs\u00b7motor geht an,\nwenn man in die Pedale tritt.\nManche sagen dann: das ist ein Pedelec\nEin Fahrrad mit elektrische Tret\u00b7unterst\u00fctzung.\n\nUnd es gibt E-Bikes mit Gas\u00b7griff.\nDas hei\u00dft: \nAm Lenker gibt es einen Griff.\nMit dem Griff schaltet man den elektrischen Hilfs\u00b7motor an.\n\nE-Bike ist ein englisches Wort.\nE-Bike spricht man so: I-Beik\nDas E steht f\u00fcr elektrisch.\nBike hei\u00dft Fahr\u00b7rad.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/E-Bike"
+    },
+    {
+        "title": "Fahrrad",
+        "content": "Ein Fahr\u00b7rad ist ein Fahr\u00b7zeug. \nEin Fahrrad kann man mit Muskel\u00b7kraft fahren. \n\nEin Fahr\u00b7rad f\u00e4hrt,\nwenn man die Fahrrad\u00b7pedale mit den F\u00fc\u00dfen nach unten tritt. \nDie meisten Fahr\u00b7r\u00e4der haben 2 R\u00e4der. \nUnd die meisten Fahr\u00b7r\u00e4der kann man nur alleine fahren. \n\nEs gibt aber auch Fahr\u00b7r\u00e4der die haben mehr R\u00e4der. \nUnd es gibt Fahr\u00b7r\u00e4der auf denen mehr Personen fahren k\u00f6nnen. \nZum Beispiel ein Tandem. \nViele L\u00e4nder haben Regeln f\u00fcr Fahr\u00b7r\u00e4der und f\u00fcr Fahrrad\u00b7fahrer. \nZum Beispiel dass ein Fahr\u00b7rad eine Glocke haben muss. \nAlle Fahr\u00b7rad\u00b7regeln f\u00fcr Deutschland stehen in der Stra\u00dfen\u00b7verkehrs\u00b7ordnung. \nDas kurze Wort f\u00fcr Stra\u00dfen\u00b7verkehrs\u00b7ordnung ist StVO.\n\nEin Fahr\u00b7rad kann viele verschiedene Teile haben.  \nZum Beispiel:\n\nFahrrad\u00b7rahmen, Fahrrad\u00b7gabel.\nSteuersatz\nLenker (Lenkstange) \nVorbau.\nzwei Laufr\u00e4der.\nNabe\nSpeichen\nFelge\nReifen\nZahnkranz\nSattel.\nSattelst\u00fctze\nKurbeln\nKettenbl\u00e4ttern\nPedale\nKette, Kettenschutz.\nFahrrad\u00b7bremse, Bowdenzug.\nFahrrad\u00b7klingel, Fahrrad\u00b7beleuchtung, Gangschaltung, Schaltwerk, Umwerfer oder \u00dcberwerfer, Schutzbleche, Gep\u00e4ck\u00b7tr\u00e4ger, Sattel\u00b7tasche, Fahrrad\u00b7st\u00e4nder, Anh\u00e4nger\u00b7kupplung, Fahrrad\u00b7anh\u00e4nger.\n\nHeute gibt es sehr viele verschiedene Fahr\u00b7r\u00e4der.\nZum Beispiel:\nReiserad, Bonanzarad, Cavallo Fahrrad, Dreirad, Einrad, Trimm-Dich-Rad, Faltrad, Fahrradtaxi, Eingangrad, Fixie, Hollandrad, Lastenfahrrad, Liegerad, Rikscha, Tandem, Sesselrad, Velomobil, Tallbike.\nE-Bike, Elektrofahrrad, Mofa, Pedelec, Velo Solex.\n\nIm Jahr 1817 hat Karl Drais eine Lauf\u00b7maschine erfunden.\nManche sagen zu der Lauf\u00b7maschine auch Draisine.\nDie Lauf\u00b7maschine hatte noch keine Pedale.\nMan musste sich mit den F\u00fc\u00dfen vom Boden absto\u00dfen.\nDie Lauf\u00b7maschine war aus Holz.\nViele sagen:\nDie Lauf\u00b7maschine ist der Vorg\u00e4nger vom Fahrrad.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Fahrrad"
+    },
+    {
+        "title": "Skateboard",
+        "content": "Ein Skate\u00b7board ist ein Brett mit Rollen.\nEin Skate\u00b7board kann man von einem Ort zu einem anderen Ort fahren.\nUnd man kann mit dem Skate\u00b7board spielen.\nDas Skate\u00b7board ist auch ein Sport\u00b7ger\u00e4t.\nEs gibt auch Skate\u00b7board Wett\u00b7k\u00e4mpfe.\n\n\nEin Skate\u00fcboard ist ungef\u00e4hr \nein Meter lang und, 30 Zentimeter breit.\nUnter dem Brett sind 4 Rollen.\n\nMan stellt sich breit\u00b7beinig auf das Brett.\nMan kann w\u00e4hrend der Fahrt die Richtung \u00e4ndern, wenn man das\nGleich\u00b7gewicht verlagert.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Skateboard"
+    },
+    {
+        "title": "Sport",
+        "content": "Mit Sport meint man:\nAlles was Menschen k\u00f6rperlich machen.\nZum Beispiel joggen gehen.\nOder Gewichte heben.\nMit Sport sind auch alle Sport\u00b7arten gemeint.\nZum Beispiel Weit\u00b7sprung.\nOder Turnen.\nMit Sport meint man auch alle Wett\u00b7kampf\u00b7spiele.\nZum Beispiel Fu\u00df\u00b7ball.\nOder Basket\u00b7ball.\n\nViele Menschen machen Sport in der Freizeit.\nManche Menschen gehen auch in den Sport\u00b7verein.\nOder in das Fitnessstudios.\nKinder machen in der Schule Sport\u00b7unterricht.\n\nManchen Menschen machen alleine Sport.\nManche Menschen treffen sich zum Sport machen.\nZum Beispiel zu einem Lauf\u00b7treff.\nOder sie gehen zu \u00f6ffentlichen Pl\u00e4tzen.\nZum Beispiel zu einem Fu\u00dfball\u00b7platz.\nOder zu einem Basekt\u00b7ball\u00b7platz.\n\nMenschen machen Sport, weil es gesund ist.\nManche Menschen machen Sport, weil es ihnen spa\u00df macht.\nManche Menschen machen Sport als Beruf.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sport"
+    },
+    {
+        "title": "Turnen",
+        "content": "Turnen sind verschiedene Sport\u00b7arten.\nZum Beispiel Ger\u00e4te\u00b7turnen.\nOder Trampolin\u00b7turnen. \nIn Deutschland hat Friedrich Ludwig Jahn gelebt.\nDas war vom Jahr 1778 bis zum Jahr 1852.\nManche sagen zu Friedrich Ludwig Jahn auch Turn\u00b7vater Jahn.\nEr hat mit Turnen alle Sport\u00b7arten gemeint.\nHeute sagt man das Wort turnen nur noch selten.\nMeistens sagt man Sport.\nZum Beispiel:\nFr\u00fcher haben die Leute Turn\u00b7lehrer gesagt..\nFr\u00fcher haben die Leute Turn\u00b7schuh gesagt..\nFr\u00fcher haben die Leute Turn\u00b7halle gesagt..\n\nHeute meint man mit Turnen bestimmte Sport\u00b7arten.\nZum Beispiel:\nGer\u00e4te\u00b7turnen, Trampolin\u00b7turnen, Gymnastik, Rhythmische Sport\u00b7gymnastik, Rh\u00f6n\u00b7rad\u00b7turnen, Aerobic, Akrobatik, Rope Skipping, Voltigieren.\n\nIn Deutschland gibt es einen Fach\u00b7verband f\u00fcr das Turnen.\nDas ist der Deutsche Turner-Bund.\nDas kurze Wort f\u00fcr Fetter TextDeutscher Turner-Bund ist DTB.\n\nIn der Schweiz gibt es einen Fach\u00b7verband f\u00fcr das Turnen.\nDas ist der Schweizerische Turn\u00b7verband.\n\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Turnen"
+    },
+    {
+        "title": "Sportger\u00e4t",
+        "content": "Ein Sportger\u00e4t wird zum Sport machen benutzt. \nZum Beispiel eine Hantel. \n\n\n\nManche Sportarten funktionieren nur mit dem passenden Sportger\u00e4t. \nZum Beispiel wird beim Fu\u00dfball spielen der Ball gebraucht. \nDer Ball ist das Sportger\u00e4t.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sportger%C3%A4t"
+    },
+    {
+        "title": "FIFA",
+        "content": "FIFA ist die Abk\u00fcrzung f\u00fcr den Welt-Fu\u00dfball-Verband.\nDer Fu\u00dfball-Verband k\u00fcmmert sich um die Fu\u00dfball-Welt-Meisterschaften. \n\n\n\nDie FIFA ist ein Verein.\nEr wurde am 21. Mai 1904 in Paris gegr\u00fcndet.\nDer Sitz des Vereins ist in der Schweiz.\nIn der Stadt Z\u00fcrich.\n\nDer Pr\u00e4sident der FIFA ist Sepp Blatter\n\nDie Mitglieder der FIFA sind:\n209 National\u00b7verb\u00e4nde, 6 Kontinentalverb\u00e4nde (Zum Beispiel die UEFA).\n\nDie FIFA macht verschiedene Veranstaltungen.\nZum Beispiel:\nFu\u00dfball-Weltmeisterschaft, Fu\u00dfball-Weltmeisterschaft der Frauen, Konf\u00f6derationen-Pokal.\n\nDie FIFA kann auch Strafen erteilen.\nZum Beispiel, wenn sich ein Land nicht an die FIFA Regel h\u00e4lt.\nDie FIFA kann auch einzelne Spieler bestrafen.\n\nDie FIFA verdient Geld,\nzum Beispiel mit:\nFan Artikel, Fu\u00dfnall-Trikots, Die FIFA verkauft auch die Fernseh\u00b7rechte.\n\nIm Jahr 2002 und 2006 hat die FIFA 1,8 Milliarden Euro bekommen. \nF\u00fcr den Verkauf der Fernsehrechte der Herren-Weltmeisterschaften.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/FIFA"
+    },
+    {
+        "title": "Tandem",
+        "content": "Ein Tandem ist ein Fahrrad.\nEs kann von mehreren Personen gefahren werden.\n\n\nEin Tandem kann von zwei,\noder mehreren Personen gefahren werden. \nAuch blinde Menschen k\u00f6nnen dadurch Fahrrad fahren.\n\nDas Tandem gibt es auch beim Paralympics Radsport.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Tandem"
+    },
+    {
+        "title": "Tour de France",
+        "content": "\nDie Tour de France ist ein Fahrrad\u00b7rennen.\n\n\n\"Tour de France\" hei\u00dft Tour (oder Ausflug) von Frankreich.\nDie Tour de France geht durch Frankreich statt.\n\nNur M\u00e4nner machen mit.\nFrauen fahren bei der \"Grande Boucle F\u00e9minine\" mit.\nDas ist ein Rennen nur f\u00fcr Frauen.\n\nDie Tour de France gibt es seit dem Jahr 1903.\nDie Tour de France gibt es jedes Jahr.\nDie Tour de France ist immer im Juli.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Tour_de_France"
+    },
+    {
+        "title": "Geocaching",
+        "content": "Beim Geocaching sucht eine Gruppe von Leuten einen Schatz. \nZum Suchen benutzen sie ein GPS-Empf\u00e4nger. \n\n\n\nDer Schatz beim Geocaching ist ein Logbuch.\nDas ist ein kleines Buch, in das man seinen Namen eintragen kann.\nZum Beweis, das man den Schatz gefunden hat.\nManchmal findet man auch kleine Geschenke im Schatz.\n\nWo der Schatz versteckt ist k\u00f6nnen die Leute im Internet erfahren. \nOder auf einer Karte.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Geocaching"
+    },
+    {
+        "title": "Handbike",
+        "content": "Ein Handbike ist ein Fahrrad.\nEs wird mit den Armen oder H\u00e4nden gefahren. \n\n\n\nEin Handbike kann mit den H\u00e4nden oder Armen gefahren werden. \nAuch Rollstuhlfahrer k\u00f6nnen dadurch Fahrrad fahren. \n\n\nDas Handbike wurde im Jahr 1655 erfunden. \nDer Erfinder hie\u00df Stephan Farfler. \nDie Beine von Stephan Farfler waren gel\u00e4hmt. \n\nDas Handbike gibt es auch beim Paralympics Radsport.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Handbike"
+    },
+    {
+        "title": "Stadion",
+        "content": "Ein Stadion ist ein gro\u00dfes Geb\u00e4ude.\nEs gibt viele Pl\u00e4tze f\u00fcr die Zuschauer.\nDie Zuschauerr\u00e4nge.\nIn der Mitte werden Wett\u00b7k\u00e4mpfe gemacht.\nEin anderes Wort f\u00fcr Stadion ist Arena.\n\nAuf dem Bild ist _____________ zu sehen\n\nDas Wort Stadion ist ein alt\u00b7griechisches Wort.\nIn Griechenland war Stadion ein L\u00e4ngen\u00b7ma\u00df.\nEin Stadion ist ungef\u00e4hr 185 Meter lang.\nIn Griechenland gab es viele Sport\u00b7wett\u00b7k\u00e4mpfe.\nZum Beispiel Wett\u00b7rennen.\nDie Renn\u00b7strecke war ein Stadion lang.\nAlso ungef\u00e4hr 185 Meter lang.\nNeben der Renn\u00b7strecke waren die Zuschauer.\n\nEs gibt verschieden Arten von Stadien.\nZum Beispiel:\nFu\u00dfball\u00b7stadion, Leichtathletik\u00b7stadion, Olympia\u00b7stadion, Schwimm\u00b7stadion, Eis\u00b7hockey\u00b7stadion.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Stadion"
+    },
+    {
+        "title": "Football Leaks",
+        "content": "Football Leaks ist eine Internet\u00b7seite.\nDie Internet\u00b7seite sammelt geheime Texte. \n\nIn den Texten stehen Geheimnisse \u00fcber den Fu\u00dfball und Geld.\nZum Beispiel \u00fcber Fu\u00dfballer die eine Offshore-Firma haben. \nOder Fu\u00dfballer die zu wenig Steuern bezahlt haben. \n\n\n\nDie Menschen die auf Football Leaks schreiben,\nm\u00f6chten unbekannt bleiben.\nSie m\u00f6chten anonym sein. \nEs ist eine Gruppe, die Geheimnisse verr\u00e4t.\nDie Gruppe kommt aus Portugal. \n\nBei Football Leaks machen auch Journalisten mit. \nSie kommen aus ganz Europa.\nUnd arbeiten bei diesen Zeitungen: \nNRC Handelsblad aus den Niederlande, L\u2019Espresso  aus Italien, Expresso aus Portugal, Falter aus \u00d6sterreich, Le Soir  aus Belgien, El Mundo aus Spanien, Der Spiegel aus Deutschland, Politiken  aus D\u00e4nemark, Sunday Times  aus dem Vereinigtes K\u00f6nigreich, Newsweek Srbija  aus Serbien, CRIJ/The Black Sea aus Rum\u00e4nien, Mediapart  aus Frankreich.\n\nDie Internet\u00b7seite gibt es seit dem Jahr 2015. \nIm Jahr 2016 haben sehr viele Menschen von Football Leaks geh\u00f6rt. \nViele Zeitungen haben dar\u00fcber geschrieben. \nAm 1. Dezember 2016 sind viele der geheimen Papiere \u00f6ffentlich geworden. \nDas hei\u00dft,\njeder kann die geheimen Papiere lesen und anschauen. \n\nKeiner wei\u00df wie die Gruppe die geheimen Texte bekommen hat. \nViele sagen, \ndie Papiere haben Computer\u00b7hacker geklaut. \n\nDie geheimen Papiere sind Vertr\u00e4ge und Rechnungen. \nIn den Papieren stehen die Personen die Geld\u00b7gesch\u00e4fte gemacht haben. \nEs sind viele bekannte Personen und Firmen. \nZum Beispiel Mesut \u00d6zil.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Football_Leaks"
+    },
+    {
+        "title": "Vitali Klitschko",
+        "content": "Vitali Klitschko ist ein bekannter Sportler.\nEr macht die Sportart Boxen.\n\nVitali Klitschko ist am 19. Juli 1971 geboren.\nSeit Vitali Klitschko 13 Jahre alt ist,\nboxt er regelm\u00e4\u00dfig.\nAngefangen hat er mit Kickboxen. \n\nSeit dem Jahr 1996 macht er Boxen als Leistungssport. \nDas hei\u00dft,\ner ist ein Profiboxer. \n\nEr hat 46 Boxk\u00e4mpfe gemacht.\nDavon hat er 44 Boxk\u00e4mpfe gewonnnen.\n2 Boxk\u00e4mpfe hat er verloren.\n\nEr ist Weltmeister im Schwergewicht Boxen.\nBei allen Boxern,\ndie mehr als 90 Kilogramm wiegen,\nist er einer der besten.\n\nVitali Klitschko hilft Kindern,\ndenen es nicht so gut geht.\nMit seinem Bruder hat er daf\u00fcr eine Stiftung gegr\u00fcndet.\nEine Stiftung hilft anderen mit Geld.\n\nVitali Klitschko hat diese Auszeichnungen bekommen:\nBambi\nLaureus World Sports Award \nBundesverdienstkreuz \nDVD Champion \nSteiger Award\nBoxer des Jahres\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Vitali_Klitschko"
+    },
+    {
+        "title": "Michael Schuhmacher",
+        "content": "Michael Schuhmacher war fr\u00fcher ein Auto-renn-fahrer.\nSeit dem Jahr 2012 macht er keinen Motor-sport mehr.\n\n\n\nMichael Schuhmacher ist am 3. Januar 1969 in H\u00fcrth-Herm\u00fclheim, Detuschland geboren worden.\nIm Jahr 1995 hat er Corinna Betsch geheiratet.\nSie haben zusammen zwei (2) Kinder.\nSeit dem Jahr 1996 leben sie in der Schweiz.\n\nAls Kind ist Michael Schumacher Kart gefahren.\nAuf der Kart-bahn von seinem Vater.\n\nSp\u00e4ter ist er in verschiedenen Motor-sport Klassen gefahren.\nZum Beispiel:\nFormel K\u00f6nig, Formel Ford, Formel 3, japanische Formel 3000, Formel 1.\n\nIn der Formel 1 ist er sieben (7) mal Weltmeister geworden.\n\nAm 29. Dezember 2013 hatte Michael Schumacher einen Unfall beim Skifahren. \nDadurch hat er ein Kopf-verletzung.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Michael_Schuhmacher"
+    },
+    {
+        "title": "Miroslav Klose",
+        "content": "Miroslav Klose ist ein deutscher Fu\u00dfball\u00b7spieler.\n\n\n\nMiroslav Klose wurde am 9. Juni 1978 in Opole, Polen geboren. \nSein Vater ist der Fu\u00dfball\u00b7spieler Josef Klose.\nSeine Mutter ist Barbara Je\u017c.\nSie war eine Hand\u00b7ball\u00b7spielerin.\nSie hat in der polnischen National\u00b7mannschaft gespielt.\n\nZusammen mit seiner Familie zieht er nach Deutschland.\nDa ist er 8 Jahre alt.\nIn Deutschland geht er in die  Haupt- und Realschule.\nDanach macht er eine Lehre.\nEine Lehre zum Zimmermann.\n\nAm 31. Dezember 2004 heiraten er und Sylwia Klose.\nZusammen haben sie 2 Kinder.\nDie Zwillings\u00b7s\u00f6hne Noah und Luan.\n\nMiroslav Klose ist Profi\u00b7fu\u00dfball\u00b7spieler.\nDas hei\u00dft:\nEr verdient sein Geld mit Fu\u00dfball spielen.\n\nMiroslav Klose hat bei verschiedenen Fu\u00dfball\u00b7vereinen gespielt.\nZum Beispiel:\nvom Jahr 1998 bis zum Jahr 1999 beim FC 08 Homburg II, vom Jahr 1998 bis zum Jahr 1999 beim FC 08 Homburg, vom Jahr 1999 bis zum Jahr 2001 beim 1. FC Kaiserslautern Amateure, vom Jahr 2000 bis zum Jahr 2004 beim 1. FC Kaiserslautern, vom Jahr 2004 bis zum Jahr 2007 bei Werder Bremen, vom Jahr 2007 bis zum Jahr 2011 beim FC Bayern M\u00fcnchen, seit dem Jahr 2011 bei Lazio Rom.\n\nSeit dem 24. M\u00e4rz 2001 spielt er auch in der deutschen National\u00b7mannschaft.\nEr hat verschiedene Rekorde gemacht.\nZum Beispiel:\nEr ist der National\u00b7spieler der die meisten Tore gemacht hat. Er hat 71 Tore gemacht., Er hat die meisten Tore bei Fu\u00dfball\u00b7welt\u00b7meisterschaften gemacht. Er hat 16 Tore gemacht..\n\nMiroslav Klose macht auch Ehren\u00e4mter.\nZum Beispiel macht er Werbung f\u00fcr die Deutsche Knochen\u00b7mark\u00b7spender\u00b7datei.\nDamit die Menschen Stamm\u00b7zellen spenden.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Miroslav_Klose"
+    },
+    {
+        "title": "Krafttraining",
+        "content": "Beim Kraft\u00b7training macht man Bewegungen mit dem K\u00f6rper. \nMan kann damit st\u00e4rker werden. \nUnd man kann mehr Muskeln bekommen.  \n\nEine bekannte \u00dcbung sind Knie\u00b7beugen. \n\n\nKraft\u00b7training macht man zum Beispiel beim Body\u00b7building.\nOder beim Kraft\u00b7sport.\nMan kann Kraft\u00b7training mit Ger\u00e4ten machen. \nZum Beispiel mit Hanteln.\nOder man kann sein eigenes K\u00f6rper\u00b7gewicht benutzen. \n\nBei den \u00dcbungen macht man Wieder\u00b7holungen. \nMan macht die gleiche Bewegung hinter\u00b7einander. \nOhne Pause da\u00b7zwischen. \n\nMan macht bei den \u00dcbungen S\u00e4tze. \nDas sind Wieder\u00b7holungen und eine Pause. \nZum Beispiel 2 S\u00e4tze. \n10 mal die gleiche Bewegung. \nDann eine Pause. \nDann wieder 10 mal die gleiche Bewegung. \nUnd dann eine Pause. \n\nBeim Kraft\u00b7training macht man die Bewegungen langsam. \nDamit man die Bewegung richtig macht. \nSchnelle und falsche Bewegungen k\u00f6nnen Sport\u00b7verletzungen geben. \n\nVor dem Kraft\u00b7training w\u00e4rmt man die Muskeln auf. \nDamit man sich weniger verletzt.\n",
+        "language": "German",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Krafttraining"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Accounting",
+        "content": "Accounting or accountancy is the job of sharing financial information about a business to managers and shareholders (people who have invested in the business). Accounting is often called the \"language of business\". Accountants are people who do accounting, and also carry out the auditing or checking of a company's books and records. In Britain, this auditing is often carried out by a qualified person called a \"chartered accountant\". In the United States, the professional designation is Certified Public Accountant or \"CPA\". When accountants do accounting work, they write in the books of account (ledgers) that belong to a company. Every time money is spent or earned, it is written in the ledger. The information in the ledger is used to prepare the company accounts monthly, quarterly (every three months) and annually (every year). These annual accounts show what money the company has taken in over time and what it has spent money on. It also shows if the company made a profit in the year (if it made more money than it spent), who owes the company money, who the company owes money to, and any big expensive items the company has bought which they expect to use for many years. Lenders, managers, investors, tax authorities (the people who collect taxes for the government) and other decision-makers look at these annual accounts. Managers and investors look at the ledger and make decisions about how to spend money in the future. Lenders like banks look at the accounts before they lend money to the company. Tax authorities look at them to check that the company is paying the correct amount of taxes.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Accounting"
+    },
+    {
+        "title": "Welfare",
+        "content": "Welfare is an idea from economics and Social Security. The idea is that everyone should have a minimal living standard. People who cannot reach this standard will be supported, usually by the state. Using welfare, everyone has their basic needs covered. This idea is different from the idea of charity.\nWelfare can take different forms:\n\nCertain goods are subsidized by the state. In that way, in many countries the price of goods people need daily, such as bread or rice may be fixed by the state.\nA voucher is similar to a subsidy, except that it may only be used in a certain way. An example of this might be the cafeteria at the university; certain students get their meals cheaper, because they have a voucher. The cafeteria then exchanges the voucher, and will be paid the difference.\nIt is also possible to pay money directly: people will then get a monthly amount of money. They can spend this money on anything, without restriction.\nSome countries need to have proof you applied for a job to receive welfare.Welfare money is given by the government, charities, and other groups of people to help homeless, old, illness, poor, and disabled people (people who cannot help themselves), and also helps children (child support).\nWelfare can also be called the well-being of someone or a group of people: their happiness, health, safety, and fortune.\nIn countries like Germany, Japan, United States, Sweden, and France, government welfare also is used to help the needy.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Welfare"
+    },
+    {
+        "title": "Board of directors",
+        "content": "A board of directors is a group of people. They normally oversee the actions of a corporation or other business. There are laws called  bylaws that the board follows. They organize the business, appoint the CEO, organize budgets and take care of financial matters.\nWithin a board, directors commonly organize themselves into several committees, such as:  audit committee, compensation committee, and human resource committee.\nUsually once a year, the board of directors invite shareholders to a meeting to talk about the company.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Board_of_directors"
+    },
+    {
+        "title": "Bookkeeping",
+        "content": "Bookkeeping is the recording of financial transactions. Transactions include sales, purchases, income, and payments by an individual or organisation. The persons who do this job are called bookkeepers.  They use one of several methods, such as single-entry and double-entry bookkeeping.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bookkeeping"
+    },
+    {
+        "title": "Bookkeeping",
+        "content": "Bookkeeping is the recording of financial transactions. Transactions include sales, purchases, income, and payments by an individual or organisation. The persons who do this job are called bookkeepers.  They use one of several methods, such as single-entry and double-entry bookkeeping.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bookkeeping"
+    },
+    {
+        "title": "Budget",
+        "content": "A budget is an account of the money to be spent on a project, or by a person or organization in a time period. It usually lists the various things that are to be done, and how much to spend on each. It may also list estimated revenues. When spending is less than revenues, it is a surplus budget. When spending is more than revenues, it is a deficit budget. When they are the same, it's a balanced budget.\nAn organization's budget is usually for a fiscal year.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Budget"
+    },
+    {
+        "title": "Gross domestic product",
+        "content": "In economics, gross domestic product (GDP) is how much a place produces in an amount of time. GDP can be calculated by adding up its output inside the borders of that country. \n\nTo find the GDP of a country, one adds up all consumer spending (C), all investment (I), all government spending minus taxes (G), and the value of exports minus imports (X \u2013 M). This is shown by the equation:\n  \n    \n      \n        G\n        D\n        P\n        =\n        C\n        +\n        I\n        +\n        G\n        +\n        (\n        X\n        \u2212\n        M\n        )\n      \n    \n    {\\displaystyle GDP=C+I+G+(X-M)}\n   This measure is often used to find out how healthy a country is; a country with a high value of GDP can be called a large economy. The United States has the largest GDP in the world. Germany has the largest in Europe, Nigeria in Africa and China in Asia.There are different ways to calculate the GDP. Nominal GDP is the total amount of money spent on all new and final goods in an economy, real GDP (adjusting for changes in prices) tries to correct this number for inflation. For example, if the prices rise by 2% (meaning, everything costs 2% more) and the nominal GDP grows by 5%, the real GDP growth is only increased by 3%. \nGDP per capita is the total income of a country, divided by the number of inhabitants. It shows how rich people, on average, are.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gross_domestic_product"
+    },
+    {
+        "title": "Gross domestic product",
+        "content": "In economics, gross domestic product (GDP) is how much a place produces in an amount of time. GDP can be calculated by adding up its output inside the borders of that country. \n\nTo find the GDP of a country, one adds up all consumer spending (C), all investment (I), all government spending minus taxes (G), and the value of exports minus imports (X \u2013 M). This is shown by the equation:\n  \n    \n      \n        G\n        D\n        P\n        =\n        C\n        +\n        I\n        +\n        G\n        +\n        (\n        X\n        \u2212\n        M\n        )\n      \n    \n    {\\displaystyle GDP=C+I+G+(X-M)}\n   This measure is often used to find out how healthy a country is; a country with a high value of GDP can be called a large economy. The United States has the largest GDP in the world. Germany has the largest in Europe, Nigeria in Africa and China in Asia.There are different ways to calculate the GDP. Nominal GDP is the total amount of money spent on all new and final goods in an economy, real GDP (adjusting for changes in prices) tries to correct this number for inflation. For example, if the prices rise by 2% (meaning, everything costs 2% more) and the nominal GDP grows by 5%, the real GDP growth is only increased by 3%. \nGDP per capita is the total income of a country, divided by the number of inhabitants. It shows how rich people, on average, are.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gross_domestic_product"
+    },
+    {
+        "title": "Capitalism",
+        "content": "Capitalism is an economic system. In it the government plays a secondary role. People and companies make most of the decisions, and own most of the property. Goods are usually made by companies and sold for profit. The means of production are largely or entirely privately owned (by individuals or companies) and operated for profit.Most property, for example, is owned by people or companies, not by the government or by the workers. Capitalism has a more or less free market economy, which means that prices move up or down according to the availability of the products. People buy and sell things according to their own judgment. In most countries there is some regulation (trade laws) and some planning done by the government. They are sometimes called \"mixed economies\" to indicate this. Some people disagree on whether capitalism is a good idea, or how much of capitalism is a good idea.\nThe word comes from \"capital\", meaning something of value. This can be money (\"financial capital\") or any other goods that can be traded. The word \"capital\" originally comes from the Latin word \"caput\", meaning \"head.\" It was used to mean how many \"head\" of cattle a rich person owned, in days long ago when cattle were used as money. In fact, the words \"capital\" and \"cattle\" both come from \"caput\".\nThe philosopher Adam Smith's book, The Wealth of Nations, was an important book that developed the ideas of capitalism and the free market. The word \"capitalism\" was not used until the 19th century. The greatest invention of capitalism is often said to be the joint stock company. A joint-stock company is a business where different stocks can be bought and owned by shareholders. Each shareholder owns company stock in proportion to the number of their shares.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Capitalism"
+    },
+    {
+        "title": "Commerce",
+        "content": "Commerce is another word for trade or business, and can mean simply the buying and selling of goods and services. Some commerce involves high finance and big companies and organisations. Commercial real estate is a place for commerce, a place to do business. Interstate commerce is the movement of goods, money or transportation between two or more states. International trade is the exchange of goods and services between countries.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Commerce"
+    },
+    {
+        "title": "Competition",
+        "content": "A competition or contest is an event where people get together to see who is the best at something.  Someone who takes part in a competition (\"enters for a competition\") is called a competitor.  The competitors compete against one another.  The person who wins may get a prize.  The prize might be a trophy or money.\nCompetitions can be for lots of different things, for example, sport, writing, music, dancing, science, or chess.\n\nSome competitions need a referee.  The referee will make sure that the game is played fairly and that the competitors obey the rules.  In events like music competitions there will often be an adjudicator who will decide which person they think is the best.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Competition"
+    },
+    {
+        "title": "Consumer",
+        "content": "In economics, a consumer is a person or organization that uses services, goods, or commodities.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Consumer"
+    },
+    {
+        "title": "Corporation",
+        "content": "A corporation is a union of natural persons that has its own legal status. This status is independent from the persons involved. \nBecause it is recognized by governments as a separate entity, the corporation must file tax returns and pay taxes and conform to state and federal law. This separation of persons and corporation gives it special powers. A corporation's status and capacity is determined by the law of the place of incorporation.\nInvestors and entrepreneurs often form joint stock companies. Therefore, the term corporation often means such business corporations. Corporations may also be formed for local government (municipal corporation), political, religious, and charitable purposes (not-for-profit corporation), or government programs (government-owned corporation).  Condominiums are a common kind of non-profit corporation.\nIn common speech, the word \"corporation\" refers usually to limited responsibility corporation. That is a business firm where each of the partners invest a sum of money in as the capital of the corporation. They receive shares for the sum they have invested. If the company becomes bankrupt, the business partners are responsible for only the name value of their shares of the company's debts. The partners do not use their personal money to pay for the debt.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Corporation"
+    },
+    {
+        "title": "Credit",
+        "content": "When somebody borrows resources from somebody else, credit is the trust that they will later pay it back. The term often is used when somebody borrows money from a bank. This is called a loan. A bank may not give somebody credit if they do not think they would pay the loan back.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Credit"
+    },
+    {
+        "title": "Credit card",
+        "content": "A credit card is a card which allows people to buy items without cash. Each card has a unique number. Using this number, plus other details on the card (such as the validity date, or a code), the client can buy goods or services. The issuer of the card, then transfers the money to the seller. The person using the card gets a credit. The  customer has a certain amount of time to pay the credit card bill. If the bill is left unpaid for some time, the customer will have to pay interest for the amount that is left unpaid. Payment using a credit card is one of the most common methods of electronic payment.\nCredit cards are usually small plastic cards with a unique number attached to an account. Most are magnetic stripe cards and many have an EMV chip for use by card readers.\nP.S. Only have 1 to 2 credit cards to keep your credit rating up.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Credit_card"
+    },
+    {
+        "title": "Currency",
+        "content": "Currency is the unit of money used by the people of a country or Union for buying and selling goods and services.\nCertain currencies are said to be \"pegged\" or \"fixed\" to something, usually another currency. A fixed or pegged currency is one that has a constant value compared to what it is pegged to. For example, the Cape Verdian escudo is pegged to the Euro. If the value of the Euro goes up 1% compared to another form of currency, the value of the escudo also goes up 1% compared to that same currency.  \nMany countries have used systems where their currency was pegged to a commodity rather than to another currency. Most used either gold or silver. When they did this, as the value of gold increased, so did the value of their money. This was called the \"gold standard\" or \"silver standard\". Most countries stopped using silver and gold standards in the 20th century. \nSome well-known currencies are:\n\nthe United States dollar\nthe Euro\nthe British pound",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Currency"
+    },
+    {
+        "title": "Currency",
+        "content": "Currency is the unit of money used by the people of a country or Union for buying and selling goods and services.\nCertain currencies are said to be \"pegged\" or \"fixed\" to something, usually another currency. A fixed or pegged currency is one that has a constant value compared to what it is pegged to. For example, the Cape Verdian escudo is pegged to the Euro. If the value of the Euro goes up 1% compared to another form of currency, the value of the escudo also goes up 1% compared to that same currency.  \nMany countries have used systems where their currency was pegged to a commodity rather than to another currency. Most used either gold or silver. When they did this, as the value of gold increased, so did the value of their money. This was called the \"gold standard\" or \"silver standard\". Most countries stopped using silver and gold standards in the 20th century. \nSome well-known currencies are:\n\nthe United States dollar\nthe Euro\nthe British pound",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Currency"
+    },
+    {
+        "title": "Dividend",
+        "content": "Dividends are payments made by a company to its shareholders. When a company earns more money than it spends, the extra money can either be spent on making the company better or it can be given to the people who own stock in the company as a dividend.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Dividend"
+    },
+    {
+        "title": "Down payment",
+        "content": "A down payment is the amount that being paid first at the beginning of any business transaction and settle the remaining payment through installments. This payment is made so that the buyer or customer can own the goods being sold or for the case of ordering in a factory (for highly-customized goods), the goods can be put into the production line and start to be produced first.How much a customer needs to pay for the down payment is different in each country and each business type. The amount of down payment and the remaining payment are usually agreed upon at the time of making the purchase or order..\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Down_payment"
+    },
+    {
+        "title": "Debit card",
+        "content": "A debit card (also known as a bank card or check card) is a plastic card that is used as a payment method to cash when buying things.  It is similar to a credit card, but unlike a credit card, it does not borrow money.  Instead, the money comes directly from the user's bank account, and if there is no money it does not work.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Debit_card"
+    },
+    {
+        "title": "Economics",
+        "content": "Economics is the social science which studies economic activity: how people make choices to get what they want. It has been defined as \"the study of scarcity and choice\" and is basically about the choices people make. It also studies what affects the production, distribution and consumption of goods and services in an economy.Investment and income relate to economics. The word comes from Ancient Greek, and relates to \u03bf\u1f36\u03ba\u03bf\u03c2 o\u00edkos \"house\" and \u03bd\u03cc\u03bc\u03bf\u03c2 nomos \"custom\" or \"law\". The models used in economics today were mostly started in the 19th century. People took ideas from political economy and added to them because they wanted to use an empirical approach similar to the one used in the natural sciences.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Economics"
+    },
+    {
+        "title": "Economics",
+        "content": "Economics is the social science which studies economic activity: how people make choices to get what they want. It has been defined as \"the study of scarcity and choice\" and is basically about the choices people make. It also studies what affects the production, distribution and consumption of goods and services in an economy.Investment and income relate to economics. The word comes from Ancient Greek, and relates to \u03bf\u1f36\u03ba\u03bf\u03c2 o\u00edkos \"house\" and \u03bd\u03cc\u03bc\u03bf\u03c2 nomos \"custom\" or \"law\". The models used in economics today were mostly started in the 19th century. People took ideas from political economy and added to them because they wanted to use an empirical approach similar to the one used in the natural sciences.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Economics"
+    },
+    {
+        "title": "Economics",
+        "content": "Economics is the social science which studies economic activity: how people make choices to get what they want. It has been defined as \"the study of scarcity and choice\" and is basically about the choices people make. It also studies what affects the production, distribution and consumption of goods and services in an economy.Investment and income relate to economics. The word comes from Ancient Greek, and relates to \u03bf\u1f36\u03ba\u03bf\u03c2 o\u00edkos \"house\" and \u03bd\u03cc\u03bc\u03bf\u03c2 nomos \"custom\" or \"law\". The models used in economics today were mostly started in the 19th century. People took ideas from political economy and added to them because they wanted to use an empirical approach similar to the one used in the natural sciences.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Economics"
+    },
+    {
+        "title": "Economics",
+        "content": "Economics is the social science which studies economic activity: how people make choices to get what they want. It has been defined as \"the study of scarcity and choice\" and is basically about the choices people make. It also studies what affects the production, distribution and consumption of goods and services in an economy.Investment and income relate to economics. The word comes from Ancient Greek, and relates to \u03bf\u1f36\u03ba\u03bf\u03c2 o\u00edkos \"house\" and \u03bd\u03cc\u03bc\u03bf\u03c2 nomos \"custom\" or \"law\". The models used in economics today were mostly started in the 19th century. People took ideas from political economy and added to them because they wanted to use an empirical approach similar to the one used in the natural sciences.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Economics"
+    },
+    {
+        "title": "Electronic commerce",
+        "content": "Electronic commerce more well known as e-commerce, consists of the buying or selling of products via electronic means such as the internet or other electronic services. This type of trade has been growing rapidly because of the expansion of the Internet.\nThe need for electronic commerce emerged from the need to use computers more efficiently in banks and corporations. With the increasing competition there was a need amongst organizations to increase customer satisfaction and information exchange. Electronic commerce started with the introduction of electronic funds transfer (EFT) by banks.  Over time many variants of EFTs within banks were introduced like debit cards, credit cards and direct deposits.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Electronic_commerce"
+    },
+    {
+        "title": "Electronic commerce",
+        "content": "Electronic commerce more well known as e-commerce, consists of the buying or selling of products via electronic means such as the internet or other electronic services. This type of trade has been growing rapidly because of the expansion of the Internet.\nThe need for electronic commerce emerged from the need to use computers more efficiently in banks and corporations. With the increasing competition there was a need amongst organizations to increase customer satisfaction and information exchange. Electronic commerce started with the introduction of electronic funds transfer (EFT) by banks.  Over time many variants of EFTs within banks were introduced like debit cards, credit cards and direct deposits.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Electronic_commerce"
+    },
+    {
+        "title": "Egalitarianism",
+        "content": "Egalitarianism is the belief that groups are, or should be, equal to one another.  The word is named for the French word \u00e9gal, meaning equal or level.\nThere are many possible kinds of egalitarianism. For example, legal egalitarianism is the belief that groups of people should be equal in law even if they are of different race or religion. Gender egalitarianism is the idea that men and women are equally important, although they are different.\nThis word may be used when talking about philosophy in many slightly different ways. We can best understand the different kinds of egalitarianism by asking, \"Who is equal to whom?\" and \"How are they equal?\"",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Egalitarianism"
+    },
+    {
+        "title": "Egalitarianism",
+        "content": "Egalitarianism is the belief that groups are, or should be, equal to one another.  The word is named for the French word \u00e9gal, meaning equal or level.\nThere are many possible kinds of egalitarianism. For example, legal egalitarianism is the belief that groups of people should be equal in law even if they are of different race or religion. Gender egalitarianism is the idea that men and women are equally important, although they are different.\nThis word may be used when talking about philosophy in many slightly different ways. We can best understand the different kinds of egalitarianism by asking, \"Who is equal to whom?\" and \"How are they equal?\"",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Egalitarianism"
+    },
+    {
+        "title": "Export",
+        "content": "An export is a product that is sold to people outside of the country in which the product was made. Canada exports maple syrup to the United States and to many other countries. Tropical areas like the countries in the Caribbean send sugar cane to other countries.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Export"
+    },
+    {
+        "title": "Expense",
+        "content": "An expense, also sometimes called an expenditure, is when money is given in exchange for a good or service.\nIn accounting, expense has a very specific meaning. It is when cash or some other valuable object goes from a person or company to another person or company.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Expense"
+    },
+    {
+        "title": "Adam Smith",
+        "content": "Adam Smith (16 June 1723 \u2013 17 July 1790) was a Scottish economist, who is called the Father of Modern Economics.His book, An Inquiry into the Nature and Causes of the Wealth of Nations, published in 1776, was very important. People call the book just The Wealth of Nations. It stated some of the ideas on which modern economics is based off, especially market economics.In the Wealth of Nations Adam Smith asks 'what can a person do that is best for his country?' He decides that if every person does what is best for themself and their little circle of family and friends, then the country will do better. This is because every person knows a lot about their own situation (what they need and what they want, what works and what does not work), much more than the government knows. This sort of thinking is called \"liberal theory\", a main part of liberalism.\nHe was also a philosopher who wanted to know why people thought (felt) that some things are good and others bad. \nHe wrote an earlier book, in 1759, called The Theory of Moral Sentiments. He thought that empathy was very important in ethics. Empathy is when you see how someone else is feeling, imagine what it feels like, and then end up feeling the same way: for Smith, empathy is like \"putting yourself in someone else's shoes\". For example, empathy makes us feel happy to see someone else who is happy, or feel sorry for someone who is sad. Empathy may even make us feel pain when we see someone in pain (as if we had been hurt or affected). Both Smith and his friend David Hume, who was another Scottish philosopher, wrote about the importance of sympathy in ethics.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Adam_Smith"
+    },
+    {
+        "title": "Factory",
+        "content": "A factory is a building where workers use machines to make things for sale.  It usually means a building where companies use mass production to make different things.  Many of the same thing are made in a short amount of time.\nPeople who work in factories are losing their jobs because machines can do their work more easily. (Automation) Now some factories are lights-out, which means they can run without any workers.Factories during the Industrial Revolution had horrible working conditions.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Factory"
+    },
+    {
+        "title": "Finance",
+        "content": "Finance is a study which figures out how people, businesses and groups make and use money. It can mean:\n\nThinking about money\nThinking about how to control money to make profit\nStudying how to take chances in projects that make money\nAs a verb, \"to finance\" is to provide money for business.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Finance"
+    },
+    {
+        "title": "Finance",
+        "content": "Finance is a study which figures out how people, businesses and groups make and use money. It can mean:\n\nThinking about money\nThinking about how to control money to make profit\nStudying how to take chances in projects that make money\nAs a verb, \"to finance\" is to provide money for business.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Finance"
+    },
+    {
+        "title": "Fundraising",
+        "content": "Fundraising is the process of raising money for charities. Charities may use these to continue providing free after school activities for children, raise money for a cure and help elders and other patients with low income.\nThis may be achieved in many ways.\nSome ways include:\n\nDonations\nSales of merchandise\nForms of gambling such as raffles or lotteries",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fundraising"
+    },
+    {
+        "title": "Good (economics)",
+        "content": "A good in economics is any object or product (factors of production) that is useful. A commodity is one kind of good. \nA good that cannot be used by consumers directly, such as an office building or  capital equipment, can be called a good because it can be useful if it is sold. A 'good' in economic usage does not necessarily mean that the object is good in a moral sense. \nIf an object or service is sold for a positive price, then it is a good since the purchaser considers the utility of the object or service more valuable than the money. Some things are useful but not scarce such as air and are referred to as free goods and common goods. \nIn macroeconomics and accounting, a good is contrasted with a service. A good here is defined as a physical product that one can deliver to a buyer. The service is not an object, but an action that benefits someone. A more general term that preserves the distinction between goods and services is 'commodities'. In microeconomics 'good' is often used in this more inclusive sense of a commodity.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Good_(economics)"
+    },
+    {
+        "title": "Economic growth",
+        "content": "Economic growth occurs when the labor force increases it productive output. This is through the population working harder or a technological advancement",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Economic_growth"
+    },
+    {
+        "title": "Recruitment",
+        "content": "Recruitment is the process of finding new people to do a job. For a company or organization, it is important to choose the right people from the beginning. This is because human resources are often a very important part of a business.\nRecruitment has many different steps. First, the company needs to advertise that it has a job available. People then send an application. This usually includes a curriculum vitae, which is a summary of what a person has done until now in their life. The best applicants are selected and they come for an interview. This might also include some further tests or exercises to do. The person chosen is then given an offer of a job. Finally, they can choose to take it or not.\nThere are many ways of doing recruitment. Some companies go to consultants, who know where and how to find the best people. Universities and schools often have a group of people that tells the students about getting a job. At other times, a company might really want a person that is very good at a job but works for another company. They can then ask directly to this person, maybe offering more money. Facebook, Twitter and LinkedIn are also sometimes used by people looking for a job.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Recruitment"
+    },
+    {
+        "title": "Import",
+        "content": "An import is a raw material or a finished product that is brought into a country from abroad. For example America imports maple syrup from Canada and exports manufactured products to the Caribbean.  Some Caribbean countries import nearly all their goods, paying for them with money earned through tourism, banking, and other service industries.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Import"
+    },
+    {
+        "title": "Income",
+        "content": "Income is the money that someone gets for business activities. For individuals income usually means their wages or salary before any tax and other deductions have been made by their employer. Overall it is the amount you earn after all outstanding deductions have been made. Gross income is the income from all sources including wages or salary.\nFor business, there is a difference between the USA, where it most often means the amount of money that a company earns after paying for all its costs, and the world outside the U.S., where the term is usually profit or earnings.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Income"
+    },
+    {
+        "title": "Income",
+        "content": "Income is the money that someone gets for business activities. For individuals income usually means their wages or salary before any tax and other deductions have been made by their employer. Overall it is the amount you earn after all outstanding deductions have been made. Gross income is the income from all sources including wages or salary.\nFor business, there is a difference between the USA, where it most often means the amount of money that a company earns after paying for all its costs, and the world outside the U.S., where the term is usually profit or earnings.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Income"
+    },
+    {
+        "title": "Inflation",
+        "content": "Inflation means that the general level of prices is going up, the opposite of deflation. More money will need to be paid for goods (like a loaf of bread) and services (like getting a haircut at the hairdresser's). Economists measure inflation regularly to know an economy's state. Inflation changes the ratio of money towards goods or services; more money is needed to get the same amount of a good or service, or the same amount of money will get a lower amount of a good or service. Economists defined certain customer baskets to be able to measure inflation. There can be positive and negative effects of inflation.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Inflation"
+    },
+    {
+        "title": "Insurance",
+        "content": "Insurance is a term in law and economics. It is something people buy to protect themselves from losing money.  People who buy insurance pay a \"premium\" (often paid every month) and promise to be careful (a \"duty of care\"). In exchange for this, if something bad happens to the person or thing that is insured, the company that sold the insurance will pay money back. (However, there are some times when the company will not have to pay money back, such as if the person was not careful.)",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Insurance"
+    },
+    {
+        "title": "Interest rate",
+        "content": "An interest rate is how much interest is paid by borrowers for the money that they borrow. It is usually a percentage of the sum borrowed. So, a simple 10% interest means that if one borrows $100, one pays back $110. \nInterest rates in a  country are usually guided by a base rate set by its central bank. The interest rate to businesses and citizens is always above the base rate .",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Interest_rate"
+    },
+    {
+        "title": "Investment",
+        "content": "Investment or investing means that an asset is bought, or that money is put into a bank to get a future interest from it. Investment is total amount of money spent by a shareholder in buying shares of a company. In economic management sciences, investments means longer-term savings.\nIt is a term used in business management, finance and economics, related to saving or deferring consumption. Literally, the word means the \"action of putting something in to somewhere else\" (perhaps originally related to a person's garment or 'vestment').",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Investment"
+    },
+    {
+        "title": "Investment",
+        "content": "Investment or investing means that an asset is bought, or that money is put into a bank to get a future interest from it. Investment is total amount of money spent by a shareholder in buying shares of a company. In economic management sciences, investments means longer-term savings.\nIt is a term used in business management, finance and economics, related to saving or deferring consumption. Literally, the word means the \"action of putting something in to somewhere else\" (perhaps originally related to a person's garment or 'vestment').",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Investment"
+    },
+    {
+        "title": "Loan",
+        "content": "A loan is a type of debt. The borrower needs to repay the lender the sum of money loaned part by part over time in order to clear the debt.\nActing as a provider of loans is one of the main tasks for financial institutions. For other institutions, issuing of debt contracts such as bonds is a main source of funding. Bank loans and credit are one way to increase the money supply.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Loan"
+    },
+    {
+        "title": "Management",
+        "content": "Management means directing and controlling a group of people or an organization to reach a goal. Management often means the deployment and manipulation of human resources, financial resources, technological resources, and natural resources. In other word Management can also mean the person or people who manage, the managers.  European Management is specifically defined by academic Andreas M. Kaplan as a cross-cultural, societal management approach based on interdisciplinary principles.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Management"
+    },
+    {
+        "title": "Market",
+        "content": "A market is a place where people go to buy or sell things. When people have products to sell, they set up a market place.  There may be a special building for the market place, or the market may be held in an open space where the sellers can put up a stall (like a kind of tent) and then take the stall down at the end of the day.\nThe word market can also have a more general meaning in the economy.  It can mean the way things are bought or sold.  \"There is a big market for dishwashers\" means that lots of people want to buy dishwashers, so therefore a business that makes dishwashers is likely to be able to make a lot of money.  When things are sold, people buy the product, and this \"stimulates the economy\" (helps people to spend and earn money). The market needs to balance supply and demand. There is no point in supplying (making) lots of dishwashers if people do not want them.  In the market prices may change quickly if supply or demand changes.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Market"
+    },
+    {
+        "title": "Free market",
+        "content": "A free market is a system in which the prices for goods and services are determined by the open market and consumers, in which the laws and forces of supply and demand are free from any intervention by a government, price-setting monopoly, or other authority. It is a result of a need being, then the need being met. A free market contrasts with a regulated market, in which government intervenes in supply and demand through non-market methods such as laws creating barriers to market entry or price fixing. In a free-market economy, prices for goods and services are set freely by the forces of supply and demand and are allowed to reach their point of equilibrium without intervention by government policy, and it typically entails support for highly competitive markets and private ownership of productive enterprises.\nAlthough free markets are commonly associated with capitalism within a market economy in contemporary usage and popular culture, free markets have also been advocated by free-market anarchists, market socialists, and some proponents of cooperatives and advocates of profit sharing.[1]",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Free_market"
+    },
+    {
+        "title": "Free market",
+        "content": "A free market is a system in which the prices for goods and services are determined by the open market and consumers, in which the laws and forces of supply and demand are free from any intervention by a government, price-setting monopoly, or other authority. It is a result of a need being, then the need being met. A free market contrasts with a regulated market, in which government intervenes in supply and demand through non-market methods such as laws creating barriers to market entry or price fixing. In a free-market economy, prices for goods and services are set freely by the forces of supply and demand and are allowed to reach their point of equilibrium without intervention by government policy, and it typically entails support for highly competitive markets and private ownership of productive enterprises.\nAlthough free markets are commonly associated with capitalism within a market economy in contemporary usage and popular culture, free markets have also been advocated by free-market anarchists, market socialists, and some proponents of cooperatives and advocates of profit sharing.[1]",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Free_market"
+    },
+    {
+        "title": "Marketing",
+        "content": "Marketing is activity that connects producers with customers.\nMarketing has 2 types, which are B2B (business to business) marketing and B2C (business to consumer).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Marketing"
+    },
+    {
+        "title": "Merchant",
+        "content": "Merchants deal with trade. That means they deal goods that they do not produce themselves, in order to get profit.\nMerchants can be two types:\n\nA wholesale merchant works between producer and retail merchant. Some wholesale merchants only organise the movement of goods rather than move the goods themselves.\nA retail merchant sells goods to consumers (including businesses), commonly known as retailers. A shop owner is a retail merchant.In the US, \"merchant\" is  any person while engaged in a business or profession or a seller who deals regularly in the type of goods sold.  Under the common law in the United States, merchants are held to a higher standard in the selling of products than those who are not engaged in the sale of goods as a profession. For example, when a merchant sells something, he or she is expected to give a warranty, guaranteeing that the product is fit to be sold, even if there is nothing in writing to this effect.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Merchant"
+    },
+    {
+        "title": "Monopoly",
+        "content": "A monopoly (from the Greek monos, one + polein, to sell) is when a product or service can only be bought from one supplier for a specific market.  If other firms serve the market, they may be too small compared to the largest, thus allowing the large firm to have a lot of market power. A monopoly usually happens when there is no economic competition to produce the product or service and there is no available substitutes to the product or service.\nIn economics, a monopoly is a single producer of a product or service. In law, a monopoly is a firm that has a lot of market power and is able to charge very high prices for a product or service. As long as the firm has a lot of market power, it does not matter if the firm is large or small, as size is not used to decide if a firm is a monopoly.\nA monopoly can be formed by the government, by merging a few firms to form a large one, or form naturally to become a natural monopoly. In many places, utilities such as telephone service or cable television are monopolies, as it is very costly to build the infrastructure for another firm to compete in the market. Such natural monopolies is hence allowed by the government, but is usually strictly controlled to prevent the monopoly from charging a very high price for a product or service.\nMany countries, including the United States, have laws to stop companies from having a monopoly or to limit the actions that they can do as a monopoly.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Monopoly"
+    },
+    {
+        "title": "Negotiation",
+        "content": "A negotiation is a formal discussion to reach agreement about an issue. It is an important method to reduce conflict, and to get things done. Examples:\n\nTwo hostile nations both claim a piece of territory. They may go to war over it. Or, they may negotiate some agreement. The agreement would be written down, and both governments would agree to keep the agreement.\nA football club wishes to buy a player from another club. A series of negotiations would take place between the clubs, the player and the player's agent. If the negotiations succeed, the player gets moved. In this case, and in many others, success is followed by a legal contract, or a court decision, which makes the agreement legal.\nIn less formal circumstances, a negotiation is just bargaining or haggling over, for example, money.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Negotiation"
+    },
+    {
+        "title": "Organization",
+        "content": "Organization (British English: Organisation) is the idea of putting things together in a logical order. The verb is \"to organize\".\nAn organization is a group of people who work together. Organizations exist because people working together can achieve more than a person working alone.  \nTo make sure people work together, organizations usually have leaders.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Organization"
+    },
+    {
+        "title": "Organization",
+        "content": "Organization (British English: Organisation) is the idea of putting things together in a logical order. The verb is \"to organize\".\nAn organization is a group of people who work together. Organizations exist because people working together can achieve more than a person working alone.  \nTo make sure people work together, organizations usually have leaders.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Organization"
+    },
+    {
+        "title": "Profit",
+        "content": "Profit is how much money somebody (normally a company) makes. This is found by subtracting how much money they have spent (expenditure) from how much money they have brought in (revenue).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Profit"
+    },
+    {
+        "title": "Purchasing power",
+        "content": "Purchasing power is a relation between labor and money. Some people have money. Adam Smith says that the purchasing power is the amount of money needed to labour (goods or services) from other people.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Purchasing_power"
+    },
+    {
+        "title": "Recruitment",
+        "content": "Recruitment is the process of finding new people to do a job. For a company or organization, it is important to choose the right people from the beginning. This is because human resources are often a very important part of a business.\nRecruitment has many different steps. First, the company needs to advertise that it has a job available. People then send an application. This usually includes a curriculum vitae, which is a summary of what a person has done until now in their life. The best applicants are selected and they come for an interview. This might also include some further tests or exercises to do. The person chosen is then given an offer of a job. Finally, they can choose to take it or not.\nThere are many ways of doing recruitment. Some companies go to consultants, who know where and how to find the best people. Universities and schools often have a group of people that tells the students about getting a job. At other times, a company might really want a person that is very good at a job but works for another company. They can then ask directly to this person, maybe offering more money. Facebook, Twitter and LinkedIn are also sometimes used by people looking for a job.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Recruitment"
+    },
+    {
+        "title": "Danger",
+        "content": "Danger (also risk or peril) is the possibility of something bad happening. A situation in which there is a risk of something bad happening, is called dangerous, risky or perilous.\n\nPeople often take risks, or do things that might hurt them. An example of this is crossing the road without looking carefully. There is a risk that you might get hit by a car.  \nAnything that involves a risk of injury or to health can be described as dangerous. Smoking is dangerous to health.  Being around some animals is dangerous because they might attack humans.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Danger"
+    },
+    {
+        "title": "Sales",
+        "content": "Sales are the activities involved in selling products or services in return for money or other compensation. It is an act of completion of a commercial activity. A salesman is someone who sells products or services, thus generating sales.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sales"
+    },
+    {
+        "title": "Sales tax",
+        "content": "Sales tax is a form of taxation based on what people buy rather than their income. In the European Union and many other places it is called Value added tax. Certain vital items are usually exempt. Hungary has one of highest rates in the world- 27%.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sales_tax"
+    },
+    {
+        "title": "Sales tax",
+        "content": "Sales tax is a form of taxation based on what people buy rather than their income. In the European Union and many other places it is called Value added tax. Certain vital items are usually exempt. Hungary has one of highest rates in the world- 27%.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sales_tax"
+    },
+    {
+        "title": "Supply",
+        "content": "In economics, supply is the amount of something that firms are willing to provide in a market. The law of supply and demand will decide the price at which something will be bought and sold.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Supply"
+    },
+    {
+        "title": "Demand",
+        "content": "Demand is the total amount of goods or services which people want to buy, for a set price. The demand for an item indicates how much it is needed or wanted. This is important in economics, because the law of supply and demand will decide the price at which something will be bought and sold.\nDemand is the amount of goods that people want to buy at a given price. Prices go up when supply is less, and demand is more. It follows the law of demand where as price increases, demand decreases and vice versa showing an inverse relationship between quantity demanded and price. This is known as the law of demand which assumes that the consumer will want more. Demand forecasting tries to predict how demand will change in the future.\nSometimes the demand does not change much no matter what the price is. One example is when people are addicted to illegal drugs.  These people need to get their drugs, they will pay any price they can afford. This effect is known as elasticity.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Demand"
+    },
+    {
+        "title": "Non-governmental organization",
+        "content": "A non-governmental organization (NGO) is a group of people from different countries acting together, but not connected with the government of any country. Usually non-governmental organizations are non-profit - that is, they are trying to do something other than make money for the people who run them. They include organisations such as 'Oxfam' and 'World Vision'. \nNon-governmental organization (NGO) is a term that has become widely accepted as referring to a legally constituted, non-governmental organization created by natural or legal persons with no participation or representation of any government. In the cases in which NGOs are funded totally or partially by governments, the NGO maintains its non-governmental status and excludes government representatives from membership in the organization. \nGovernment funding of NGOs is controversial, since, according David Rieff, writing in The New Republic, \"the whole point of humanitarian intervention was precisely that NGOs and civil society had both a right and an obligation to respond with acts of aid and solidarity to people in need or being subjected to repression or want by the forces that controlled them, whatever the governments concerned might think about the matter.\"Unlike the term intergovernmental organization, \"non-governmental organization\" is a term in general use but is not a legal definition. In many jurisdictions these types of organization are defined as \"civil society organizations\" or referred to by other names.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Non-governmental_organization"
+    },
+    {
+        "title": "Tax",
+        "content": "Tax is money that people have to pay to the government.\nThe government uses the money it gets from taxes to pay for things. For example, taxes are used to pay for people who work for the government, such as the military and police, provide services such as education and health care, and to maintain or build things like roads, bridges and sewers.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tax"
+    },
+    {
+        "title": "Transaction",
+        "content": "A transaction is an exchange. Money, goods, and services are often exchanged. They are bought, sold or traded.\nA bank transaction is when money is taken out of or put into a bank.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Transaction"
+    },
+    {
+        "title": "Startup company",
+        "content": "A startup company (startup or start-up) is a new and fast-growing company. They try to meet a marketplace need, offering an innovative product, process or service.A start-up is usually a small business, a partnership or an organization. Rapid growth is what they aim for. Often, startup companies use the internet, e-commerce, computers, and telecommunications.\nThe term became fashionable in the dot-com bubble of the late 1990s, when a great number of internet-based companies were formed.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Startup_company"
+    },
+    {
+        "title": "Unemployment",
+        "content": "Unemployment or Joblessness is when a person who is of normal working age (usually about 15-18 to about 60-65) does not have a paid job. They therefore do not get paid a salary. In some parts of the world, there are social networks to care for the unemployed.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Unemployment"
+    },
+    {
+        "title": "Unemployment",
+        "content": "Unemployment or Joblessness is when a person who is of normal working age (usually about 15-18 to about 60-65) does not have a paid job. They therefore do not get paid a salary. In some parts of the world, there are social networks to care for the unemployed.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Unemployment"
+    },
+    {
+        "title": "Oligopoly",
+        "content": "In economics, an oligopoly is a market form in which the market or industry is controlled by a small number of sellers. Usually, the market has high barriers to entry, which prevents new firms from entering the market or even be able to have a significant market share. \nAs there are only a few sellers in the market, each seller would take note of the actions made by one another, and thinks about how the other sellers will respond when making decisions  As such, there is a possibility in which an oligopoly can come together to make a common decision that allows them to have less competition and charge higher prices for consumers.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oligopoly"
+    },
+    {
+        "title": "Fraud",
+        "content": "Fraud (or defrauding or scamming) is a crime in which someone tricks somebody else to get unfair or unlawful gain. Frauds are almost always about money, either directly or indirectly. \nA fraudster or a fraud is the person who commits the fraud. 'Fraudulence  is the adjective, as in He tried to pass a fraudulent cheque. To defraud someone is to commit a fraud against them. \nFraud is a criminal wrong: a fraudster may be prosecuted and imprisoned. It is also a civil wrong: a fraud victim may sue the fraudster to get compensation.\nAll societies have laws against fraud, but the details differ in each jusisdiction. In England an Act of Parliament defines three kinds of fraud.\n\nfraud by false representation,\nfraud by failing to disclose information, and\nfraud by abuse of position.Lesser cases are heard in a Magistrates' Court; more serious offences are tried in the High Court (jury proceedings).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fraud"
+    },
+    {
+        "title": "Jurisdiction",
+        "content": "In law, jurisdiction is the authority given to a judge to take decisions in matters concerning the law. The word comes from the Latin jus, juris meaning \"law\" and dicere meaning \"to speak\": and literally means: telling the law. Jurisdiction may be legally restricted to a certain period of time called a statute of limitations.\nIt also includes the authority a of formally constituted legal body or a political leader to deal with legal matters and, by implication, to administer justice within a defined area of responsibility. Jurisdiction relies on public International Law, conflict of laws, constitutional law and the powers of the executive and legislative branches of government to give resources to best serve the needs of its society.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Jurisdiction"
+    },
+    {
+        "title": "Law",
+        "content": "Law is a set of rules decided by a particular state meant for the purpose of keeping the peace and security of society. \nCourts or police may enforce this system of rules and punish people who break the laws, such as by paying a fine, or other penalty including jail. In ancient societies, laws were written by leaders, to set out rules on how people can live, work and do business with each other. But many times in history when laws have been on a false basis to benefit few at the expense of society, they have resulted in conflict. To prevent this, in most countries today, laws are written and voted on by groups of politicians in a legislature, such as a parliament or congress, elected (chosen) by the governed peoples. Countries today have a constitution for the overall framework of society and make further laws as needed for matters of detail. Members of society generally have enough freedom within all the legal things they can choose to do. An activity is illegal if it breaks a law or does not follow the laws.\nA legal code is a written code of laws that are enforced. This may deal with things like police, courts, or punishments. A lawyer, jurist or attorney is a professional who studies and argues the rules of law. In the United States, there are two kinds of attorneys - \"transcriptional\" attorneys who write contracts and \"litigators\" who go to court. In the United Kingdom, these professionals are called solicitors and barristers respectively.\nThe Rule of Law is the law which says that government can only legally use its power in a way the government and the people agree on. It limits the powers a government has, as agreed in a country's constitution. The Rule of Law prevents dictatorship and protects the rights of the people. When leaders enforce the legal code honestly, even on themselves and their friends, this is an example of the rule of law being followed. \"The rule of law\", wrote the ancient Greek philosopher Aristotle in 350 BC, \"is better than the rule of any individual.\"\nCulture is usually a major source of the principles behind many laws, and people also tend to trust the ideas based on family and social habits. In many countries throughout history, religion and religious books like the Vedas, Bible or the Koran have been a major source of law.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Law"
+    },
+    {
+        "title": "Legislation",
+        "content": "Legislation (or \"statutory law\") is law which has been created by a legislature or other governing body. The term may refer to a single law, or the collective body of enacted law, while \"statute\" is also used to refer to a single law. Before an item of legislation becomes law it may be known as a bill, which is typically also known as \"legislation\" while it remains under active consideration.\nUnder the Westminster system, an item of legislation is known as an Act of Parliament.\nLegislation is usually proposed by a member of the legislature (e.g. a member of Congress or Parliament), or by the executive, then it is debated by members of the legislature and is often amended. \nThose who have the formal power to create legislation are known as legislators, the judicial branch of government may have the formal power to interpret legislation.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Legislation"
+    },
+    {
+        "title": "Lawsuit",
+        "content": "A lawsuit occurs when two people or organizations ask a court or judge to solve a disagreement or argument.  The two (or more) participants in a lawsuit are called the parties.  Each party is usually represented by a lawyer.  That means that the lawyer will talk to the judge for the party.\nThe party that starts the lawsuit is called the plaintiff because they are complaining about something the other side has done. This is also called \"suing\", or to \"sue\".  The other party is called the defendant because it must defend what it has done.  Both sides or parties will show evidence or proof that they are right and the other side or party is wrong.  The parties may also ask witnesses questions about what the argument or disagreement is about.\nAfter both parties have shown evidence and asked witnesses questions, the judge or jury will decide which party is right.  Then the court will do something to make the winning party happy again.  The court might make the losing party pay the winner money, or it might make the losing party stop doing something that made the winner unhappy.\nThe conduct of a lawsuit is called litigation. The plaintiffs and defendants are called litigants and the attorneys representing them are called litigators. The term litigation may also refer to criminal trial.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Lawsuit"
+    },
+    {
+        "title": "Lawsuit",
+        "content": "A lawsuit occurs when two people or organizations ask a court or judge to solve a disagreement or argument.  The two (or more) participants in a lawsuit are called the parties.  Each party is usually represented by a lawyer.  That means that the lawyer will talk to the judge for the party.\nThe party that starts the lawsuit is called the plaintiff because they are complaining about something the other side has done. This is also called \"suing\", or to \"sue\".  The other party is called the defendant because it must defend what it has done.  Both sides or parties will show evidence or proof that they are right and the other side or party is wrong.  The parties may also ask witnesses questions about what the argument or disagreement is about.\nAfter both parties have shown evidence and asked witnesses questions, the judge or jury will decide which party is right.  Then the court will do something to make the winning party happy again.  The court might make the losing party pay the winner money, or it might make the losing party stop doing something that made the winner unhappy.\nThe conduct of a lawsuit is called litigation. The plaintiffs and defendants are called litigants and the attorneys representing them are called litigators. The term litigation may also refer to criminal trial.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Lawsuit"
+    },
+    {
+        "title": "Business, Economics and Politics",
+        "content": "A business is an organization where people work together. In a business, people work to make and sell products or services. Other people buy the products and services. The business owner is the person who hires people for work. A business can earn a profit for the products and services it offers. The word business comes from the word busy, and means doing things.It works on regular basis.\nOriginally, individual trades people were qualified, and they hired assistants. The invention of the joint-stock company meant a new era in business. By this means, some people put up the money as capital, and others used it to run the business. There is a law which says this kind of company is a \"legal entity\": it has a legal life separate from its owners or shareholders. In this way, a company can outlive the people who started it. This idea was invented in medieval times, but really flowered in the 19th century. It has spread around the world since then.\nMost businesses are created for commerce. There are big and small businesses. For example, one person can open a small barber-shop. A big business, like Microsoft,  employs thousands of people all over the world.\nSome businesses need fixed locations. Examples are an office, store, or farm. For some businesses the worker goes to different locations. Examples are carpenters or electricians. They usually bring everything they need for work in their truck.\nBusiness can also mean the work or current state of a business. A business owner might say: \"I am doing a lot of business\" or \"My business is good\" or \"Business is bad\".\nThe term can also be used in a more general way. As a noun, it can be used, for example, to speak about a broad area of activity.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Business"
+    },
+    {
+        "title": "Commodity",
+        "content": "Commodity is a term with distinct meanings in both business and in Marxian political economy. For the former, it is a product, that is traded solely on the basis of price. For Marxian political economy it means wares offered for exchange.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Commodity"
+    },
+    {
+        "title": "Debt",
+        "content": "Debt is what someone owes to someone else. Usually, debt is in the form of money, but it can also be items, services, favors, or other things. Thus if you make an agreement to give or do something for someone else, you now owe a debt.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Debt"
+    },
+    {
+        "title": "Debt",
+        "content": "Debt is what someone owes to someone else. Usually, debt is in the form of money, but it can also be items, services, favors, or other things. Thus if you make an agreement to give or do something for someone else, you now owe a debt.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Debt"
+    },
+    {
+        "title": "Debt",
+        "content": "Debt is what someone owes to someone else. Usually, debt is in the form of money, but it can also be items, services, favors, or other things. Thus if you make an agreement to give or do something for someone else, you now owe a debt.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Debt"
+    },
+    {
+        "title": "Debt",
+        "content": "Debt is what someone owes to someone else. Usually, debt is in the form of money, but it can also be items, services, favors, or other things. Thus if you make an agreement to give or do something for someone else, you now owe a debt.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Debt"
+    },
+    {
+        "title": "Debt",
+        "content": "Debt is what someone owes to someone else. Usually, debt is in the form of money, but it can also be items, services, favors, or other things. Thus if you make an agreement to give or do something for someone else, you now owe a debt.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Debt"
+    },
+    {
+        "title": "Debt",
+        "content": "Debt is what someone owes to someone else. Usually, debt is in the form of money, but it can also be items, services, favors, or other things. Thus if you make an agreement to give or do something for someone else, you now owe a debt.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Debt"
+    },
+    {
+        "title": "Recession",
+        "content": "A recession is when the economy becomes less active. Prices for goods go down. People lose their jobs so unemployment increases. Inflation and interest rates go down. Many company shares lose value. One definition is that two quarters in a row when gross domestic product goes down is the start of a recession.The Great Recession happened from 2007-2009.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Recession"
+    },
+    {
+        "title": "Deflation",
+        "content": "Deflation means that generally the prices of products are going down. It is the opposite of inflation. It is said, that deflation happens when there is less money than there are goods. It is also said that deflation is a sign of a weak state of that country's economy, because deflation usually happens during an economic collapse. Deflation is thought to be even worse than inflation.\nDeflation starts when people are waiting for prices to go down even more. They will then spend less money. Because of that, companies can not afford to keep up the amount of goods that are made, and have to lower that amount, as well as fire workers to make even a small profit.\nEven if an economy is growing, there can be some amount of deflation - if the amount of money going around grows slower than the making of goods. There has not been much deflation in the world since the 1930s, except in Japan.\nDeflation can be helped by the country's own government by lowering the companies' tax levels, so they can lower their prices while getting the same profit. This way normal people are more encouraged to buy the cheap goods they were waiting for, and slowly the companies can make more profit. Governments do not like deflation, because it means that they can collect less tax.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Deflation"
+    },
+    {
+        "title": "Economic surplus",
+        "content": "An economic surplus is when you have more of something in the economy than people demand. There are two types: \nConsumers' surplus is the gain by consumers who can buy a product for less than the highest price that they would be willing to pay.\nProducers' surplus is the amount got by producers who sell at a market price higher than the least  they would be willing to sell for.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Economic_surplus"
+    },
+    {
+        "title": "Economic surplus",
+        "content": "An economic surplus is when you have more of something in the economy than people demand. There are two types: \nConsumers' surplus is the gain by consumers who can buy a product for less than the highest price that they would be willing to pay.\nProducers' surplus is the amount got by producers who sell at a market price higher than the least  they would be willing to sell for.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Economic_surplus"
+    },
+    {
+        "title": "Stock market",
+        "content": "A stock market is an institution where humans and computers buy and sell shares of companies.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Stock_market"
+    },
+    {
+        "title": "Wall Street",
+        "content": "Wall Street is a street in Lower Manhattan, New York City. It runs southeast from Broadway, through the Financial District to South Street on the East River. It is home to the New York Stock Exchange, the world's largest stock exchange and Federal Hall. Most headquarters of many other American exchanges NYSE, NASDAQ, AMEX, NYMEX, NYBOT are also run from Wall Street.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Wall_Street"
+    },
+    {
+        "title": "Trade",
+        "content": "To trade is to willingly give things or services and get other things or services in return. For example, a person giving a thing must find another person who wants to get that thing. The giver gets something back in return. A trade is also called an exchange or a swap.\nAn early type of trade is barter. Barter was the exchange of goods and services for other goods and services. Barter involves trading things without using of money. Modern traders commonly buy and sell by the use of money. Trade between two traders is called bilateral trade. Trade between more than two traders is called multilateral trade.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Trade"
+    },
+    {
+        "title": "Trade",
+        "content": "To trade is to willingly give things or services and get other things or services in return. For example, a person giving a thing must find another person who wants to get that thing. The giver gets something back in return. A trade is also called an exchange or a swap.\nAn early type of trade is barter. Barter was the exchange of goods and services for other goods and services. Barter involves trading things without using of money. Modern traders commonly buy and sell by the use of money. Trade between two traders is called bilateral trade. Trade between more than two traders is called multilateral trade.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Trade"
+    },
+    {
+        "title": "Treasury",
+        "content": "A Treasury is either:\n\nOriginally, a place where money, gold and other treasure is kept.\nToday, a government department which deals with money supply, taxation and financial policy.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Treasury"
+    },
+    {
+        "title": "Wealth",
+        "content": "Wealth often means that much money is available. But there are several other aspects that can be more important. If one thinks of single persons one will look at their personal property or assets like land and livestock. Looking at countries one thinks of GDP per capita and of natural capital. \nThe original meaning of the old English word for \"weal\", where wealth comes from, was \"well-being\" or welfare. (It was an adjective.)",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Wealth"
+    },
+    {
+        "title": "Wealth",
+        "content": "Wealth often means that much money is available. But there are several other aspects that can be more important. If one thinks of single persons one will look at their personal property or assets like land and livestock. Looking at countries one thinks of GDP per capita and of natural capital. \nThe original meaning of the old English word for \"weal\", where wealth comes from, was \"well-being\" or welfare. (It was an adjective.)",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Wealth"
+    },
+    {
+        "title": "Wealth",
+        "content": "Wealth often means that much money is available. But there are several other aspects that can be more important. If one thinks of single persons one will look at their personal property or assets like land and livestock. Looking at countries one thinks of GDP per capita and of natural capital. \nThe original meaning of the old English word for \"weal\", where wealth comes from, was \"well-being\" or welfare. (It was an adjective.)",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Wealth"
+    },
+    {
+        "title": "International Monetary Fund",
+        "content": "The International Monetary Fund (IMF) is an international organization. 189 countries are members of the International Monetary Fund. It has its headquarters in Washington, D.C., USA.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/International_Monetary_Fund"
+    }
+]

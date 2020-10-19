@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Madonna (K\u00fcnstlerin)",
+        "content": "Madonna ist eine S\u00e4ngerin.\nSie ist auch eine \nSong\u00b7schreiberin,, Schauspielerin,, Autorin,, Regisseurin,, Produzentin, und Designerin..\n\n\nMadonna wurde am 16. August 1958 in Bay City, USA geboren. \n\nVom Jahr 1985 bis zum Jahr 1989 war sie mit Sean Penn verheiratet.\nVom 2000 bis zum Jahr 2008 war sie mit Guy Ritchie verheiratet.\n\nZusammen mit Carlos Leon hat sie eine Tochter.\nSie ist am 14. Oktober 1996 geboren worden.\nSie hei\u00dft: Lourdes Maria Ciccone Leon.\n\nZusammen mit Guy Ritchie hat sie einen Sohn.\nEr ist am 11. August 2000 geboren worden.\nEr hei\u00dft: Rocco John Ciccone Ritchie.\n\nAu\u00dferdem hat Madonna 2 Kinder adoptiert.\nDie Kinder sind aus Malawi.\n\nMadonna hat 300 Millionen Ton\u00b7tr\u00e4ger verkauft.\nDas hei\u00dft: Madonna ist die erfolgreichste S\u00e4ngerin der Welt.\n\nSeit dem Jahr 1983 gibt es Musik Alben von Madonna.\nAlle Alben waren in den Charts.\nMeistens auf Platz 1.\nBekannte Alben sind zum Beispiel:\nLike a Virgin, Like a Prayer, Ray of Light, Hard Candy.\n\nMadonna ist auch Schauspielerin. \nSie hat in verschiedenen Filmen mitgespielt.\nZum Beispiel in:\nCrazy for You, Susan \u2026 verzweifelt gesucht, Dick Tracy, Eine Klasse f\u00fcr sich, Four Rooms, Evita.\n\nMadonna ist auch Autorin.\nSie hat Kinder\u00b7b\u00fccher gemacht.\nZum Beispiel:\nDie englischen Rosen, Mister Peabodys \u00c4pfel, Billie Bargeld.\n\nMadonna ist der Name f\u00fcr die Mutter Gottes im Christentum. \nDas war \u00fcber sehr lange Zeit der einzige Gebrauch dieses Namens. \nAls eine S\u00e4ngerin sich vor einigen Jahren so genannt hat, haben sich viele Christen sehr ge\u00e4rgert. \nAber das hat die S\u00e4ngerin nicht gest\u00f6rt.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Madonna_(K%C3%BCnstlerin)"
+    },
+    {
+        "title": "Pablo Picasso",
+        "content": "Pablo Picasso war ein K\u00fcnstler.\nEr hat als Maler und Bild\u00b7hauer gearbeitet. \nEr wurde 1881 in Spanien geboren.\nEr wurde 91 Jahre alt.\nEr ist sehr bekannt.\nPablo Picasso wurde am 25. Oktober 1881 in M\u00e1laga, Spanien geboren.\nPablo Picasso starb am 8. April 1973 in Mougins, Frankreich.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Pablo_Picasso"
+    },
+    {
+        "title": "Franz Kafka",
+        "content": "Franz Kafka ist ein Schriftsteller gewesen.\n\nFranz Kafka wurde am 3. Juli 1883 in Prag, \u00d6sterreich-Ungarn geboren.\nEr starb am 3. Juni 1924 in Klosterneuburg-Kierling, \u00d6sterreich.\nFranz Kafka hatte zwei (2) Br\u00fcder und drei (3) Schwestern.\nSeine Br\u00fcder sind als Kleinkinder gestorben.\nSeine Schwestern sind wahrscheinlich im Konzentrationslager oder Ghetto umgebracht worden.\n\nDamals hatten in Prag von zehn (10) Prozent der Menschen,\ndie Muttersprache Deutsch.\nAuch die Muttersprache von Franz Kafka war Deutsch.\nAu\u00dferdem konnte er die Tschechische Sprache.\n\nFranz Kafka hat f\u00fcr Versicherungs-Firmen gearbeitet.\nWeil er seine Arbeit gut gemacht hat,\nist er oft bef\u00f6rdert worden.\nSeine Arbeit hat ihm nicht viel Spa\u00df gemacht.\nAn Milena Jesensk\u00e1 hat er geschrieben: \n\"Mein Dienst ist l\u00e4cherlich und kl\u00e4glich leicht (\u2026) ich wei\u00df nicht wof\u00fcr ich das Geld bekomme\u201c.\n\nViele Texte und B\u00fccher die Franz Kafka geschrieben hat,\nsind erst gedruckt worden als er schon gestorben war.\n\nSeine Texte geh\u00f6ren zur Weltliteratur.\nBekannte Texte sind zum Beispiel:\nDer Verschollene, Der Process, Die Verwandlung.\n\nFranz Kafka hatte eine bestimmte Art zu schreiben.\nWenn Texte oder eine Situation \u00e4hnlich ist,\nwie die Texte von Franz Kafka, \nsagen manche dazu: Das ist kafkaesk\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Franz_Kafka"
+    },
+    {
+        "title": "Kafkaesk",
+        "content": "Etwas ist kafkaesk wenn es Angst macht.\nUnd wenn man nicht wei\u00df, was genau einem Angst macht.\nEine Situation kann so komisch sein, dass man weglaufen m\u00f6chte.\nDas kann kafkaesk sein.\nDieses Wort kennen nicht viele Menschen.\nNur die, die die B\u00fccher von Franz Kafka kennen.\n\nDas Wort ist durch den Schriftsteller Franz Kafka entstanden.\nFranz Kafka hat viele Texte geschrieben, die Angst machen.\nDer Nachname Kafka kommt in dem Wort kafkaesk vor.\n\nDas Wort kafkaesk ist ein Adjektiv.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kafkaesk"
+    },
+    {
+        "title": "Meryl Streep",
+        "content": "",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Meryl_Streep"
+    },
+    {
+        "title": "Oscar",
+        "content": "Der Oscar ist ein Film\u00b7preis.\nDas hei\u00dft: ein sehr guter Film bekommt einen Preis. \nWelcher Film den Preis bekommt entscheidet die AMPAS. \n\nDer Oscar\u00b7preis ist eine goldene Figur. \n\n\n\nOscar ist der Spitz\u00b7name der Oscar\u00b7figur. \n\nDie Oscar\u00b7figur ist 35 Zentimeter gro\u00df. \nSie ist 4 Kilogramm schwer. \nUnd sie ist aus Gold.\nDie Figur kostet 250,00 Euro. \n\n- Verliehen von der US-amerikanischen Academy of Motion Picture Arts and Sciences\n- Preistr\u00e4ger bekommen eine Statuette, die einen Ritter mit einem Schwert auf einer Filmrolle darstellt\n- 30 Kategorien\n- Ende der 1920er Jahre, US-amerikanische Filmindustrie befand sich in einer Krise.\n- Weniger Menschen besuchten die Kinos, wegen neue Erfindungen wie das Radio.\n- Sie konnten ihre Arbeiter nicht mehr bezahlen, deshalb wurden Demonstrationen gegr\u00fcndet. Sie verlangten mehr Lohn und geregelte Arbeitsverh\u00e4ltnisse.\n11. Januar 1927: Gala-Dinner wurde veranstaltet. 33 Filmgr\u00f6\u00dfen trafen sich. Wollten Academy of Motion Picture Arts and Sciences gr\u00fcnden.\n- 16. Mai 1927 erste Oscarverleihung\n- Emil Jannings war der erste deutsche Schauspieler, der in der Kategorie Bester Hauptdarsteller f\u00fcr seine Rolle in den Film Der Weg allen Fleisches (1927) ausgezeichnet wurde.\n- Die deutsche Schauspielerin Luise Rainer gewann den Preis als beste Hauptdarstellerin sogar zweimal (1936, 1937)\n- Seit 1941, Die Namen werden in einem versiegelten Umschl\u00e4gen verschlossen\n- Seit 1953 wird die Verleihung im Fernsehen \u00fcbertragen.\n- Es gibt 5500 Mitglieder der Akademie, die in den einzelnen Kategorien abstimmen.\nIm Anfang wurde die Troph\u00e4e Academy of Merit genannt\nMan wei\u00df nicht, wer den Namen Oscar gab\nDer Name Oscar wurde schon im Jahr 1931 verwendet\nEs gibt vier Personen, die anscheinend den Namen Oscar gaben\nDie ehemalige Vorstandssekret\u00e4rin der Akademie, Margaret Herrick, Schauspielerin Bette Davis, Sidney Skolsky, Walt Disney.\nDer Name ist seit 1979 markenrechtlich gesch\u00fctzt\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Oscar"
+    },
+    {
+        "title": "Musik",
+        "content": "Musik ist eine Kunst.\nSie besteht aus Melodien.\nMusik kann man h\u00f6ren.\nFast alle Menschen m\u00f6gen Musik.\nEs gibt viele verschiedene Arten von Musik.\n\n\n\nMusik gibt es schon sehr lange.\nAus der Stein\u00b7zeit gibt es Bilder.\nAuf den Bildern sind Menschen, die Musik machen.\n\nEs gibt verschiedene Arten, Musik zu machen.\nMan kann alleine singen.\nMehrere Leute k\u00f6nnen singen.\nMan kann auf einem Instrument spielen.\nMehrere Leute k\u00f6nnen auf Instrumenten spielen.\nLeute, die singen, k\u00f6nnen mit Leuten, die Instrumente spielen, zusammen Musik machen.\n\nIn verschiedenen L\u00e4ndern gibt es verschiedene Arten von Musik.\nMusik aus alter Zeit klingt anders als Musik von heute.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Musik"
+    },
+    {
+        "title": "Kunst",
+        "content": "Kunst eine Art Arbeit. \nEs ist etwas was eine (1) Person macht. \nOder etwas mehrere Personen machen. \nZum Beispiel ein Bild malen. \n\n\n\nMan macht Kunst absichtlich. \nDamit man eigene Erfahrungen machen kann. \nOder damit andere Menschen Erfahrungen machen. \nZum Beispiel \u00fcber etwas nach\u00b7denken. \nOder Lust bekommen selber etwas zu tun. \n\nWer Kunst macht ist ein K\u00fcnstler. \nWas durch Kunst entsteht ist ein Kunst\u00b7werk. \nWer sich mit Kunst auskennt ist ein Kunst\u00b7kenner. \nK\u00fcnstler arbeiten k\u00fcnstlerisch. \nK\u00fcnstler zeigen ihre Kunst anderen Menschen. \nZum Beispiel in einer Kunst\u00b7ausstellung. \n\n\n\nEs gibt Kunst wo etwas neues entsteht. \nUnd es gibt Kunst wo Menschen Aktionen machen. \nUnd es gibt Kunst die im Kopf passiert. \nMan muss zum Beispiel nach\u00b7denken um eine Kunst zu verstehen. \n\nDinge in der Welt werden durch Kunst ge\u00e4ndert. \nOder sie werden neu ge\u00b7ordnet. \nZum Beispiel ein Bild mit anderen Farben neu malen. \n\nMit Kunst kann man vieles aus\u00b7dr\u00fccken. \nZum Beispiel kann man seine eigene Lebens\u00b7haltung zeigen. \nUnd mit Kunst kann man viele Ideen ein\u00b7bringen. \nUnd man kann seine Phantasie ein\u00b7bringen.  \nMit Kunst kann man seine Emotionen zeigen. \n\nF\u00fcr jeden ist Kunst etwas anderes. \nManche sagen Kunst soll allen geh\u00f6ren. \nWeil alle von Kunst etwas zur\u00fcck\u00b7bekommen. \nZum Beispiel weil sie sich Gedanken zu Kunst machen. \n\nUnd manche sagen Kunst geh\u00f6rt nur dem K\u00fcnstler. \nWeil er die Kunst gemacht hat. \n\nKunst kann sehr vieles sein. \nEs gibt viele verschiedene Kunst\u00b7arten.\nZum Beispiel:\nZeichnen.\nMalen.\nFotografie.\nTanz.\nMusik.\nPoesie.\n\nBeispiele:\nSo kann Kunst funktionieren:\nDer K\u00fcnstler zeigt uns etwas.\nUnd wir erfahren was der K\u00fcnstler f\u00fcr ein Mensch ist. \n\nDer K\u00fcnstler zeigt uns etwas. \nUnd wir freuen uns dar\u00fcber. \nWeil wir es sch\u00f6n finden. \n\nDer K\u00fcnstler zeigt uns etwas. \nUnd wir sehen was in der Zukunft passiert.  \n\nDer K\u00fcnstler zeigt uns etwas. \nUnd wir denken \u00fcber unser Leben nach. \n\nDer K\u00fcnstler zeigt uns etwas. \nUnd wir m\u00f6chten selber etwas tun. \n\nKunst gibt es \u00fcberall auf der Welt. \nUnd Kunst gibt es schon sehr lange. \nZum Beispiel im Mittel\u00b7alter. \nDort ist Glas\u00b7malerei sehr beliebt gewesen.\nEine bekannte Glas\u00b7k\u00fcnstlerin ist Annelie Grund. \n\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kunst"
+    },
+    {
+        "title": "Atelier",
+        "content": "Atelier spricht man so:\nA-te-lje.\nEin Atelier ist ein Raum, \nin dem man Kunst machen kann.\n\nDas Atelier ist der Arbeits\u00b7platz von einem K\u00fcnstler.\n\n\n\n\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Atelier"
+    },
+    {
+        "title": "Origami",
+        "content": "Origami ist Papier falten. \n\nAus Papier werden Formen gefaltet. \nZum Beispiel ein Tier. \n\n\n\nEs gibt verschiedene Falt-M\u00f6glichkeiten:\nBerg- und Talfalte, Quetschfalte, Zick-Zack-Faltung, Bl\u00fctenblatt-Faltung.\n\nViele Menschen erfinden immer neue Papier-Figuren. \nEin sehr bekannter war: \nAkira Yoshizawa.\n\n\n\nEr war:\nOrigami-Meister und hat B\u00fccher \u00fcber Origami geschrieben..\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Origami"
+    },
+    {
+        "title": "Bildtafel",
+        "content": "Auf einer Bildtafel sind viele Bilder. \nAlle Bilder sind auf 1 Seite. \n\n\n\nEs gibt verschiedene Bildtafeln. \nMeistens sind Bilder zu einem Thema darauf. \nZum Beispiel Bilder zum Thema\nGefahrzeichen.\n\nBildtafeln helfen etwas besser zu verstehen. \n\nEs gibt gro\u00dfe und kleine Bildtafeln. \nBildtafelon sind zum Beispiel auf Papier. \nOder auf einem Stein. \n\nBildtafeln gibt es zum Beispiel in einem W\u00f6rterbuch. \nOder in einem Bestimmungsbuch. \n\nBildtafel hat 2 W\u00f6rter:\nBild (um etwas anzuschauen, zum Beispiel ein Lichtbild), Tafel (um etwas drauf zu schreiben, zum Beispiel eine Schreibtafel).\n\nDas Wort Bildtafel ist ein Substantiv.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Bildtafel"
+    },
+    {
+        "title": "Piano",
+        "content": "Ein Piano ist ein Klavier.\nDas Piano ist ein Musik\u00b7instrument\n\n\n\nDas Piano ist ein Musik\u00b7instrument.\nEin Piano hat viele Tasten.\nDr\u00fcckt man auf eine Taste,\nschl\u00e4gt ein H\u00e4mmerchen auf eine Saite.\nDas macht einen Ton.\n\nEs gibt verschiedene Piano\u00b7arten.\nZum Beispiel:\nden Fl\u00fcgel, das Pianino.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Piano"
+    },
+    {
+        "title": "Comic",
+        "content": "Ein Comic ist eine Bilder\u00b7geschichte.\nIn einem Comic gibt es mehrere Bilder.\nDie Bilder erz\u00e4hlen die Geschichte.\n\n\nEs gibt verschiedene Comic\u00b7arten.\nManche Comics haben nur 3 Bilder.\nDiese Comics sind meistens in einer Zeitung.\nUnd die Comics erz\u00e4hlen einen kurzen Witz.\nManche sagen zu diesen Comics auch Comic\u00b7strips.\nBeispiele f\u00fcr Comic\u00b7strips:\nDie Peanuts, Calvin und Hobbes.\n\nViele Leute kennen Comics f\u00fcr Kinder.\nZum Beispiel die Lustigen Taschen\u00b7b\u00fccher von Walt Disney.\nIn den Comics gibt es ber\u00fchmte Comic\u00b7figuren.\nZum Beispiel:\nDonald Duck, Micky Maus.\n\nOder die Comics mit Lucky Luke.\nOder die Comics mit Asterix und Obelix.\n\nEs gibt auch ganz lange Comics.\nManche sagen dazu Graphic Novel.\n\nEs gibt auch Super\u00b7helden\u00b7comics.\nZum Beispiel:\nSuperman, Aquaman, Spiderman, Batman, Wonder Woman.\n\nEs gibt auch japanische Comics.\nJapanische Comics hei\u00dfen Manga.\nZum Beispiel:\nSailor Moon.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Comic"
+    },
+    {
+        "title": "Walt Disney",
+        "content": "Walt Disney war ein sehr bekannter Mann.\nEr war:\nUnternehmer.\nAnimator.\nZeichner.\nFilm\u00b7produzent.\nDrehbuchautor.\n\n\nWalter Disney ist in Chicago, USA geboren.\nDas war am 5. Dezember 1901.\nAls Kind liebte er es zu zeichnen.\nIm 1. Weltkrieg war er Kranken\u00b7wagen\u00b7fahrer in Frankreich.\n\nIm Jahr 1923 geht Walt Disney nach Los Angeles.\nZusammen mit seinem Bruder Roy Disney und Ub Iwerk.\n\nSie arbeiteten an einer neuen Figur.\nIm Jahre 1927 erfindet Walt Disney und Ub Iwerk Micky Maus.\nMicky Maus ist eine der erfolgreichsten Zeiten\u00b7trick\u00b7film\u00b7figuren.\n\nWalt Disney merkt:\nVielen Leuten gefallen Zeichen\u00b7trick\u00b7filme.\nWalt Disney zeichnet jetzt weniger.\nUnd macht lieber Filme.\nWalt Disney schaut, dass die Qualit\u00e4t von den Filmen besser wird.\nUnd er macht Ton zu den Filmen.\n\nIm Jahre 1937 macht er den ersten Zeichen\u00b7trick\u00b7film Schneewittchen und die sieben Zwerge.\nWalt Disney macht noch mehr Filme.\nZum Beispiel:\nPinnocchio (1940), Fantasia (1940), Bambi (1939), Dumbo (1940), Cinderella (1950), Alice im Wunderland, Peter Pan, Dornr\u00f6schen (1959).\n\nWalt Disney macht auch andere Filme.\nZum Beispiel Spiel\u00b7filme.\nUnd Dokumentar\u00b7filme.\nDas war in den 1950er Jahren.\n\nSein erfolgreichster Spiel\u00b7film war Mary Poppins (1964) \nSein letzter Zeichen\u00b7trick\u00b7film war Das Dschungelbuch (1967)\n\nWalt Disney insgesamt 26 Oscars bekommen.\n\nAm 15. Dezember 1966 starb er in Los Angeles\nEr hatte Lungen\u00b7krebs.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Walt_Disney"
+    },
+    {
+        "title": "Micky Maus",
+        "content": "Micky Maus ist eine Comic-Figur.\nMicky Maus ist sehr bekannt.\nUb Iwerk und Walt Disney hat Micky Maus erfunden.\nMicky ist der Freund von Minnie Maus, Gamma und Goofy.\n\nMicky Maus hat einen Hund.\nDer Hund hei\u00dft Pluto.\n\n\n\nWalt Disney ist im Jahr 1927 mit dem Zug gefahren.\nDie Zug\u00b7fahrt war sehr lang.\nW\u00e4hrend der Fahrt hat er eine Idee gehabt.\nDie Idee f\u00fcr Comic Maus.\nEr wollte der Comic Maus den Namen Mortimer Maus geben.\nSeine Frau hat gesagt.\nMicky Maus ist ein besserer Name.\n\nIm Jahr 1928 gabe es das erste Micky Maus Cartoon. \nDas Cartoon hei\u00dft Plane Crazy.\nDen Film haben Ub Iwerks und Walt Disney. zusammen gemacht.\nViele Kritiker waren davon begeistert.\n\nAm 18. November 1928 kam der Film Steamboat Willie in die Kinos.\nViele sagen.\nDas war die Geburts\u00b7stunde f\u00fcr Micky Maus.\n\nIm Jahr 1932 hat Walt Disney einen Ehren\u00b7oscar bekommen.\nDer Oscar war f\u00fcr die Erfindung von Micky Maus.\n\nIm Jahr 1940 kam der Micky Maus Film Fantasia in die Kinos.\nDas ist der bekannteste Micky Maus Film.\n\nIm Jahr 1978 hat Micky Maus einen Stern auf den Walk of Fame bekommen.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Micky_Maus"
+    },
+    {
+        "title": "Spider-Man",
+        "content": "Spider-Man ist der Name von einer Comic\u00b7figur. \nSpider-Man ist ein Superheld.\n\n\n\nStan Lee und Steve Ditko haben die Comic\u00b7figur Spider-Man erfunden.\nDas erste Comic mit Spider-Man ist aus dem Jahr 1962.\n\nSpider-Man hei\u00dft Peter Parker.\nPeter Parker ist ein Waise.\nPeter Parker lebt bei seiner Tante May.\nUnd seinem Onkel Ben.\nPeter Parker geht zur Midtown High School.\nDie anderen Sch\u00fcler sagen:\nPeter Parker ist ein Nerd.\nWeil er sich f\u00fcr B\u00fccher interessiert.\nUnd f\u00fcr Wissenschaft.\n\nDie Sch\u00fcler besuchen ein Forschungs\u00b7labor.\nIm Labor wird Peter Parker von einer radioaktiv verseuchten Spinne gebissen.\nSeit dem hat Peter Parker Super\u00b7kr\u00e4fte.\nZum Beispiel:\ner kann W\u00e4nde hoch klettern, ist super\u00b7stark.\n\nPeter Parker macht sich ein Super\u00b7helden\u00b7kost\u00fcm.\nDas Kost\u00fcm ist blau und rot.\nWenn Peter Parker das Kost\u00fcm anzieht,\nwird er zu Spider-Man.\n\nPeter Parker will Geld verdienen.\nBeim Wrestling.\nBeim Wrestling sieht er einen Dieb.\nPeter Parker l\u00e4sst den Dieb laufen.\nPeter Parker sagt: Das geht mich nichts an.\n\nSp\u00e4ter wird sein Onkel Ben erschossen.\nVon dem Dieb den Peter Parker hat laufen lassen.\nJetzt f\u00fchlt sich Peter Parker schlecht.\nJetzt will er f\u00fcr immer f\u00fcr Gerechtigkeit k\u00e4mpfen.\nEr sagt: Aus gro\u00dfer Kraft folgt gro\u00dfe Verantwortung.\n\nSp\u00e4ter geht Peter Parker zur Empire State University.\nAn der Universit\u00e4t hat er einen Zimmer\u00b7genossen.\nSein Zimmer\u00b7genosse hei\u00dft Harry Osborn.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Spider-Man"
+    },
+    {
+        "title": "Stan Lee",
+        "content": "Stan Lee war ein amerikanischer Comic\u00b7autor.\nStan Lee war auch ein Schauspieler und Film\u00b7produzent.\nZusammen mit anderen hat Stan Lee die Idee f\u00fcr viele Comic\u00b7super\u00b7helden gehabt.\nZum Beispiel Spiderman.\nUnd X-Men.\n\n\nStan Lee wurde am 28. Dezember 1922 geboren.\nDas war in New York, USA.\nStan Lee ist am 12. November 2018 gestorben.\nDas war in Los Angeles, USA.\n\nStan Lee war in Armee der Vereinigten Staaten.\nDas war w\u00e4hrend dem Zweiten Welt\u00b7krieg.\nIn der Armee hat er\nAnleitungen, Trainings\u00b7filme und, Cartoons gemacht..\nIm Jahr 1961 bekommen Stan Lee und Jack Kirby.\nSie sollen ein neues Comic machen.\nStan Lee und Jack Kirby erfinden die Super\u00b7helden\u00b7gruppe Fantastic Four.\nStan Lee und Jack Kirby habe auch Ideen f\u00fcr andere Comics.\nZum Beispiel:\nThe Incredible Hulk, Iron Man, Thor, X-Men.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Stan_Lee"
+    },
+    {
+        "title": "Rotk\u00e4ppchen (M\u00e4rchen)",
+        "content": "\nRotk\u00e4ppchen kommt im M\u00e4rchen vor.\nRotk\u00e4ppchen ist ein M\u00e4dchen.\n\n\nRotk\u00e4ppchen ist ein M\u00e4dchen.\nDas M\u00e4dchen hat eine rote Kappe.\nDeshalb sagen alle Rotk\u00e4ppchen zu ihr.\n\nRotk\u00e4ppchen will seine Gro\u00dfmutter besuchen. \nDer Wolf hat die Gro\u00dfmutter gefressen. \nDer Wolf frisst auch Rotk\u00e4ppchen. \nEin J\u00e4ger rettet Rotk\u00e4ppchen und die Gro\u00dfmutter.\nDas M\u00e4rchen haben die Br\u00fcder Grimm aufgeschrieben.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Rotk%C3%A4ppchen_(M%C3%A4rchen)"
+    },
+    {
+        "title": "Donald Duck",
+        "content": "Donald Duck ist eine bekannte Comic\u00b7figur.\nSein genauer Name ist Donald Fauntleroy Duck.\n\n\n\nDer Zeichner Walt Disney hat Donald Duck erfunden.\nZuerst hat er die Figur Micky Maus erfunden.\nMicky Maus ist immer ber\u00fchmter geworden.\nDeshalb hat Walt Disney noch Neben\u00b7figuren erfunden.\n\nIm Jahr 1931 gab es ein Bilder\u00b7buch.\nEs hei\u00dft The Adventures of Mickey Mouse\nDort steht zum ersten mal der Name von Donald Duck.\n\nIm Jahr 1934 gab es zum ersten Mal einen Zeichen\u00b7trick\u00b7film mit Donald Duck.\nDonald Duck hatte eine Neben\u00b7rolle.\nVielen hat die Figur Donald Duck gleich gefallen.\n\nIm Jahr 1943 hat der Film Der Fuehrer's Face einen Oscar bekommen.\n\nIm Jahr 2004 hat Donald Duck einen Stern auf dem Walk of Fame bekommen.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Donald_Duck"
+    },
+    {
+        "title": "Science-Fiction",
+        "content": "Science-Fiction sind ausgedachte Geschichten.\nDie Geschichten sind meistens \u00fcber:\ndie Zukunft, ausgedachte Erfindungen, Raum\u00b7schiffe, Au\u00dfer\u00b7irdische.\n\n\n\nScience-Fiction ist ein englisches Wort.\nScience hei\u00dft auf deutsch Wissenschaft.\nFiction hei\u00dft auf deutsch Fiktion.\nFiktion ist etwas Ausgedachtes. \n\nScience-Fiction gibt es in verschiedenen Medien.\nZum Beispiel gibt es Science-Fiction\nB\u00fccher, Filme, Comics, H\u00f6r\u00b7spiele, Video\u00b7spiele.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Science-Fiction"
+    },
+    {
+        "title": "Satire",
+        "content": "Satire macht sich jemand \u00fcber etwas lustig. \nZum Beispiel \u00fcber etwas das passiert ist. \nOder \u00fcber eine Person. \n\nSatire ist meistens eine \u00dcbertreibung von etwas.\nDas hei\u00dft: es wird lustiger erz\u00e4hlt als es wirklich ist.  \n\nSatire gibt es in verschiedenen Bereichen. \nZum Beispiel in der Sprache. \nOder in Filmen.\nOder in Fernseh\u00b7sendungen. \nEine sehr bekannte fernseh\u00b7sendung hei\u00dft: Neues aus der Anstalt. \n\nRealsatire ist eine Form von Satire.\nDas hei\u00dft: jemand macht etwas was f\u00fcr andere lustig ist.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Satire"
+    },
+    {
+        "title": "Essay",
+        "content": "Ein Essay ist ein Text mit einem bestimmten Thema. \nDie Person die den Text schreibt,\nschreibt viele eigene Meinungen hinein.\nDie Person m\u00f6chte den Lesern seine Meinung zum Thema beschreiben. \n\n\n\nIn einem Essay ist die eigene Meinung erlaubt,\nauch wenn die Meinung falsch ist. \n\nEin Essay m\u00f6chte meistens etwas erkl\u00e4ren. \nEin Essay steht oft in den Feuilletons. \n\nEine Frau die einen Essay schreibt,\nnennt man: Essayistin.\nEin Mann der einen Essay schreibt,\nnennt man: Essayist.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Essay"
+    },
+    {
+        "title": "Feuilleton",
+        "content": "Ein Feuilleton ist ein Teil von einer Zeitung. \nIn diesem Teil geht es um das Thema:\nKultur.\n\nEin Feuilleton sind Texte. \nEs gibt diese verschiedene Text-arten:\nEssay.\nInterview.\nRezension.\nLiteratur Portr\u00e4t.\n\nDie Personen im Feuilleton schreiben im Text:\nihre eigene Meinung mit dazu.\n\nDas Wort Feuilleton ist ein Substantiv.\nEs wird so gesprochen:\nf\u00f6jeto.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Feuilleton"
+    },
+    {
+        "title": "Stra\u00dfenmusik",
+        "content": "Stra\u00dfenmusik machen Leute auf der Stra\u00dfe.\nSie machen dort Musik. \n\n\n\nDie Leute die auf der Stra\u00dfe Musik machen hei\u00dfen:\nStra\u00dfenmusiker\noder \nStrassenmusikant\n\nEin Stra\u00dfenmusiker ist ein Stra\u00dfenk\u00fcnstler. \n\nStra\u00dfenmusik wird gemacht wo viele Menschen sind. \nzum Beispiel in der Fu\u00dfg\u00e4ngerzone.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Stra%C3%9Fenmusik"
+    },
+    {
+        "title": "Fotokamera",
+        "content": "Eine Fotokamera ist ein technisches Ger\u00e4t.\nDie Fotokamera kann aufzeichnen was man sieht.\nMan sagt die Kamera macht ein Foto.\nDas Foto ist ein gespeichertes Bild von dem Moment.\nDiesen Moment kann man sp\u00e4ter noch einmal ansehen.\n\nEs gibt analoge und neuerdings Digitale Kameras.\nEs funktioniert fast wie ein Auge.\nEs dringt Licht von vorne ein und brennt sich auf einem Sensor ein.\nBei analogen Kameras ist es der Film.\nBei digitalen wird es auf der Speicherkarte gespeicheret.\nEs gibt Schnapschuss und Spiegelreflex Kameras.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Fotokamera"
+    },
+    {
+        "title": "Surrealismus",
+        "content": "Surrealismus ist eine Lebens\u00b7art.\nUnd eine Lebens\u00b7haltung.\nUnd Sur\u00b7realismus ist eine Soziale Bewegung. \n\nMan versucht mit Sur\u00b7realismus etwas zu zeigen. \nWenn man Sur\u00b7realismus an\u00b7schaut ist es wie ein Traum.\nSur\u00b7realismus sieht fremd aus.\nUnd Sur\u00b7realismus sieht un\u00b7echt aus. \n\n\n\nIm Sur\u00b7realismus kann man Sachen zeigen die un\u00b7wirklich sind. \nUnd die es nur in der Phantasie gibt. \nOder nur in Tr\u00e4umen. \n\nSur\u00b7realismus kann man in vielen Bereichen zeigen. \nZum Beispiel in Filmen und Bildern. \nOder in der Kunst.\n\nJemand der Sur\u00b7realismus macht ist eine Sur\u00b7realistin. \nOder eine Sur\u00b7realist. \nDal\u00ed ist ein sehr bekannter Sur\u00b7realist gewesen. \n\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Surrealismus"
+    },
+    {
+        "title": "Graffiti",
+        "content": "Ein Graffiti ist ein Bild.\nOder ein Schriftzug.\nOder ein Zeichen.\nEin Graffiti wird mit Spr\u00fch\u00b7dosen gemacht. \nEin Graffiti wird meistens auf eine Wand gemalt.\n\nDas Wort Graffiti kommt von dem italienischen Wort Graffito. \nEin Graffito ist eine Zeichnung.\nEine Zeichnung die in einen Stein geritzt ist.\n\nDie Graffiti\u00b7kunst gibt es seit dem Jahr 1960.\nDie ersten Graffiti gab es in den USA.\n\nJemand der ein Graffiti macht,\nhei\u00dft Sprayer.\n\nEin ber\u00fchmter Graffiti\u00b7k\u00fcnstler ist Banksy.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Graffiti"
+    },
+    {
+        "title": "Banksy",
+        "content": "Banksy ist der Name von einem K\u00fcnstler.\nBanksy macht Bilder.\nZum Beispiel Bilder auf eine Haus-wand. \n\n\n\nBanksy wurd im Jahr 1974 in Bristol, Gro\u00dfbritannien geboren.\n\nDer Name Banksy ist ein Pseudonym.\nDas hei\u00dft:\nBanksy ist eine Art Spitzname.\nBanksy hei\u00dft in Wirklichkeit anders.\nBanksy will nicht, dass man seinen richtigen Namen kennt. \n\nBanksy macht Graffiti Kunst.\nMeistens macht er Schablonen-graffiti.\n\nViele von seinen Bildern hat er auf Mauern und H\u00e4user gespr\u00fcht.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Banksy"
+    },
+    {
+        "title": "Hans Christian Andersen",
+        "content": "Hans Christian Andersen ist ein Schrift\u00b7steller gewesen.\nBesonders bekannt sind seine M\u00e4rchen.\n\nZum Beispiel:\n\u2022\tDes Kaisers neue Kleider\n\u2022\tD\u00e4umelinchen\n\u2022\tDie kleine Meer\u00b7jung\u00b7frau\n\u2022\tDas h\u00e4ssliche Entlein\n\u2022\tDie Prinzessin auf der Erbse\n\nEr ist in D\u00e4ne\u00b7mark geboren,\nund auch dort gestorben.\nEr hat von 1805 bis 1875 gelebt.\n\nHans Christian Andersen ist ein Schrift\u00b7steller gewesen.\nBesonders bekannt sind seine M\u00e4rchen.\n\nAndersen  ist  am 2. April 1805 in Odense  geboren.\nDas ist in D\u00e4ne\u00b7mark.\nD\u00e4ne\u00b7mark ist in Europa.\nMit 14 Jahren ist er nach Kopen\u00b7hagen gezogen.\nKopen\u00b7hagen ist die Haupt\u00b7stadt von D\u00e4ne\u00b7mark. \n\nEr wollte Schaus\u00b7pieler werden. \nAber er war nicht gut genug.\nNach der Schule ist er auf die Universit\u00e4t gegangen.\nZum Studieren.\nDas war auch in Kopen\u00b7hagen.\n\nSchon in der Schule hat er viele Gedichte und Geschichten geschrieben.\nEr ist viel herumgereist.\nZum Beispiel nach \nDeutsch\u00b7land, Italien und Eng\u00b7land.\nUnd Spanien und in die T\u00fcrkei.\n\nEr hat viel geschrieben.\nAber nicht  nur M\u00e4rchen.\nDie M\u00e4rchen sind aber besonders bekannt.\nSie sind in viele verschiedene Sprache \u00fcbersetzt worden.\n\nSeine bekanntesten M\u00e4rchen sind:\n\n\u2022\tDie Schnee\u00b7k\u00f6nigin\n\u2022\tDes Kaisers neue Kleider\n\u2022\tD\u00e4umelinchen\n\u2022\tDas Feuer\u00b7zeug\n\u2022\tDie kleine Meer\u00b7jung\u00b7frau\n\u2022\tDas h\u00e4ssliche Entlein\n\u2022\tDie Prinzessin auf der Erbse\n\nVon den M\u00e4rchen gibt es auch viele Filme und H\u00f6r\u00b7spiele.\n\nAls Andersen gestorben ist, war er ein ber\u00fchmter Mann.\n\nDer Geburts\u00b7tag von Andersen ist am 2. April.\nDarum ist dieser Tag heute auch der Welt-Kinder\u00b7buch-Tag\n\nHans Christian Andersen-Preis\nDer Hans Christian Andersen-Preis\nist ein wichiger Kinder\u00b7buch\u00b7preis.\n\nDie Verleihung ist immer am 2. April.\nDas ist der Welt-Kinder\u00b7buch-Tag.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Hans_Christian_Andersen"
+    },
+    {
+        "title": "Wonder Woman",
+        "content": "Wonder Woman ist der Name von einer Comic\u00b7figur. \nWonder Woman ist eine Super\u00b7heldin.\nWonder Woman ist eine Amazonen\u00b7prinzessin. \n\nWilliam Moulton Marston und \nseiner Frau Elizabeth Holloway Marston haben die Figur Wonder Woman erfunden.\n\nDas erste Comic mit Wonder Woman ist aus dem Jahr 1941.\n\nWonder Woman ist super stark.\nSt\u00e4rker als Herkules.\nSie kann gut k\u00e4mpfen.\nSie ist super schnell.\nSchneller als Hermes.\nSie kann auch fliegen.\nSie ist h\u00fcbsch und hat schwarze Haare.\n\nSie hat auch ein Super\u00b7helden\u00b7kost\u00fcm.\nDazu geh\u00f6rt:\neine Tiara, eine rote Corsage, einen blauen Mini\u00b7rock, ein Lasso, silberne Arm\u00b7b\u00e4nder.\n\nMit dem Lasso kann sie Leute einfangen.\nDie Leute sind dann mit dem Lasso gefesselt.\nDie Leute m\u00fcssen dann die Wahrheit sagen.\nDas Lasso funktioniert wir ein L\u00fcgen\u00b7detektor.\n\nWonder Woman hat Mut.\nUnd sie ist stolz.\nSie k\u00e4mpft f\u00fcr Wahrheit.\nUnd den Welt\u00b7frieden.\n\nEs gibt Comic\u00b7hefte von Wonder Woman.\nUnd Comic\u00b7filme.\nUnd den Film Wonder Woman.\nIm Film ist die Schau\u00b7spielerin Gal Gadot Wonder Woman.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Wonder_Woman"
+    },
+    {
+        "title": "Wolfgang Amadeus Mozart",
+        "content": "Wolfgang Amadeus Mozart war ein bekannter Musiker.. \nUnd ein bekannter Komponist.\n\nSehr viele Menschen kennen seine Musik.\nZum Beispiel: Die Zauberfl\u00f6te und Eine kleine Nachtmusik. \n\n\nWolfgang Amadeus Mozart lebte von 1756 bis 1791. \nAls Kind wohnte er in Salzburg.\nEr spielte Klavier und Geige. \n\nWolfgang Amadeus Mozart dachte sich viele Musik\u00b7st\u00fccke aus.\nSein Vater Leopold Mozart war sein Lehrer.\nSein Spitz\u00b7name war Wolferl.\nEr spielte als Kind Konzerte in vielen St\u00e4dten in Europa. \nSeine Schwester Nannerl spielte auch mit.\n\nWolfgang Amadeus Mozart ist mit der Pferde\u00b7kutsche gereist. \nEs gab noch keine Autos. \n\nWolfgang Amadeus Mozart hat Musik f\u00fcr \nKlavier,, f\u00fcr Orchester und, f\u00fcr Geige geschrieben..\nEr hat auch Lieder und T\u00e4nze geschrieben.\nViele Menschen kennen die Zauber\u00b7fl\u00f6te. \nDas ist eine Oper. \nUnd ein Theater\u00b7st\u00fcck mit Musik.\nMozart hat sich die Musik ausgedacht. \nEr hat sich auch Eine kleine Nacht\u00b7musik ausgedacht.\nDas ist ein Musik\u00b7st\u00fcck f\u00fcr ein kleines Orchester.\nMozart wurde 35 Jahre alt. \nEr starb im Winter in Wien. \nEr war krank. \nDas war am 5. Dezember 1791.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+        "title": "Karikatur",
+        "content": "Eine Karikatur ist ein lustiges Bild. \nEs ist lustiger als es in Wirklichkeit ist. \n\n\n\nEine Person die Karikaturen macht hei\u00dft:\nKarikaturist\n\nDas Zeichnen einer Karikatur hei\u00dft:\nkarikieren\n\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Karikatur"
+    },
+    {
+        "title": "Lady Gaga",
+        "content": "Lady Gaga ist der Name einer Pop-S\u00e4ngerin.\n\n\nLady Gaga ist ein K\u00fcnstler\u00b7name.\nIhr richtiger Name ist Stefani Joanne Angelina Germanotta.\nLady Gaga wurde am 28. M\u00e4rz 1986 in New York, USA  geboren.\n\nBekannt wurde Lady Gaga im Jahr 2008. \nMit ihrem ersten Album.\nDas Album hei\u00dft: \"The Fame\" \nEin sehr bekanntes Lied aus dem Musik-Album hei\u00dft:\n\"Bad Romance\"\n\nDiese Alben gibt es von Lady Gaga:\n\"The Fame\" (2008).\n\"The Fame Monster\" (2009).\n\"Born This Way\" (2011).\n\"Artpop\" (2014).\n\"Cheek to Cheek\" (2015).\n\"Joanne\" (2016).\n\nGaga ist au\u00dferdem Schaupielerin.\n2015 spielte sie in der Serie \"American Horror Story\" mit.\nSie hat daf\u00fcr einen Preis bekommen.\nDen Golden Globe.\n\nSeit dem Jahr 2017 hat Lady Gaga eine eigene Serie.\nDie Serie gibt es bei Netflix.\nDie Serie hei\u00dft: \"Gaga: Five Foot Two\".\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Lady_Gaga"
+    },
+    {
+        "title": "Netflix",
+        "content": "Netflix ist eine Firma.\nUnd ein Internet\u00b7dienst.\nDas hei\u00dft:\nMit Netflix kann man Filme anschauen.\n\u00dcber das Internet.\n\nDie Firma Netflix gibt es seit dem Jahr 1997.\nIm Jahr 1997 hat Netflix Filme ausgeliehen.\nSo \u00e4hnlich wie eine Video\u00b7thek.\nDie Leute haben einen Film im Internet bestellt.\nNetflix hat den Film zu den Leuten nach Hause geschickt.\nNach ein paar Tagen haben die Leute den Film wieder zur\u00fcck geschickt.\n\nHeute gibt es fast keine Video\u00b7theken mehr.\nJetzt kann man Film direkt \u00fcber das Internet anschauen.\nManche sagen dazu:\nEinen Film \u00fcber das Internet streamen.\n\nLeute k\u00f6nnen bei Netflix Filme aussuchen.\nUnd Serien.\nDie Leute klicken einen Film an.\nDann k\u00f6nnen sie den Film schauen.\n\nDas funktioniert mit verschiedenen Ger\u00e4ten.\nZum Beispiel:\nmit einem Fernseher, mit einem Smart\u00b7phone, mit einer Spiel\u00b7konsole.\n\nWer Netflix benutzen will,\nmuss daf\u00fcr Geld zahlen.\n\nNetflix ist ein englisches Wort.\nNet ist das kurze Wort f\u00fcr Internet.\nFlix ist ein anderes Wort f\u00fcr Filme.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Netflix"
+    },
+    {
+        "title": "Lesen",
+        "content": "Mit Lesen kann man W\u00f6rter verstehen.\nUnd man kann Zahlen verstehen. \nZum Beispiel wie viel Geld etwas kostet. \n\nUnd mit Lesen man kann Texte verstehen. \nZum Beispiel eine Geschichte in einem Buch. \n\nLesen ist alles geschriebene zu verstehen. \nUnd alle Informationen die geschrieben sind. \n\nDie Zeichen von einer Sprache versteht man beim Lesen. \nAuch Bilder kann man lesen. \nWenn man sie anschaut und versteht was sie bedeuten. \nZum Beispiel Bilder in einem Bilder\u00b7buch. \n\nLesen macht man mit den Augen. \nEs ist eine Kultur\u00b7technik.\n\nDurch Lesen kann man etwas lernen. \nZum Beispiel eine neue Sprache. \nOder man kann sich unterhalten. \nZum Beispiel mit Briefen. \n\nLesen kann man in der Schule lernen. \nOder von jemanden der Lesen kann. \n\nMenschen die nicht lesen k\u00f6nnen nennt man Analpha\u00b7beten.\nSie kennen das ABC nicht.\n\nEine Person die liest ist ein Leser. \nOder eine Leserin. \nWer f\u00fcr andere liest ist ein Vor\u00b7leser. \n\nSchnell\u00b7lesen, LR-Schw\u00e4che, Lese\u00b7ratte, Lippen\u00b7lesen, Lese\u00b7exemplar, Lese\u00b7messe, Thema Sprache.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Lesen"
+    },
+    {
+        "title": "Limbo",
+        "content": "Limbo ist ein Tanz.\nBeim Limbo tanzt man unter einer Stange hindurch. \n\n\n\nLimbo wurde auf einer Insel erfunden. \nDie Insel hei\u00dft:\nTrinidad\nAuf Trinidad wird der Tanz nach einer Bestattung getanzt. \n \nBeim Tanzen l\u00e4uft Musik. \nMan beugt sich nach hinten und tanzt unter einer Stange hindurch. \nDie Stange wird bei jedem Durch-Tanzen weiter herunter gesetzt. \nDabei darf die Stange nicht herunter fallen. \n\nLimbo-Tanz-Ablauf\nin die Hocke gehen, nach hinten beugen, unter der Stange durch tanzen, hinter der Stange ankommen.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Limbo"
+    },
+    {
+        "title": "Dolby Theatre",
+        "content": "Das Dolby Theatre ist ein gro\u00dfer Saal.\nDas Dolby Theatre ist in der Stadt Los Angeles.\nIm Stadt\u00b7teil Hollywood.\nIm Dolby Theatre gibt es:\nVeranstaltungen,, Musicals, und Konzerte.\n\n\nDas Dolby Theatre gibt es seit dem Jahr 2001.\nAm Anfang hie\u00df es Kodak Theatre.\nDie Firma Kodak hat Geld gegeben,\ndamit das Geb\u00e4ude gebaut wird.\nKodak hat 75 Mio US-Dollar f\u00fcr die Namens\u00b7rechte gezahlt.\nDamit das Geb\u00e4ude Kodak Theatre hei\u00dft.\n\nIm Februar 2012 war die Firma Kodak pleite.\nDie Firma Dolby hat sich dann die Namens\u00b7rechte gekauft.\nBis zum Jahr 2032 hei\u00dft der Saal jetzt Dolby Theatre\n\nDer Saal wurde speziell f\u00fcr die Oscar-Verleihungen gemacht.\nSeit dem Jahr 2002 ist die Oscar\u00b7verleihung im Dolby Theatre.\n\nIn den USA gibt es die Casting\u00b7show American Idol statt.\nDas Finale von American Idol ist auch im Dolby Theatre.\n\nIm Dolby Theatre traten auch ber\u00fchmte S\u00e4nger auf.\nZum Beispiel:\nChristina Aguilera, C\u00e9line Dion, Mariah Carey, Prince, Ian Anderson, David Gilmour, Frankie Valli.\n\nVor dem Theater verl\u00e4uft sich der Walk of Fame.\nDer Walk of Fame ist ein langer Gehweg.\nAuf diesen sind Sterne von ber\u00fchmte Personen abgebildet.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Dolby_Theatre"
+    },
+    {
+        "title": "Radio",
+        "content": "Ein Radio ist ein Ger\u00e4t.\nMan kann damit etwas h\u00f6ren.\nZum Beispiel Musik. \nAlles was zum Ger\u00e4t geh\u00f6rt nennt man auch Radio. \nEs gibt aber kein Bildschirm um etwas zu sehen.\n\n\n\nBei einem Radiosender entstehen die Radio\u00b7programme. \nDort sitzt ein Sprecher und spricht in ein Mikrofon.\nMan kann es dann im Radio h\u00f6ren.\n\nDie Radio\u00b7programme werden mit elektronischen Wellen auf Frequenzen \u00fcbertragen. \nEs gibt vier (4) Frequenz\u00b7bereiche.\nDer bekannteste Frequenz\u00b7bereich hei\u00dft: UKW. \nDen Frequenz\u00b7bereich stellt man am Radio ein. \nDann kann man das Radio\u00b7programm h\u00f6ren. \n\nMit dem Frequenz\u00b7bereich KW kann man Radio\u00b7programme von der ganzen Welt h\u00f6ren. \nWeil die elektronischen Wellen bei KW sehr hoch in die Luft gehen. \nBis zu 500 Kilometer \u00fcber dem Boden.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Radio"
+    },
+    {
+        "title": "H\u00f6rfilm",
+        "content": "Ein H\u00f6rfilm  ist ein Film f\u00fcr blinde Menschen. \nOder f\u00fcr Menschen, die nicht so gut sehen k\u00f6nnen.\nDiese Menschen m\u00f6gen auch Filme.\nDeshalb gibt es H\u00f6rfilme.\nBei H\u00f6rfilmen wird gesagt, was gerade im Film passiert. \nEs sind die gleichen Filme, die sehende Menschen anschauen.\n\n\nSiehe auch: Audiodeskription\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/H%C3%B6rfilm"
+    },
+    {
+        "title": "Helene Fischer",
+        "content": "Helene Fischer ist eine deutsche Schlager\u00b7s\u00e4ngerin.\nSie ist auch:\nT\u00e4nzerin, Fernseh\u00b7moderatorin, Schauspielerin.\n\n\nHelene Fischer wurde am 5. August 1984 in Krasnojarsk, Sowjet\u00b7union geboren.\nIm Jahr 1988 ist Helene Fischer umgezogen.\nMit ihren Eltern und ihrer Schwester.\nSie sind nach W\u00f6llstein gezogen.\nW\u00f6llstein ist ein Dorf in Rheiland-Pfalz, Deutschland.\nNach der Schule hat Helene Fischer eine Ausbildung gemacht.\nIm Jahr 2003 war die Ausbildung fertig.\nSeither ist Helene Fischer staatlich anerkannte Musical\u00b7darstellerin.\n\nSeit dem Jahr 2008 bis zum Jahr 2018 waren Helene Fischer Florian Silerbeisen ein Paar.\n\nVon Helene Fischer gibt es mehrere Musik\u00b7alben.\nInsgesamt hat Helene Fischer mehr als 13 Millionen Musik\u00b7alben verkauft.\nSie hat viele Preise bekommen.\nZum Beispiel:\n17 Echos, 7 Goldene Hennen, 3 Bambis, 2 Goldene Kameras.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Helene_Fischer"
+    },
+    {
+        "title": "Monty Python",
+        "content": "Monty Python ist der Name einer Gruppe.\nSechs Komiker haben die Gruppe gegr\u00fcndet.\nDie Komiker sind alle aus Gro\u00dfbritannien.\n\nDie Gruppe ist im Jahr 1969 gegr\u00fcndet worden.\nIm Jahr 1983 hat sich die Gruppe aufgel\u00f6st.\nDie Gruppe hat eine Fernsehserie f\u00fcr den Fernseh-sender BBC gemacht.\nDie Serie hei\u00dft:\nMonty Python\u2019s Flying Circus \n\nDie Gruppe hat auch Kino Filme gemacht.\nZum Beispiel:\nDie Ritter der Kokosnu\u00df, Das Leben des Brian, Der Sinn des Lebens.\n\nMonty Python bestand aus:\nGraham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Monty_Python"
+    },
+    {
+        "title": "Ian Fleming",
+        "content": "Ian Fleming ist ein Schrift\u00b7steller gewesen. \nEr hat viele B\u00fccher geschrieben. \nSehr bekannt sind seine B\u00fccher \u00fcber James Bond. \n\n\nIan Fleming kommt aus England. \nEr ist in London geboren. \nAm 28. Mai 1908. \n\nUnd er ist am 12. August 1964 gestorben. \nIn Canterbury. \n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Ian_Fleming"
+    },
+    {
+        "title": "Michael Jackson",
+        "content": "Michael Jackson war ein S\u00e4nger, \nKomponist, \nT\u00e4nzer und \nEntertainer.\n\n\n\nEr wurde am 29. August 1958 in Gary, USA geboren.\nEr ist am 25. Juni 2009 in Los Angeles, USA gestorben.\n\nSein Vater hei\u00dft Joseph Jackson.\nSein Beruf war Kran\u00b7f\u00fchrer.\nSeine Mutter hei\u00dft Katherine Jackson.\nIhr Beruf war Verk\u00e4uferin.\n\nMichael Jackson hatte 10 Geschwister.\nEr war der 8.\n\nSeine Geschwister hei\u00dfen:\nRebbie (Geburts\u00b7jahr 1950), Jackie (Geburts\u00b7jahr 1951), Tito (Geburts\u00b7jahr 1953), Jermaine (Geburts\u00b7jahr 1954), La Toya (Geburts\u00b7jahr 1956), Marlon (Geburts\u00b7jahr 1957), Brandon (Geburts\u00b7jahr 1957, Zwillings\u00b7bruder von Marlon. Er starb wenige Stunden nach der Geburt), Randy (Geburts\u00b7jahr 1961), Janet (Geburts\u00b7jahr 1966), Joh'Vonnie Jackson (Halb\u00b7schwester).\n\nIm Jahr 1964 gr\u00fcndete der Vater die Band The Jackson Brother. \nBei der Band waren 3 Leute dabei.\n\nIm Jahr 1966 hat er der Band einen anderen Namen geben.\nDie Name der Band war dann: The Jackson Five. \nBei der Band haben mit gemacht:\nJackie, Tito, Jermaine, Marlon und, Michael.\n\nSp\u00e4ter wurde die Band aufgel\u00f6st.\nDann waren nur noch Michael und seine Schwester Janet richtig erfolgreich.\n\nMichael Jackson hat 2 mal geheiratet:\nVom Jahr 1994 bis zum Jahr 1995 war er mit Lisa Marie Presley verheiratet.\nVom Jahr 1996 bis zum Jahr 1999 war er mit Deborah Jeanne Rowe verheiratet. \nZusammen haben sie 2 Kinder bekommen.\nIm Jahr 1997 Michael Joseph Jackson jr.\nIm Jahr 1998 Paris Michael Katherine Jackson.\n\nMichael Jackson hat noch ein Kind.\nNiemand wei\u00df wer die Mutter ist.\nDas Kind wurde im Jahr 2002 geboren.\nDas Kind hei\u00dft Prince Michael Jackson II.\n\nMichael Jackson hat f\u00fcr alle 3 Kinder das Sorge\u00b7recht gehabt.\nAls er gestorben ist,\nhat die Mutter von Michael Jackson das Sorge\u00b7recht f\u00fcr die Kinder bekommen.\nWenn die Mutter stirbt,\nbekommt Diana Ross das Sorge\u00b7recht f\u00fcr die Kinder.\nDiana Ross war eine Freundin von Michael Jackson.\n\nMichael hatte beim Tanzen ein Unfall.\nEr musste 1979 deshalb seine Nase operieren.\nEr musste auch wegen seinem Atem operiert werden.\nEr bekam in den 1980er eine Hautkrankheit.\nDie Hautkrankheit machte ihn wei\u00df.\n1993 sagte er in einem Interview, dass er die Flecken mit Schminke bedeckte.\nViele Leute sagten, er hatte Kinder bel\u00e4stigt.\nEr hat kaum gegessen und geschlafen.\nNachdem Michael gestorben ist, wurden viele Medikamente bei ihm gefunden.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Michael_Jackson"
+    },
+    {
+        "title": "Komponist",
+        "content": "Ein Komponist denkt sich Musik aus. \nMan sagt: \nEr komponiert Musik.\n\nAuf dem Bild ist _____________ zu sehen\n\nEin Komponist erfindet Musik. \nZum Beispiel Lieder und Musik-St\u00fccke. \nEr schreibt die Musik auf. \nAndere Menschen spielen die Musik auf ihren Musik-Instrumenten. \nDann k\u00f6nnen alle die Musik h\u00f6ren.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Komponist"
+    },
+    {
+        "title": "Coco Chanel",
+        "content": "Coco Chanel war eine franz\u00f6sische Mode\u00b7designerin. \nUnd eine Unternehmerin.\n\n\n\nCoco Chanel wurde am 19. August 1883 in Saumur, Frankreich geboren.\nSie starb am 10. Januar 1971 in Paris, Frankreich. \n\nAls Coco Chanel 12 Jahre alt war, ist ihre Mutter gestorben.\nDer Vater hat sie in ein Waisen\u00b7haus gebracht.\nDort hat sie den Beruf N\u00e4herin gelernt.\nAls sie 18 Jahre alt war,\nist sie aus dem Waisen\u00b7haus ausgezogen.\nSie hat in einem Baby\u00b7artikel\u00b7gesch\u00e4ft gearbeitet.\n\nIm Jahr 1909 hat sie ein Hut\u00b7gesch\u00e4ft aufgemacht.\nDie H\u00fcte haben vielen Leuten gefallen.\n\nIm Jahr 1913 hat sie einen Kredit genommen.\nDas hei\u00dft, sie hat sich Geld von Arthur Capel ausgeliehen.\nMit dem Geld hat sie ein Mode\u00b7gesch\u00e4ft aufgemacht.\nDas Gesch\u00e4ft Chanel Modes.\n\nIm Jahr 1924 hat sie eine Parf\u00fcm\u00b7firma aufgemacht.\nDie Firma Parfums Chanel. \n\nCoco Chanel hat viele Kleider erfunden.\nZum Beispiel das kleine Schwarze.\nUnd das Chanel-Kost\u00fcm.\nUnd Hosen f\u00fcr Frauen.\n\nSie hat auch Parf\u00fcms erfunden.\nZum Beispiel das Parf\u00fcm Chanel N\u00ba 5.\n\nAm 10. Januar 1971 ist Coco Chanel in Paris gestorben.\nIhre Firma Chanel gibt es immer noch.\nChanel ist eine der gr\u00f6\u00dften Mode\u00b7firmen.\nSeit dem Jahr 1983 arbeitet Karl Lagerfeld bei Chanel.\nEr ist der Chef\u00b7designer.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Coco_Chanel"
+    },
+    {
+        "title": "Internationale Standardbuchnummer",
+        "content": "Eine Internationale Standard\u00b7buch\u00b7nummer ist eine Nummer.\nDie Nummer steht hinten auf einem Buch.\n\nAn den Zahlen kann man ab\u00b7lesen was f\u00fcr ein Buch es ist. \nDas kurze Wort f\u00fcr Inter\u00b7nationale Standard\u00b7buch\u00b7nummer ist ISBN. \n\n\n\nMit der ISBN kann man genau sagen was f\u00fcr ein Buch es ist. \nMit der Nummer kann man zum Beispiel ein Buch bestellen. \nOder ein Buch suchen. \n\nDie ISBN gibt es seit dem Jahr 1966. \nMan hat die ISBN erfunden,\nweil es sehr viele B\u00fccher gibt. \nBis zum Jahr 2006 hatte die ISBN 10 Zahlen. \nEs ist die  ISBN-10 gewesen. \nHeute hat die ISBN 13 Zahlen. \nMan sagt dazu ISBN-13. \n\nJedes Buch hat eine andere ISBN. \nDie ISBN gibt es f\u00fcr jedes Buch nur 1 mal. \nMan bekommt die ISBN bei der Buch\u00b7h\u00e4ndler-Vereinigung. \n\nEs gibt auch B\u00fccher die keine ISBN haben. \nZum Beispiel weil es f\u00fcr den Verlag zu teuer ist. \nDie ISBN kostet \u00fcber 70,00 Euro. \n\nAuf der ISBN kann man erkennen aus welchem Land das Buch kommt. \nUnd in welcher Sprache das Buch ist. \nUnd zu welchem Verlag das Buch geh\u00f6rt.\n\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Internationale_Standardbuchnummer"
+    },
+    {
+        "title": "Manga",
+        "content": "Ein Manga ist ein japanisches Comic.\nManga ist ein japanisches Wort.\nEs ist aus zwei (2) W\u00f6rtern zusammen gesetzt.\nAus dem Wort  \"man\" und dem Wort \"ga\" \nman hei\u00dft auf Deutsch: spontan\nga hei\u00dft auf Deutsch: Bild\n\nMangas gibt es in Japan seit dem Jahr 800.\n\nDie Mangas sind auf eine bestimmte Art gezeichnet.\nDas hei\u00dft sie sind in einem bestimmten Zeichen\u00b7stil gemacht.\nZum Beispiel:\nDie Figuren haben gro\u00dfe Augen.\nManche sagen dazu: Kindchenschema\n\nJapaner sagen zu allen Comics, Manga.\nIn anderen L\u00e4ndern meinen die Menschen mit Manga:\nComics die aus Japan sind.\nOder Comics die wie Mangas gezeichnet sind.\n\nBekannte Mangas sind zum Beispiel:\nDragon Ball, Sailor Moon, Prinzessin Mononoke, Akira, Yu-Gi-Oh, Barfu\u00df durch Hiroshima.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Manga"
+    },
+    {
+        "title": "Sailor Moon",
+        "content": "Sailor Moon ist der Name von einem Comic.\nVon dem Comic gibt es mehrere Hefte.\nDas Comic erz\u00e4hlt die Geschichte von einer Kriegerin.\nDie Kriegerin hei\u00dft Usagi Tsukino.\n\n\n\nNaoko Takeuchi ist eine japanische Mangaka.\nDas hei\u00dft:\nNaoko Takeuchi ist eine Manga Autorin.\nSie hat das Manga Sailor Moon erfunden.\n\nVon Sailor Moon  gibt es mehrere Comic B\u00e4nde.\nEs gibt auch eine Fernseh\u00b7serie von dem Comic.\n\nUsagi Tsukino ist ein tollpatschiges Schul\u00b7m\u00e4dchen.\nManche sagen zu Usagi Tsukino auch Bunny.\n\nEines Tages sagt die  Katze Luna zu ihr:\nDu bist in Wirklichkeit die Kriegerin Sailor Moon.\n\nSie bekommt magische Kr\u00e4fte.\nSie k\u00e4mpft zusammen mit ihren Freundinnen.\nSie k\u00e4mpfen f\u00fcr Liebe und Gerechtigkeit.\nSie k\u00e4mpfen gegen das K\u00f6nigreich des Dunkeln.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sailor_Moon"
+    },
+    {
+        "title": "Autor",
+        "content": "Ein Autor ist eine Person die etwas geschrieben hat.\nZum Beispiel ein Buch.  \n\nAutor ist ein Beruf. \nEine spezielle Ausbildung gibt es daf\u00fcr nicht. \nJeder kann Autor werden. \n\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Autor"
+    },
+    {
+        "title": "Aquaman",
+        "content": "Aquaman ist der Name von einer Comic\u00b7figur.\nAquaman ist ein Super\u00b7held.\nAquaman ist Herrscher vom K\u00f6nigreich von Atlantis.\n\n\nPaul Norris ist Autor.\nMort Weisinger ist Zeichner.\nPaul Norris und Mort Weisinger haben die Comic\u00b7figur Aquaman erfunden.\nDas War im Jahr 1941.\nIm Jahr 1941 sah Aquaman so aus:\nkurze blonde Haaren, oranges, enges Shirt, gr\u00fcne enge Hose.\n\nHeute sieht Aquaman so aus:\nlange blonde Haare, langer Bart, nackter Ober\u00b7k\u00f6rper mit viel Muskeln.\n\nTom Curry ist ein Mensch.\nTom Curry ist der Vater von Aquaman.\nAtlanna ist eine Bewohnerin von Atlanta.\nSie ist die Mutter von Aquaman.\n\nAquaman kann unter Wasser atmen.\nAquaman kann mit Meeres\u00b7tieren telepathisch reden.\nUnd Aquaman kann sehr schnell schwimmen.\n\nEs gibt Comic\u00b7hefte von Aquaman.\nUnd Comic\u00b7filme.\nUnd den Film Aquaman.\nIm Film ist der Schau\u00b7spieler Jason Momoa Aquaman.\n",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Aquaman"
+    }
+]

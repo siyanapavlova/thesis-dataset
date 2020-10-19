@@ -1,0 +1,872 @@
+[
+    {
+        "title": "EuroVelo",
+        "content": "Das europ\u00e4ische Radrouten-Netz Eurovelo ist ein Projekt des Europ\u00e4ischen Radfahrer-Verbandes ECF. Bis 2020 werden Radfernwege mit einer Gesamtl\u00e4nge von \u00fcber 90.000 Kilometern entstehen, bis 2012 war das Netz auf 45.000 km gewachsen. Ziel ist, Infrastruktur sowohl f\u00fcr den Fahrradtourismus als auch f\u00fcr die lokale Bev\u00f6lkerung auszubauen.Das EuroVelo-Netz besteht aus 16 Strecken: zehn Nord-S\u00fcd-Wegen, vier West-Ost-Wegen und zwei Rundwegen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/EuroVelo"
+    },
+    {
+        "title": "Camping",
+        "content": "Camping (auch Kampieren, von lat. campus \u201eFeld\u201c) bezeichnet eine Form des Tourismus. Die Urlauber \u00fcbernachten in diesem Fall in Zelten, H\u00e4ngematten, Wohnwagen oder Wohnmobilen, in Dachzelten oder ausgebauten Vans. Wird in Zelten gecampt, so spricht man auch von Zelten.\nCamping wurde Anfang des 20. Jahrhunderts popul\u00e4r und ist mittlerweile eine weitverbreitete Urlaubs- und Reiseform. Inzwischen finden sich weltweit M\u00f6glichkeiten, auf Campingpl\u00e4tzen, oft in landschaftlich reizvollen Lagen (zum Beispiel auch in Natur- und Nationalparks) zu \u00fcbernachten. Campingpl\u00e4tze stellen \u2013 wie auch manche Reisemobil-Stellpl\u00e4tze \u2013 sanit\u00e4re und elektrische Versorgungseinrichtungen zur Verf\u00fcgung. Campingpl\u00e4tze gibt es f\u00fcr jeden Geschmack von der einfachen Wiese mit Waschhaus bis zu hoch komfortablen Einrichtungen mit Superm\u00e4rkten, Restaurants, eigenem Schwimmbecken sowie Fernsehanschluss und Internetangebot (meist WLAN). \u00dcbernachtungen auf Campingpl\u00e4tzen sind in der Regel preiswerter als in Hotels; die Preise haben sich allerdings in den begehrten Urlaubsregionen und bei komfortablen Angeboten in der Hauptsaison angen\u00e4hert.\nIn den meisten L\u00e4ndern Europas ist Kampieren au\u00dferhalb daf\u00fcr vorgesehener Einrichtungen (Wildes Campen) nicht erlaubt oder nur unter strengen Auflagen gestattet.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Camping"
+    },
+    {
+        "title": "Lagerfeuer",
+        "content": "Ein Lagerfeuer ist ein Nutzfeuer, das beim Lagern im Freien angez\u00fcndet wird. Es dient im Wesentlichen dem Erw\u00e4rmen des K\u00f6rpers, dem Trocknen von Kleidung, dem Kochen von Speisen, dem Abkochen von Wasser, dem Vertreiben von Insekten und Raubtieren, dem Signalisieren von Notsituationen sowie dem geselligen Zusammensein.\nDie wichtigsten Formen des Lagerfeuers sind das Tipifeuer mit seinen Varianten Survival- und J\u00e4gerfeuer als Mehrzweckfeuer, das Stern-, Gruben- und Tunnelgrubenfeuer als Kochfeuer und das Rauchfeuer als Signalfeuer zur Rettung aus Gefahrensituationen. Zu den Festfeuern geh\u00f6ren das Pfahlkegel-, Pagoden- und Stapelfeuer.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Lagerfeuer"
+    },
+    {
+        "title": "Flugzeug",
+        "content": "Ein Flugzeug ist ein Luftfahrzeug, das schwerer als Luft ist und den zu seinem Fliegen n\u00f6tigen dynamischen Auftrieb mit nicht-rotierenden Auftriebsfl\u00e4chen erzeugt. Der Betrieb von Flugzeugen, die am Luftverkehr teilnehmen, wird durch Luftverkehrsgesetze geregelt.\nUmgangssprachlich werden Flugzeuge mitunter auch Flieger genannt, der Ausdruck Flieger hat als Hauptbedeutung jedoch den Piloten.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Flugzeug"
+    },
+    {
+        "title": "Freizeitpark",
+        "content": "Ein Freizeitpark ist entweder ein dauerhaft angelegter Vergn\u00fcgungspark, der auf einem gr\u00f6\u00dferen Gel\u00e4nde mehrere Attraktionen \u2013 Fahrgesch\u00e4fte (Karussells, Autoscooter, Achterbahnen usw.), Schaubuden, Shows, Ausstellungen, Museen \u2013 vereinigt oder eine Parkanlage mit erweiterten M\u00f6glichkeiten, wie diversen Freizeitanlagen (z. B. Spielpl\u00e4tze, Minigolf oder Kletterw\u00e4nde), zur Freizeitgestaltung und Erholung.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Freizeitpark"
+    },
+    {
+        "title": "Flughafen",
+        "content": "Mit Flughafen wird ein Flugplatz samt Infrastruktur bezeichnet, auf dem normalerweise regelm\u00e4\u00dfiger kommerzieller Flugverkehr stattfindet. Im Gegensatz dazu ist die Allgemeine Luftfahrt (General Aviation, abgek\u00fcrzt GA) meistens nur am Rande vertreten. Milit\u00e4rflugpl\u00e4tze werden nicht als Flugh\u00e4fen deklariert. Flugh\u00e4fen erf\u00fcllen meist einen h\u00f6heren Sicherheitsstandard als andere Flugpl\u00e4tze wie zum Beispiel Landepl\u00e4tze. Auf ihnen ist je nach Gr\u00f6\u00dfe eine unterschiedliche Flughafeninfrastruktur wie Hangars, Wartungseinrichtungen f\u00fcr Flugzeuge, Abfertigungsanlagen am Boden, Luftverkehrskontrolle und Serviceeinrichtungen f\u00fcr Passagiere (Restaurants, Lounges und Sicherheitsdienste) vorhanden. In anderen L\u00e4ndern werden unter Airport manchmal auch kleinere Flugpl\u00e4tze verstanden, auf denen ausschlie\u00dflich die allgemeine Luftfahrt oder das Milit\u00e4r beheimatet ist.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Flughafen"
+    },
+    {
+        "title": "Rucksack",
+        "content": "Der Rucksack ist ein Beh\u00e4lter aus Stoff, flexiblem Kunststoff (Nylon oder PVC) oder Leder, der an Gurten auf dem R\u00fccken getragen wird und dem Transport von Gegenst\u00e4nden dient. Leichte Rucks\u00e4cke werden allein an Schultergurten getragen; bei Rucks\u00e4cken f\u00fcr den Transport schwerer Lasten wird die Last \u00fcber einen H\u00fcftgurt auf die H\u00fcfte verlagert.\nJe nach Qualit\u00e4t, Einsatzgebiet (etwa Trekking, Klettern, Wandern, Reisen, Fahrradfahren, Freizeit, Lastentransport, Schule usw.) und Komfortanspruch des Tr\u00e4gers kann die Ausstattung der Rucks\u00e4cke variieren (etwa Bel\u00fcftung des R\u00fcckens, innenliegendes Tragegestell zur Gewichts\u00fcbertragung auf die H\u00fcfte, Verstellbarkeit der R\u00fcckenl\u00e4nge zur Passformoptimierung, Eigengewicht, G\u00fcte und Haltbarkeit der Polsterung zur Druck/Scheuerstellenvermeidung usw.).",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Rucksack"
+    },
+    {
+        "title": "Rucksacktourismus",
+        "content": "Rucksacktourismus ist eine Art des Tourismus, bei dem man als Gep\u00e4ck lediglich einen Rucksack mit sich f\u00fchrt (Rucksacktourist oder Backpacker) und meist nicht an einem Reiseziel verweilt, sondern selbstbestimmt zu verschiedenen Orten reist.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Rucksacktourismus"
+    },
+    {
+        "title": "Gep\u00e4ck",
+        "content": "Als Gep\u00e4ck bezeichnet man die Gesamtheit aller f\u00fcr eine Ortsver\u00e4nderung (Gang, Lauf, Fahrt, Reise) mitgenommenen Gegenst\u00e4nde. Nicht als Gep\u00e4ck gelten aktuell getragene Kleidung und Gehhilfen wie Kr\u00fccken oder Gehst\u00f6cke. Gep\u00e4ck befindet sich meistens in Form von Gep\u00e4ckst\u00fccken in zum Transport vorgesehenen Beh\u00e4ltern, z. B. Kisten, Koffern, Rucks\u00e4cken, Taschen und Kleiders\u00e4cken.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gep%C3%A4ck"
+    },
+    {
+        "title": "Fahrrad",
+        "content": "Ein Fahrrad, kurz Rad, in der Schweiz Velo (von franz\u00f6sisch le v\u00e9lo, Kurzform f\u00fcr v\u00e9locip\u00e8de  \u201aSchnellfu\u00df\u2018; lateinisch velox  \u201aschnell\u2018 und pes  \u201aFu\u00df\u2018), ist ein mindestens zweir\u00e4driges, f\u00fcr gew\u00f6hnlich einspuriges Landfahrzeug, das ausschlie\u00dflich durch die Muskelkraft auf ihm befindlicher Personen durch das Treten von Pedalen oder Handkurbeln angetrieben wird. Durch den Nachlauf entsteht bei einem Lenkausschlag ein Drehmoment, das diesem als R\u00fcckstellmoment entgegengerichtet ist. Dadurch lenkt das rollende Fahrzeug selbstst\u00e4ndig zur\u00fcck bis (fast) zur Geradeausstellung. Die Kreiselkr\u00e4fte stabilisieren das Fahrrad beim Fahren zus\u00e4tzlich abh\u00e4ngig vom Tr\u00e4gheitsmoment und der Geschwindigkeit. Au\u00dferdem haben weitere Faktoren wie die Masseverteilung einen Einfluss auf die Fahrstabilit\u00e4t von einspurigen Fahrzeugen (siehe auch: Fahrphysik (Fahrrad)).\nEin Einrad hat nur ein Laufrad, \u00fcber welchem alle Kipprichtungen balanciert werden m\u00fcssen. Das Tandemrad ist eine Sonderform, die es zwei oder mehr Personen erm\u00f6glicht, einen eigenen Sitzplatz einzunehmen und die eigene Muskelkraft einzusetzen. Sonderformen wie Dreir\u00e4der f\u00fcr Kinder oder Senioren und dreir\u00e4drige Lieger\u00e4der haben drei R\u00e4der und sind dreispurig. Fahrradrikschas (wie beispielsweise Fahrradtaxis) k\u00f6nnen sowohl dreir\u00e4drig als auch vierr\u00e4drig (zweispurig) sein. Eine weitere Sonderform sind Experimentalfahrr\u00e4der, welche eine Vielzahl von Laufr\u00e4dern oder andere muskelbetriebene Antriebsformen aufweisen.\nF\u00fcr die Benutzung eines Fahrrades im \u00f6ffentlichen Stra\u00dfenverkehr gibt es in jedem Land spezifische gesetzliche Bestimmungen (siehe Radverkehr).",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fahrrad"
+    },
+    {
+        "title": "Fernglas",
+        "content": "Ein Fernglas ist ein tragbares Fernrohr. Es ist \u00fcberwiegend in binokularer Ausf\u00fchrung auf dem Markt, die es erm\u00f6glicht, Objekte mit beiden Augen \u00fcber getrennte Strahleng\u00e4nge zu beobachten. Das Fernglas wird einerseits in einfacher Linsenbauweise als Theaterglas (Opernglas, Galilei-Fernrohr) angeboten, andererseits als Prismenfernglas (Kepler-Fernrohr), das umgangssprachlich auch Feldstecher genannt wird. In ein\u00e4ugiger Bauweise spricht man von Monokular.\nDen \u00dcbergang zu Fernrohren bilden die etwas l\u00e4ngeren, aus Gewichts- und Konstruktionsgr\u00fcnden \u00fcberwiegend mit Stativ zu verwendenden Spektive. Mit einem ausziehbaren Tubus werden letztere auch Auszugsfernrohre genannt.\nTypische Vergr\u00f6\u00dferungen sind f\u00fcr Operngl\u00e4ser 3-fach, f\u00fcr Feldstecher 6- bis 10-fach und f\u00fcr Spektive mit Zoom-Okular 15- bis 50-fach.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fernglas"
+    },
+    {
+        "title": "Omnibus",
+        "content": "Ein Omnibus (lateinisch omnibus  \u201aallen\u2018 bzw. \u201af\u00fcr alle\u2018, Dativ Plural von omnis), kurz Bus, ist ein gro\u00dfes Stra\u00dfenfahrzeug, das der Bef\u00f6rderung zahlreicher Personen dient, z. B. im \u00f6ffentlichen Personennahverkehr. In \u00d6sterreich und der Schweiz werden sie vielfach als Autobus bezeichnet. Reisebusse werden in der Schweiz mit dem franz\u00f6sischen Wort Car oder Reisecar, seltener auch Autocar bezeichnet.\nIn der Europ\u00e4ischen Union gelten gem\u00e4\u00df den Bemerkungen in Anhang I der Richtlinie 70/156/EWG motorisch angetriebene Landfahrzeuge der Klassen M2 oder M3 mit mehr als acht Sitzpl\u00e4tzen neben dem Fahrersitz amtlich als Kraftomnibus (KOM) und sind Kraftfahrzeuge. In der Schweiz werden Motorfahrzeuge der Klasse M2 \u00fcber 3,50 t oder M3 gem\u00e4\u00df Art. 11 Abs. 2b VTS als Gesellschaftswagen bezeichnet.\nEng mit dem Omnibus verwandt ist der Oberleitungsbus beziehungsweise Trolleybus, der jedoch aufgrund seiner Abh\u00e4ngigkeit von einer Fahrleitung eine Sonderstellung einnimmt. Weil er \u00e4hnlich einer Stra\u00dfenbahn an eine feste Infrastruktur gebunden ist, gelten f\u00fcr ihn in einigen L\u00e4ndern besondere gesetzliche Regelungen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Omnibus"
+    },
+    {
+        "title": "Kreuzfahrtschiff",
+        "content": "Ein Kreuzfahrtschiff ist ein Passagierschiff, dessen Aufgabe nicht die Bef\u00f6rderungsleistung von einem Hafen zu einem anderen, sondern die Reise (Kreuzfahrt) an sich ist. In der Regel werden mehrere touristisch interessante Ziele einer Region oder eines Seegebiets in einem bestimmten Zeitraum planm\u00e4\u00dfig angelaufen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kreuzfahrtschiff"
+    },
+    {
+        "title": "W\u00e4hrung",
+        "content": "Eine W\u00e4hrung (mhd. werunge f\u00fcr \u201aGew\u00e4hrleistung\u2018) ist im weiteren Sinne die Verfassung und Ordnung des gesamten Geld\u00adwesens eines Staates, die insbesondere die Festlegung des M\u00fcnz- und Notensystems innerhalb des W\u00e4hrungsraums betrifft. Der W\u00e4hrungsraum ist dabei der Geltungsbereich einer W\u00e4hrung. Sie erm\u00f6glicht den Transfer von Waren und Dienstleistungen, ohne eine Gegenleistung in Form von anderen Waren und Dienstleistungen zu liefern.\nAls W\u00e4hrung oder W\u00e4hrungseinheit wird auch die vom Staat anerkannte Geldart (das gesetzliche Zahlungsmittel eines Landes) bezeichnet. In diesem Fall ist W\u00e4hrung dann eine Unterform des Geldes. Die meisten W\u00e4hrungen werden an den internationalen Devisenm\u00e4rkten gehandelt. Der sich dort ergebende Preis wird als Wechselkurs bezeichnet. Nahezu alle g\u00e4ngigen W\u00e4hrungen basieren inzwischen auf dem Dezimalsystem, das hei\u00dft, es gibt eine Haupteinheit und eine Untereinheit, wobei die Untereinheit ein dezimaler Bruchteil (i. d. R. ein Hundertstel) des Wertes der Haupteinheit verk\u00f6rpert (Dezimalw\u00e4hrung). In Fachkreisen wird die Untereinheit auch Unterw\u00e4hrung genannt.\nIn den jeweiligen Staaten \u00fcben der Finanzminister oder die staatliche Zentralbank Kontrolle \u00fcber die W\u00e4hrung beziehungsweise die W\u00e4hrungspolitik aus. Die Zentralbanken besitzen in nahezu allen westlichen Staaten ein gro\u00dfes Ma\u00df an Autonomie, das hei\u00dft die Regierung kann gar nicht oder nur in sehr geringem Ma\u00dfe beziehungsweise indirekt auf die Zentralbank einwirken.\nIst eine W\u00e4hrung weltweit handel- und umtauschbar, so wird von ihrer Konvertibilit\u00e4t gesprochen. Wird eine W\u00e4hrung durch Gold und/oder Silber hinterlegt und ist der Umtausch von Banknoten in das jeweilige Metall jederzeit m\u00f6glich, so ist auch in diesem Zusammenhang Konvertibilit\u00e4t gegeben.\nDerzeit gibt es weltweit \u00fcber 160 offizielle W\u00e4hrungen, aber nur der US-Dollar und in zunehmendem Ma\u00dfe auch der Euro gelten als internationale Leitw\u00e4hrungen. Daneben gibt es noch Komplement\u00e4rw\u00e4hrungen, die nur regional neben dem offiziellen Geld als Tauschmittel akzeptiert werden.\nHat eine W\u00e4hrung innerhalb der Bev\u00f6lkerung stark an Vertrauen verloren, so bilden sich oft Ersatzw\u00e4hrungen wie Zigaretten (z. B. Zigarettenw\u00e4hrung in Deutschland nach dem Zweiten Weltkrieg), die dann als Zahlungs- und Tauschmittel dienen. Auch sogenanntes Notgeld dient in Krisenzeiten als Ersatz f\u00fcr die offizielle W\u00e4hrung. Oftmals werden auch W\u00e4hrungen anderer Staaten zur Ersatzw\u00e4hrung. Ein bekanntes Beispiel ist der Gebrauch der \u201eWestmark\u201c in der DDR neben der DDR-Mark. Insbesondere die sogenannten \u201eblauen Fliesen\u201c (100-DM-Scheine) waren ein beliebtes Tauschmittel auf dem Schwarzmarkt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/W%C3%A4hrung"
+    },
+    {
+        "title": "Grenzkontrolle",
+        "content": "Eine Grenzkontrolle ist die Kontrolle des Grenzverkehrs, das hei\u00dft die Kontrolle \u00fcber einreisende und ausreisende Personen.\nAn Grenzkontrollen werden Polizeiorgane, teilweise auch Soldaten eines oder beider betroffenen L\u00e4nder t\u00e4tig. Sie halten Personen an den jeweiligen Grenzen an und \u00fcberpr\u00fcfen deren Dokumente (Echtheit und Abgleich mit dem Fahndungsbestand). Des Weiteren werden mitgef\u00fchrte Gegenst\u00e4nde wie Fahrzeuge, Ladung u. \u00e4. kontrolliert.\nHauptzweck der Grenzkontrolle ist, die illegale Einreise in ein Land zu verhindern. Eine legale Einreise ist nur Inhabern der jeweiligen Staatsb\u00fcrgerschaft, Inhabern von Visa oder B\u00fcrgern von Staaten, die aufgrund internationaler Abkommen kein Visum f\u00fcr die Einreise ben\u00f6tigen sowie Diplomaten auf Dienstreise m\u00f6glich. Es gibt auch F\u00e4lle, eine illegale Ausreise zu verhindern. Dies war in Europa bis zum Fall des Eisernen Vorhangs \u00fcblich. Daneben werden im Rahmen der Ausreisekontrollen per Haftbefehl gesuchte Personen aufgegriffen.\nAn einigen Staatsgrenzen wird ein Visum in den Reisepapieren eingetragen. Je nach den bilateralen Verh\u00e4ltnissen der beiden angrenzenden L\u00e4nder werden Grenzkontrollen durch Organe beider Staaten gemeinsam oder getrennt durchgef\u00fchrt.\nBestandteil der Grenzkontrolle ist in der Regel auch eine Zollkontrolle.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Grenzkontrolle"
+    },
+    {
+        "title": "Exkursion",
+        "content": "Eine Exkursion (lateinisch excursio f\u00fcr \u201eAusflug\u201c, aus ex f\u00fcr \u201e(her)aus\u201c und currere f\u00fcr \u201elaufen\u201c) ist ein Lehrausflug mit speziellen Besichtigungen, Wanderungen oder eine Reise (Lehr- und Studienfahrt) unter bildender oder wissenschaftlicher Leitung und Zielsetzung. Bei l\u00e4nger andauernden Exkursionen spricht man auch von einer Forschungsreise.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Exkursion"
+    },
+    {
+        "title": "Entdeckungsreise",
+        "content": "Als Entdeckungsreisen werden Reisen und ausger\u00fcstete Expeditionen bezeichnet, die der Entdeckung, Erforschung und Erschlie\u00dfung von entlegenen L\u00e4ndern, Landstrichen, Gebirgen, Gew\u00e4ssern, Inseln oder des Weltalls dienen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Entdeckungsreise"
+    },
+    {
+        "title": "F\u00e4hre",
+        "content": "Eine F\u00e4hre (mhd. vere; zu mhd. vern, ahd. ferian \u201amit dem Schiff fahren\u2018) ist ein Verkehrsmittel, das dem \u00dcbersetzverkehr \u00fcber ein Gew\u00e4sser dient.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/F%C3%A4hre"
+    },
+    {
+        "title": "Fremdenf\u00fchrer",
+        "content": "Fremdenf\u00fchrer (auch G\u00e4stef\u00fchrer, Stadtf\u00fchrer oder Touristenf\u00fchrer beziehungsweise der ebenfalls gebr\u00e4uchliche Anglizismus Guide; in Teilen Deutschlands auch Stadtbilderkl\u00e4rer) sind orts- und sachkundige Personen, die In- und Ausl\u00e4nder empfangen, betreuen und begleiten. Sie vermitteln dabei \u2013  in einheimischer Sprache oder auch in der ben\u00f6tigten Fremdsprache \u2013 fundiertes Wissen \u00fcber Geografie, Geschichte, Kunstgeschichte sowie kulturelle, wirtschaftliche, gesellschaftliche Fakten und Zusammenh\u00e4nge. \nVom Fremdenf\u00fchrer ist der Reiseleiter zu unterscheiden, der mit der Gruppe anreist und sie w\u00e4hrend der gesamten Reise betreut.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fremdenf%C3%BChrer"
+    },
+    {
+        "title": "Highway",
+        "content": "Das Wort Highway hat im Englischen zwei verwandte, aber nicht deckungsgleiche Bedeutungen. Zum einen bezeichnet es, als juristischer Fachbegriff, jede \u00f6ffentliche Verkehrsfl\u00e4che, die jedermann zur Benutzung offensteht, unabh\u00e4ngig von Gr\u00f6\u00dfe oder Ausbaugrad der Fl\u00e4che. In diesem Sinne sind auch ein Fu\u00dfweg, eine ungepflasterte Nebenstrecke oder der Luftraum \u201epublic highways\u201c. In einer zweiten Bedeutung werden, vor allem im englischsprachigen Teil Nordamerikas, alle Hauptverkehrsstra\u00dfen, die dem Fernverkehr dienen, als \u201ehighways\u201c bezeichnet. Entgegen verbreiteter Annahme unter Nicht-Muttersprachlern bezeichnet \u201ehighway\u201c in beiden Bedeutungen nicht notwendigerweise eine kreuzungsfreie Schnellstra\u00dfe und ist daher keine \u00dcbersetzung f\u00fcr den Begriff Autobahn o. dgl. Etymologisch leitet sich der Begriff vom altenglischen heahweg ab, was so viel bedeutet wie Hauptstra\u00dfe, die von Stadt zu Stadt f\u00fchrt. Das Adjektiv high kann also mit main (z. Dt. haupt) gleichgesetzt werden.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Highway"
+    },
+    {
+        "title": "Hotel",
+        "content": "Ein Hotel ist ein Beherbergungs- und Verpflegungsbetrieb f\u00fcr G\u00e4ste gegen Bezahlung. Es ist ein touristisches, dem Hotel- und Gastst\u00e4ttengewerbe zuzuordnendes Unternehmen. F\u00fcr die Branche gilt der Begriff Hotelgewerbe.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Hotel"
+    },
+    {
+        "title": "Herberge",
+        "content": "Eine Herberge (aus dem ahd. heri f\u00fcr Heer und berga, einer Ableitung des Verbes bergen, also \u201eBergung, Unterkunft f\u00fcr das Heer\u201c,) veraltet auch Unterschleif, ist eine bauliche Unterkunft f\u00fcr Reisende, die bewirtschaftet wird und f\u00fcr den Gast in der Regel kostenpflichtig ist.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Herberge"
+    },
+    {
+        "title": "Feiertag",
+        "content": "Unter einem Feiertag (ahd. f\u00eera aus lateinisch f\u0113ria  \u201aFesttag\u2018, \u201ader religi\u00f6sen Feier gewidmeter, arbeitsfreier Tag\u2018; dazu feiern, urspr\u00fcnglich \u201adie Arbeit ruhen lassen\u2018, ahd. f\u00eer\u00f4n von lateinisch f\u0113ri\u0101ri; vgl. Feierabend, Ferien) oder Festtag (lateinisch dies f\u0113stus, \u201aein der [\u00f6ffentlichen] religi\u00f6sen Feier gewidmeter Tag\u2018; vgl. Fest) wird allgemein ein arbeitsfreier Tag mit besonderer Feiertagsruhe verstanden. Alle Kulturen und V\u00f6lker feiern regelm\u00e4\u00dfig bestimmte Ereignisse von gesellschaftlichem oder religi\u00f6sem Rang. Diese sind oft durch die Rechtsordnungen der einzelnen Staaten besonders gesch\u00fctzt. Man spricht dann von gesetzlichen Feiertagen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Feiertag"
+    },
+    {
+        "title": "Gasthof",
+        "content": "Ein Gasthof oder auch Landgasthof ist ein gastronomischer Betrieb mit einer langen Geschichte. Es handelt sich um eine Einrichtung, in welcher Reisende logieren und sich verpflegen k\u00f6nnen. Gasth\u00f6fe sind typischerweise l\u00e4ndlich angelegt oder befinden sich an Fernstra\u00dfen. Wo heute Autoparkpl\u00e4tze die Reisenden willkommen hei\u00dfen befanden sich fr\u00fcher St\u00e4lle und F\u00fctterungen f\u00fcr deren ersch\u00f6pfte Pferde.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gasthof"
+    },
+    {
+        "title": "Insel",
+        "content": "Eine Insel ist eine in einem Meer oder Binnengew\u00e4sser liegende, auch bei Hochwasser \u00fcber den Wasserspiegel hinausragende Landmasse, die vollst\u00e4ndig von Wasser umgeben, jedoch kein Kontinent ist.\nMehrere Inseln in r\u00e4umlicher N\u00e4he k\u00f6nnen eine Inselgruppe bilden. Zusammen mit den dazwischen liegenden Gew\u00e4ssern werden sie auch als Archipel bezeichnet. Von den 193 von den Vereinten Nationen anerkannten souver\u00e4nen Staaten der Welt sind 47, also etwa ein Viertel, Inselstaaten.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Insel"
+    },
+    {
+        "title": "Wind Jet",
+        "content": "Wind Jet war eine italienische Billigfluggesellschaft mit Sitz in Catania auf Sizilien.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wind_Jet"
+    },
+    {
+        "title": "See",
+        "content": "Ein See  ist ein Stillgew\u00e4sser mit oder ohne Zu- und Abfluss durch Flie\u00dfgew\u00e4sser, das vollst\u00e4ndig von einer Landfl\u00e4che umgeben ist. Er stellt ein weitgehend geschlossenes \u00d6kosystem dar.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/See"
+    },
+    {
+        "title": "Landung",
+        "content": "Landung bezeichnet das kontrollierte Aufsetzen eines Raum-, Luft- oder Wasserfahrzeuges auf der Erdoberfl\u00e4che, im Normalfall auf einer daf\u00fcr vorgesehenen Landestelle. In der Regel wird der Flug nach den Flugphasen Sinkflug und Landeanflug mit dem Flugman\u00f6ver Landung abgeschlossen. Muss der Landeanflug oder die Landung abgebrochen werden, folgt noch der Fehlanflug.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Landung"
+    },
+    {
+        "title": "Freizeit",
+        "content": "Freizeit (englisch leisure, franz\u00f6sisch loisir) ist der Zeitraum au\u00dferhalb der Schul- oder Arbeitszeit, \u00fcber den eine Person selbstbestimmt verf\u00fcgen kann. Der Duden definiert Freizeit als \u201eZeit, in der jemand nicht zu arbeiten braucht, keine besonderen Verpflichtungen hat; f\u00fcr Hobbys oder Erholung frei verf\u00fcgbare Zeit\u201c.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Freizeit"
+    },
+    {
+        "title": "Karte (Kartografie)",
+        "content": "Eine Karte (von griechisch \u03c7\u03ac\u03c1\u03c4\u03b7\u03c2 ch\u00e1rtes, deutsch \u201aBlatt der Papyrusstaude\u2018, daraus hergestelltes Papier; aus \u00e4gyptisch garta) ist ein digitales oder analoges Medium zur Darstellung der Erdoberfl\u00e4che oder anderer Himmelsk\u00f6rper. Sie ist ein eingeebnetes, verkleinertes und generalisiertes, mit Beschreibungen und Zeichen versehenes Abbild der Erdoberfl\u00e4che oder anderer Himmelsk\u00f6rper. Beim Karteninhalt unterscheidet man zwei Hauptgruppen von Karten: topografische Karten (Landkarten, Seekarten \u2026) und thematische Karten. Bei der Herkunft wird zwischen amtlichen und privaten Karten unterschieden.In ihnen werden raumbezogene Gegenst\u00e4nde, Sachverhalte oder Prozesse ma\u00dfst\u00e4blich generalisiert und mit Hilfe eines Zeichen\u00adsystems grafisch in ihren Raumbeziehungen dargestellt. Im weitesten Sinne veranschaulicht eine Karte abstrakte, raumbezogene Daten und nur schwer formulierbare r\u00e4umliche Zusammenh\u00e4nge mit dem Ziel, diese f\u00fcr den Betrachter leicht verst\u00e4ndlich zu machen.\nDarstellungsr\u00e4ume einer Karte sind vor allem die Erde und die Erdteile. Aber auch andere Himmelsk\u00f6rper, der Sternhimmel oder fiktive Welten k\u00f6nnen Gegenstand einer Kartendarstellung sein. Die Wissenschaft und Technik zur Darstellung der Erdoberfl\u00e4che in topografischen und thematischen Karten ist die Kartografie.\nTraditionell wird eine Karte auf Papier gedruckt, wobei ihre thematischen Ebenen (engl. Layer) wie Gel\u00e4nde, Fl\u00fcsse, Stra\u00dfen, Wald usw. im Mehrfarbendruck aufgebracht werden. Heute werden die Layer nicht mehr als Druckfolien archiviert, sondern in einer Datenbank (siehe Geoinformationssystem) gespeichert. Die Karte kann dann auf einem Bildschirm pr\u00e4sentiert und auch leichter aktualisiert werden. Eine digitale Karte erlaubt dar\u00fcber hinaus die Einbeziehung weiterer, beispielsweise bildlicher und akustischer Medien sowie die interaktive Kommunikation mit dem Benutzer.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Karte_(Kartografie)"
+    },
+    {
+        "title": "Berg",
+        "content": "Ein Berg ist eine Landform, die sich \u00fcber die Umgebung erhebt. Er ist meist h\u00f6her und steiler als ein H\u00fcgel, wobei es keine Definition zur genauen Unterscheidung und Abgrenzung beider Gel\u00e4ndeformen gibt. Ein Berg sollte sich durch eine gewisse Eigenst\u00e4ndigkeit auszeichnen, also gen\u00fcgend Abstand von anderen Bergen und eine Mindesth\u00f6he \u00fcber einem Pass aufweisen. Gegenst\u00fcck ist das Tal.\nGeologisch und geographisch zusammengeh\u00f6rige Berge bilden ein Gebirge oder einen Gebirgszug. Dabei wird unterschieden zwischen Hochgebirgen und Mittelgebirgen. Einzelstehende Berge werden als Inselberg bezeichnet.\nDie Benennung einer Gel\u00e4ndeform durch den Menschen als eigenst\u00e4ndiger Berg ist subjektiv und nicht scharf von der Bezeichnung Gipfel abgegrenzt. Klar ist darum einzig, dass es mehr Gipfel als Berge gibt. Im Normalfall wird ein Berg einen Haupt- und mehrere Nebengipfel aufweisen, da nach Definition der Bergsteigervereinigungen schon ein Gegenanstieg von 30 Metern f\u00fcr einen Gipfel ausreicht.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Berg"
+    },
+    {
+        "title": "Museum",
+        "content": "Ein Museum (altgriechisch \u03bc\u03bf\u03c5\u03c3\u03b5\u1fd6\u03bf\u03bd mouse\u00eeon urspr\u00fcnglich ein Heiligtum der Musen) ist \u201eeine gemeinn\u00fctzige, auf Dauer angelegte, der \u00d6ffentlichkeit zug\u00e4ngliche Einrichtung im Dienste der Gesellschaft und ihrer Entwicklung, die zum Zwecke des Studiums, der Bildung und des Erlebens materielle und immaterielle Zeugnisse von Menschen und ihrer Umwelt beschafft, bewahrt, erforscht, bekannt macht und ausstellt.\u201c",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Museum"
+    },
+    {
+        "title": "Nationalpark",
+        "content": "Ein Nationalpark ist ein ausgedehntes Schutzgebiet, das meistens nur der nat\u00fcrlichen Entwicklung unterliegt und durch spezielle Ma\u00dfnahmen vor nicht gewollten menschlichen Eingriffen und vor Umweltverschmutzung gesch\u00fctzt wird. In der Regel sind dies Gebiete, die \u00f6kologisch besonders wertvoll oder von herausragendem landschaftlichem Reiz sind und im Auftrag einer Regierung verwaltet werden. Sie werden oft auch als Erholungsgebiete und f\u00fcr den sanften Tourismus genutzt. Die Definition eines Nationalparks ist nicht in allen Staaten gleich. Dennoch gibt es eine gemeinsame Idee: die Erhaltung gro\u00dfer, nicht durch menschliche Eingriffe ver\u00e4nderter Naturgebiete f\u00fcr die Nachwelt und als Symbol des nationalen Stolzes.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Nationalpark"
+    },
+    {
+        "title": "Linienschiff (Handelsmarine)",
+        "content": "Als Linienschiff (engl. ocean liner) wird in der Handelsschifffahrt ein Handelsschiff bezeichnet, das nach einem regelm\u00e4\u00dfigen Fahrplan auf einer Route zwischen festen Orten pendelt. Bei Strecken, die Ozeane \u00fcberqueren spricht man von Linienschifffahrt. Auf Binnengew\u00e4ssern verkehren Linienschiffe im Rahmen der B\u00f6rtschifffahrt.\nIm Gegensatz zu F\u00e4hren, die relativ kurze Distanzen \u00fcberbr\u00fccken, pendeln Linienschiffe der Handelsschifffahrt auf wesentlich l\u00e4ngeren Seewegen, oft sogar zwischen Kontinenten, und halten \u00fcblicherweise an mehreren Stationen. Vor Beginn der interkontinentalen Luftfahrt boten Linienschiffe f\u00fcr Privatpersonen die schnellste und sicherste M\u00f6glichkeit, die Ozeane zu \u00fcberqueren und waren auch f\u00fcr den Transport von Post nach \u00dcbersee unverzichtbar. Heute sind Linienschiffe meist Containerschiffe.\nDie wohl ber\u00fchmteste und prestigetr\u00e4chtigste Linienverbindung der Geschichte ist die zwischen Southampton und New York. Sie wurde von vielen ber\u00fchmten Linienschiffen, wie der Queen Elizabeth, der Queen Mary, der Titanic oder der United States befahren.\n\n\n== Weblinks ==",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Linienschiff_(Handelsmarine)"
+    },
+    {
+        "title": "Ozean",
+        "content": "Als Ozean (Plural \"die Ozeane\", von altgriechisch \u1f68\u03ba\u03b5\u03b1\u03bd\u03cc\u03c2 \u014ckean\u00f3s, deutsch \u201ader die Erdscheibe umflie\u00dfende Weltstrom\u2018, personifiziert als antiker Gott Okeanos) bezeichnet man die gr\u00f6\u00dften Meere der Erde. Synonym und als \u00dcbertragung wird im Deutschen auch die Bezeichnung Weltmeer verwandt.Verallgemeinert werden auch gro\u00dfe Wassermengen auf anderen Himmelsk\u00f6rpern \u201eOzeane\u201c genannt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ozean"
+    },
+    {
+        "title": "Reisepass",
+        "content": "Ein Reisepass (in Deutschland im amtlichen Sprachgebrauch auch als Nationalpass bezeichnet) ist im engeren und urspr\u00fcnglichen Sinne ein amtlicher Ausweis, der an den Inhaber von dem Staat herausgegeben wird, dessen Staatsangeh\u00f6rigkeit er besitzt, und der nach dem Recht des ausstellenden Staates zum grenz\u00fcberschreitenden Reisen und im Grundsatz zur R\u00fcckkehr in das eigene Hoheitsgebiet berechtigt. Der Pass bleibt Eigentum des jeweiligen Staates und dient der Identifizierung und Legitimation gegen\u00fcber staatlichen Beh\u00f6rden und zudem gegen\u00fcber privaten Einrichtungen sowie gegen\u00fcber Privatpersonen.\nDie meisten Reisep\u00e4sse enthalten neben den Angaben zur Person und zur Staatsangeh\u00f6rigkeit ihres Inhabers leere Seiten, die f\u00fcr zus\u00e4tzliche amtliche Vermerke des Ausstellerstaates oder die Anbringung von Vermerken anderer Staaten, wie Visa, Aufenthaltstiteln oder Kontrollstempeln \u00fcber die Ein- und Ausreise, verwendet werden k\u00f6nnen. Dar\u00fcber hinaus gibt es seit Beginn der 2000er Jahre zunehmend biometrische Reisep\u00e4sse, bei denen Personendaten in elektronischer Form im Pass abgelegt werden.\nNeben dem Reisepass, der f\u00fcr allgemeine Reisezwecke ausgestellt wird, werden f\u00fcr Reisen der Repr\u00e4sentanten des ausgebenden Staates in dienstlicher Eigenschaft spezielle P\u00e4sse wie der Dienstpass oder der Diplomatenpass ausgestellt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Reisepass"
+    },
+    {
+        "title": "Abbild",
+        "content": "Abbild bezeichnet ein Bild und seine Beziehung zu einem darauf abgebildeten wiedererkennbaren Gegenstand. Ein Abbild kann einen nat\u00fcrlichen Ursprung haben (z. B. Schatten, Spiegelbild) oder k\u00fcnstlich geschaffen sein (z. B. Gem\u00e4lde, symbolisches Zeichen).\nDie Beziehung zwischen Gegenstand und Abbild wird in der Philosophie als Abbildrelation bezeichnet. Dadurch soll das Verh\u00e4ltnis zwischen Sache und Bild beschrieben werden. Unterschiedliche Wissenschaftsdisziplinen befassen sich auf verschiedene Art mit Bildern als Untersuchungsgegenstand, oder benutzen sie als Hilfsmittel:\n\nIn der Mathematik ist eine Abbildung eine eindeutige Zuordnung zwischen zwei Mengen. Die elementweise Abbildung einer Menge auf sich selbst wird identische Abbildung genannt. Falls f\u00fcr jede der beiden Mengen bestimmte zus\u00e4tzliche Relationen vorausgesetzt sind (z. B. wenn sie Gruppen sind), so hei\u00dft eine Abbildung homomorph, wenn sie diese Relationen erh\u00e4lt. Eine homomorphe Abbildung nennt man isomorph, wenn sie eine homomorphe Umkehrabbildung besitzt, mit welcher verkn\u00fcpft sie die identische Abbildung erzeugt.\nDie Messtheorie untersucht homomorphe Abbildungen grundlegend und findet Anwendung z. B. in der Statistik.\nEbenfalls lassen sich Pr\u00e4dikate in der Logik als mathematische Abbildungen auffassen.\nMaterielle Abbilder werden auch in der Bildwissenschaft abgehandelt.Philosophen haben im Rahmen der Erkenntnistheorie immer wieder gefragt, in welchem Verh\u00e4ltnis Urbild und Abbild zueinander stehen und aus unterschiedlichen Perspektiven Abbildtheorien dar\u00fcber entwickelt, inwiefern menschliche Erkenntnis ein Abbild der Wirklichkeit ist. Abbildungen sind daher mit der Konstitution von Subjekten und Objekten verbunden.\nAbbildern k\u00f6nnen religi\u00f6se oder magische Bedeutungen zugewiesen werden. Seit der Antike haben monotheistische Religionen h\u00e4ufig Bilderverbote erlassen, die im Verlaufe der europ\u00e4ischen Geschichte immer wieder zu Auseinandersetzungen f\u00fchrten (siehe Bilderstreit, Bildersturm).\nAls Abbilder gelten Sinneseindr\u00fccke, Wahrnehmungen oder Vorstellungen sowie auf der sprachlichen Ebene Begriffe, Urteile und Schlussfolgerungen bis hin zu Theorien. Im 20. Jahrhundert diskutierten Philosophen erneut dar\u00fcber, inwiefern eine Aussage oder die Beschreibung eines Sachverhalts die Tatsachen in der Welt abbilden k\u00f6nnen. Der bereits in der Antike entstandene Meinungsunterschied zwischen Idealismus und Realismus hat Fortbestand bis in die Gegenwart.\nDie Ideologiekritik befasst sich mit der gesellschaftspolitischen Bedeutung von Abbildern.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Abbild"
+    },
+    {
+        "title": "Postkarte",
+        "content": "Postkarten sind meist rechteckige Karten, in der Regel aus Karton, die als offen lesbare Mitteilungen per Post verschickt werden. Die Postgeb\u00fchren sind teilweise immer noch niedriger als f\u00fcr einen Brief. Nachdem in den USA bereits im Jahr 1861 private Karten gesetzlich zugelassen worden waren, wurden sie postamtlich zum ersten Mal am 1. Oktober 1869 in \u00d6sterreich-Ungarn mit der Bezeichnung \u201eCorrespondenzkarte\u201c eingef\u00fchrt. Zun\u00e4chst konnten Postkarten national und international lediglich auf Basis zweiseitiger Abkommen verschickt werden. Ab 1878 konnten sie in die meisten L\u00e4nder der Erde international verschickt werden. Eine Ansichtskarte ist eine Postkarte mit einem Bilddruck oder Foto auf der R\u00fcckseite. Die Ansichtskarte wird manchmal nicht ganz korrekt als Bildpostkarte bezeichnet, da es zudem eine eigenst\u00e4ndige Form der Postkarten mit diesem Namen gibt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Postkarte"
+    },
+    {
+        "title": "Erholung",
+        "content": "Als Erholung, Regeneration oder Rekreation versteht man die R\u00fcckgewinnung verbrauchter Kr\u00e4fte und Wiederherstellen der Leistungsf\u00e4higkeit.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Erholung"
+    },
+    {
+        "title": "Resort",
+        "content": "Ein Resort ist eine touristische Hotelanlage mit einem \u00fcber den Beherbergungsbetrieb hinausgehenden Angebot. Resorts sind sowohl im Sektor preisbewussten Massentourismus als auch im gehobenen Tourismus zu finden (z. B. in der 5-Sterne-Kategorie, dort dann auch Residence genannt). Neben dem Hotelbetrieb werden in Resorts oft auch Villen unterschiedlicher Standards angeboten.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Resort"
+    },
+    {
+        "title": "Safari",
+        "content": "Als Safari (za\u02c8fa\u02d0ri, von arabisch \u0633\u0641\u0631, DMG safar \u201aReise\u2018) werden Reisen bezeichnet, deren Zweck die Jagd (Jagdsafari) oder \u2013 vor allem in neuerer Zeit \u2013 Beobachtung von Wildtieren (Fotosafari) ist, insbesondere wenn das Ziel der Reise in Afrika liegt. Bei beiden Formen der Safari spielen Afrikas sogenannte \u201eBig Five\u201c \u2013 B\u00fcffel, Elefant, L\u00f6we, Leopard und Nashorn \u2013 eine gro\u00dfe Rolle.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Safari"
+    },
+    {
+        "title": "Panoramabild",
+        "content": "Panoramabilder (\u201ePanorama\u201c, altgriechisch, etwa: \u201eAllschau\u201c. Im Plural: \u201ePanoramen\u201c) zeichnen sich durch die Abdeckung eines gro\u00dfen Betrachtungswinkels aus. Ein Panoramabild, das 360 Grad abdeckt, wird auch als Rundbild bezeichnet. Panoramen werden oft f\u00fcr die Abbildung von Architektur und Landschaften herangezogen. F\u00fcr die Erstellung von Panoramabildern entstanden im Laufe der Zeit verschiedene Verfahren, zum Beispiel Rundgem\u00e4lde, Panoramafotografie und Digitalfotografie mit anschlie\u00dfendem Zusammenf\u00fcgen mehrerer Bilder am Computer (\u201eStitching\u201c) und virtuell erzeugte Bilder.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Panoramabild"
+    },
+    {
+        "title": "Ufer",
+        "content": "Das Ufer ist die an einem Gew\u00e4sser unmittelbar anschlie\u00dfende Landfl\u00e4che. Bei Flie\u00dfgew\u00e4ssern kann man ausgehend von der Flie\u00dfrichtung das rechte und linke Ufer eindeutig festlegen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ufer"
+    },
+    {
+        "title": "Tourismus",
+        "content": "Tourismus (auch Touristik) umfasst die Gesamtheit aller Erscheinungen und Beziehungen, die aus privaten Motiven mit dem Verlassen des \u00fcblichen Lebensmittelpunktes und dem Aufenthalt an einer anderen Destination verbunden sind. Zum Tourismus z\u00e4hlen mehrere Wirtschaftszweige, wie z. B.: Personentransportunternehmen, Reiseb\u00fcros, Hotellerie und Gastgewerbe, Freizeitwirtschaft. Tourismus wird in verschiedene Kategorien untergeordnet, z. B. mit welchem Verkehrsmittel man reist oder um welche Art von Reisen es sich handelt (Safari, Erholungsurlaub etc.). Der Ausdruck Tourismus ist seit den 1980er Jahren gebr\u00e4uchlich, bis dahin wurde der Wirtschaftszweig und dieses Gesellschaftsph\u00e4nomen als Fremdenverkehr bezeichnet. Es wird nicht mehr zwischen Tourismusangeboten f\u00fcr Zugereiste und Menschen aus der n\u00e4heren Umgebung unterschieden, so dass oft der Begriff \u201eTourismus- und Freizeitwirtschaft\u201c benutzt wird.\nAls wirtschaftliche Grundlage des Tourismus gelten im Wesentlichen die Kulturg\u00fcter und die Natur des Reiseortes. Aber selbst die gegenw\u00e4rtige oder ehemalige Staatsform eines Landes k\u00f6nnen f\u00fcr den Tourismus entscheidend sein. So bringt zum Beispiel die Faszination der britischen K\u00f6nigsfamilie jedes Jahr Millionen von Touristen nach Gro\u00dfbritannien und damit der Volkswirtschaft j\u00e4hrlich rund 600 Millionen Euro. In Zentraleuropa ist die Familie Habsburg zu nennen. Nach Einsch\u00e4tzung d\u00fcrfte die Marke Habsburg allein f\u00fcr Wien f\u00fcr Tourismus-Ums\u00e4tze von 60 Mio. Euro im Jahr sorgen.Die Branche z\u00e4hlt weltweit zu den gr\u00f6\u00dften Wirtschaftszweigen. 2004 wurden nach Angaben der Welttourismusorganisation in diesem Bereich Erl\u00f6se von etwa 623 Milliarden US-Dollar erzielt. Mit weltweit rund 100 Millionen Besch\u00e4ftigten gilt der Tourismus als einer der bedeutendsten Arbeitgeber. Grenz\u00fcberschreitende Reisen machen 25 bis 30 Prozent des Welthandels in diesem Dienstleistungs\u00adbereich aus. Auswertungen und Trends zum Thema liefert die Tourismusstatistik. Etwa 8 Prozent der globalen Treibhausgasemissionen entfallen auf den globalen Tourismus.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tourismus"
+    },
+    {
+        "title": "Souvenir",
+        "content": "Ein Souvenir (zu franz\u00f6sisch le souvenir, \u201aErinnerung\u2018, bzw. franz\u00f6sisch se souvenir, \u201asich erinnern\u2018 in der Bedeutung \u201aErinnerungsst\u00fcck\u2018, dann speziell \u201aMitbringsel\u2018) ist ein Gegenstand, der als Erinnerung an ein bestimmtes Ereignis, einen Ort oder eine Person mitgenommen und aufbewahrt wird. Das Wort stammt aus dem Franz\u00f6sischen und bedeutet hier Erinnerung, Andenken. Im Unterschied zu einer Troph\u00e4e werden Souvenirs meist f\u00fcr sich und die Daheimgebliebenen oft im Urlaub k\u00e4uflich erworben.\nHierbei handelt es sich h\u00e4ufig um etwas Landestypisches. Aber auch Tassen (Sammeltasse), T-Shirts, Aschenbecher, Schl\u00fcsselanh\u00e4nger, Schneekugeln, Salz- und Pfefferstreuer, Stockn\u00e4gel, umgepr\u00e4gte M\u00fcnzen oder verfremdete Banknoten und Wappenanh\u00e4nger etc. mit Namensaufdrucken der besuchten Orte oder Abbildungen derselben sind beliebt. In vielen Urlaubsregionen stellt der Verkauf von Souvenirs an Touristen eine feste Einnahmequelle f\u00fcr die Einheimischen dar.\nH\u00e4ufig sind auch Miniaturen bekannter Bauwerke wie des Eiffelturms, des Brandenburger Tors, des K\u00f6lner Doms usw.\nSouvenirs schaden, wenn Touristen kulturelle Kostbarkeiten, seltene Tiere, Pflanzen oder sogar \u201enur\u201c Steine mitnehmen. Einige Staaten sehen drakonische Strafen f\u00fcr die unerlaubte Ausfuhr solcher St\u00fccke vor. In dem Zusammenhang kann verwirren, dass sich echte Kulturg\u00fcter (zum Beispiel antike St\u00fccke) oft kaum von speziell als Souvenirs angefertigten Kopien unterscheiden lassen.\nAuch wird Souvenir manchmal scherzhaft gebraucht, so kann ein Sonnenbrand ein unangenehmes Souvenir aus dem S\u00fcden sein, gar eine Schwangerschaft ein lebenslanges Andenken bedeuten.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Souvenir"
+    },
+    {
+        "title": "Busbahnhof",
+        "content": "Ein Busbahnhof (kurz Busbhf, Busbf oder Bbf), auch Omnibusbahnhof (Obf), Bushof oder Busterminal, ist eine gr\u00f6\u00dfere Haltestellenanlage, die als \u2013 meist zentraler \u2013 Verkn\u00fcpfungspunkt verschiedener Buslinien dient. Hierbei handelt es sich um eine Verkehrsfl\u00e4che mit Stra\u00dfenanschluss, die von Omnibussen befahren wird. Zum Ein- und Aussteigen von Fahrg\u00e4sten werden Bussteige (analog den Bahnsteigen in einem Bahnhof) angelegt, an denen die Busse halten. Zur Vernetzung mit Eisenbahn oder Stadtbahn werden bei Neu- oder Umbauten von Busbahnh\u00f6fen manchmal Kombibahnsteige angelegt.\nIn Deutschland wird oft die Kurzbezeichnung ZOB (Zentraler Omnibus-Bahnhof) verwendet, wobei alternativ auch die Kurzbezeichnungen ZUM f\u00fcr Zentrale Umsteigestelle, ZUP f\u00fcr Zentraler Umsteige-Punkt oder ZOH f\u00fcr Zentrale Omnibus-Haltestelle verwendet werden. Eine veraltete volkst\u00fcmliche Bezeichnung lautet Gummibahnhof.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Busbahnhof"
+    },
+    {
+        "title": "Bahnhof",
+        "content": "Ein Bahnhof (abgek\u00fcrzt Bf oder Bhf, normalerweise ohne Punkt) ist eine Verkehrs- und Betriebsanlage einer Bahn, zum Beispiel einer Eisenbahn.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bahnhof"
+    },
+    {
+        "title": "Unterf\u00fchrung",
+        "content": "Eine Unterf\u00fchrung ist eine Unterquerung anderer Verkehrswege. Eine Unterf\u00fchrung z\u00e4hlt nach DIN 1076 nicht zu den Tunnelbauwerken, wenn diese in offener Bauweise hergestellt wurde und nicht l\u00e4nger als 80 Meter ist.Unterf\u00fchrungen werden h\u00e4ufig dann gebaut, wenn eine h\u00f6hengleiche, mit einer Ampel gesicherte Kreuzung nur schwer realisierbar w\u00e4re oder die topografischen Verh\u00e4ltnisse andere, einfachere L\u00f6sungen nicht zulassen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Unterf%C3%BChrung"
+    },
+    {
+        "title": "Koffer",
+        "content": "Ein Koffer (von Franz\u00f6sisch coffre, zur\u00fcck auf Lateinisch cophinus f\u00fcr \u201eWeidenkorb\u201c, m\u00f6glicherweise durch Vermittlung von Arabisch guffa, \u201eFlechtkorb\u201c) ist ein quaderf\u00f6rmiges robustes, mit einem Deckel versehenes, verschlie\u00dfbares Beh\u00e4ltnis f\u00fcr den manuellen Transport von Gegenst\u00e4nden. Vorg\u00e4nger des Koffers sind Reisetruhen und Reisekisten aus (vulkanisiertem) Holz.\nEin Koffer ist mit einem oder mehreren Griffen zum Tragen oder Ziehen versehen. Manche Modelle k\u00f6nnen auf Rollen gezogen oder geschoben werden. Fast alle Koffer sind mittels eines Schlosses (Zahlenkombination oder Schl\u00fcssel) verschlie\u00dfbar.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Koffer"
+    },
+    {
+        "title": "Sonnenschutzmittel",
+        "content": "Sonnencreme und andere Sonnenschutzmittel werden auf die Haut aufgetragen, um die negativen Wirkungen der Sonnenstrahlung (wie Sonnenbrand mit Hautr\u00f6tung, Blasenbildung, Hautalterung) zu mindern oder zu verhindern. Statistiken zeigen ein steigendes Hautkrebsrisiko vor allem bei Menschen mit \u201ehellem Hauttyp\u201c (Typen I bis IV minimum), die sich h\u00e4ufig ungesch\u00fctzt intensiver Sonneneinstrahlung aussetzen. Besonders kritisch sind Sonnenbr\u00e4nde in der Kindheit. Die UV-Strahlen des Sonnenlichtes gelten als Hauptursache f\u00fcr lichtbedingte Hautsch\u00e4den, weshalb Sonnenschutzmittel sowohl vor UV-B- als auch UV-A-Strahlung sch\u00fctzen.\nVon Fachgesellschaften wird empfohlen, sich in seinem Verhalten an der Intensit\u00e4t der Sonneneinstrahlung und dem individuellen Hauttyp zu orientieren. Als Schutzma\u00dfnahme steht an erster Stelle das Vermeiden \u00fcberm\u00e4\u00dfiger UV-Exposition (durch Sonne und Solarien), gefolgt von \u201etextilem Lichtschutz\u201c (mit Kleidung und Kopfbedeckung). Sonnenschutzpr\u00e4parate werden als erg\u00e4nzende Ma\u00dfnahme empfohlen, diese m\u00fcssen jedoch rechtzeitig und gro\u00dfz\u00fcgig aufgetragen werden. Wasserfeste Produkte verz\u00f6gern das Abwaschen des Sonnenschutzmittels und erhalten so einen zeitlich begrenzten Schutz w\u00e4hrend des Badens, beim Wassersport oder bei starkem Schwitzen. Der Schutz der Augen durch Sonnenbrillen geh\u00f6rt zum Gesamtkonzept des Sonnenschutzes.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Sonnenschutzmittel"
+    },
+    {
+        "title": "Badebekleidung",
+        "content": "Als Badebekleidung wird Kleidung bezeichnet, die zum Schwimmen oder Baden getragen wird. Sie bedeckt in jeweils unterschiedlichem Ausma\u00df den K\u00f6rper. Frauen tragen zum Schwimmen in der Regel einen Badeanzug (schweiz. Badkleid, Badekleid). Ein zweiteiliger Anzug wird als Bikini bezeichnet. M\u00e4nner tragen in der Regel Badehosen oder einteilige Schwimmanz\u00fcge.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Badebekleidung"
+    },
+    {
+        "title": "Taxi",
+        "content": "Ein Taxi ist ein \u00f6ffentliches Verkehrsmittel zur gelegentlichen Personenbef\u00f6rderung (Gelegenheitsverkehr), dessen Fahrer einen Personenbef\u00f6rderungsschein ben\u00f6tigt und gegen Bezahlung nach Taxameter den Fahrgast direkt zum gew\u00fcnschten Ziel bef\u00f6rdert.\nTaxis sind meist Limousinen oder Kombis (Autotaxi). Taxis mit mehr als f\u00fcnf Sitzpl\u00e4tzen werden auch Gro\u00dfraumtaxi (seltener Taxibus) genannt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Taxi"
+    },
+    {
+        "title": "Zelt",
+        "content": "Ein Zelt ist ein leichter, oft tempor\u00e4rer Bau, dessen H\u00fclle aus Membranen (v. a. Textil, Plane, aber auch Leder, Folie etc.) besteht. In der Regel besteht ein Zelt aus dieser \u201eZelthaut\u201c und einer leichten, innenliegenden Tragkonstruktion (Ger\u00fcst). Die Tragkonstruktion besteht \u00fcblicherweise aus einem Skelett an St\u00e4ben aus Holz, Bambus, Kunststoff oder Metall einerseits und Seil-Abspannungen andererseits. Zelte mit textiler Membran sind eine Form textiler Architektur.\nSofern es sich um Zelte als tempor\u00e4re Architektur handelt, besteht ihr Vorteil darin, dass sie leicht zerlegbar, versetzbar und transportabel sind.\nZelte dienen dem vor\u00fcbergehenden Aufenthalt von Personen, dem Lagern von G\u00fctern, als Unterkunft auf Reisen und Expeditionen, als Versammlungsst\u00e4tte oder dem Wohnen von Nomaden. Bei Gro\u00dfveranstaltungen kommen Festzelte als Veranstaltungss\u00e4le zum Einsatz, das Zirkuszelt ist der traditionelle Veranstaltungsort eines Zirkus. Zelte werden von Unternehmen auch bei Messen und Ausstellungen oder bei Sonderverk\u00e4ufen als Verkaufsfl\u00e4che verwendet.\nDar\u00fcber hinaus finden Zeltkonstruktionen in der Zeitgen\u00f6ssischen Architektur vermehrt auch als dauerhafte Konstruktionen Verwendung.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zelt"
+    },
+    {
+        "title": "Fremdenf\u00fchrer",
+        "content": "Fremdenf\u00fchrer (auch G\u00e4stef\u00fchrer, Stadtf\u00fchrer oder Touristenf\u00fchrer beziehungsweise der ebenfalls gebr\u00e4uchliche Anglizismus Guide; in Teilen Deutschlands auch Stadtbilderkl\u00e4rer) sind orts- und sachkundige Personen, die In- und Ausl\u00e4nder empfangen, betreuen und begleiten. Sie vermitteln dabei \u2013  in einheimischer Sprache oder auch in der ben\u00f6tigten Fremdsprache \u2013 fundiertes Wissen \u00fcber Geografie, Geschichte, Kunstgeschichte sowie kulturelle, wirtschaftliche, gesellschaftliche Fakten und Zusammenh\u00e4nge. \nVom Fremdenf\u00fchrer ist der Reiseleiter zu unterscheiden, der mit der Gruppe anreist und sie w\u00e4hrend der gesamten Reise betreut.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fremdenf%C3%BChrer"
+    },
+    {
+        "title": "Zug (Schienenverkehr)",
+        "content": "Ein Zug (auch \u201eeine Zugfahrt\u201c) ist ein Verbund aus Schienenfahrzeugen, der auf die freie Strecke \u00fcbergeht. In der Schweiz werden Zugfahrten auch als signalm\u00e4ssige Fahrten bezeichnet. Sie unterscheiden sich von Rangierfahrten in einem Bahnhof oder von abgestellten Garnituren.\nEin Verbund aus Schienenfahrzeugen \u2013 unabh\u00e4ngig davon, ob er als Zugfahrt oder Rangierbewegung verkehrt oder abgestellt ist \u2013 wird als Zugverband oder Zugeinheit bezeichnet. In der Schweiz, wo die erste Bezeichnung f\u00fcr nacheinander in einer Fahrplantrasse verkehrende Einheiten im Folgezugbetrieb steht, werden dagegen die Begriffe Zugskomposition oder Zugkomposition genutzt. Die gekuppelten Wagen ohne Triebfahrzeug werden in Deutschland und \u00d6sterreich Wagenzug genannt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zug_(Schienenverkehr)"
+    },
+    {
+        "title": "Verkehr",
+        "content": "Verkehr (abgek\u00fcrzt: Verk.) ist die Ortsver\u00e4nderung von Personen und materiellen G\u00fctern sowie von Nachrichten, Informationen, Energie und Wasser. Bestimmte Verkehrsarten legen die Form der Bewegung (Transport), der Objekte (Entit\u00e4ten) und des Verkehrssystems fest, z. B. Stra\u00dfenverkehr, Personenverkehr, G\u00fcterverkehr, Nachrichtenverkehr, Individualverkehr, Verkehrsmittel oder Verkehrsweg.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Verkehr"
+    },
+    {
+        "title": "Koffer",
+        "content": "Ein Koffer (von Franz\u00f6sisch coffre, zur\u00fcck auf Lateinisch cophinus f\u00fcr \u201eWeidenkorb\u201c, m\u00f6glicherweise durch Vermittlung von Arabisch guffa, \u201eFlechtkorb\u201c) ist ein quaderf\u00f6rmiges robustes, mit einem Deckel versehenes, verschlie\u00dfbares Beh\u00e4ltnis f\u00fcr den manuellen Transport von Gegenst\u00e4nden. Vorg\u00e4nger des Koffers sind Reisetruhen und Reisekisten aus (vulkanisiertem) Holz.\nEin Koffer ist mit einem oder mehreren Griffen zum Tragen oder Ziehen versehen. Manche Modelle k\u00f6nnen auf Rollen gezogen oder geschoben werden. Fast alle Koffer sind mittels eines Schlosses (Zahlenkombination oder Schl\u00fcssel) verschlie\u00dfbar.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Koffer"
+    },
+    {
+        "title": "Reise",
+        "content": "Unter einer Reise versteht man im Sinne der Verkehrswirtschaft die Fortbewegung von Personen \u00fcber einen l\u00e4ngeren Zeitraum zu Fu\u00df oder mit Verkehrsmitteln au\u00dferhalb des Wirtschaftsverkehrs, um ein einzelnes Ziel (Reiseziel) zu erreichen oder mehrere Orte kennenzulernen (Rundreise). Im fremdenverkehrswirtschaftlichen Sinne umfasst eine Reise sowohl die Ortsver\u00e4nderung selbst als auch den Aufenthalt am Zielort.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Reise"
+    },
+    {
+        "title": "Regenschirm",
+        "content": "Ein Regenschirm (selten regional frz. Parapluie oder eingedeutscht Parapl\u00fc. \u00c4lter dialektal auch Parasol genannt, was eigentlich \u201eSonnenschirm\u201c hei\u00dft) ist ein Gebrauchsgegenstand, der vor Wettereinfl\u00fcssen sch\u00fctzen soll. Er besteht urspr\u00fcnglich aus einer Plane aus Stoff (heute zumeist aus Nylon oder anderen Polyamiden), welche auf Kiele gespannt ist (ehemals wurden Federkiele als Material verwendet) und traditionell an einem langen und lotrecht aufgesetzten Stiel in die H\u00f6he gehalten wird. Zum Festhalten besitzt der klassische Regenschirm einen Griff, der meist entweder die Form eines gekr\u00fcmmten Spazierstocks oder eines Knaufs hat. Regenschirme sch\u00fctzen vor Niederschl\u00e4gen, bergen aber bei st\u00e4rkerem Wind stets die Gefahr des \u00dcberst\u00fclpens bzw. Umschlagens. Entworfen und angefertigt werden Regenschirme traditionell von Schirmmachern, heute beherrscht jedoch die industrielle Massenproduktion den Markt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Regenschirm"
+    },
+    {
+        "title": "Urlaub",
+        "content": "Urlaub ist die Abwesenheit einer Person von ihrer ausge\u00fcbten T\u00e4tigkeit zum Zwecke der Erholung. Bei einem Arbeitsverh\u00e4ltnis ist der Urlaub als der Zeitraum definiert, in dem arbeitsf\u00e4hige Arbeitnehmer, Beamte oder Soldaten \u2013 meist unter Fortzahlung des Arbeitsentgelts \u2013 von der Arbeitspflicht zur Erbringung von Arbeitsleistungen befreit sind.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Urlaub"
+    },
+    {
+        "title": "Fahrzeug",
+        "content": "Fahrzeug ist ein Oberbegriff f\u00fcr mobile Verkehrsmittel, die dem Transport von Personen (Personenverkehr), G\u00fctern (G\u00fcterverkehr) oder Werkzeugen (Maschinen oder Hilfsmittel) dienen. Synonym wird auch von einem Gef\u00e4hrt (von mittelhochdeutsch gevert(e) \u201eFahrt, Gang, Reise\u201c; Kollektivbildung zu Fahrt) oder \u2013 h\u00e4ufig abwertend \u2013 von einem Vehikel gesprochen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fahrzeug"
+    },
+    {
+        "title": "Visum",
+        "content": "Ein Visum ist eine \u2013 normalerweise in einen Reisepass eingetragene \u2013 Best\u00e4tigung eines fremden Landes, dass Einreise, Durchreise oder Aufenthalt des Passinhabers erlaubt sind.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Visum"
+    },
+    {
+        "title": "Wasserfall",
+        "content": "Ein Wasserfall ist ein Abschnitt eines Flie\u00dfgew\u00e4ssers (Fluss, Bach), an dem die Str\u00f6mung, bedingt durch die Formung des Gesteinsuntergrundes, mindestens teilweise in freien Fall \u00fcbergeht.\nIn der Vielfalt der Formen ist der klassische freie, senkrechte Absturz eher die Ausnahme. Meistens befinden sich gleitende Abschnitte in der Fallstrecke, die oft durch Bildung von Gumpen in stufige Abs\u00e4tze umgeformt werden. Je nach Steilheit der Talstufe k\u00f6nnen daraus treppenartige Kaskaden oder weitst\u00e4ndige Abfolgen mehrerer Wasserf\u00e4lle entstehen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wasserfall"
+    },
+    {
+        "title": "Yacht",
+        "content": "Eine Yacht beziehungsweise Jacht (aus gleichbedeutend niederl\u00e4ndisch jacht, dies verk\u00fcrzt aus mittelniederdeutsch jachtschip \u201eJagdschiff\u201c, \u201eschnelles Schiff\u201c) ist (heute) ein Wasserfahrzeug f\u00fcr Sport- und/oder Freizeitzwecke, das \u2013 von Sonderf\u00e4llen abgesehen \u2013 mit einem Deck und einer Kaj\u00fcte ausgestattet ist. Entsprechend der Antriebsart werden Motoryachten und Segelyachten unterschieden. Wesentlich f\u00fcr eine Segelyacht ist \u2013 in Abgrenzung zur Jolle \u2013 ein fester, in der Regel mit Ballast versehener Kiel.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Yacht"
+    },
+    {
+        "title": "Schiff",
+        "content": "Ein Schiff, in einer kleineren Form auch Boot genannt, ist ein Wasserfahrzeug, das nach dem archimedischen Prinzip schwimmt.\nDer Schiffbau findet auf Werften statt. Nach Fertigstellung des Rumpfes wird das Schiff mit dem Stapellauf zu Wasser gelassen, erst dann wird es endg\u00fcltig ausger\u00fcstet. Die erste Fahrt eines Schiffes wird als Jungfernfahrt bezeichnet. Schiffe werden in der Regel in sogenannten Docks repariert.\nSchiffe sind das wichtigste Transportmittel f\u00fcr Massengut. Die Bedeutung der Passagierschifffahrt hat sich wegen des zunehmenden Luftverkehrs auf Langstrecken insbesondere in den Bereichen der Erlebnisreisen und Kreuzfahrten entwickelt.\nSchiffe zur Seeschifffahrt werden auch als Seeschiffe bezeichnet; Schiffe zur Binnenschifffahrt werden \u201eBinnenschiffe\u201c genannt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schiff"
+    },
+    {
+        "title": "Zoo",
+        "content": "Ein Zoologischer Garten (altgriechisch \u03b6\u1ff7\u03bf\u03bd z\u014don [dz\u0254\u0302\u02d0on], deutsch \u201aLebewesen, Tier\u2018), kurz Zoo, auch Tiergarten oder Tierpark, ist eine gro\u00dfe, meist parkartige Anlage zur Haltung und \u00f6ffentlichen Zurschaustellung verschiedener Tierarten. Auf Grundlage der geschichtlichen Entwicklung gelten vor allem wissenschaftlich geleitete Parks als Zoo. In der breiten \u00d6ffentlichkeit werden aber auch andere Tierhaltungen wie gr\u00f6\u00dfere Wildgehege und Volierensammlungen als Zoo verstanden. Zoos dienen der Bildung, Forschung, Erholung und dem Naturschutz, zum Beispiel durch Nachzucht seltener Tiere und deren Auswilderung, sind aber von einer Tierschutz- oder Tierrechtsposition aus umstritten.\nIm deutschen Recht ist der Begriff Zoo legaldefiniert in \u00a7 42 Bundesnaturschutzgesetz als \u201edauerhafte Einrichtung, in der lebende Tiere wild lebender Arten zwecks Zurschaustellung w\u00e4hrend eines Zeitraumes von mindestens sieben Tagen im Jahr gehalten werden\u201c, ausgenommen sind unter anderem Zirkusse und Tierhandlungen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zoo"
+    },
+    {
+        "title": "Bullet Train",
+        "content": "Bullet Train steht f\u00fcr:\n\nBullet Train, umgangssprachliche Bezeichnung f\u00fcr Shinkansen, japanischer Hochgeschwindigkeitszug\nBullet Train, Song auf dem Album Jugulator von Judas Priest (1997)\nThe Bullet Train, englischsprachiger Titel von Panik im Tokio-Express, japanischer Film von Jun\u2019ya Sat\u014d (1975)",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bullet_Train"
+    },
+    {
+        "title": "Luftschiff",
+        "content": "Ein Luftschiff ist ein lenkbares Luftfahrzeug, dessen Auftrieb auf aerostatischen Kr\u00e4ften beruht und das \u00fcber eine eigene Antriebseinheit verf\u00fcgt. Die Haupteinsatzgebiete heutiger Luftschiffe sind touristische Rundfahrten, Luftwerbung, \u00dcberwachungs- und vereinzelt auch Forschungsaufgaben.\nDie \u00c4ra der Luftschifffahrt begann im 19. Jahrhundert und erreichte ihren H\u00f6hepunkt in der ersten H\u00e4lfte des 20. Jahrhunderts. Luftschiffe sind die Pioniere der zivilen Luftfahrt. Sie waren die Verkehrsmittel der ersten Luftfahrtgesellschaft und auch die ersten Luftfahrzeuge, die Passagiere im Liniendienst ohne Zwischenstopp \u00fcber den Atlantik bef\u00f6rderten. Die \u00c4ra der Gro\u00dfluftschifffahrt begann im Ersten Weltkrieg, um milit\u00e4rischen Leistungsanforderungen nachzukommen. W\u00e4hrend des Krieges wurden Luftschiffe mit dem Zweck des Personen- und G\u00fctertransports eingesetzt. Zudem waren sie Langstreckenaufkl\u00e4rer und die einzigen Luftfahrzeuge ihrer Zeit, die eine gr\u00f6\u00dfere Bombenlast tragen konnten. Sp\u00e4ter sch\u00fctzten sie Konvois vor feindlichen U-Booten und \u00fcberwachten den Luftraum.\nDie gro\u00dfen Luftschifftypen dieser Zeit waren jedoch lange nur in einem prototypischen, unsicheren Zustand, sodass es immer wieder zu Ungl\u00fccken kam. Die Luftschifftechnologie kam erst wirklich zur Reife, als Luftschiffe mit Beginn des Zweiten Weltkriegs im milit\u00e4rischen Bereich sowie im Personen- und G\u00fcterverkehr weitgehend durch die sich rasant entwickelnde Flugzeugtechnik verdr\u00e4ngt wurden.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Luftschiff"
+    },
+    {
+        "title": "Schnellzug",
+        "content": "Ein Schnellzug (in Deutschland fr\u00fcher und in \u00d6sterreich auch heute noch D-Zug als Abk\u00fcrzung f\u00fcr Durchgangszug) ist eine Zuggattung der Eisenbahn und bezeichnet Z\u00fcge, die nur an wichtigen Unterwegsbahnh\u00f6fen halten. Auch bahnamtlich werden Schnellz\u00fcge mit einem D vor der Zugnummer dargestellt.\nSchnellz\u00fcge sind heute im Netz der Deutschen Bahn (DB) und der Schweizerischen Bundesbahnen (SBB) durch Zugkategorien wie Eurocity, Intercity, InterRegio etc. ersetzt worden. Der Nachtreiseverkehr war fr\u00fcher als Schnellzug ausgewiesen, ist aber in den Zuggattungen EuroNight sowie \u00d6BB Nightjet (seit Dezember 2016) beziehungsweise City Night Line (bis Dezember 2016) aufgegangen. Heute werden noch die Z\u00fcge des Sylt Shuttle plus zwischen Bredstedt und Westerland als Schnellzug tarifiert. Vereinzelt gibt es bei der DB noch Schnellz\u00fcge als Entlastungsz\u00fcge. Der Museumszugverkehr auf Strecken der DB wird auch mit Schnellzugnummern abgewickelt. In \u00d6sterreich werden durch die \u00d6sterreichischen Bundesbahnen (\u00d6BB) weiterhin Schnellz\u00fcge im Planverkehr eingesetzt. Diese dienen haupts\u00e4chlich als Verst\u00e4rker zu regelm\u00e4\u00dfig verkehrenden Railjet- oder Intercity-Verbindungen, weil diese am Morgen und Abend durch den Berufsverkehr h\u00e4ufig \u00fcberlastet werden, sind aber teilweise auch eigenst\u00e4ndige Verbindungen. Daher verkehren D-Z\u00fcge in \u00d6sterreich meist nur an Werktagen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schnellzug"
+    },
+    {
+        "title": "Gondel (Bootstyp)",
+        "content": "Eine Gondel (ital. Gondola) ist ein venezianischer Bootstyp, der wahrscheinlich erstmals im 11. Jahrhundert aufkam. Es handelt sich um ein schmales Boot von bis zu 11 m L\u00e4nge und 1,5 m Breite mit weit aufgebogenen Enden. Unter der traditionellen, heute aber aus der Mode geratenen, mittschiffs angeordneten \u00dcberdachung (felze) befinden sich Sitzpl\u00e4tze f\u00fcr zwei bis sechs Personen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gondel_(Bootstyp)"
+    },
+    {
+        "title": "Lokomotive",
+        "content": "Als eine Lokomotive (von neulat. loco motivus, sich von der Stelle bewegend), auch Zugmaschine oder kurz Lok genannt, bezeichnete man seit ihrer Erfindung sowohl eine spur- bzw. schienengebundene als auch eine frei bewegliche Arbeitsmaschine, welche nach der Zeit der ausschlie\u00dflichen Nutzung als vielseitige Dampflokomotive zum \u00fcberwiegend spurgebundenen Triebfahrzeug mit unterschiedlichen Antriebstechnologien weiterentwickelt wurde.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Lokomotive"
+    },
+    {
+        "title": "Segway Personal Transporter",
+        "content": "Der Segway Personal Transporter (Segway PT, fr\u00fcher HT f\u00fcr Human Transporter, meist kurz Segway) ist ein elektrisch angetriebenes Einpersonen-Fahrzeug mit nur zwei auf derselben (geometrischen) Achse liegenden R\u00e4dern, zwischen denen die bef\u00f6rderte Person steht und das sich durch eine elektronische Antriebsregelung selbst in Balance h\u00e4lt. Er wurde von Dezember 2001 bis Juli 2020 von Segway Inc. aus Bedford im US-Bundesstaat New Hampshire hergestellt. Ein Nachfolgemodell ist nicht geplant.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Segway_Personal_Transporter"
+    },
+    {
+        "title": "Schneemobil",
+        "content": "Als Schneemobil, Motorschlitten oder Schneemotorrad wird ein Kraftfahrzeug bezeichnet, das auf nicht pr\u00e4parierten Schneepisten ein bis zwei Personen transportieren kann.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schneemobil"
+    },
+    {
+        "title": "Dreirad",
+        "content": "Ein Dreirad ist ein Fahrzeug mit drei R\u00e4dern. Zulassungsrechtlich werden in Deutschland jedoch auch vierr\u00e4drige Fahrzeuge als Dreir\u00e4der bezeichnet, wenn ein R\u00e4derpaar als Zwillingsrad ausgef\u00fchrt oder der Abstand zwischen der Mitte der beiden Reifenaufstandsfl\u00e4chen nicht gr\u00f6\u00dfer als 465 Millimeter ist.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Dreirad"
+    },
+    {
+        "title": "Tandem (Fahrrad)",
+        "content": "Als Tandem bezeichnet man ein Fahrrad, das Platz f\u00fcr zwei oder mehr Personen bietet. Der Lenkende wird als Pilot oder Kapit\u00e4n, Nichtlenkende als Stoker oder Heizer bezeichnet. Die meisten Tandems sind f\u00fcr zwei hintereinander sitzende Personen ausgelegt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tandem_(Fahrrad)"
+    },
+    {
+        "title": "Fremdenzimmer",
+        "content": "Als Fremdenzimmer werden in Deutschland, \u00d6sterreich und S\u00fcdtirol die gegen Entgelt oder gewerblich vermieteten G\u00e4stezimmer bezeichnet. In der Schweiz ist das Wort hingegen kaum gebr\u00e4uchlich.\nDie Zimmer zur Beherbergung von G\u00e4sten reichen von kleinen Einzelzimmern in Privath\u00e4usern \u00fcber Doppelzimmer (beides heute meist mit Bad/WC) bis zu gr\u00f6\u00dferen R\u00e4umen mit K\u00fcche und begehbarem Schrank. Ab zwei Wohn-/Schlafr\u00e4umen spricht man jedoch meist von einer Ferienwohnung oder einem Appartement. In europ\u00e4ischen Hotels sind nun Wohnfl\u00e4chen von 30 bis 50 m\u00b2 f\u00fcr zwei Personen weitgehend zum Standard geworden.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fremdenzimmer"
+    },
+    {
+        "title": "Wanderlust",
+        "content": "Wanderlust beschreibt die Lust am Wandern, den steten inneren Antrieb, sich zu Fu\u00df die Natur und die Welt abseits oder auch nahe der Heimat zu erschlie\u00dfen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wanderlust"
+    },
+    {
+        "title": "Taj Mahal",
+        "content": "Der Taj Mahal, deutsch transkribiert Tadsch Mahal (persoarabisch: \u062a\u0627\u062c \u0645\u062d\u0644, DMG t\u0101\u01e7 ma\u1e25all / Devanagari: \u0924\u093e\u091c\u092e\u0939\u0932 t\u0101j mahal, \u201eKrone des Palastes\u201c), ist ein ca. 68 Meter hohes, 57 Meter langes und 57 Meter breites Mausoleum (Grabgeb\u00e4ude), das sich auf einer 96 Meter \u00d7 96 Meter gro\u00dfen Plattform (jagati) am S\u00fcdufer des Flusses Yamuna am Stadtrand von Agra im indischen Bundesstaat Uttar Pradesh erhebt. Der Geb\u00e4udekern besteht ebenso wie die Kuppel und die Minarette aus vor Ort gebrannten Ziegelsteinen, die au\u00dfen wie innen mit wei\u00dfen Marmorplatten verkleidet sind. Der muslimische Gro\u00dfmogul Shah Jahan lie\u00df den Bau zum Gedenken an seine im Jahre 1631 verstorbene gro\u00dfe Liebe Mumtaz Mahal (Arjumand Bano Begum, sp\u00e4ter auch Mumtaz-uz-Zamani) erbauen. Da das Fremdwort hier f\u00fcr ein Geb\u00e4ude, ein Grabmal, also etwas S\u00e4chliches steht, wird im Deutschen oft auch \u201edas Taj Mahal\u201c gesagt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+        "title": "Eiffelturm",
+        "content": "Der Eiffelturm (franz\u00f6sisch Tour Eiffel,  [tu\u0281\u203f\u025b\u02c8f\u025bl]) ist ein 324 Meter hoher Eisenfachwerkturm in Paris. Er steht im 7. Arrondissement am nordwestlichen Ende des Champ de Mars (Marsfeld), nahe dem Ufer der Seine. Das von 1887 bis 1889 errichtete Bauwerk wurde als monumentales Eingangsportal und Aussichtsturm f\u00fcr die Weltausstellung zur Erinnerung an den 100. Jahrestag der Franz\u00f6sischen Revolution errichtet. Der nach dem Erbauer Gustave Eiffel benannte und zum Errichtungszeitpunkt noch 312 Meter hohe Turm war von seiner Erbauung bis zur Fertigstellung des Chrysler Building 1930 in New York das h\u00f6chste Bauwerk der Welt. Mit der Ausstrahlung des ersten \u00f6ffentlichen Radioprogramms in Europa 1921 und des ersten franz\u00f6sischen Fernsehprogramms 1935 trug das Bauwerk als Sendeturm zur Geschichte des H\u00f6rfunks und des Fernsehens bei. Der Fernsehturm ist die wichtigste Sendeanlage des Gro\u00dfraums Paris und beherbergt als Turmrestaurant das mit einem Michelin-Stern ausgezeichnete Restaurant Le Jules Verne.Als h\u00f6chstes Bauwerk von Paris pr\u00e4gt er das Stadtbild bis heute und z\u00e4hlt mit rund sieben Millionen zahlenden Besuchern pro Jahr zu den meistbesuchten Wahrzeichen der Welt. Der Turm ist eine der bekanntesten Ikonen der Architektur und der Ingenieurskunst. Der Eiffelturm ist das Vorbild vieler Nachahmerbauten und wird in Kunst und Kultur im Zusammenhang mit Paris und Frankreich vielfach aufgegriffen. Er gilt als nationales Symbol der Franzosen und avancierte zu einer weltweiten Ikone der Moderne. Seit 1964 ist der Eiffelturm als monument historique denkmalgesch\u00fctzt, und 1986 nahm die American Society of Civil Engineers das Bauwerk in die Liste der historischen Meilensteine der Ingenieurbaukunst auf.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Eiffelturm"
+    },
+    {
+        "title": "Schiefer Turm von Pisa",
+        "content": "Der Schiefe Turm von Pisa (italienisch Torre pendente di Pisa) ist das wohl bekannteste geneigte Geb\u00e4ude der Welt und Wahrzeichen der Stadt Pisa in Italien.\nDer Turm war als freistehender Glockenturm (Campanile) f\u00fcr den Dom in Pisa geplant. 12 Jahre nach der Grundsteinlegung am 9. August 1173, im Jahr 1185, als der Bau bei der dritten Etage angelangt war, begann sich der Turmstumpf in Richtung S\u00fcdosten zu neigen. Daraufhin ruhte der Bau rund 100 Jahre. Die n\u00e4chsten vier Stockwerke wurden dann mit einem geringeren Neigungswinkel als dem bereits bestehenden gebaut, um die Schieflage auszugleichen. Danach musste der Bau nochmals unterbrochen werden, bis 1372 auch die Glockenstube vollendet war.\nDer Grund f\u00fcr seine Schieflage liegt in dem Untergrund aus lehmigem Morast und Sand, der sich unter dem Gewicht verformt. Neuesten Ausgrabungen zufolge steht der Turm am Rande einer ehemaligen Insel direkt neben einem antiken, zur Bauzeit bereits versandeten Hafenbecken. Die Schieflage des Turms betr\u00e4gt nach dem Ende der Sanierungsarbeiten rund vier Grad, entsprechend einer Auslenkung an der Spitze von 3,9 m (bei rund 55,8 m H\u00f6he). Im Inneren des Turmes h\u00e4ngt ein Pendel, das oben in der Mitte befestigt ist und durch die Schieflage unten beinahe die Seitenwand ber\u00fchrt.\nDer Legende nach hat der aus Pisa stammende Galileo Galilei bei Fallversuchen vom Turm die Fallgesetze entdeckt.\nIm Jahre 1987 wurde das Ensemble aus dem Turm, dem Dom, dem Baptisterium und dem Friedhof von der UNESCO zum Weltkulturerbe erkl\u00e4rt.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schiefer_Turm_von_Pisa"
+    },
+    {
+        "title": "Niagaraf\u00e4lle",
+        "content": "Die Niagaraf\u00e4lle (englisch Niagara Falls [na\u026a\u02cc\u00e6\u0261(\u0259)\u0279\u0259\u02c8f\u0254\u02d0lz]) sind Wasserf\u00e4lle des Niagara-Flusses an der Grenze zwischen dem US-amerikanischen Bundesstaat New York und der kanadischen Provinz Ontario.\nNiagara Falls ist zudem der Name der beiden Schwesterst\u00e4dte Niagara Falls im US-Bundesstaat New York und Niagara Falls in der kanadischen Provinz Ontario, in deren Zentrum sich die F\u00e4lle befinden.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Niagaraf%C3%A4lle"
+    },
+    {
+        "title": "Chinesische Mauer",
+        "content": "Die Chinesische Mauer (chinesisch \u4e2d\u570b\u9577\u57ce / \u4e2d\u56fd\u957f\u57ce, Pinyin Zh\u014dnggu\u00f3 Ch\u00e1ngch\u00e9ng \u2013 \u201ew\u00f6rtl.: Lange Chinesische Mauer\u201c), umgangssprachlich im Chinesischen meist einfach Gro\u00dfe Mauer (\u842c\u91cc\u9577\u57ce / \u4e07\u91cc\u957f\u57ce,  W\u00e0nl\u01d0 Ch\u00e1ngch\u00e9ng \u2013 \u201ew\u00f6rtl.: 10.000-Li-Mauer, besser: zehntausende Li lange (Schutz-)Mauer\u201c, kurz: \u9577\u57ce / \u957f\u57ce,  Ch\u00e1ngch\u00e9ng \u2013 \u201ew\u00f6rtl.: Lange Mauer\u201c) genannt, ist ein System historischer Grenzbefestigungen, bestehend aus zeitlich und geografisch verschiedenen Schutzmauern, welche die nomadischen Reiterv\u00f6lker aus dem Norden des chinesischen Kaiserreichs fernhalten und die Bev\u00f6lkerung vor Raub\u00fcberf\u00e4llen und Angriffen sch\u00fctzen sollte. Mit ihrem Bau wurde im 7. Jahrhundert v. Chr. begonnen. Sie erstreckt sich nach neuesten Erhebungen \u00fcber 21.196 Kilometer und umfasst 43.721 Einzelobjekte und Standorte.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Chinesische_Mauer"
+    },
+    {
+        "title": "Machu Picchu",
+        "content": "Machu Picchu [\u02ccm\u0251t\u0283u \u02c8pikt\u0283u] (Quechua Machu Pikchu, deutsch alter Gipfel) ist eine gut erhaltene Ruinenstadt in Peru. Die Inka erbauten die Stadt im 15. Jahrhundert in 2430 Metern H\u00f6he auf einem Bergr\u00fccken zwischen den Gipfeln des Huayna Picchu und des Berges gleichen Namens (Machu Picchu) in den Anden \u00fcber dem Urubambatal der Region Cusco, 75 Kilometer nordwestlich der Stadt Cusco. Die terrassenf\u00f6rmige Stadt war und ist sowohl \u00fcber einen schmalen Bergpfad mit einer kleinen Anlage im Gipfelbereich des Huayna Picchu als auch \u00fcber vergleichsweise gr\u00f6\u00dfere Inka-Pfade mit der einstigen Hauptstadt des Inkareiches Cusco und den Ruinen von Llactapata verbunden.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Machu_Picchu"
+    },
+    {
+        "title": "Kilimandscharo",
+        "content": "Der Kilimandscharo (auch Kilimandscharo-Massiv, von 1902 bis 1964 Kaiser-Wilhelm-Spitze oder auch Wilhelmskuppe, englisch Kilimanjaro oder Mount Kilimanjaro) ist mit 5895 m H\u00f6he \u00fcber dem Meeresspiegel das h\u00f6chste Bergmassiv Afrikas. Das Massiv im Nordosten von Tansania hat mit dem Kibo den h\u00f6chsten Berg des afrikanischen Kontinents.\n1987 wurde die Landschaft von der UNESCO zum Weltnaturerbe erkl\u00e4rt. Bereits seit 1973 gibt es den Kilimandscharo-Nationalpark.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kilimandscharo"
+    },
+    {
+        "title": "Mount Everest",
+        "content": "Der Mount Everest ist ein Berg im Himalaya und mit einer H\u00f6he von 8848 m der h\u00f6chste Berg der Erde. Er geh\u00f6rt zu den 14 Achttausendern und zu den Seven Summits. Der Mount Everest ist seit 1856 nach dem britischen Landvermesser George Everest benannt. Auf Nepali hei\u00dft der Berg Sagarmatha, auf Tibetisch Qomolangma (deutsche Aussprache \u201eTschomolangma\u201c), Chinesisch/Mandarin \u73e0\u7a46\u6717\u746a\u5cf0,  Zh\u016bm\u00f9l\u01cengm\u01ce F\u0113ng.\nDer Mount Everest befindet sich im Mahalangur Himal in der Region Khumbu in Nepal an der Grenze zu China (Autonomes Gebiet Tibet); der westliche und s\u00fcd\u00f6stliche seiner drei Gipfelgrate bilden die Grenze. Auf nepalesischer Seite ist er Teil des Sagarmatha-Nationalparks, der zum UNESCO-Welterbe geh\u00f6rt. Auf der Nordseite geh\u00f6rt er zum Qomolangma National Nature Reserve, das mit dem von der UNESCO ausgewiesenen Qomolangma-Biosph\u00e4renreservat korrespondiert.Edmund Hillary und Tenzing Norgay gelang am 29. Mai 1953 die Erstbesteigung des \u201edritten Pols\u201c. Am 8. Mai 1978 bestiegen Reinhold Messner und Peter Habeler den Gipfel erstmals ohne zus\u00e4tzlichen Sauerstoff. Bis heute (Stand Ende 2018) wurde der Gipfel rund 8400 Mal von Bergsteigern erreicht. \u00dcber 300 Bergsteiger kamen auf dem Hin- oder R\u00fcckweg ums Leben.W\u00e4hrend der Mount Everest die h\u00f6chste Erhebung \u00fcber dem Meeresspiegel ist, existieren noch zwei weitere Berge, die den Titel \u201eh\u00f6chster Berg der Erde\u201c verdienen. Vom Fu\u00df des Berges aus gemessen ist dies der Vulkan Mauna Kea auf Hawaii, vom Erdmittelpunkt aus gerechnet der Chimborazo in Ecuador.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Mount_Everest"
+    },
+    {
+        "title": "London Eye",
+        "content": "Das London Eye (engl. \u201eAuge von London\u201c), auch bekannt unter der Bezeichnung Millennium Wheel, ist mit einer H\u00f6he von 135 Metern das h\u00f6chste Riesenrad Europas. Es steht im Zentrum von London am S\u00fcdufer der Themse nahe der Westminster Bridge und gilt als eines der Wahrzeichen der britischen Hauptstadt.\nBaubeginn des Riesenrades war 1998. Am 10. Oktober 1999 wurde die Konstruktion aufgerichtet. Die Er\u00f6ffnung f\u00fcr Besucher verz\u00f6gerte sich wegen technischer Probleme bis zum 9. M\u00e4rz 2000.\nDas London Eye sollte urspr\u00fcnglich nur eine begrenzte Zeit von etwa f\u00fcnf Jahren betrieben werden, doch angesichts des gro\u00dfen Erfolges wurde dies verworfen.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/London_Eye"
+    },
+    {
+        "title": "Pyramiden von Gizeh",
+        "content": "Die Pyramiden von Gizeh in \u00c4gypten geh\u00f6ren zu den bekanntesten und \u00e4ltesten erhaltenen Bauwerken der Menschheit. Sie stehen am westlichen Rand des Niltals, etwa acht Kilometer s\u00fcdwestlich der Stadt Gizeh (G\u00eeza). Sie sind rund 15 km vom Kairoer Stadtzentrum entfernt und sind das einzige erhaltene der sieben Weltwunder der Antike. Sie z\u00e4hlen seit 1979 zum Weltkulturerbe.",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pyramiden_von_Gizeh"
+    }
+]

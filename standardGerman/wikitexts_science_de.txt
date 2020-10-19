@@ -1,0 +1,912 @@
+[
+    {
+        "title": "Wissenschaft",
+        "content": "Das Wort Wissenschaft (mittelhochdeutsch wizzen[t]schaft = Wissen, Vorwissen, Genehmigung; lateinisch scientia) bezeichnet die Gesamtheit des menschlichen Wissens, der Erkenntnisse und der Erfahrungen einer Zeitepoche, welches systematisch erweitert, gesammelt, aufbewahrt, gelehrt und tradiert wird.Die Wissenschaft ist ein System der Erkenntnisse \u00fcber die wesentlichen Eigenschaften, kausalen Zusammenh\u00e4nge und Gesetzm\u00e4\u00dfigkeiten der Natur, Technik, Gesellschaft und des Denkens, das in Form von Begriffen, Kategorien, Ma\u00dfbestimmungen, Gesetzen, Theorien und Hypothesen fixiert wird.Die Wissenschaft ist auch die Gesamtheit von Erkenntnissen und Erfahrungen, die sich auf einen Gegenstandsbereich beziehen und in einem Begr\u00fcndungszusammenhang stehen. Das Wissen eines begrenzten Gegenstandsbereichs kennzeichnet die Einzelwissenschaft, die sich in einen theoretischen und einen angewandten Bereich gliedert und mit fortschreitender Differenzierung eine Reihe von Teildisziplinen hervorbringen kann.\nWissenschaft bezeichnet auch den methodischen Prozess intersubjektiv nachvollziehbaren Forschens und Erkennens in einem bestimmten Bereich, der nach herk\u00f6mmlichem Verst\u00e4ndnis ein begr\u00fcndetes, geordnetes und gesichertes Wissen hervorbringt. Methodisch kennzeichnet die Wissenschaft entsprechend das gesicherte und in einen rationalen  Begr\u00fcndungszusammenhang gestellte Wissen, welches kommunizierbar und \u00fcberpr\u00fcfbar ist sowie bestimmten wissenschaftlichen Kriterien folgt. Wissenschaft bezeichnet somit ein zusammenh\u00e4ngendes System von Aussagen, Theorien und Verfahrensweisen, das strengen Pr\u00fcfungen der Geltung unterzogen wurde und mit dem Anspruch objektiver, \u00fcberpers\u00f6nlicher G\u00fcltigkeit verbunden ist.Zudem bezeichnet Wissenschaft auch die Gesamtheit der wissenschaftlichen Institutionen und der dort t\u00e4tigen Wissenschaftler. Diese sind in ihrer T\u00e4tigkeit spezifischen Werten und Gepflogenheiten verpflichtet und sollen wissenschaftsethischen Prinzipien gen\u00fcgen. Zu Politik und Gesellschaft stehen sie in einem Verh\u00e4ltnis wechselseitiger Beeinflussung.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wissenschaft"
+    },
+    {
+        "title": "Mathematik",
+        "content": "Die Mathematik (bundesdeutsches Hochdeutsch : [matema\u02c8ti\u02d0k], [matema\u02c8tik]; \u00f6sterreichisches Hochdeutsch: [mate\u02c8ma\u02d0tik]; altgriechisch \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03c4\u03ad\u03c7\u03bd\u03b7 math\u0113matik\u0113 t\u00e9chn\u0113 \u201adie Kunst des Lernens\u2018) ist eine Wissenschaft, welche aus der Untersuchung von geometrischen Figuren und dem Rechnen mit Zahlen entstand. F\u00fcr Mathematik gibt es keine allgemein anerkannte Definition; heute wird sie \u00fcblicherweise als eine Wissenschaft beschrieben, die durch logische Definitionen selbstgeschaffene abstrakte Strukturen mittels der Logik auf ihre Eigenschaften und Muster untersucht.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Mathematik"
+    },
+    {
+        "title": "Biologie",
+        "content": "Biologie oder historisch auch Lebenskunde (von altgriechisch \u03b2\u03af\u03bf\u03c2 b\u00edos \u201eLeben\u201c und \u03bb\u03cc\u03b3\u03bf\u03c2 l\u00f3gos hier: \u201eLehre\u201c, siehe auch -logie) ist die Wissenschaft der Lebewesen. Sie ist ein Teilgebiet der Naturwissenschaften und befasst sich sowohl mit den allgemeinen Gesetzm\u00e4\u00dfigkeiten des Lebendigen als auch mit den Besonderheiten der einzelnen Lebewesen: zum Beispiel mit ihrer Entwicklung, ihrem Bauplan und den physikalischen und biochemischen Vorg\u00e4ngen in ihrem Inneren. Im Fach Biologie wird in zahlreichen Teilgebieten geforscht. Zu den ganz allgemein auf das Verst\u00e4ndnis des Lebendigen ausgerichteten Teilgebieten geh\u00f6ren insbesondere Biophysik, Genetik, Molekularbiologie, \u00d6kologie, Physiologie, Theoretische Biologie und Zellbiologie. Mit gro\u00dfen Gruppen der Lebewesen befassen sich die Botanik (Pflanzen), die Zoologie (Tiere) und die Mikrobiologie (Kleinstlebewesen und Viren).\nDie Betrachtungsobjekte der Biologie umfassen u. a. Molek\u00fcle, Organellen, Zellen und Zellverb\u00e4nde, Gewebe und Organe, aber auch das Verhalten einzelner Organismen sowie deren Zusammenspiel mit anderen Organismen in ihrer Umwelt. Diese Vielfalt an Betrachtungsobjekten hat zur Folge, dass im Fach Biologie eine Vielfalt an Methoden, Theorien und Modellen angewandt und gelehrt wird.\nDie Ausbildung von Biologen erfolgt an Universit\u00e4ten im Rahmen eines Biologiestudiums, von Biologie-Lehramtsstudierenden zumindest zeitweise auch im Rahmen der Biologiedidaktik.\nIn neuerer Zeit haben sich infolge der flie\u00dfenden \u00dcberg\u00e4nge in andere Wissenschaftsbereiche (z. B. Medizin, Psychologie und Ern\u00e4hrungswissenschaften) sowie wegen des interdisziplin\u00e4ren Charakters der Forschung neben der Bezeichnung Biologie weitere Bezeichnungen f\u00fcr die biologischen Forschungsrichtungen und Ausbildungsg\u00e4nge etabliert wie zum Beispiel Biowissenschaften, Life Sciences und Lebenswissenschaften.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Biologie"
+    },
+    {
+        "title": "Zelle (Biologie)",
+        "content": "Eine Zelle (lateinisch cellula  \u201akleine Kammer, Zelle\u2018) ist die kleinste lebende Einheit aller Organismen. Man unterscheidet Einzeller, also Lebewesen, die nur aus einer Zelle bestehen, und Mehrzeller, also Lebewesen, die aus mehr als nur einer Zelle bestehen. Besteht das Lebewesen aus vielen Zellen (Vielzeller), k\u00f6nnen Zellen zu funktionellen Einheiten verbunden sein und dadurch Gewebe bilden. Der menschliche K\u00f6rper besteht aus mehreren hundert verschiedenen Zell- und Gewebetypen. Evolutionsbiologisch betrachtet und im Vergleich zu Einzellern haben die Zellen von Vielzellern gr\u00f6\u00dftenteils ihre F\u00e4higkeit, f\u00fcr sich allein leben zu k\u00f6nnen, verloren und haben sich auf eine Arbeitsteilung in Geweben spezialisiert.\nDie Wissenschaft und Lehre von den Zellen der Lebewesen ist die Zytologie (altgriechisch \u03ba\u03cd\u03c4\u03bf\u03c2 kytos, deutsch \u201aZelle\u2018).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zelle_(Biologie)"
+    },
+    {
+        "title": "Tier",
+        "content": "Tiere sind Lebewesen mit Zellkern (Eukaryoten), die ihre Stoffwechselenergie nicht wie Pflanzen aus Sonnenlicht beziehen, Sauerstoff zur Atmung ben\u00f6tigen, aber keine Pilze sind. Zur Energie- und Stoffgewinnung ern\u00e4hren sich Tiere von anderen Lebewesen (Heterotrophie). Die meisten Tiere k\u00f6nnen sich aktiv bewegen und besitzen Sinnesorgane. Die Wissenschaft von den Tieren ist die Zoologie, die Tierwelt wird mit Fauna umschrieben, die Pflanzenwelt mit Flora.\nTaxonomisch bilden die Tiere das Reich der Animalia (hergeleitet von lateinisch animus die Seele im Sinne von beseelte Wesen, biologisch heterotrophe Lebewesen mit Nerven-Sinnes-Funktionen).\n\u201eTiere\u201c sind in der biologischen Systematik keine phylogenetische Einheit. Meistens wird in der Taxonomie mit dem \u201eReich der Tiere\u201c die Gruppe der vielzelligen Tiere (Metazoa) bezeichnet. Trotz der gro\u00dfen \u00e4u\u00dferen Unterschiede zwischen Wirbeltieren, Insekten, Seesternen, Quallen und all den anderen vielzelligen Tieren bilden diese nach heutigem Kenntnisstand tats\u00e4chlich eine einheitliche systematische Gruppe mit einem gemeinsamen Vorfahren. Der Begriff Metazoa wurde urspr\u00fcnglich als Gegensatz zu den Protozoa, den einzelligen Tieren, gepr\u00e4gt. Letztere sind aber, wie heute bekannt ist, keine stammesgeschichtlich einheitliche Gruppe. Beispielsweise sind die Wimpertierchen nach heutigem Kenntnisstand n\u00e4her mit den Pflanzen verwandt (beide Gruppen geh\u00f6ren zu den Diaphoretickes) als mit den mehrzelligen Tieren.\nObwohl auch der Mensch biologisch gesehen ein Tier ist, wird er im nichtbiologischen Sprachgebrauch, darunter auch in juristischen Kontexten, nicht zu den Tieren gez\u00e4hlt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tier"
+    },
+    {
+        "title": "Pflanze",
+        "content": "Als Pflanzen (lateinisch Plantae) werden Lebewesen bezeichnet, die sich nicht fortbewegen k\u00f6nnen und Photosynthese betreiben. Pilze und Bakterien, die fr\u00fcher auch als zum Pflanzenreich geh\u00f6rig betrachtet wurden, sind heute ausgeschlossen. Derzeit sind verschiedene Definitionen der Pflanzen gebr\u00e4uchlich, die sich darin unterscheiden, ob bzw. welche Gruppen von Algen neben den Landpflanzen (Embryophyta) aufgenommen werden. Das Teilgebiet der Biologie, das sich aus historischen Gr\u00fcnden mit der Erforschung der Pflanzen einschlie\u00dflich aller Algen und der Pilze befasst, ist die Botanik.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pflanze"
+    },
+    {
+        "title": "Art (Biologie)",
+        "content": "Die Art, auch Spezies oder Species (abgek\u00fcrzt oft spec., von lateinisch species \u201aArt\u2018), ist in der Biologie (einschlie\u00dflich der Virologie) die Grundeinheit der biologischen Systematik. Jede biologische Art (Spezies) ist ein Resultat der Artbildung. Bislang gelang keine allgemeine Definition der \u201eArt\u201c, die die theoretischen und praktischen Anforderungen aller biologischen Teildisziplinen gleicherma\u00dfen erf\u00fcllt. Vielmehr existieren in der Biologie verschiedene Artkonzepte, die zu unterschiedlichen Klassifikationen f\u00fchren. Historisch wie auch aktuell spielen zwei Ans\u00e4tze von Artkonzepten eine wichtige Rolle:\n\nauf der Grundlage einer angenommenen Fortpflanzungsgemeinschaft (biologischer Artbegriff)\nauf Grund der Annahme einer Gruppe von Individuen mit charakteristischen gemeinsamen Artmerkmalen, mithilfe derer die Zugeh\u00f6rigkeit zu einer Art klar abgrenzbar sein soll, und die anhand \u00e4u\u00dferer (morphologischer Artbegriff) \u201eoder\u201c erblicher Merkmale bestimmt werden.Mit dem Aufkommen der Kladistik ist seit den 1950er Jahren der auf dem biologischen Artbegriff beruhende, chronologisch definierte phylogenetische Artbegriff hinzugekommen, nach dem eine Art mit der Artspaltung, also der Bildung zweier Arten aus einer Ursprungsart, beginnt und mit ihrer erneuten Artspaltung oder aber ihrem Aussterben endet.\nDas Problem der Artdefinition besteht aus zwei Teilproblemen:\n\nGruppenbildung: Welche Individuen geh\u00f6ren zusammen?\nRangbildung: Welche der zahlreichen, ineinander geschachtelten Gruppen abgestufter \u00c4hnlichkeiten und Beziehungen wollen wir \u201eArt\u201c nennen?Die Hauptunterschiede der verschiedenen Artkonzepte liegen dabei auf der Ebene der Rangbildung. Eine Gruppe von Lebewesen unabh\u00e4ngig von ihrem Rang bezeichnen Taxonomen als Taxon (in der Botanik auch Sippe).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Art_(Biologie)"
+    },
+    {
+        "title": "Computer",
+        "content": "Ein Computer (englisch; deutsche Aussprache [k\u0254m\u02c8pju\u02d0t\u0250]) oder Rechner ist ein Ger\u00e4t, das mittels programmierbarer Rechenvorschriften Daten verarbeitet. Dementsprechend sind vereinzelt auch die abstrahierenden bzw. veralteten, synonym gebrauchten Begriffe Rechenanlage, Datenverarbeitungsanlage oder elektronische Datenverarbeitungsanlage sowie Elektronengehirn anzutreffen.\nCharles Babbage und Ada Lovelace gelten durch die von Babbage 1837 entworfene Rechenmaschine Analytical Engine als Vordenker des modernen universell programmierbaren Computers. Konrad Zuse (Z3, 1941 und Z4, 1945) in Berlin, John Presper Eckert und John William Mauchly (ENIAC, 1946) bauten die ersten funktionst\u00fcchtigen Ger\u00e4te dieser Art. Bei der Klassifizierung eines Ger\u00e4ts als universell programmierbarer Computer spielt die Turing-Vollst\u00e4ndigkeit eine wesentliche Rolle. Sie ist benannt nach dem englischen Mathematiker Alan Turing, der 1936 das logische Modell der Turingmaschine eingef\u00fchrt hatte.Die fr\u00fchen Computer wurden auch (Gro\u00df-)Rechner genannt; ihre Ein- und Ausgabe der Daten war zun\u00e4chst auf Zahlen beschr\u00e4nkt. Zwar verstehen sich moderne Computer auf den Umgang mit weiteren Daten, beispielsweise mit Buchstaben und T\u00f6nen. Diese Daten werden jedoch innerhalb des Computers in Zahlen umgewandelt und als solche verarbeitet, weshalb ein Computer auch heute eine Rechenmaschine ist.\nMit zunehmender Leistungsf\u00e4higkeit er\u00f6ffneten sich neue Einsatzbereiche. Computer sind heute in allen Bereichen des t\u00e4glichen Lebens vorzufinden, meistens in spezialisierten Varianten, die auf einen vorliegenden Anwendungszweck zugeschnitten sind. So dienen integrierte Kleinstcomputer (eingebettetes System) zur Steuerung von Alltagsger\u00e4ten wie Waschmaschinen und Videorekordern oder zur M\u00fcnzpr\u00fcfung in Warenautomaten; in modernen Automobilen dienen sie beispielsweise zur Anzeige von Fahrdaten und steuern in \u201eFahrassistenten\u201c diverse Man\u00f6ver selbst.\nUniverselle Computer finden sich in Smartphones und Spielkonsolen. Personal Computer (engl. f\u00fcr Pers\u00f6nliche Computer, als Gegensatz zu von vielen genutzten Gro\u00dfrechnern) dienen der Informationsverarbeitung in Wirtschaft und Beh\u00f6rden sowie bei Privatpersonen; Supercomputer werden eingesetzt, um komplexe Vorg\u00e4nge zu simulieren, z. B. in der Klimaforschung oder f\u00fcr medizinische Berechnungen.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Computer"
+    },
+    {
+        "title": "Informatik",
+        "content": "Informatik ist die \u201eWissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und \u00dcbertragung von Informationen, besonders der automatischen Verarbeitung mit Digitalrechnern\u201c. Historisch hat sich die Informatik einerseits aus der Mathematik als Strukturwissenschaft entwickelt, andererseits als Ingenieursdisziplin aus dem praktischen Bedarf nach der schnellen und insbesondere automatischen Ausf\u00fchrung von Berechnungen.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Informatik"
+    },
+    {
+        "title": "Pythagoras",
+        "content": "Pythagoras von Samos (griechisch \u03a0\u03c5\u03b8\u03b1\u03b3\u03cc\u03c1\u03b1\u03c2 Pythag\u00f3ras; * um 570 v. Chr. auf Samos; \u2020 nach 510 v. Chr. in Metapont in der Basilicata) war ein antiker griechischer Philosoph (Vorsokratiker), Mathematiker und Gr\u00fcnder einer einflussreichen religi\u00f6s-philosophischen Bewegung. Als Vierzigj\u00e4hriger verlie\u00df er seine griechische Heimat und wanderte nach S\u00fcditalien aus. Dort gr\u00fcndete er eine Schule und bet\u00e4tigte sich auch politisch. Trotz intensiver Bem\u00fchungen der Forschung geh\u00f6rt er noch heute zu den r\u00e4tselhaftesten Pers\u00f6nlichkeiten der Antike. Manche Historiker z\u00e4hlen ihn zu den Pionieren der beginnenden griechischen Philosophie, Mathematik und Naturwissenschaft, andere meinen, er sei vorwiegend oder ausschlie\u00dflich ein Verk\u00fcnder religi\u00f6ser Lehren gewesen. M\u00f6glicherweise konnte er diese Bereiche verbinden. Die nach ihm benannten Pythagoreer blieben auch nach seinem Tod kulturgeschichtlich bedeutsam.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pythagoras"
+    },
+    {
+        "title": "Euklid",
+        "content": "Euklid von Alexandria (altgriechisch \u0395\u1f50\u03ba\u03bb\u03b5\u03af\u03b4\u03b7\u03c2 Eukle\u00edd\u0113s, latinisiert Euclides) war ein griechischer Mathematiker, der wahrscheinlich im 3. Jahrhundert v. Chr. in Alexandria gelebt hat.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Euklid"
+    },
+    {
+        "title": "Chemie",
+        "content": "Chemie ([\u00e7e\u02c8mi:]; mittel- und norddeutsch auch [\u0283e\u02c8mi:]; s\u00fcddeutsch: [ke\u02c8mi:]) ist diejenige Naturwissenschaft, die sich mit dem Aufbau, den Eigenschaften und der Umwandlung von chemischen Stoffen besch\u00e4ftigt. Ein Stoff besteht aus Atomen, Molek\u00fclen oder beidem. Er kann au\u00dferdem Ionen enthalten. Die chemischen Reaktionen sind Vorg\u00e4nge in den Elektronenh\u00fcllen der Atome, Molek\u00fcle und Ionen.\n\nZentrale Begriffe der Chemie sind chemische Reaktionen und chemische Bindungen. Durch chemische Reaktionen werden chemische Bindungen gebildet oder gebrochen. Dabei ver\u00e4ndert sich die Elektronenaufenthaltswahrscheinlichkeit in den Elektronenh\u00fcllen der beteiligten Stoffe und damit deren Eigenschaften. Die Herstellung von Stoffen (Synthese) mit von der Menschheit ben\u00f6tigten Eigenschaften ist heute das zentrale Anliegen der Chemie.\nTraditionell wird die Chemie in Teilgebiete unterteilt. Die wichtigsten davon sind die organische Chemie, die kohlenstoffhaltige Verbindungen untersucht, die anorganische Chemie, die alle Elemente des Periodensystems und deren Verbindungen behandelt, sowie die physikalische Chemie, die sich mit den grundlegenden Ph\u00e4nomenen, die der Chemie zu Grunde liegen, besch\u00e4ftigt.\nDie Chemie in ihrer heutigen Form als exakte Naturwissenschaft entstand im 17. und 18. Jahrhundert allm\u00e4hlich aus der Anwendung rationalen Schlussfolgerns, basierend auf Beobachtungen und Experimenten der Alchemie. Einige der ersten gro\u00dfen Chemiker waren Robert Boyle, Humphry Davy, J\u00f6ns Jakob Berzelius, Joseph Louis Gay-Lussac, Joseph Louis Proust, Marie und Antoine Lavoisier und Justus von Liebig.\nDie chemische Industrie z\u00e4hlt zu den wichtigsten Industriezweigen. Sie stellt Stoffe her, die zur Herstellung von Alltagsgegenst\u00e4nden (z. B. Grundchemikalien, Kunststoffe, Lacke), Lebensmitteln (auch als Hilfsmittel dazu wie D\u00fcngemittel und Pestizide) oder zur Verbesserung der Gesundheit (z. B. Pharmazeutika) ben\u00f6tigt werden.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Chemie"
+    },
+    {
+        "title": "Atom",
+        "content": "Atome (von altgriechisch \u1f04\u03c4\u03bf\u03bc\u03bf\u03c2 \u00e1tomos \u201eunteilbar\u201c) sind die Bausteine, aus denen alle festen, fl\u00fcssigen oder gasf\u00f6rmigen Stoffe bestehen. Alle Materialeigenschaften dieser Stoffe sowie ihr Verhalten in chemischen Reaktionen werden durch die Eigenschaften und die r\u00e4umliche Anordnung ihrer Atome festgelegt. Jedes Atom geh\u00f6rt zu einem bestimmten chemischen Element und bildet dessen kleinste Einheit. Zurzeit sind 118 Elemente bekannt, von denen etwa 90 auf der Erde nat\u00fcrlich vorkommen. Atome verschiedener Elemente unterscheiden sich in ihrer Gr\u00f6\u00dfe und Masse und vor allem in ihrer F\u00e4higkeit, mit anderen Atomen chemisch zu reagieren und sich zu Molek\u00fclen oder festen K\u00f6rpern zu verbinden. Die Durchmesser von Atomen liegen im Bereich von 6\u202f\u00b7\u202f10\u221211 m (Helium) bis 5\u202f\u00b7\u202f10\u221210 m (C\u00e4sium), ihre Massen in einem Bereich von 1,7\u202f\u00b7\u202f10\u221227 kg (Wasserstoff) bis knapp 5\u202f\u00b710\u221225 kg (die derzeit schwersten synthetisch hergestellten Kerne).\nAtome sind nicht unteilbar, wie zum Zeitpunkt der Namensgebung angenommen, sondern zeigen einen wohlbestimmten Aufbau aus noch kleineren Teilchen. Sie bestehen aus einem Atomkern und einer Atomh\u00fclle. Der Atomkern hat einen Durchmesser von etwa einem Zehn- bis Hunderttausendstel des gesamten Atomdurchmessers, enth\u00e4lt jedoch \u00fcber 99,9 Prozent der Atommasse. Er besteht aus positiv geladenen Protonen und einer Anzahl von etwa gleich schweren, elektrisch neutralen Neutronen. Diese Nukleonen sind durch die starke Wechselwirkung aneinander gebunden. Die H\u00fclle besteht aus negativ geladenen Elektronen. Sie tr\u00e4gt mit weniger als 0,06 Prozent zur Masse bei, bestimmt jedoch die Gr\u00f6\u00dfe des Atoms. Der positive Kern und die negative H\u00fclle sind durch elektrostatische Anziehung aneinander gebunden. In der elektrisch neutralen Grundform des Atoms ist die Anzahl der Elektronen in der H\u00fclle gleich der Anzahl der Protonen im Kern. Diese Zahl legt den genauen Aufbau der H\u00fclle und damit auch das chemische Verhalten des Atoms fest und wird deshalb als chemische Ordnungszahl bezeichnet. Alle Atome desselben Elements haben die gleiche chemische Ordnungszahl. Sind zus\u00e4tzliche Elektronen vorhanden oder fehlen welche, ist das Atom negativ bzw. positiv geladen und wird als Ion bezeichnet.\nDie Vorstellung vom atomaren Aufbau der Materie existierte bereits in der Antike, war jedoch bis in die Neuzeit umstritten. Der endg\u00fcltige Nachweis konnte erst Anfang des 20. Jahrhunderts erbracht werden und gilt als eine der bedeutendsten Entdeckungen in Physik und Chemie. Einzelne Atome sind selbst mit den st\u00e4rksten Lichtmikroskopen nicht zu erkennen. Eine direkte Beobachtung einzelner Atome ist erst seit Mitte des 20. Jahrhunderts mit Feldionenmikroskopen m\u00f6glich, seit einigen Jahren auch mit Rastertunnelmikroskopen und hochaufl\u00f6senden Elektronenmikroskopen. Die Atomphysik, die neben dem Aufbau der Atome auch die Vorg\u00e4nge in ihrem Inneren und ihre Wechselwirkungen mit anderen Atomen erforscht, hat entscheidend zur Entwicklung der modernen Physik und insbesondere der Quantenmechanik beigetragen.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Atom"
+    },
+    {
+        "title": "Galileo Galilei",
+        "content": "Galileo Galilei (* 15. Februar 1564 in Pisa; \u2020 29. Dezember 1641jul./ 8. Januar 1642greg. in Arcetri bei Florenz) war ein italienischer Universalgelehrter. Er war Philosoph, Mathematiker, Ingenieur, Physiker, Astronom und Kosmologe. Viele seiner Entdeckungen, vor allem in der Mechanik und der Astronomie, gelten als bahnbrechend. Er entwickelte die Methode, die Natur durch die Kombination von Experimenten, Messungen und mathematischen Analysen zu erforschen, und wurde damit einer der wichtigsten Begr\u00fcnder der neuzeitlichen exakten Naturwissenschaften. Ber\u00fchmt wurde er auch dadurch, dass die katholische Kirche ihn verurteilte; 1992 rehabilitierte sie ihn.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+        "title": "Alan Turing",
+        "content": "Alan Mathison Turing OBE, FRS [\u02c8\u00e6l\u0259n \u02c8m\u00e6\u03b8\u026as\u0259n \u02c8tj\u028a\u0259\u0279\u026a\u014b] (* 23. Juni 1912 in London; \u2020 7. Juni 1954 in Wilmslow, Cheshire) war ein britischer Logiker, Mathematiker, Kryptoanalytiker und Informatiker. Er gilt heute als einer der einflussreichsten Theoretiker der fr\u00fchen Computerentwicklung und Informatik. Turing schuf einen gro\u00dfen Teil der theoretischen Grundlagen f\u00fcr die moderne Informations- und Computertechnologie. Als richtungsweisend erwiesen sich auch seine Beitr\u00e4ge zur theoretischen Biologie.\nDas von ihm entwickelte Berechenbarkeitsmodell der Turingmaschine bildet eines der Fundamente der Theoretischen Informatik. W\u00e4hrend des Zweiten Weltkrieges war er ma\u00dfgeblich an der Entzifferung der mit der \u201eEnigma\u201c verschl\u00fcsselten deutschen Funkspr\u00fcche beteiligt. Der Gro\u00dfteil seiner Arbeiten blieb auch nach Kriegsende unter Verschluss.\nTuring entwickelte 1953 eines der ersten Schachprogramme, dessen Berechnungen er mangels Hardware selbst vornahm. Nach ihm benannt sind der Turing Award, die bedeutendste Auszeichnung in der Informatik, sowie der Turing-Test zum \u00dcberpr\u00fcfen des Vorhandenseins von k\u00fcnstlicher Intelligenz.Im M\u00e4rz 1952 wurde Turing wegen seiner Homosexualit\u00e4t, die damals noch als Straftat verfolgt wurde, zur chemischen Kastration verurteilt. Turing erkrankte in Folge der Hormonbehandlung an einer Depression und starb etwa zwei Jahre sp\u00e4ter durch Suizid. Im Jahr 2009 sprach der damalige britische Premierminister Gordon Brown eine offizielle Entschuldigung im Namen der Regierung f\u00fcr die \u201eentsetzliche Behandlung\u201c Turings aus und w\u00fcrdigte dessen \u201eau\u00dferordentliche Verdienste\u201c w\u00e4hrend des Krieges; eine Begnadigung wurde aber noch 2011 trotz einer Petition abgelehnt. Am Weihnachtsabend, dem 24. Dezember 2013, sprach K\u00f6nigin Elisabeth II. postum ein \u201eRoyal Pardon\u201c (K\u00f6nigliche Begnadigung) aus.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Alan_Turing"
+    },
+    {
+        "title": "Enigma (Maschine)",
+        "content": "Die Enigma (griechisch \u03b1\u1f34\u03bd\u03b9\u03b3\u03bc\u03b1 a\u00ednigma, deutsch \u201aR\u00e4tsel\u2018, Eigenschreibweise auch: ENIGMA) ist eine Rotor-Schl\u00fcsselmaschine, die im Zweiten Weltkrieg zur Verschl\u00fcsselung des Nachrichtenverkehrs der Wehrmacht verwendet wurde. Auch Polizei, Geheimdienste, diplomatische Dienste, SD, SS, Reichspost und Reichsbahn setzten sie zur geheimen Kommunikation ein. Trotz mannigfaltiger vor und w\u00e4hrend des Krieges eingef\u00fchrter Verbesserungen der Verschl\u00fcsselungsqualit\u00e4t gelang es den Alliierten mit hohem personellen und maschinellen Aufwand, die deutschen Funkspr\u00fcche nahezu kontinuierlich zu entziffern.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Enigma_(Maschine)"
+    },
+    {
+        "title": "Kryptographie",
+        "content": "Kryptographie bzw. Kryptografie (altgriechisch \u03ba\u03c1\u03c5\u03c0\u03c4\u03cc\u03c2 krypt\u00f3s, deutsch \u201averborgen\u2018, \u201ageheim\u2018 und \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9\u03bd gr\u00e1phein, deutsch \u201aschreiben\u2018) ist urspr\u00fcnglich die Wissenschaft der Verschl\u00fcsselung von Informationen. Heute befasst sie sich auch allgemein mit dem Thema Informationssicherheit, also der Konzeption, Definition und Konstruktion von Informationssystemen, die widerstandsf\u00e4hig gegen Manipulation und unbefugtes Lesen sind.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kryptographie"
+    },
+    {
+        "title": "Urknall",
+        "content": "Als Urknall wird in der Kosmologie der Beginn des Universums, also der Anfangspunkt der Entstehung von Materie, Raum und Zeit bezeichnet. Nach dem kosmologischen Standardmodell ereignete sich der Urknall vor etwa 13,8 Milliarden Jahren. Urknalltheorien beschreiben nicht den Urknall selbst, sondern das fr\u00fche Universum in seiner zeitlichen Entwicklung nach dem Urknall.\n\u201eUrknall\u201c bezeichnet keine Explosion in einem bestehenden Raum, sondern die gemeinsame Entstehung von Materie, Raum und Zeit aus einer urspr\u00fcnglichen Singularit\u00e4t. Diese ergibt sich formal, indem man die Entwicklung des expandierenden Universums zeitlich r\u00fcckw\u00e4rts bis zu dem Punkt betrachtet, an dem die Materie- und Energiedichte unendlich wird. Demnach muss noch kurz nach dem Urknall die Dichte des Universums die Planck-Dichte \u00fcbertroffen haben. F\u00fcr die Beschreibung dieses Zustandes ist die Allgemeine Relativit\u00e4tstheorie unzureichend; es wird jedoch erwartet, dass eine noch zu entwickelnde Theorie der Quantengravitation dies leisten wird. Daher gibt es in der heutigen Physik keine allgemein akzeptierte Beschreibung des sehr fr\u00fchen Universums, des Urknalls selbst oder einer Zeit vor dem Urknall.\nUrknalltheorien behandeln die Entwicklung des Universums von einem Zeitpunkt mehr als eine Planck-Zeit (etwa 10\u221243 Sekunden) nach dem Urknall bis etwa 300.000 bis 400.000 Jahre sp\u00e4ter, als sich stabile Atome bilden konnten und das Universum durchsichtig wurde. Die weitere Entwicklung wird nicht mehr zum Bereich des Urknalls gez\u00e4hlt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Urknall"
+    },
+    {
+        "title": "Gravitation",
+        "content": "Die Gravitation (von lateinisch gravitas f\u00fcr \u201eSchwere\u201c), auch Massenanziehung oder Gravitationskraft, ist eine der vier Grundkr\u00e4fte der Physik. Sie \u00e4u\u00dfert sich in der gegenseitigen Anziehung von Massen. Sie nimmt mit zunehmender Entfernung der Massen ab, besitzt aber unbegrenzte Reichweite. Im Gegensatz zu elektrischen oder magnetischen Kr\u00e4ften l\u00e4sst sie sich nicht abschirmen.\nAuf der Erde bewirkt die Gravitation, dass alle K\u00f6rper nach \u201eunten\u201c, d. h. in Richtung Erdmittelpunkt fallen, sofern sie nicht durch andere Kr\u00e4fte daran gehindert werden. Im Sonnensystem bestimmt die Gravitation die Bahnen der Planeten, Monde, Satelliten und Kometen und im Kosmos die Bildung von Sternen und Galaxien sowie dessen Entwicklung im Gro\u00dfen.\nGravitation wird oft mit Schwerkraft gleichgesetzt. Allerdings umfasst die vom lokal herrschenden Schwerefeld bestimmte Kraft auf einen K\u00f6rper (das Gewicht des K\u00f6rpers) nicht nur die Gravitationskraft, sondern auch die auf den K\u00f6rper wirkenden Tr\u00e4gheitswirkungen (insbesondere durch die Rotation des Bezugssystems).\nIm Rahmen der klassischen Physik wird die Gravitation mit dem newtonschen Gravitationsgesetz beschrieben, d. h. als eine instantan, also unmittelbar und ohne Zeitverlust durch den leeren Raum wirkende Fernwirkungskraft. Ein grundlegend anderes Verst\u00e4ndnis der Gravitation ergibt sich aus der allgemeinen Relativit\u00e4tstheorie nach Albert Einstein. Hierbei wirkt die Gravitation nicht in Form einer Kraft auf die K\u00f6rper, sondern entspricht einer Kr\u00fcmmung der vierdimensionalen Raumzeit, wobei die Bahnen der K\u00f6rper, auf die keine weiteren Kr\u00e4fte wirken, einer k\u00fcrzesten Linie (im gekr\u00fcmmten Raum), d. h. einer Geod\u00e4te, entsprechen.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gravitation"
+    },
+    {
+        "title": "Aggregatzustand",
+        "content": "Als Aggregatzust\u00e4nde werden die unterschiedlichen Zust\u00e4nde eines Stoffes bezeichnet, die sich durch blo\u00dfe \u00c4nderungen von Temperatur oder Druck ineinander umwandeln k\u00f6nnen. Es gibt die drei klassischen Aggregatzust\u00e4nde fest, fl\u00fcssig und gasf\u00f6rmig sowie in der Physik weitere nicht klassische Zust\u00e4nde wie z. B. das Plasma.\nDie in der Thermodynamik verwendete Phase ist enger gefasst, sie unterteilt insbesondere den festen Zustand nach seiner inneren Struktur.\nWelcher Aggregatzustand bzw. welche Phase abh\u00e4ngig von Druck und Temperatur stabil ist, wird in einem Phasendiagramm dargestellt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Aggregatzustand"
+    },
+    {
+        "title": "Antimaterie",
+        "content": "Antimaterie ist Materie, die aus Antiteilchen besteht. Anti-Atome haben Atomh\u00fcllen aus Positronen und Atomkerne aus Antiprotonen und ggf. Antineutronen.\nAnti-Atome und -Molek\u00fcle sind in der Natur unbekannt und k\u00f6nnen nur in aufwendigen Experimenten hergestellt werden. Dagegen entstehen leichte Antiteilchen in der Natur aus der H\u00f6henstrahlung und beim Beta-Plus-Zerfall. Es gibt auch kurzlebige exotische Atome wie Positronium aus einem Elektron und einem Positron und Molek\u00fcle wie Di-Positronium aus zwei Positroniumatomen.\nAntiteilchen und auch Anti-Atome k\u00f6nnen in Paarbildungsreaktionen mittels Teilchenbeschleunigern erzeugt werden. Mit kleinerem Aufwand k\u00f6nnen Positronen durch Herstellung beta-plus-aktiver Radionuklide gewonnen werden. Diese Positronenstrahlung erm\u00f6glicht in der modernen Medizintechnik das wichtige bildgebende Echtzeit-Verfahren der Positronen-Emissions-Tomographie (PET).\nWenn ein Materieteilchen und sein Antiteilchen aufeinander treffen, k\u00f6nnen sie in einer Annihilations-Reaktion \u201ezerstrahlen\u201c. Dabei tritt die gesamte in den Teilchen steckende Energie in anderer Form wieder auf, und u. U. k\u00f6nnen andere Teilchen entstehen.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Antimaterie"
+    },
+    {
+        "title": "Evolution",
+        "content": "Unter Evolution (von lateinisch evolvere \u201eherausrollen\u201c, \u201eauswickeln\u201c, \u201eentwickeln\u201c) versteht man im deutschsprachigen Raum heute in erster Linie die biologische Evolution. Darunter wird die allm\u00e4hliche Ver\u00e4nderung der vererbbaren Merkmale einer Population von Lebewesen und anderer organischer Strukturen (z. B. Viren) von Generation zu Generation verstanden. Das Lehr- und Forschungsgebiet der Evolution wird als Evolutionsbiologie bezeichnet und unterliegt, wie viele andere Wissenschaften, einem kontinuierlichen Erkenntnisfortschritt. Hierzu k\u00f6nnen insbesondere neue Einsichten durch die Entdeckung neuer Fossilien oder die Entwicklung neuartiger Methoden beitragen. Das Themenfeld der Evolution wurde zuweilen unterteilt in die Evolutionsgeschichte, in der die Ver\u00e4nderungen der Lebewesen im Laufe der Erdgeschichte beschrieben werden und bei dem es \u00dcberlappungen mit der Pal\u00e4ontologie gibt, sowie in die Evolutionstheorie, die naturwissenschaftliche Erkl\u00e4rungen (Hypothesen und Theorien) f\u00fcr das Gesamtph\u00e4nomen der Evolution entwickelt. Die beiden Ans\u00e4tze sind heutzutage in der Wissenschaft innig miteinander verwoben und befruchten sich wechselseitig. Wissenschaftler besch\u00e4ftigen sich ebenfalls im Rahmen der theoretischen Biologie mit der biologischen Evolution. Die theoretische Biologie als interdisziplin\u00e4res Teilgebiet der Biologie entwickelt mathematische Modelle und f\u00fchrt statistische Hypothesentests und Laborexperimente durch, um den Erkenntnisgewinn zu f\u00f6rdern.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Evolution"
+    },
+    {
+        "title": "Charles Darwin",
+        "content": "Charles Robert Darwin [t\u0283\u0251rlz 'd\u0251\u02d0.w\u026an] (* 12. Februar 1809 in Shrewsbury; \u2020 19. April 1882 in Down House/Grafschaft Kent) war ein britischer Naturforscher. Er gilt wegen seiner wesentlichen Beitr\u00e4ge zur Evolutionstheorie als einer der bedeutendsten Naturwissenschaftler.\nDie Ende 1831 begonnene und fast f\u00fcnf Jahre andauernde Reise mit der HMS Beagle, die den jungen Darwin einmal um die Welt f\u00fchrte, war zugleich Schl\u00fcsselerlebnis und Grundlage f\u00fcr sein sp\u00e4teres Werk. Der breiten \u00d6ffentlichkeit wurde Darwin erstmals durch seinen 1839 herausgegebenen Reisebericht bekannt. Mit seiner Theorie \u00fcber die Entstehung der Korallenriffe und weiteren geologischen Schriften erlangte er in wissenschaftlichen Kreisen die Anerkennung als Geologe. Seine Untersuchungen an den Rankenfu\u00dfkrebsen (Cirripedia) verschafften ihm Mitte der 1850er Jahre zus\u00e4tzlich einen Ruf als angesehener Zoologe und Taxonom.\nBereits 1838 entwarf Darwin seine Theorie der Anpassung an den Lebensraum durch Variation und nat\u00fcrliche Selektion und erkl\u00e4rte so die phylogenetische Entwicklung aller Organismen und ihre Aufspaltung in verschiedene Arten. \u00dcber 20 Jahre lang trug er Belege f\u00fcr diese Theorie zusammen. 1842 und 1844 verfasste Darwin kurze Abrisse seiner Theorie, die er jedoch nicht ver\u00f6ffentlichte. Ab 1856 arbeitete er an einem umfangreichen Manuskript mit dem Titel Natural Selection. Durch einen Brief von Alfred Russel Wallace, der dessen Ternate-Manuskript mit \u00e4hnlichen Gedanken zur Evolution enthielt, kam es im Sommer 1858 schlie\u00dflich zu einer Ver\u00f6ffentlichung der Theorien \u00fcber die Evolution durch beide. Ein Jahr sp\u00e4ter folgte Darwins Hauptwerk On the Origin of Species (\u00dcber die Entstehung der Arten), das als streng naturwissenschaftliche Erkl\u00e4rung f\u00fcr die Diversit\u00e4t des Lebens die Grundlage der modernen Evolutionsbiologie bildet und einen entscheidenden Wendepunkt in der Geschichte der modernen Biologie darstellt.\n1871 diskutierte Darwin in The Descent of Man, and Selection in Relation to Sex (Die Abstammung des Menschen und die geschlechtliche Zuchtwahl) mit der sexuellen Selektion einen zweiten Selektionsmechanismus und nutzte seine Theorie, um die Abstammung des Menschen zu erkl\u00e4ren. In seinem letzten Lebensjahrzehnt untersuchte Darwin Kletterpflanzen, Orchideen und fleischfressende Pflanzen und leistete wichtige Beitr\u00e4ge zur Botanik. Sein offizielles botanisches Autorenk\u00fcrzel lautet \u201eDarwin\u201c.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+        "title": "Botanik",
+        "content": "Die Botanik (altgriechisch \u03b2\u03bf\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae (\u1f10\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7) botanik\u00e9 [epist\u00e9me], von bot\u00e1ne \u201aWeide-, Futterpflanze\u2018 [epist\u00e9me -Wissenschaft], auch Phytologie und Pflanzenkunde) erforscht die Pflanzen. Sie befasst sich mit dem Lebenszyklus, Stoffwechsel, Wachstum und Aufbau der Pflanzen; ferner mit ihren Inhaltsstoffen (siehe Heilkunde), ihrer \u00d6kologie (siehe Bioz\u00f6nose) und ihrem wirtschaftlichen Nutzen (siehe Nutzpflanze) sowie ihrer Systematik. In ihren Urspr\u00fcngen geht die Botanik auf das medizinisch/heilkundliche Befassen mit Heilpflanzen zur\u00fcck. Von einer ersten abstrakt-wissenschaftlichen Untersuchung und Systematisierung des Pflanzenreiches zeugen die Schriften von Theophrastos aus dem 3. und 2. Jahrhundert v. Chr.\nIn j\u00fcngerer Zeit wird die Botanik im akademischen Bereich in Anlehnung an den internationalen Sprachgebrauch (\u201ePlant Science\u201c) vermehrt als Pflanzenwissenschaft bezeichnet. So wurde beispielsweise das f\u00fchrende universit\u00e4re Lehrbuch der Botanik, das auf Eduard Strasburger zur\u00fcckgeht, ab der 37. Auflage (2014) in Lehrbuch der Pflanzenwissenschaft umbenannt, und auch einige Botanik-Studieng\u00e4nge werden im deutschen Sprachraum heute als Studiengang der Pflanzenwissenschaft gef\u00fchrt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Botanik"
+    },
+    {
+        "title": "Molek\u00fcl",
+        "content": "Molek\u00fcle [mole\u02c8ky\u02d0l] (\u00e4lter auch: Molekel [mo\u02c8le\u02d0k\u0259l]; von lat. molecula, \u201ekleine Masse\u201c) sind im weiten Sinn zwei- oder mehratomige Teilchen, die durch chemische Bindungen zusammengehalten werden und wenigstens so lange stabil sind, dass sie z. B. spektroskopisch beobachtet werden k\u00f6nnen. Ein Molek\u00fcl kann dabei aus mehreren gleichen oder aus verschiedenen Atomen bestehen. Es kann sich um neutrale Teilchen, aber auch um Radikale, Ionen oder auch ionische Addukte handeln. So sind z. B. viele Typen von interstellaren Molek\u00fclen unter irdischen Bedingungen nicht stabil. IUPAC nennt solche Teilchen molekulare Gebilde (molecular entity).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Molek%C3%BCl"
+    },
+    {
+        "title": "Kugel",
+        "content": "Eine Kugel ist in der Geometrie die Kurzbezeichnung f\u00fcr Kugelfl\u00e4che oder Kugelk\u00f6rper.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kugel"
+    },
+    {
+        "title": "Platonischer K\u00f6rper",
+        "content": "Die Platonischen K\u00f6rper (nach dem griechischen Philosophen Platon) sind die Polyeder mit gr\u00f6\u00dftm\u00f6glicher Symmetrie. Jeder von ihnen wird von mehreren deckungsgleichen (kongruenten) ebenen regelm\u00e4\u00dfigen Vielecken begrenzt. Eine andere Bezeichnung ist regul\u00e4re K\u00f6rper (von lat. corpora regularia).\nEs gibt f\u00fcnf platonische K\u00f6rper. Ihre Namen enthalten die griechisch ausgedr\u00fcckte Zahl ihrer begrenzenden Fl\u00e4chen und eder als Abwandlung des griechischen Wortes \u1f15\u03b4\u03c1\u03b1 (hedra) (s. auch Polyeder), deutsch (Sitz-)Fl\u00e4che.\n\nTetraeder (Vierfl\u00e4chner, Oberfl\u00e4che aus vier Dreiecken)\nHexaeder (Sechsfl\u00e4chner, Oberfl\u00e4che aus sechs Quadraten) \u2013 der W\u00fcrfel\nOktaeder (Achtfl\u00e4chner, Oberfl\u00e4che aus acht Dreiecken)\nDodekaeder (Zw\u00f6lffl\u00e4chner, Oberfl\u00e4che aus zw\u00f6lf F\u00fcnfecken) \u2013 auch Pentagondodekaeder genannt, um auf die Oberfl\u00e4che aus F\u00fcnfecken als seine Besonderheit hinzuweisen\nIkosaeder (Zwanzigfl\u00e4chner, Oberfl\u00e4che aus zwanzig Dreiecken)Die Platonischen K\u00f6rper sind konvex. In jeder Ecke des K\u00f6rpers treffen jeweils gleich viele gleich lange Kanten zusammen, an jeder Kante treffen sich zwei deckungsgleiche Fl\u00e4chen, und jede Fl\u00e4che hat gleich viele Ecken. Es ist also nicht m\u00f6glich, irgendwelche zwei K\u00f6rperecken, Kanten und Fl\u00e4chen aufgrund von Beziehungen zu anderen Punkten des Polyeders voneinander zu unterscheiden.\nAlternativ lassen sich die platonischen K\u00f6rper definieren als diejenigen Polyeder, f\u00fcr die es zu einem beliebigen Paar von Seitenfl\u00e4chen, Kanten oder Ecken immer eine Symmetrieabbildung gibt, die diese Fl\u00e4chen, Kanten oder Ecken vertauscht. Dies ist gemeint mit der gr\u00f6\u00dftm\u00f6glichen Symmetrie.\nVerzichtet man auf die Ununterscheidbarkeit der Fl\u00e4chen und Kanten, spricht man von archimedischen K\u00f6rpern. Verzichtet man dagegen auf die Ununterscheidbarkeit der Ecken und Kanten, spricht man von catalanischen K\u00f6rpern. Verzichtet man auf die Konvexit\u00e4t, spricht man von regul\u00e4ren Polyedern und schlie\u00dft damit die Kepler-Poinsot-K\u00f6rper ein.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Platonischer_K%C3%B6rper"
+    },
+    {
+        "title": "Statistik",
+        "content": "Statistik \u201eist die Lehre von Methoden zum Umgang mit quantitativen Informationen\u201c (Daten). Sie ist eine M\u00f6glichkeit, \u201eeine systematische Verbindung zwischen Erfahrung (Empirie) und Theorie herzustellen\u201c. Unter Statistik versteht man die Zusammenfassung bestimmter Methoden zur Analyse empirischer Daten. Ein alter Ausdruck f\u00fcr Statistik war Sammelforschung. Die Statistik wird als Hilfswissenschaft von allen empirischen Disziplinen und Naturwissenschaften verwendet, wie zum Beispiel der Medizin (Medizinische Statistik), der Psychologie (Psychometrie), der Politologie, der Soziologie, der Wirtschaftswissenschaft (\u00d6konometrie), der Biologie (Biometrie), der Chemie (Chemometrie) und der Physik. Die Statistik stellt somit die theoretische Grundlage aller empirischen Forschung dar. Da die Menge an Daten in allen Disziplinen rasant zunimmt, gewinnt auch die Statistik und die aus ihr abgeleitete Analyse dieser Daten an Bedeutung. Andererseits ist die Statistik ein Teilgebiet der reinen Mathematik. Das Ziel der reinen mathematischen Statistik ist das Beweisen allgemeing\u00fcltiger Aussagen mit den Methoden der reinen Mathematik. Sie bedient sich dabei aus Erkenntnissen der mathematischen Grundlagendisziplinen Analysis und linearer Algebra.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Statistik"
+    },
+    {
+        "title": "Spieltheorie",
+        "content": "Die Spieltheorie ist eine mathematische Theorie, in der Entscheidungssituationen modelliert werden, in denen mehrere Beteiligte miteinander interagieren. Sie versucht dabei unter anderem, das rationale Entscheidungsverhalten in sozialen Konfliktsituationen davon abzuleiten. Die Spieltheorie ist origin\u00e4r ein Teilgebiet der Mathematik. Sie bedient mannigfaltige Anwendungsfelder.\nIn diesem Artikel wird die nicht-kooperative Spieltheorie behandelt, die von der kooperativen Spieltheorie zu unterscheiden ist. Unten finden sich einige Bemerkungen zu den Unterschieden.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Spieltheorie"
+    },
+    {
+        "title": "Niels Bohr",
+        "content": "Niels Henrik David Bohr (* 7. Oktober 1885 in Kopenhagen; \u2020 18. November 1962 ebenda) war ein d\u00e4nischer Physiker. Er erhielt 1921 die Hughes-Medaille der Royal Society und den Nobelpreis f\u00fcr Physik im Jahr 1922 \u201ef\u00fcr seine Verdienste um die Erforschung der Struktur der Atome und der von ihnen ausgehenden Strahlung\u201c.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Niels_Bohr"
+    },
+    {
+        "title": "Astronomie",
+        "content": "Die Astronomie (griechisch \u1f00\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 f\u00fcr \u201eSternenkunde\u201c, von \u1f04\u03c3\u03c4\u03c1\u03bf\u03bd \u00e1stron \u201eStern\u201c und \u03bd\u03cc\u03bc\u03bf\u03c2 n\u00f3mos \u201eGesetz\u201c) oder Sternkunde ist die Wissenschaft von den  Gestirnen. Sie erforscht mit naturwissenschaftlichen Mitteln die Positionen, Bewegungen und Eigenschaften der Objekte im Universum, also der Himmelsk\u00f6rper (Planeten, Monde, Asteroiden, Sterne einschlie\u00dflich der Sonne, Sternhaufen, Galaxien und Galaxienhaufen), der interstellaren Materie und der im Weltall auftretenden Strahlung. Dar\u00fcber hinaus strebt sie nach einem Verst\u00e4ndnis des Universums als Ganzes, seiner Entstehung und seines Aufbaus.\nObwohl die Astronomie nur an wenigen Schulen ein Unterrichtsfach ist, finden ihre Forschungsergebnisse in der \u00d6ffentlichkeit viel Interesse; als Amateurastronomie ist sie ein weit verbreitetes Hobby. Dies h\u00e4ngt einerseits mit dem \u201eerhebenden\u201c Eindruck zusammen, den der Sternhimmel auch bei freisichtiger Beobachtung macht, andererseits mit ihrer thematischen Vielfalt, der Ber\u00fchrung philosophischer Fragen und der Verbindung zur Raumfahrt.\nIm Gegensatz zu fr\u00fcheren Zeiten wird die Astronomie als Naturwissenschaft heute streng abgegrenzt von der Astrologie, die aus Stellung und Lauf der Gestirne auf irdische Geschehnisse schlie\u00dfen will. Die Abgrenzung erfolgt auch, da die Astrologie eine Pseudowissenschaft ist \u2013 w\u00e4hrend die Astronomie auf empirischer Basis die Beschaffenheit, Bewegungen und Beziehungen von Himmelsk\u00f6rpern untersucht. Dennoch werden, wohl wegen der \u00c4hnlichkeit beider Bezeichnungen, Astrologie und Astronomie von Laien nicht selten verwechselt.\nAn den Universit\u00e4ten wurde die Astronomie um etwa 1800 zu einer eigenen Studienrichtung, wird aber heute zunehmend dem Physik-Studium zugeordnet. In der deutschen Hochschulpolitik wird sie gemeinsam mit der Astrophysik als Kleines Fach eingestuft.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Astronomie"
+    },
+    {
+        "title": "Klima",
+        "content": "Das Klima ist der mit meteorologischen Methoden ermittelte Durchschnitt der dynamischen Prozesse in der Erdatmosph\u00e4re, bezogen auf kleinr\u00e4umige \u00d6rtlichkeiten (Meso- beziehungsweise Regionalklima) oder auf kontinentale Dimensionen (Makroklima), einschlie\u00dflich aller Schwankungen im Jahresverlauf und basierend auf einer Vielzahl von Klimaelementen. Die klimatischen Bedingungen werden nicht nur von der Sonneneinstrahlung sowie den physikalischen und chemischen Abl\u00e4ufen innerhalb der Atmosph\u00e4re gesteuert, sondern zus\u00e4tzlich von den Einfl\u00fcssen und Wechselwirkungen der anderen vier Erdsph\u00e4ren (Hydrosph\u00e4re, Kryosph\u00e4re, Biosph\u00e4re und Lithosph\u00e4re). Um neben allen anderen Witterungsvorg\u00e4ngen auch den Temperaturverlauf in einem statistisch relevanten Zeitrahmen mit ausreichender Genauigkeit darzustellen, empfiehlt die Weltorganisation f\u00fcr Meteorologie (WMO) die Verwendung von Referenzperioden (auch Normalperioden oder CLINO-Perioden), in denen die Monatsmittelwerte als Zeitreihe \u00fcber 30 Jahre in einem Datensatz zusammengefasst werden. Gegenw\u00e4rtig ist die Referenzperiode der Jahre 1961 bis 1990 der g\u00fcltige und allgemein gebr\u00e4uchliche Vergleichsma\u00dfstab. Dieser wird nach 2021 von der neuen Normalperiode 1991 bis 2020 abgel\u00f6st.Die Gesetzm\u00e4\u00dfigkeiten des Klimas, seine Komponenten, Prozesse und Einflussfaktoren sowie seine m\u00f6gliche k\u00fcnftige Entwicklung sind Forschungsgegenstand der Klimatologie. Als interdisziplin\u00e4r gepr\u00e4gte Wissenschaft kooperiert die Klimatologie unter anderem mit Fachgebieten wie der Physik, Meteorologie, Geographie, Geologie und Ozeanographie und verwendet zum Teil deren Methoden beziehungsweise Nachweisverfahren.\nDie Pal\u00e4oklimatologie ist ein bedeutender Teilbereich sowohl der Klimatologie als auch der Historischen Geologie. Ihre Aufgabe besteht darin, anhand von Isotopenuntersuchungen und Datenreihen aus Klimaarchiven und indirekten Klimaanzeigern (Proxys) die klimatischen Bedingungen \u00fcber historische oder geologische Zeitr\u00e4ume in Form einer Klimageschichte zu rekonstruieren und die Mechanismen vergangener Klimawandel-Ereignisse zu entschl\u00fcsseln, wie zum Beispiel den Einfluss der sich periodisch ver\u00e4ndernden Sonneneinstrahlung aufgrund der Milankovi\u0107-Zyklen auf das Erdsystem.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Klima"
+    },
+    {
+        "title": "Daten",
+        "content": "Daten bezeichnet als Plural von Datum Fakten, Zeitpunkte oder kalendarische Zeitangaben und als Pluralwort gemeinsprachlich die durch Beobachtungen, Messungen u. \u00e4. gewonnenen Zahlenwerte und darauf beruhenden Angaben oder formulierbaren Befunde.W\u00e4hrend Daten in der Umgangssprache Gegebenheiten, Tatsachen, Ereignisse sind, sind Daten fachsprachlich Zeichen, die Information darstellen. In verschiedenen Fachgebieten wie z. B. der Informatik, der Mathematik, der Wirtschaftstheorie, der Neurowissenschaft oder den Biowissenschaften sind unterschiedliche \u2013 meist \u00e4hnliche \u2013 Definitionen gebr\u00e4uchlich. Eine einheitliche Definition gibt es bisher nicht.Im Datenschutzrecht sind im Wesentlichen die personenbezogenen Daten gemeint, d. h. Angaben \u00fcber nat\u00fcrliche Personen, z. B. das Geburtsdatum oder der Wohnort.\nF\u00fcr die Datenverarbeitung und (Wirtschafts-)Informatik werden Daten als Zeichen (oder Symbole) definiert, die Informationen darstellen und die dem Zweck der Verarbeitung dienen.Die Wirtschaftstheorie beschreibt Daten als diejenigen volkswirtschaftlichen Gegebenheiten, die einen wesentlichen Einfluss auf den Ablauf der Wirtschaft haben, selbst dabei aber nicht beeinflusst werden.Die Semiotik definiert Daten als potenzielle Information, siehe dazu semiotisches Dreieck. Hier werden Daten heute in die Sigmatik-Ebene eingeordnet.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Daten"
+    },
+    {
+        "title": "Elektrizit\u00e4t",
+        "content": "Elektrizit\u00e4t (von griechisch \u1f24\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd \u0113lektron \u201eBernstein\u201c) ist der physikalische Oberbegriff f\u00fcr alle Ph\u00e4nomene, die ihre Ursache in ruhender oder bewegter elektrischer Ladung haben. Dies umfasst viele aus dem Alltag bekannte Ph\u00e4nomene wie Blitze oder die Kraftwirkung des Magnetismus. Der Begriff der Elektrizit\u00e4t ist in der Naturwissenschaft nicht streng abgegrenzt, es werden aber bestimmte Eigenschaften zum Kernbereich der Elektrizit\u00e4t gez\u00e4hlt:\n\nDie elektrische Ladung. Sie ist eine Eigenschaft bestimmter atomarer Teilchen wie der negativ geladenen Elektronen und der positiv geladenen Protonen, die als Ladungstr\u00e4ger bezeichnet werden, und wird in der Einheit Coulomb gemessen. Die Bezeichnung positiv bzw. negativ ist willk\u00fcrlich gew\u00e4hlt. Wesentliche Eigenschaft ist, dass sich gleichnamige elektrische Ladungen absto\u00dfen, w\u00e4hrend sich ungleiche Ladungen anziehen.\nDer elektrische Strom. Er beschreibt eine Bewegung von elektrischen Ladungstr\u00e4gern, wird in der Einheit Ampere gemessen und ist unter anderem Ursache von magnetischen Feldern. Durch beschleunigte Bewegung elektrischer Ladungen werden elektromagnetische Felder erzeugt, die im Bereich der Elektrodynamik beschrieben werden und sich unabh\u00e4ngig von elektrischen Leitern im Raum ausbreiten k\u00f6nnen.\nDas elektrische Feld beschreibt die von elektrischen Ladungen hervorgerufenen Zustandsgr\u00f6\u00dfen des Raumes, die man als elektrische Feldst\u00e4rke und elektrisches Potential bezeichnet. Die als Potentialdifferenz definierte elektrische Spannung wird \u00fcblicherweise in der Einheit Volt gemessen.Vorg\u00e4nge, bei denen keine zeitliche oder keine wesentliche zeitliche \u00c4nderung auftritt, werden der Elektrostatik zugeordnet. Vorg\u00e4nge, bei denen die zeitliche \u00c4nderung einen wesentlichen Einfluss hat, werden zur Elektrodynamik gez\u00e4hlt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Elektrizit%C3%A4t"
+    },
+    {
+        "title": "Energie",
+        "content": "Energie ist eine fundamentale physikalische Gr\u00f6\u00dfe, die in allen Teilgebieten der Physik sowie in der Technik, Chemie, Biologie und der Wirtschaft eine zentrale Rolle spielt. Ihre SI-Einheit ist das Joule. Die praktische Bedeutung der Energie liegt oft darin, dass ein physikalisches System in dem Ma\u00df W\u00e4rme abgeben, Arbeit leisten oder Strahlung aussenden kann, in dem seine Energie sich verringert. In einem gegen\u00fcber der Umgebung abgeschlossenen System \u00e4ndert sich die Gesamtenergie nicht (Energieerhaltungssatz). Die Bedeutung der Energie in der theoretischen Physik liegt unter anderem darin, dass der Energieerhaltungssatz, urspr\u00fcnglich eine Erfahrungstatsache, schon daraus gefolgert werden kann, dass die grundlegenden physikalischen Naturgesetze zeitlich unver\u00e4nderlich sind.\nEnergie gibt es in verschiedenen Energieformen, die ineinander umgewandelt werden k\u00f6nnen. Beispiele von Energieformen sind potentielle, kinetische, elektrische, chemische und W\u00e4rmeenergie (thermische Energie). Beispiele f\u00fcr solche Umwandlungen von Energie sind, dass ein Mensch ein Paket hochhebt oder ein Fahrrad beschleunigt, dass eine Batterie geladen wird, ein Lebewesen Stoffwechsel betreibt oder eine Heizung W\u00e4rme abgibt.\nDie Energie eines Systems ist von seinem Zustand abh\u00e4ngig, d. h. von den Parametern des Systems und den momentanen Werten seiner Variablen. Die Form dieser Abh\u00e4ngigkeit bestimmt nach den hamiltonschen Bewegungsgleichungen, der Schr\u00f6dingergleichung oder der Dirac-Gleichung in allen Einzelheiten die zeitliche Entwicklung des Systems.\nGem\u00e4\u00df der Relativit\u00e4tstheorie sind Ruheenergie und Masse durch die \u00c4quivalenz von Masse und Energie (\n  \n    \n      \n        E\n        =\n        m\n        \n          c\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle E=mc^{2}}\n  ) verkn\u00fcpft.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Energie"
+    },
+    {
+        "title": "Experiment",
+        "content": "Ein Experiment (von lateinisch experimentum \u201edas in Erfahrung Gebrachte; Versuch, Beweis, Pr\u00fcfung, Probe\u201c, von experiri) im Sinne der Wissenschaft ist eine methodisch angelegte Untersuchung zur empirischen Gewinnung von Information (Daten). Im Unterschied zur blo\u00dfen Beobachtung oder der Demonstration eines Effekts werden im Experiment Einflussgr\u00f6\u00dfen ver\u00e4ndert. Experimente werden in vielen Wissenschaften ben\u00f6tigt und durchgef\u00fchrt, beispielsweise in Naturwissenschaften, Ingenieurwissenschaften, Medizin, Psychologie und Soziologie. Meist sind Z\u00e4hlungen oder Messungen ein wichtiger Teil des Experiments.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Experiment"
+    },
+    {
+        "title": "Genetik",
+        "content": "Die Genetik (moderne Wortsch\u00f6pfung zu altgriechisch \u03b3\u03b5\u03bd\u03b5\u03ac gene\u00e1 \u201eAbstammung\u201c und \u03b3\u03ad\u03bd\u03b5\u03c3\u03b9\u03c2 g\u00e9nesis \u201eUrsprung\u201c) oder Vererbungslehre (fr\u00fcher auch Erbbiologie) ist die Wissenschaft von der Vererbung und ein Teilgebiet der Biologie. Sie befasst sich mit den Gesetzm\u00e4\u00dfigkeiten und materiellen Grundlagen der Ausbildung von erblichen Merkmalen und der Weitergabe von Erbanlagen (Genen) an die n\u00e4chste Generation.\nDas Wissen, dass individuelle Merkmale \u00fcber mehrere Generationen hinweg weitergegeben werden, ist relativ jung; Vorstellungen von solchen nat\u00fcrlichen Vererbungsprozessen pr\u00e4gten sich erst im 18. und fr\u00fchen 19. Jahrhundert aus. Als Begr\u00fcnder der Genetik in diesem Sinn gilt der Augustinerm\u00f6nch Gregor Mendel, der in den Jahren 1856 bis 1865 im Garten seines Klosters systematisch Kreuzungsexperimente mit Erbsen durchf\u00fchrte und diese statistisch auswertete. So entdeckte er die sp\u00e4ter nach ihm benannten Mendelschen Regeln, die in der Wissenschaft allerdings erst im Jahr 1900 rezipiert und best\u00e4tigt wurden. Der heute weitaus bedeutendste Teilbereich der Genetik ist die Molekulargenetik, die sich mit den molekularen Grundlagen der Vererbung befasst. Aus ihr ging die Gentechnik hervor, in der die Erkenntnisse der Molekulargenetik praktisch angewendet werden.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Genetik"
+    },
+    {
+        "title": "Hypothese",
+        "content": "Eine Hypothese (von altgriechisch \u1f51\u03c0\u03cc\u03b8\u03b5\u03c3\u03b9\u03c2 hyp\u00f3thesis \u2192 sp\u00e4tlateinisch hypothesis, w\u00f6rtlich \u201aUnterstellung\u2018) ist eine in Form einer logischen Aussage formulierte Annahme, deren G\u00fcltigkeit nicht bewiesen bzw. verifiziert ist. Die Hypothese muss anhand ihrer Folgerungen \u00fcberpr\u00fcfbar sein; wird sie \u00fcberpr\u00fcft, ist sie dadurch dann je nach Ergebnis entweder bewiesen bzw. verifiziert oder aber widerlegt. Bei der Formulierung einer Hypothese ist es \u00fcblich, die Bedingungen anzugeben, unter denen sie g\u00fcltig sein soll: geschieht bei eindeutigen logischen Beziehungen in folgender Form:\n\n\u201eImmer wenn \u2026, dann \u2026.\u201cIn positivistischen wissenschaftstheoretischen Str\u00f6mungen ist die Hypothese die Vorstufe einer Theorie, zu der sie durch verifizierende Beobachtungen werden kann, vorausgesetzt es gelingt niemandem, sie eindeutig zu widerlegen. Der Ausdruck \u201eTheorie\u201c bezeichnet in der Wissenschaftssprache, in teilweisem Gegensatz zum allgemeinen Sprachgebrauch, eine Gruppe aufeinander bezogener logischer Aussagen, die zumindest teilweise durch Empirie best\u00e4tigt sind (z. B. die Relativit\u00e4tstheorie oder die Evolutionstheorie). Eine Behauptung oder ein Leitsatz (Beobachtungssatz), der durch wissenschaftliche Beweisf\u00fchrung bewiesen oder widerlegt werden soll, wird als These bezeichnet (Bsp.: \u201eWirtschaften an sich ist frei von moralischem Gehalt\u201c).\nKritisch-rationale Ans\u00e4tze vertreten demgegen\u00fcber die Auffassung, Theorie, Spekulation und Hypothese seien gleichwertig, da theoretische Aussagen grunds\u00e4tzlich nicht verifiziert, sondern h\u00f6chstens falsifiziert werden k\u00f6nnten (Prinzip der Falsifizierbarkeit).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Hypothese"
+    },
+    {
+        "title": "Labor",
+        "content": "Das Labor oder Laboratorium (Mehrzahl meist Labore oder auch Labors, bzw. Laboratorien, vom lateinischen laborare = \u201earbeiten\u201c, \u201eleiden\u201c, \u201esich abm\u00fchen\u201c) bezeichnet einen Arbeitsplatz vor allem im Bereich der Naturwissenschaften. Im Labor werden die verschiedenen Experimente, Prozesskontrollen, Qualit\u00e4tskontrollen, Pr\u00fcfungen und Messungen (insbesondere auch Kalibrierungen) durchgef\u00fchrt und/oder es werden chemische Materialien bearbeitet sowie chemische Produkte hergestellt (Beispiel Chemielabor).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Labor"
+    },
+    {
+        "title": "Materie (Physik)",
+        "content": "Materie (von lateinisch materia, Stoff) ist in den Naturwissenschaften eine Sammelbezeichnung f\u00fcr alles, woraus physikalische K\u00f6rper aufgebaut sein k\u00f6nnen, also chemische Stoffe bzw. Materialien, sowie deren Bausteine. Die Beschreibung der Zusammensetzung, Struktur und Dynamik von Materie in ihren verschiedenen Formen ist eine zentrale Zielsetzung der Physik. \nIn der klassischen Physik stehen der Materie die Begriffe Vakuum und Kraftfeld gegen\u00fcber. Hierbei haben Vakuum und Kraftfeld keine Masse, sondern beschreiben einen Zustand des leeren Raums. Unter Materie hingegen versteht man in der klassischen Physik alles, was Raum einnimmt und eine Masse besitzt. \nIn der modernen Physik wurde der Materiebegriff insbesondere durch die Relativit\u00e4tstheorie und die Quantenphysik mehrfach erweitert und ist heute in seiner Abgrenzung gegen\u00fcber den Begriffen Vakuum und Feld nicht mehr einheitlich festgelegt. In den Lehrb\u00fcchern der Physik wird er \u00fcberwiegend ohne eine genauere Definition einfach vorausgesetzt. \nIn seiner engsten Bedeutung umfasst der Materiebegriff heute alle Elementarteilchen mit Spin \n  \n    \n      \n        \n          \n            \n              1\n              2\n            \n          \n        \n      \n    \n    {\\displaystyle {\\tfrac {1}{2}}}\n  , also Quarks und Leptonen, sowie alle daraus aufgebauten Objekte wie Atome, Molek\u00fcle, feste, fl\u00fcssige und gasf\u00f6rmige Materie usw. bis hin zu Sternen und Galaxien.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Materie_(Physik)"
+    },
+    {
+        "title": "Observation",
+        "content": "Observation bezeichnet in Deutschland die verdeckte, zielgerichtete und systematische Beobachtung von Personen, Personengruppen, Einrichtungen oder Sachen, um grundlegende oder erg\u00e4nzende Erkenntnisse zu gewinnen. Sie ist zu unterscheiden von anderen Ma\u00dfnahmen der \u00dcberwachung wie Onlinedurchsuchung und Telefon\u00fcberwachung. Die observierende Person wird \u201eObservant\u201c genannt, die observierte Person hei\u00dft \u201eZielperson\u201c (ZP).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Observation"
+    },
+    {
+        "title": "Lebewesen",
+        "content": "Lebewesen sind organisierte Einheiten, die unter anderem zu Stoffwechsel, Fortpflanzung, Reizbarkeit, Wachstum und Evolution f\u00e4hig sind. Lebewesen pr\u00e4gen entscheidend das Bild der Erde und die Zusammensetzung der Erdatmosph\u00e4re (Biosph\u00e4re). Neuere Sch\u00e4tzungen lassen vermuten, dass 30 Prozent der gesamten Biomasse der Erde auf unterirdisch lebende Mikroorganismen entfallen. Rezente Lebewesen stammen immer von anderen Lebewesen ab (Abstammungstheorie). \u00dcber die Entstehung von Lebewesen aus abiogenen Vorformen wird intensiv geforscht. Zu den \u00e4ltesten Spuren irdischer Lebewesen geh\u00f6ren insbesondere die Stromatolithen.\nDie Biologie untersucht die heute bekannten Lebewesen und ihre Evolution sowie die Grenzformen des Lebens (z. B. Viren) mit naturwissenschaftlichen Methoden.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Lebewesen"
+    },
+    {
+        "title": "Teleskop",
+        "content": "Ein Teleskop ist ein Instrument, das elektromagnetische Wellen sammelt und b\u00fcndelt, beispielsweise um weit entfernte Objekte beobachten zu k\u00f6nnen.  Der aus dem griechischen \u03c4\u1fc6\u03bb\u03b5 t\u00e9le (\u201efern\u201c) und \u03c3\u03ba\u03bf\u03c0\u03b5\u1fd6\u03bd skope\u00edn (\u201ebeobachten, aussp\u00e4hen\u201c) gebildete Ausdruck wurde zwar erst in der Neuzeit gepr\u00e4gt, doch gab es schon im Altgriechischen das Wort \u03c4\u03b7\u03bb\u03b5\u03c3\u03ba\u03cc\u03c0\u03bf\u03c2 telesk\u00f3pos (\u201eweithin schauend\u201c).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Teleskop"
+    },
+    {
+        "title": "Temperatur",
+        "content": "Die Temperatur ist eine Zustandsgr\u00f6\u00dfe von zentraler Bedeutung bei der makroskopischen Beschreibung physikalischer und chemischer Zust\u00e4nde und Prozesse in Wissenschaft, Technik und Umwelt. Die Temperatur ist ein objektives Ma\u00df daf\u00fcr, wie warm oder kalt ein Gegenstand ist. Sie wird mit einem Thermometer gemessen. Ihre SI-Einheit ist das Kelvin mit dem Einheitenzeichen K. In Deutschland, \u00d6sterreich und der Schweiz ist die Einheit Grad Celsius (\u00b0C) ebenfalls zul\u00e4ssig. Die gemessene Temperatur kann sich zuweilen erheblich von der gef\u00fchlten Temperatur unterscheiden.\nBringt man zwei K\u00f6rper mit unterschiedlichen Temperaturen in thermischen Kontakt, findet W\u00e4rme\u00fcbertragung statt. Dadurch nimmt die Temperaturdifferenz so lange ab, bis sich die beiden Temperaturen einander angeglichen haben. Die W\u00e4rme flie\u00dft dabei stets vom hei\u00dferen zum k\u00e4lteren K\u00f6rper. Wenn die Temperaturen gleich sind, herrscht thermisches Gleichgewicht, in dem kein W\u00e4rmeaustausch mehr stattfindet.\nDie mikroskopische Deutung der Temperatur ergibt sich in der statistischen Physik, die davon ausgeht, dass jeder materielle Stoff aus vielen Teilchen zusammengesetzt ist (meist Atome oder Molek\u00fcle), die sich in st\u00e4ndiger ungeordneter Bewegung befinden und eine Energie haben, die sich aus kinetischer, potentieller sowie gegebenenfalls auch innerer Anregungsenergie zusammensetzt. Eine Erh\u00f6hung der Temperatur verursacht eine Erh\u00f6hung der durchschnittlichen Energie der Teilchen. Im Zustand des thermischen Gleichgewichts verteilen sich die Energiewerte der einzelnen Teilchen statistisch gem\u00e4\u00df einer H\u00e4ufigkeitsverteilung, deren Form durch die Temperatur bestimmt wird (siehe \u2013 je nach Art der Teilchen \u2013 Boltzmann-Statistik, Fermi-Dirac-Statistik, Bose-Einstein-Statistik). Dieses Bild ist auch anwendbar, wenn es sich nicht um ein System materieller Teilchen, sondern um Photonen handelt (siehe W\u00e4rmestrahlung).\nIm idealen Gas ist die gesamte Energie jedes Teilchens allein durch seine kinetische Energie gegeben. Deren Durchschnittswert in einer gegebenen Gasmenge wird seit 2019 durch eine Vereinbarung im Internationalen Einheitensystem zur quantitativen Definition der Absoluten Temperatur genommen. Seitdem ist die Temperatureinheit Kelvin an die Energieeinheit Joule gekoppelt und nicht mehr wie bis 2019 durch eine bestimmte Eigenschaft des Stoffes Wasser definiert.\nDie Temperatur ist eine intensive Zustandsgr\u00f6\u00dfe. Das bedeutet, dass sie ihren Wert beibeh\u00e4lt, wenn man den betrachteten K\u00f6rper teilt. Dagegen hat die Innere Energie als extensive Gr\u00f6\u00dfe die Eigenschaften einer Menge, die aufgeteilt werden kann.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Temperatur"
+    },
+    {
+        "title": "Wetter",
+        "content": "Als Wetter (v. althochdt.: wetar = Wind, Wehen) bezeichnet man den sp\u00fcrbaren, kurzfristigen Zustand der Atmosph\u00e4re (auch: messbarer Zustand der Troposph\u00e4re) an einem bestimmten Ort der Erdoberfl\u00e4che, der unter anderem als Sonnenschein, Bew\u00f6lkung, Regen, Wind, Hitze oder K\u00e4lte in Erscheinung tritt.\nDie Meteorologie klassifiziert das \u00f6rtliche Wetter einer bestimmten Zeit anhand der verschiedenen Ph\u00e4nomene in der Troposph\u00e4re, dem unteren Teil der Atmosph\u00e4re. Den Verlauf des Wetters bestimmt die von Sonnenstrahlung und regionaler Energiebilanz gepr\u00e4gte atmosph\u00e4rische Zirkulation.\nPhysikalisch l\u00e4sst sich ein Wetter durch thermodynamische Zustandsgr\u00f6\u00dfen wie etwa Druck, Temperatur, Dichte beschreiben. Ein \u201eWetter\u201c in diesem Sinne kann auch in einem Labor erzeugt werden. Dar\u00fcber hinaus gibt es solche Zust\u00e4nde und Wetterph\u00e4nomene (zum Beispiel Winde) auch auf anderen Planeten, die eine Atmosph\u00e4re haben.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wetter"
+    },
+    {
+        "title": "Virologie",
+        "content": "Die Virologie ist die Lehre von den Viren. Die Virologie charakterisiert und klassifiziert die bisher beschriebenen Viren. Sie erforscht deren Eigenschaften und Vermehrung sowie die Pr\u00e4vention und Behandlung von Virusinfektionen. Jedes Lebewesen (einschlie\u00dflich der Bakterien und Protozoen) kann von Viren infiziert werden. Die Virologie der human- und tierpathogenen Viren bewegt sich wie die Mikrobiologie an der Schnittstelle zwischen Biologie und Medizin. Pflanzenpathogene Viren haben in der Agrarindustrie und Landwirtschaft gro\u00dfe Bedeutung.\nIn der Medizin ist die Virologie integraler Bestandteil der Fachdisziplin \u201eMikrobiologie, Virologie und Infektionsepidemiologie\u201c.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Virologie"
+    },
+    {
+        "title": "Volumen",
+        "content": "Das Volumen (Pl. Volumen oder Volumina; von lat. volumen \u201eWindung, Kr\u00fcmmung\u201c, aus volvere \u201ew\u00e4lzen, rollen\u201c), auch: Raum- oder Kubikinhalt, ist der r\u00e4umliche Inhalt eines geometrischen K\u00f6rpers. \u00dcbliches Formelzeichen ist V.\nIn der Physik bezeichnet man mit dem Volumen die Ausdehnung (den Platzbedarf) eines K\u00f6rpers. Die (koh\u00e4rente) SI-Einheit f\u00fcr das Raumma\u00df ist der Kubikmeter (Einheitenzeichen m3). Vereinzelt liest man noch die veralteten Abk\u00fcrzungen cbm f\u00fcr m\u00b3 und ccm f\u00fcr cm\u00b3. Die Einheit Liter ist f\u00fcr Gase und Fl\u00fcssigkeiten gebr\u00e4uchlich und als 1 dm3 (10\u00d710\u00d710 cm\u00b3) definiert.\nTechnisch muss unterschieden werden:\n\nHohlvolumen, der freie Raum innerhalb gewisser Grenzen, etwa das Fassungsverm\u00f6gen eines Beh\u00e4lters\nRauminhalt, das Volumen fester K\u00f6rper, von Fl\u00fcssigkeiten oder Gasen",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Volumen"
+    },
+    {
+        "title": "Tatsache",
+        "content": "Eine Tatsache (factum, res facti; altgriechisch \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1) ist je nach Auffassung ein wirklicher, nachweisbarer, bestehender, wahrer oder anerkannter Sachverhalt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tatsache"
+    },
+    {
+        "title": "Ma\u00dfeinheit",
+        "content": "Geometrische und physikalische Gr\u00f6\u00dfen werden in Ma\u00dfeinheiten (auch Gr\u00f6\u00dfeneinheit oder physikalische Einheit) angegeben, die einen eindeutigen (in der Praxis feststehenden, wohldefinierten) Wert haben. Alle anderen Werte der jeweiligen Gr\u00f6\u00dfe werden als Vielfache der Einheit angegeben. Bekannte Ma\u00dfeinheiten sind beispielsweise Meter, Sekunde, Kilowattstunde, Hertz oder Kilometer pro Stunde.\nMa\u00dfeinheiten k\u00f6nnen f\u00fcr alle Gr\u00f6\u00dfenarten definiert werden, auch f\u00fcr nicht physikalische Gr\u00f6\u00dfen, etwa  W\u00e4hrungen oder die wahrnehmungsbezogenen Gr\u00f6\u00dfen Tonheit oder Lautheit.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ma%C3%9Feinheit"
+    },
+    {
+        "title": "Prognose",
+        "content": "Die Prognose (altgriechisch \u03c0\u03c1\u03cc\u03b3\u03bd\u03c9\u03c3\u03b9\u03c2 prognosis \u201aVorwissen\u2018 oder \u201aVoraus-Kenntnis\u2018), deutsch Vorhersage oder Voraussage, selten auch: Pr\u00e4diktion (lateinisch praedicere \u201avoraussagen\u2018) ist eine Aussage \u00fcber Ereignisse, Umweltzust\u00e4nde oder Entwicklung in der Zukunft. Die Pr\u00e4diktion hat einen anderen zeitlichen Verlauf als die Retrodiktion und Erkl\u00e4rung. Von anderen Aussagen \u00fcber die Zukunft (z. B. Prophezeiungen) unterscheiden sich Prognosen durch ihre Wissenschaftsorientierung.\nWissenschaft und Methodologie der Prognosen ist die Prognostik, in weiterem Sinne die Futurologie.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Prognose"
+    },
+    {
+        "title": "Isaac Newton",
+        "content": "Sir Isaac Newton [\u02cca\u026az\u0259k \u02c8nju\u02d0t\u0259n] (* 25. Dezember 1642jul./ 4. Januar 1643greg. in Woolsthorpe-by-Colsterworth in Lincolnshire; \u2020 20. M\u00e4rz 1726jul./ 31. M\u00e4rz 1727greg. in Kensington) war ein englischer Naturforscher und Verwaltungsbeamter. In der Sprache seiner Zeit, die zwischen nat\u00fcrlicher Theologie, Naturwissenschaften, Alchemie und Philosophie noch nicht scharf trennte, wurde Newton als Philosoph bezeichnet.\nIsaac Newton ist der Verfasser der Philosophiae Naturalis Principia Mathematica, in denen er mit seinem Gravitationsgesetz die universelle Gravitation beschrieb und die Bewegungsgesetze formulierte, womit er den Grundstein f\u00fcr die klassische Mechanik legte. Fast gleichzeitig mit Gottfried Wilhelm Leibniz entwickelte Newton die Infinitesimalrechnung. Er verallgemeinerte das binomische Theorem mittels unendlicher Reihen auf beliebige reelle Exponenten. Bekannt ist er auch f\u00fcr seine Leistungen auf dem Gebiet der Optik: die von ihm verfochtene Teilchentheorie des Lichtes und die Erkl\u00e4rung des Lichtspektrums.\nAufgrund seiner Leistungen, vor allem auf den Gebieten der Physik und Mathematik (siehe Geschichte der Physik, Geschichte der Mathematik), gilt Sir Isaac Newton als einer der bedeutendsten Wissenschaftler aller Zeiten. Die Principia Mathematica werden als eines der wichtigsten wissenschaftlichen Werke eingestuft.\nEine Sammlung von Schriften, im Bestand der National Library of Israel, zu theologischen und alchemistischen Themen wurde 2015 von der UNESCO zum Weltdokumentenerbe erkl\u00e4rt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+        "title": "Albert Einstein",
+        "content": "Albert Einstein (* 14. M\u00e4rz 1879 in Ulm, W\u00fcrttemberg, Deutsches Reich; \u2020 18. April 1955 in Princeton, New Jersey, Vereinigte Staaten) war ein deutscher Physiker mit Schweizer und US-amerikanischer Staatsb\u00fcrgerschaft. Er gilt als einer der bedeutendsten theoretischen Physiker der Wissenschaftsgeschichte und weltweit als bekanntester Wissenschaftler der Neuzeit. Seine Forschungen zur Struktur von Materie, Raum und Zeit sowie zum Wesen der Gravitation ver\u00e4nderten ma\u00dfgeblich das zuvor geltende newtonsche Weltbild.\nEinsteins Hauptwerk, die Relativit\u00e4tstheorie, machte ihn weltber\u00fchmt. Im Jahr 1905 erschien seine Arbeit mit dem Titel Zur Elektrodynamik bewegter K\u00f6rper, deren Inhalt heute als spezielle Relativit\u00e4tstheorie bezeichnet wird. 1915 publizierte er die allgemeine Relativit\u00e4tstheorie. Auch zur Quantenphysik leistete er wesentliche Beitr\u00e4ge. \u201eF\u00fcr seine Verdienste um die theoretische Physik, besonders f\u00fcr seine Entdeckung des Gesetzes des photoelektrischen Effekts\u201c, erhielt er den Nobelpreis des Jahres 1921, der ihm 1922 \u00fcberreicht wurde. Seine theoretischen Arbeiten spielten \u2013 im Gegensatz zur weit verbreiteten Meinung \u2013 beim Bau der Atombombe und der Entwicklung der Kernenergie nur eine indirekte Rolle.Albert Einstein gilt als Inbegriff des Forschers und Genies. Er nutzte seine au\u00dferordentliche Bekanntheit auch au\u00dferhalb der naturwissenschaftlichen Fachwelt bei seinem Einsatz f\u00fcr V\u00f6lkerverst\u00e4ndigung und Frieden.\nIm Laufe seines Lebens war Einstein Staatsb\u00fcrger mehrerer L\u00e4nder: Durch Geburt besa\u00df er die w\u00fcrttembergische Staatsb\u00fcrgerschaft. Von 1896 bis 1901 staatenlos, ab 1901 bis zu seinem Tode Staatsb\u00fcrger der Schweiz, war er 1911/1912 in \u00d6sterreich-Ungarn auch B\u00fcrger \u00d6sterreichs. Von 1914 bis 1932 lebte Einstein in Berlin und war als B\u00fcrger Preu\u00dfens erneut Staatsangeh\u00f6riger im Deutschen Reich. Mit der Machtergreifung Hitlers gab er 1933 den deutschen Pass endg\u00fcltig ab und wurde 1934 vom Deutschen Reich strafausgeb\u00fcrgert. Zus\u00e4tzlich zu seinem Schweizer B\u00fcrgerrecht erwarb er 1940 noch die Staatsb\u00fcrgerschaft der Vereinigten Staaten.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+        "title": "Naturphilosophie",
+        "content": "Die Naturphilosophie versucht, die Natur in ihrer Gesamtheit aufzufassen und in ihren allgemeinen wie partikul\u00e4ren Strukturen zu beschreiben, theoretisch zu erkl\u00e4ren und zu deuten. Naturphilosophie thematisiert die Charakteristika und Bedingungen der M\u00f6glichkeit der heutigen wissenschaftlichen und lebensweltlichen Naturauffassungen und geht deren gegenseitigen Abh\u00e4ngigkeiten (Interdependenzen) nach. Ihr Aufgabenfeld l\u00e4sst sich, entsprechend der traditionellen Gliederung der Philosophie, dreiteilen in die Analyse von Natur als Inhalt bzw. Gegenstand theoretischer, praktischer und \u00e4sthetischer Urteile. Sie widmet sich seit der Moderne verst\u00e4rkt dem Verh\u00e4ltnis zwischen verschiedenen Naturbegriffen.Im europ\u00e4ischen Kulturkreis ist die ionische Naturphilosophie ein Ausgangspunkt der antiken Philosophie \u00fcberhaupt. Die moderne systematische Naturphilosophie ist ein Teilgebiet der Ontologie und \u00fcberschneidet sich mit der Philosophie der Physik, der Philosophie der Biologie, der Philosophie der Chemie und Philosophien anderer Naturwissenschaften bzw. umfasst diese als Teildisziplinen. Dar\u00fcber hinaus umfasst Naturphilosophie \u2013 wenn man sie nicht im engen, 'analytischen' Sinne als Wissenschaftstheorie der Naturwissenschaften begreift \u2013 auch die Reflexion auf nicht-wissenschaftliche Naturauffassungen, in denen Natur kein kausales Wirkungsgef\u00fcge ist, sondern ein \u00e4sthetischer, symbolischer, ethisch-moralischer usw. Gegenstand.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Naturphilosophie"
+    },
+    {
+        "title": "Quantenmechanik",
+        "content": "Die Quantenmechanik ist eine physikalische Theorie, mit der die Eigenschaften und Gesetzm\u00e4\u00dfigkeiten von Zust\u00e4nden und Vorg\u00e4ngen der Materie beschrieben werden. Im Gegensatz zu den Theorien der klassischen Physik erlaubt sie die zutreffende Berechnung physikalischer Eigenschaften von Materie im Gr\u00f6\u00dfenbereich der Atome und darunter. Die Quantenmechanik ist eine der Haupts\u00e4ulen der modernen Physik. Sie bildet die Grundlage zur Beschreibung der Ph\u00e4nomene der Atomphysik, der Festk\u00f6rperphysik und der Kern- und Elementarteilchenphysik, aber auch verwandter Wissenschaften wie der Quantenchemie.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Quantenmechanik"
+    },
+    {
+        "title": "Optik",
+        "content": "Die Optik (von altgriechisch \u1f40\u03c0\u03c4\u03b9\u03ba\u03cc\u03c2 optik\u00f3s \u201azum Sehen geh\u00f6rend\u2018), auch Lehre vom Licht genannt, ist ein Gebiet der Physik und besch\u00e4ftigt sich mit der Ausbreitung von Licht sowie dessen Wechselwirkung mit Materie, insbesondere im Zusammenhang mit optischen Abbildungen.\nUnter Licht wird in der Regel der sichtbare Teil des elektromagnetischen Spektrums im Bereich 380 nm und 780 nm (790 THz bis 385 THz) verstanden. In der Physik wird der Begriff Licht mitunter auch auf unsichtbare Bereiche von elektromagnetischer Strahlung ausgeweitet und umfasst im allgemeinen Sprachgebrauch dann auch das Infrarotlicht oder das ultraviolette Licht. Viele Gesetzm\u00e4\u00dfigkeiten und Methoden der klassischen Optik gelten allerdings auch au\u00dferhalb des Bereichs sichtbaren Lichts. Dies erlaubt eine \u00dcbertragung der Erkenntnisse der Optik auf andere Spektralbereiche, zum Beispiel die R\u00f6ntgenstrahlung (siehe R\u00f6ntgenoptik) sowie Mikro- und Funkwellen.\nAuch Strahlen geladener Teilchen bewegen sich in elektrischen oder magnetischen Feldern oft nach den Gesetzen der Optik (siehe Elektronenoptik).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Optik"
+    },
+    {
+        "title": "Kraft",
+        "content": "Kraft ist ein grundlegender Begriff in der Physik. In der klassischen Physik versteht man darunter eine Einwirkung, die einen K\u00f6rper verformen und/oder beschleunigen kann. Kr\u00e4fte sind erforderlich, um Arbeit zu verrichten, wobei sich die Energie eines K\u00f6rpers oder eines physikalischen Systems \u00e4ndert.\nKr\u00e4fte sind gerichtete physikalische Gr\u00f6\u00dfen, die durch Vektoren dargestellt werden k\u00f6nnen. F\u00fcr zwei Kr\u00e4fte, die am gleichen Punkt angreifen, gilt: Sie sind im Gleichgewicht und heben sich auf, wenn sie entgegengesetzt und gleich stark sind. Allgemein gilt, dass sie zu einer resultierenden Kraft zusammengefasst werden k\u00f6nnen, die nach dem Kr\u00e4fteparallelogramm ermittelt wird. Kr\u00e4fte haben verschiedene Ursachen oder Wirkungen und werden teilweise nach ihnen benannt, etwa die Reibungskraft, die Zentripetalkraft und die Gewichtskraft. Manche Arten von Kr\u00e4ften wurden auch nach Personen benannt, die wesentlich an ihrer Erforschung mitgewirkt haben, wie die Corioliskraft, die Coulombkraft oder die Lorentzkraft.\nDie SI-Ma\u00dfeinheit der Kraft ist das Newton. Das Formelzeichen der Kraft ist meist \n  \n    \n      \n        F\n      \n    \n    {\\displaystyle F}\n   (von lat. fortitudo oder engl. force) oder seltener \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n   nach dem deutschen Wortanfang.\nDer physikalische Kraftbegriff geht wesentlich auf Isaac Newton zur\u00fcck, der im 17. Jahrhundert mit den drei newtonschen Gesetzen die Grundlagen der klassischen Mechanik schuf. Dabei definierte er die Kraft als zeitliche \u00c4nderung des Impulses und identifizierte sie als Ursache f\u00fcr jede Ver\u00e4nderung des Bewegungszustandes eines K\u00f6rpers. Au\u00dferdem erkannte er, dass jeder K\u00f6rper, der auf einen anderen eine Kraft aus\u00fcbt, von diesem eine entgegen gerichtete, gleich gro\u00dfe Reaktionskraft erf\u00e4hrt.\nDie Bezeichnung Kraft wird in bestimmten F\u00e4llen auch im \u00fcbertragenen Sinn verwendet, gleichbedeutend mit Wechselwirkung und losgel\u00f6st von der Darstellung durch einen mechanischen Kraftvektor. Die vier Fundamentalen Wechselwirkungen werden auch als Grundkr\u00e4fte der Physik bezeichnet. Sie sind Ursache nicht nur aller bekannten Erscheinungsformen der Kr\u00e4fte, sondern aller in der Physik bekannten Prozesse. Eine der vier Grundkr\u00e4fte, die Gravitation, wird in der allgemeinen Relativit\u00e4tstheorie durch die Kr\u00fcmmung der Raumzeit beschrieben. Die drei anderen Grundkr\u00e4fte werden im Standardmodell der Teilchenphysik durch den Austausch von Eichbosonen erkl\u00e4rt, die h\u00e4ufig auch als \u201eKraftteilchen\u201c bezeichnet werden.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kraft"
+    },
+    {
+        "title": "Angewandte Physik",
+        "content": "Die angewandte Physik steht in (unscharfer) Abgrenzung zur Experimentalphysik, teilweise auch zur theoretischen Physik. Ihr wesentliches Kennzeichen ist, dass sie ein gegebenes physikalisches Ph\u00e4nomen nicht um seiner selbst willen erforscht, sondern vor dem Hintergrund eines technischen oder interdisziplin\u00e4ren Problems. In diesem Sinne wird die angewandte Physik zwischen einer modernen Technologie auf der einen und der reinen Physik auf der anderen Seite angesehen.\nObwohl es an den meisten Universit\u00e4ten innerhalb der Fachbereiche Physik ein oder mehrere Institute f\u00fcr Angewandte Physik gibt, existieren keine entsprechenden wissenschaftlichen Fachgruppen oder Vereinigungen. Die angewandte Physik ist in diesem Sinne keine physikalische Disziplin, sondern umfasst eine Vielzahl von Disziplinen innerhalb der Physik.\nForen f\u00fcr die angewandte Physik sind wissenschaftliche Journale wie das Journal of Applied Physics und die Applied Physics Letters des American Institute of Physics, das Japanese Journal of Applied Physics oder die Applied Physics A bzw. B. Die dort behandelten Themen bieten einen \u00dcberblick \u00fcber das Themenspektrum. \nAufgef\u00fchrte technologische Gebiete der angewandten Physik sind Halbleiterelemente, Photonik, Supraleitf\u00e4higkeit, magnetische Datenspeicherung, Plasmaphysik, Teilchenbeschleuniger, Nanotechnologie, angewandte Biowissenschaften, Materialwissenschaft und -bearbeitung sowie Laser und Optik.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Angewandte_Physik"
+    },
+    {
+        "title": "Teilchen",
+        "content": "In der Physik bezeichnet man als Teilchen einen K\u00f6rper, der klein gegen\u00fcber dem Ma\u00dfstab des betrachteten Systems ist. Die innere Struktur eines einzelnen Teilchens spielt dabei keine Rolle, sondern lediglich sein Verhalten als Ganzes gegen\u00fcber anderen Teilchen oder \u00e4u\u00dferen Einfl\u00fcssen. Oft werden die Teilchen dann als ausdehnungslose Punktteilchen (im Sinne von Punktmassen) aufgefasst. Teilchen sind ideale Objekte. In der Regel beschr\u00e4nkt man sich nur auf bestimmte Eigenschaften des realen physikalischen Objekts, wie die Masse oder die elektrische Ladung, um die Wechselwirkung zu studieren, die mit dieser Eigenschaft zusammenh\u00e4ngt. Je nach Betrachtungsweise kann also ein und dasselbe physikalische Objekt als Teilchen oder als System von Teilchen angesehen werden. Das gilt insbesondere f\u00fcr Atome, aber auch f\u00fcr Atomkerne und auch f\u00fcr die Protonen und Neutronen. Die nach derzeitigem Verst\u00e4ndnis nicht mehr aus kleineren Bestandteilen zusammengesetzten Teilchen werden als Elementarteilchen bezeichnet und im Standardmodell der Elementarteilchenphysik beschrieben (siehe Standardmodell).\nDas Wort Teilchen wird auch als Kurzwort f\u00fcr Elementarteilchen benutzt. Diese bedeuten einerseits \u201edie kleinsten Bausteine der Materie\u201c, die nicht wiederum aus kleineren Teilchen zusammengesetzt sind, andererseits bezogen auf \u201eAustauschteilchen\u201c wie das Photon, welche die elementaren Kr\u00e4fte vermitteln.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Teilchen"
+    },
+    {
+        "title": "CERN",
+        "content": "Das CERN, die Europ\u00e4ische Organisation f\u00fcr Kernforschung, ist eine Gro\u00dfforschungseinrichtung in der N\u00e4he von Genf, die teilweise in Frankreich und teilweise in der Schweiz liegt. Am CERN wird physikalische Grundlagenforschung betrieben, insbesondere wird mit Hilfe gro\u00dfer Teilchenbeschleuniger der Aufbau der Materie erforscht.\nDer derzeit (2019) bedeutendste ist der Large Hadron Collider, der 2008 in Betrieb genommen wurde.\nDas Akronym CERN leitet sich vom franz\u00f6sischen Namen des Rates ab, der mit der Gr\u00fcndung der Organisation beauftragt war, dem Conseil europ\u00e9en pour la recherche nucl\u00e9aire. Die offiziellen Namen des CERN sind European Organization for Nuclear Research im Englischen beziehungsweise Organisation europ\u00e9enne pour la recherche nucl\u00e9aire im Franz\u00f6sischen.Derzeit hat das CERN 23 Mitgliedstaaten. Mit etwa 3.400 Mitarbeitern (Stand: 31. Dezember 2017) ist das CERN das weltweit gr\u00f6\u00dfte Forschungszentrum auf dem Gebiet der Teilchenphysik. \u00dcber 14.000 Gastwissenschaftler aus 85 Nationen arbeiten an CERN-Experimenten. Das Jahresbudget des CERN belief sich 2014 auf ungef\u00e4hr 1,11 Milliarden Schweizer Franken (ca. 1 Milliarde Euro).Das CERN ist au\u00dferdem der Geburtsort des World Wide Web.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/CERN"
+    },
+    {
+        "title": "Entropie",
+        "content": "Die Entropie (Kunstwort altgriechisch \u1f10\u03bd\u03c4\u03c1\u03bf\u03c0\u03af\u03b1 entrop\u00eda, von \u1f10\u03bd en \u201aan\u2018, \u201ain\u2018 und \u03c4\u03c1\u03bf\u03c0\u03ae trop\u1e17 \u201aWendung\u2018) ist eine fundamentale thermodynamische Zustandsgr\u00f6\u00dfe mit der SI-Einheit Joule pro Kelvin (J/K).\nAlle in einem System spontan ablaufenden Prozesse bewirken eine Zunahme seiner Entropie, ebenso die Zufuhr von W\u00e4rme oder Materie. Solche Prozesse sind z. B. Vermischung, W\u00e4rmeleitung, chemische Reaktion oder Umwandlung von mechanischer in thermische Energie durch Reibung (siehe Dissipation, Energieentwertung). Abnehmen kann die Entropie eines Systems nur durch Abgabe von W\u00e4rme oder Materie. Daher kann in einem abgeschlossenen System (einem System, bei dem es keinen Energie- oder Materieaustausch mit der Umgebung gibt) die Entropie nicht abnehmen, sondern im Laufe der Zeit nur zunehmen (Zweiter Hauptsatz der Thermodynamik). Prozesse, bei denen die Entropie in einem System zunimmt, k\u00f6nnen nur r\u00fcckg\u00e4ngig gemacht werden, wenn ein anderes System die Entropie aufnimmt. Sie werden als irreversibel (unumkehrbar) bezeichnet.\nBeispielsweise beobachten wir, dass in einem System aus einem kalten und einem hei\u00dfen K\u00f6rper in einer Isolierbox, d. h. in einem praktisch abgeschlossenen System, W\u00e4rmetransport einsetzt und der Temperaturunterschied verschwindet. Beide K\u00f6rper werden nach einer gewissen Zeit die gleiche Temperatur haben, womit das System den Zustand gr\u00f6\u00dfter Entropie erreicht hat. Wir beobachten in einem solchen geschlossenen System praktisch niemals das spontane Abk\u00fchlen des k\u00e4lteren K\u00f6rpers und das Erhitzen des w\u00e4rmeren.\nIn der statistischen Mechanik ist der Makrozustand eines Systems, der ausschlie\u00dflich durch makroskopische thermodynamische Gr\u00f6\u00dfen definiert wird, um so wahrscheinlicher, je h\u00f6her die Anzahl der Mikrozust\u00e4nde ist, die ihn realisieren k\u00f6nnen und die durch innere Prozesse ineinander \u00fcbergehen k\u00f6nnen. Diese Anzahl bestimmt daher die Entropie des Systems in diesem Makrozustand. In einem sich selbst \u00fcberlassenen System in einem beliebigen Anfangszustand bewirken dann die spontan ablaufenden inneren Vorg\u00e4nge, dass der Zustand des Systems sich mit gr\u00f6\u00dfter Wahrscheinlichkeit demjenigen Makrozustand ann\u00e4hert, der bei gleicher Energie durch die gr\u00f6\u00dfte Anzahl verschiedener Mikrozust\u00e4nde realisiert sein kann, also die h\u00f6chstm\u00f6gliche Entropie hat. \nDies wird umgangssprachlich h\u00e4ufig dadurch umschrieben, dass Entropie ein \u201eMa\u00df f\u00fcr Unordnung\u201c sei. Allerdings ist Unordnung kein wohldefinierter physikalischer Begriff und hat daher auch kein physikalisches Ma\u00df. Richtiger ist es, die Entropie als ein objektives Ma\u00df f\u00fcr die Menge an Information zu begreifen, die ben\u00f6tigt w\u00fcrde, um von einem beobachtbaren Makrozustand auf den tats\u00e4chlich vorliegenden Mikrozustand des Systems schlie\u00dfen zu k\u00f6nnen. Dies ist gemeint, wenn die Entropie auch als \u201eMa\u00df f\u00fcr die Unkenntnis der Zust\u00e4nde aller einzelnen Teilchen\u201c umschrieben wird.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Entropie"
+    },
+    {
+        "title": "Hom\u00f6ostase",
+        "content": "Hom\u00f6ostase (altgriechisch \u1f41\u03bc\u03bf\u03b9\u03bf\u03c3\u03c4\u03ac\u03c3\u03b9\u03c2 homoiost\u00e1sis, deutsch \u201aGleichstand\u2018) ist ein Gleichgewichtszustand und bezeichnet einen Gleichgewichtszustand eines offenen dynamischen Systems, der durch einen internen regelnden Prozess aufrechterhalten wird. Sie ist damit ein Spezialfall der Selbstregulation von Systemen. Der Begriff wird in zahlreichen Disziplinen wie zum Beispiel in der Physik, Chemie, Biologie, \u00d6kologie, in den Wirtschaftswissenschaften, der Soziologie, der Psychologie, der Medizin oder in der Rechtswissenschaft angewendet. Ein System in Hom\u00f6ostase ist ein Hom\u00f6ostat.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Hom%C3%B6ostase"
+    },
+    {
+        "title": "Bakterien",
+        "content": "Die Bakterien (Bacteria) (Singular das Bakterium, veraltend auch die Bakterie; von altgriechisch \u03b2\u03b1\u03ba\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd bakt\u0113rion \u201aSt\u00e4bchen\u2018, ugs. auch Bazille) bilden neben den Eukaryoten und Archaeen eine der drei grundlegenden Dom\u00e4nen, in die alle Lebewesen eingeteilt werden.Bakterien sind wie die Archaeen Prokaryoten, das bedeutet, ihre DNA ist nicht in einem vom Cytoplasma durch eine Doppelmembran abgegrenzten Zellkern enthalten wie bei Eukaryoten, sondern bei ihnen liegt die DNA wie bei allen Prokaryoten frei im Cytoplasma, und zwar zusammengedr\u00e4ngt in einem engen Raum, dem Nucleoid (Kern\u00e4quivalent).\nDie Wissenschaft und Lehre von den Bakterien ist die Bakteriologie.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bakterien"
+    },
+    {
+        "title": "Fossil",
+        "content": "Ein Fossil (lateinisch fossilis  \u201aausgegraben\u2018) ist jedes Zeugnis vergangenen Lebens der Erdgeschichte, das \u00e4lter als 10.000 Jahre ist und sich somit einem geologischen Zeitalter vor dem Beginn des Holoz\u00e4ns zuordnen l\u00e4sst. Derartige erdgeschichtliche Dokumente k\u00f6nnen sowohl k\u00f6rperliche \u00dcberreste von Lebewesen (K\u00f6rperfossilien) sein als auch Zeugnisse ihrer Aktivit\u00e4t (Spurenfossilien). Zum Beispiel werden auch versteinerte Trittsiegel und Exkremente (Koprolithe) zu den Fossilien gez\u00e4hlt. Die Entstehung von Fossilien nennt man Fossilisation. Die Erforschung der Fossilien erfolgt in erster Linie durch die Pal\u00e4ontologie.\nDie Bezeichnung \u201eVersteinerung\u201c oder veraltet \u201ePetrefakt\u201c (lateinisch petra [von altgriechisch \u03c0\u03ad\u03c4\u03c1\u03b1] Stein, factum \u201egemacht\u201c) ist nicht gleichbedeutend, denn nicht jedes Fossil ist mineralisiert und liegt somit als eine Versteinerung vor.\nWissenschaftlich fundierten Sch\u00e4tzungen zufolge sind etwa eine Milliarde Tier- und Pflanzenarten seit dem Beginn des Phanerozoikums vor 541 Millionen Jahren entstanden und gr\u00f6\u00dftenteils wieder ausgestorben. Manche Sch\u00e4tzungen belaufen sich sogar auf 1,6 Milliarden. Weit unter ein Prozent dieses Artenreichtums ist fossil erhalten geblieben, nicht nur wegen der besonderen Umst\u00e4nde, die f\u00fcr die Fossilisation erforderlich sind, sondern auch, weil viele Fossilien im Laufe der Jahrmillionen infolge von Verwitterung, Erosion oder Gesteinsmetamorphose wieder zerst\u00f6rt wurden. Bis 1999 sind rund 250.000 fossile Arten wissenschaftlich beschrieben worden.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fossil"
+    },
+    {
+        "title": "Physiologie",
+        "content": "Die Physiologie (altgriechisch \u03c6\u03cd\u03c3\u03b9\u03c2 ph\u00fdsis, deutsch \u201aNatur\u2018 und \u03bb\u03cc\u03b3\u03bf\u03c2 l\u00f3gos, deutsch \u201aLehre\u2018, \u201aVernunft\u2018 bzw. \u03c6\u03c5\u03c3\u03b9\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 physiolog\u00eda, deutsch \u201aNaturkunde\u2018) ist die Lehre von den normalen, insbesondere biophysikalischen, Lebensvorg\u00e4ngen in den Zellen, Geweben und Organen aller Lebewesen; sie bezieht das Zusammenwirken aller physikalischen, chemischen und biochemischen Vorg\u00e4nge im gesamten Organismus in ihre Betrachtung ein. Hierdurch grenzt sie sich von der Biochemie und der Anatomie sowie von der Pathologie und der Pathophysiologie ab. Ziel der Physiologie ist es, Vorhersagen \u00fcber das Verhalten eines betrachteten Systems (zum Beispiel Stoffwechsel, Bewegung, Keimung, Wachstum, Fortpflanzung) zu formulieren.\nPhysiologisch geforscht und ausgebildet wird in der Biologie, der Ern\u00e4hrungswissenschaft, der Medizin, der Pharmazie, der Psychologie und in der Sportwissenschaft.\nDas Eigenschaftswort physiologisch wird auch im Sinne von normal, beim gesunden Menschen auftretend, nicht krankhaft, verwendet. Dementsprechend bezeichnet unphysiologisch oder pathologisch eine Abweichung von den normalen, beim gesunden Lebewesen auftretenden oder w\u00fcnschenswerten Lebensvorg\u00e4ngen.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Physiologie"
+    },
+    {
+        "title": "Desoxyribonukleins\u00e4ure",
+        "content": "Desoxyribonukleins\u00e4ure  (abgek\u00fcrzt DNS), im Deutschen inzwischen meist als DNA (Abk\u00fcrzung f\u00fcr englisch deoxyribonucleic acid) bezeichnet, ist eine Nukleins\u00e4ure, die sich als Polynukleotid aus einer Kette von vielen Nukleotiden zusammensetzt. Das in den Chromosomen befindliche Biomolek\u00fcl ist bei allen Lebewesen und bei vielen Viren (DNA-Viren, Pararetroviren) der Tr\u00e4ger der Erbinformation, also die materielle Basis der Gene. Das Wort setzt sich zusammen aus des- (englisch: de-), den ersten beiden Silben von Oxygenium (Sauerstoff), den ersten beiden Silben von Ribose (siehe Desoxyribose) und Nukleins\u00e4ure.\nIm Normalzustand ist DNA in Form einer Doppelhelix aufgebaut. Ihre Bausteine sind vier verschiedene Nukleotide, die jeweils aus einem Phosphatrest, dem Zucker Desoxyribose und einer von vier organischen Basen (Adenin, Thymin, Guanin und Cytosin, oft abgek\u00fcrzt mit A, T, G und C) bestehen.\nDie Gene in der DNA enthalten die Information f\u00fcr die Herstellung der Ribonukleins\u00e4uren (RNA, im Deutschen auch RNS). Bei protein-codierenden Genen ist dies eine wichtige RNA-Gruppe, die mRNA (englisch messenger RNA). Sie enth\u00e4lt wiederum die Information f\u00fcr den Bau der Proteine (Eiwei\u00dfe), welche f\u00fcr die biologische Entwicklung eines Lebewesens und den Stoffwechsel in der Zelle notwendig sind. Die Abfolge der Basen legt hier die Abfolge der Aminos\u00e4uren des jeweiligen Proteins fest: Der genetische Code kodiert mit jeweils drei benachbarten Basen eine bestimmte Aminos\u00e4ure.\nIn den Zellen von Eukaryoten, zu denen auch Pflanzen, Tiere und Pilze geh\u00f6ren, ist der Gro\u00dfteil der DNA im Zellkern (lateinisch nucleus, daher nukle\u00e4re DNA oder nDNA) als Chromosomen organisiert. Ein kleiner Teil befindet sich in den Mitochondrien, den \u201eKraftwerken\u201c der Zellen, und wird dementsprechend mitochondriale DNA (mtDNA) genannt. Pflanzen und Algen haben au\u00dferdem DNA in Photosynthese betreibenden Organellen, den Chloroplasten bzw. Plastiden (cpDNA). Bei Bakterien und Archaeen \u2013 den Prokaryoten, die keinen Zellkern besitzen \u2013 liegt die DNA im Cytoplasma. Manche Viren, sogenannte RNA-Viren, speichern ihre genetische Information in RNA statt in DNA.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Desoxyribonukleins%C3%A4ure"
+    },
+    {
+        "title": "Genom",
+        "content": "Das Genom, auch Erbgut eines Lebewesens oder eines Virus, ist die Gesamtheit der materiellen Tr\u00e4ger der vererbbaren Informationen einer Zelle oder eines Viruspartikels: Chromosomen, Desoxyribonukleins\u00e4ure (DNS = DNA) oder Ribonukleins\u00e4ure (RNS = RNA) bei RNA-Viren, bei denen RNA anstelle von DNA als Informationstr\u00e4ger dient. Im abstrakten Sinn versteht man darunter auch die Gesamtheit der vererbbaren Informationen (Gene) eines Individuums.\nDie Bezeichnung Genom wurde, nach der durch Thomas Hunt Morgan gelungenen Verkn\u00fcpfung der Chromosomentheorie der Vererbung mit der durch Wilhelm Johannsen aufgestellten Hypothese von Genen als Erbeinheiten, 1920 von Hans Winkler gepr\u00e4gt. Das Teilgebiet der Genetik, das sich mit der Erforschung des Aufbaus von Genomen und der Wechselwirkungen zwischen Genen befasst, wird als Genomik (englisch genomics) bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Genom"
+    },
+    {
+        "title": "Ion",
+        "content": "Ein Ion [i\u032fo\u02d0n] ist ein elektrisch geladenes Atom oder Molek\u00fcl.\nAtome und Molek\u00fcle haben im gew\u00f6hnlichen, neutralen Zustand genauso viele Elektronen wie Protonen. Besitzt ein Atom oder Molek\u00fcl jedoch ein oder mehrere Elektronen weniger oder mehr als im Neutralzustand, hat es dadurch elektrische Ladung und wird als Ion bezeichnet. Ionen mit Elektronenmangel sind positiv geladen, solche mit Elektronen\u00fcberschuss negativ (siehe auch Ladungszahl).\nSchnelle Ionen, die sich in eine Richtung bewegen, werden in der Atomphysik, Kernphysik und Teilchenphysik untersucht oder verwendet, siehe Ionenstrahlung, Ionenquelle oder Teilchenbeschleuniger. Ein Plasma (z. B. im Inneren der Sterne) ist ein ungeordnetes Ensemble aus Ionen (zumeist v\u00f6llig ionisierte, d. h. elektronenlose Atomkerne) und den abgespaltenen Elektronen, die sich beide wie die Molek\u00fcle eines Gases ungeordnet in alle Richtungen bewegen, entsprechend der hohen Temperatur jedoch sehr viel schneller.\nDie folgenden Ausf\u00fchrungen beziehen sich im Wesentlichen auf langsame oder station\u00e4re Ionen.\nIn der Chemie werden positiv geladene Ionen Kationen, negativ geladene Anionen genannt, denn sie wandern in einem elektrischen Feld als Ionenstrom zur Kathode (\u201eMinuspol\u201c des Feldes) bzw. zur Anode (\u201ePluspol\u201c des Feldes). In einem L\u00f6sungsmittel bildet sich um das Ion eine Solvath\u00fclle aus.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ion"
+    },
+    {
+        "title": "Chemische Reaktion",
+        "content": "Eine chemische Reaktion ist ein Vorgang, bei dem eine oder meist mehrere chemische Verbindungen in andere umgewandelt werden und Energie freigesetzt oder aufgenommen wird. Auch Elemente k\u00f6nnen an Reaktionen beteiligt sein. Chemische Reaktionen sind in der Regel mit Ver\u00e4nderungen der chemischen Bindungen in Molek\u00fclen oder Kristallen verbunden. Durch eine chemische Reaktion k\u00f6nnen sich die Eigenschaften der Produkte im Vergleich zu den Edukten stark \u00e4ndern. Nicht zu den chemischen Reaktionen z\u00e4hlen physikalische Vorg\u00e4nge, bei denen sich lediglich der Aggregatzustand \u00e4ndert wie Schmelzen oder Verdampfen, Diffusion, das Vermengen von Reinstoffen zu Stoffgemischen sowie Kernreaktionen, bei denen Elemente in andere umgewandelt werden.\nReaktionen bestehen aus einer meist recht komplizierten Folge einzelner Teilschritte, den sogenannten Elementarreaktionen, die zusammen die Gesamtreaktion bilden. Auskunft \u00fcber den exakten Ablauf der Teilschritte gibt der Reaktionsmechanismus. Zur Beschreibung chemischer Reaktionen wird die Reaktionsgleichung verwendet, in der Edukte, Produkte und mitunter auch wichtige Zwischenprodukte graphisch dargestellt werden und \u00fcber einen Pfeil, den Reaktionspfeil, miteinander verbunden werden.\nSowohl Elementarreaktionen als auch Reaktionsmechanismen kann man in verschiedene Gruppen aufteilen. Zu den Elementarreaktionen z\u00e4hlen etwa der Zerfall von einem Molek\u00fcl in zwei oder der umgekehrte Fall, die Synthese von zwei Atomen oder Molek\u00fclen zu einem. Reaktionsmechanismen werden h\u00e4ufig nach der erfolgten \u00c4nderung in den beteiligten Stoffen eingeteilt. Erfolgt etwa eine \u00c4nderung der Oxidationszahlen, spricht man von Oxidation und Reduktion; entsteht ein festes Produkt aus gel\u00f6sten Stoffen, von einer F\u00e4llung.\nIn welchem Umfang eine bestimmte Reaktion zweier oder mehrerer Partner stattfindet, h\u00e4ngt davon ab, wie gro\u00df die Differenz der sich aus einem enthalpischen und einem entropischen Anteil zusammensetzenden Gibbs-Energie der Produkte und der Edukte ist. Bei negativen Werten liegt das Reaktionsgleichgewicht auf Seite der Produkte. Es gibt jedoch auch viele Reaktionen, die zwar in diesem Sinne thermodynamisch m\u00f6glich sind, aber kinetisch nur sehr langsam ablaufen, im Extremfall so langsam, dass sie praktisch nicht beobachtet werden k\u00f6nnen. Verantwortlich hierf\u00fcr ist eine zu hohe Aktivierungsenergie, die aufgebracht werden muss, damit die weitere Reaktion m\u00f6glich wird. Derartige Reaktionen laufen aber bei h\u00f6heren Temperaturen schneller ab, da so eine vergleichsweise gr\u00f6\u00dfere Anzahl der beteiligten Teilchen genug Energie besitzt um die Aktivierungsbarriere zu \u00fcberwinden. Bei vielen Reaktionen ist dies auch mittels Katalyse m\u00f6glich, bei der nicht die direkte Reaktion, sondern eine andere, bei der ein dritter, aus der Reaktion unver\u00e4ndert hervorgehender Stoff beteiligt ist, stattfindet. Durch die Anwesenheit dieses Katalysators wird die ben\u00f6tigte Aktivierungsenergie gesenkt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Chemische_Reaktion"
+    },
+    {
+        "title": "S\u00e4uren",
+        "content": "S\u00e4uren sind im engeren Sinne alle chemischen Verbindungen, die in der Lage sind, Protonen (H+) an einen Reaktionspartner zu \u00fcbertragen \u2013 sie k\u00f6nnen als Protonendonator fungieren. In w\u00e4ssriger L\u00f6sung ist der Reaktionspartner im Wesentlichen Wasser. Es bilden sich Oxonium-Ionen (H3O+) und der pH-Wert der L\u00f6sung wird damit gesenkt. S\u00e4uren reagieren mit sogenannten Basen unter Bildung von Wasser und Salzen. Eine Base ist somit das Gegenst\u00fcck zu einer S\u00e4ure und vermag diese zu neutralisieren.\nIm weiteren Sinn beschreiben verschiedene S\u00e4ure-Base-Konzepte wesentlich breitere Paletten von chemischen Reaktionen, die weit \u00fcber die oben erw\u00e4hnten Reaktionen hinausreichen k\u00f6nnen.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/S%C3%A4uren"
+    },
+    {
+        "title": "Basen (Chemie)",
+        "content": "Als Basen (zu altgriechisch \u03b2\u03ac\u03c3\u03b9\u03c2 basis, deutsch \u201aGrundlage\u2018) werden in der Chemie mit enger Definition Verbindungen bezeichnet, die in w\u00e4ssriger L\u00f6sung in der Lage sind, Hydroxidionen (OH\u2212) zu bilden und somit den pH-Wert einer L\u00f6sung zu erh\u00f6hen. Hydroxidionen sind chemische Verbindungen, die Protonen von einer S\u00e4ure unter Bildung eines Wassermolek\u00fcls \u00fcbernehmen k\u00f6nnen. Eine Base ist damit das Gegenst\u00fcck zu einer S\u00e4ure und vermag diese zu neutralisieren.\nDaneben bestehen weitere Definitionen des Begriffs von Basen verschiedener S\u00e4ure-Base-Konzepte f\u00fcr wesentlich breitere Paletten von chemischen Reaktionen, die \u00fcber jene von Hydroxidionen in Wasser hinausreichen k\u00f6nnen. Besonders bedeutsam sind die Konzepte nach Lewis (Lewis-Base und Lewis-S\u00e4ure) und das nach Pearson, der von harten und weichen S\u00e4uren und Basen spricht (HSAB-Konzept).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Basen_(Chemie)"
+    },
+    {
+        "title": "Alchemie",
+        "content": "Alchemie oder Alchimie (auch Alchymie; griechisch-arabisch-mittellateinisch alkimia, neulateinisch alchymia, fr\u00fchneuhochdeutsch alchimei, alchemey) bezeichnet ab dem 1./2. Jahrhundert die Lehre von den Eigenschaften der Stoffe und ihren Reaktionen. Sie ist ein alter Zweig der Naturphilosophie und wurde im Laufe des 17. und 18. Jahrhunderts von der modernen Chemie und der Pharmakologie begrifflich abgetrennt und schlie\u00dflich durch diese F\u00e4cher ersetzt. Oft wird angenommen, die \u201eHerstellung\u201c von Gold (Goldsynthese) sei das einzige Ziel der Alchemisten gewesen. Das Spektrum der Alchemisten reicht aber von praktischen fr\u00fchen Chemikern und Pharmazeuten, fr\u00fchen Vorstellungen \u00fcber den Aufbau der Materie, wozu auch die Umwandelbarkeit (Transmutation) von Metallen und anderen Elementen oder Mineralien bzw. Salzen geh\u00f6rte, \u00fcber stark mythisch gef\u00e4rbte Spekulationen mit Ideen \u00fcber eine gleichzeitige Wandlung des Adepten, die in neuerer Zeit zum Beispiel das Interesse des Tiefenpsychologen Carl Gustav Jung fanden, bis zu den \u201eGoldmachern\u201c.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Alchemie"
+    },
+    {
+        "title": "Medizin",
+        "content": "Die Medizin ist die Wissenschaft der Vorbeugung, Erkennung und Behandlung von Krankheiten oder Verletzungen bei Menschen und Tieren.\nSie wird von medizinisch ausgebildeten Heilkundigen ausge\u00fcbt mit dem Ziel, die Gesundheit zu erhalten oder wiederherzustellen. Dabei handelt es sich meist um \u00c4rzte, aber auch um Angeh\u00f6rige weiterer Heilberufe. Zum Bereich der Medizin geh\u00f6ren neben der Humanmedizin die Zahnmedizin, die Veterin\u00e4rmedizin (Tierheilkunde) und in einem weiteren Verst\u00e4ndnis auch die Phytomedizin (Bek\u00e4mpfung von Pflanzenkrankheiten und Sch\u00e4dlingen). In diesem umfassenden Sinn ist Medizin die Lehre vom gesunden und kranken Lebewesen.\nDie Kulturgeschichte kennt eine gro\u00dfe Zahl von unterschiedlichen medizinischen Lehrgeb\u00e4uden, beginnend mit den \u00c4rzteschulen im europ\u00e4ischen und asiatischen Altertum, bis hin zur modernen Vielfalt wissenschaftlicher Erkenntnisse. Die Medizin umfasst auch die anwendungsbezogene Forschung ihrer Vertreter zur Beschaffenheit und Funktion des menschlichen und tierischen K\u00f6rpers in gesundem und krankem Zustand, mit der sie ihre Diagnosen und Therapien verbessern will. Die (natur)wissenschaftliche Medizin bedient sich dabei seit etwa 1845 zunehmend der Grundlagen, die Physik, Chemie, Biologie und Psychologie erarbeitet haben.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Medizin"
+    },
+    {
+        "title": "Chromatographie",
+        "content": "Chromatographie, Chromatografie (griechisch, \u03c7\u03c1\u1ff6\u03bc\u03b1 chroma \u201eFarbe\u201c und \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9\u03bd graphein \u201eschreiben\u201c, zu deutsch Farbenschreiben) wird in der Chemie ein Verfahren genannt, das die Auftrennung eines Stoffgemisches durch unterschiedliche Verteilung seiner Einzelbestandteile zwischen einer station\u00e4ren und einer mobilen Phase erlaubt. Dieses Prinzip wurde erstmals 1901 von dem russischen Botaniker Michail Semjonowitsch Zwet beschrieben, 1903 wurde es zum ersten Mal \u00f6ffentlich gedruckt beschrieben, 1906 benutzte er erstmals den Begriff \u201eChromatographie\u201c. Er untersuchte gef\u00e4rbte pflanzliche Extrakte, zum Beispiel aus Blattmaterial, und konnte daraus durch Chromatographie verschiedene Farbstoffe isolieren. Anwendung findet diese Methode zum einen in der Produktion zur Reinigung von Substanzen (= pr\u00e4parative Chromatographie), zum anderen in der chemischen Analytik, um Stoffgemische in m\u00f6glichst einheitliche Inhaltsstoffe zwecks Identifizierung oder mengenm\u00e4\u00dfiger Bestimmung aufzutrennen. Die Chromatographie wird in der organischen Chemie, der Pharmazie, der Biochemie, der Biotechnologie, der Mikrobiologie, der Lebensmittelchemie, der Umweltchemie und auch in der anorganischen Chemie angewendet.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Chromatographie"
+    },
+    {
+        "title": "Spektroskopie",
+        "content": "Spektroskopie bezeichnet eine Gruppe physikalischer Methoden, die eine Strahlung nach einer bestimmten Eigenschaft wie Wellenl\u00e4nge, Energie, Masse etc. zerlegen. Die dabei auftretende Intensit\u00e4tsverteilung wird Spektrum genannt.\nSpektrometrie ist die quantitative Ausmessung von Spektren mittels eines Spektrometers. Die Aufzeichnungsmethode hei\u00dft Spektrografie und die Aufzeichnung (grafische Darstellung) selbst Spektrogramm, wird im Fachjargon aber oft einfach als \u201edas Spektrum\u201c bezeichnet. Zur visuellen Betrachtung optischer Spektren dienen Spektroskope, wie erstmals bei Isaac Newton, als er im 17. Jahrhundert die Zusammensetzung des wei\u00dfen Lichts aus Spektralfarben entdeckte.\nDie untersuchten Strahlungen umfassen den gesamten Bereich der elektromagnetischen Wellen und der mechanischen Wellen wie Schall und Wasserwellen, sowie Teilchenstrahlen z. B. aus Elektronen, Ionen, Atomen oder Molek\u00fclen. Die Spektroskopie wird eingesetzt, um die Eigenschaften der Strahlung selbst zu studieren, die Eigenschaften der Strahlenquelle herauszufinden (Emissionsspektroskopie) oder die Eigenschaften eines zwischen der Quelle und dem Spektrometer befindlichen Transportmediums zu untersuchen (Absorptionsspektroskopie). Insbesondere kann Spektrometrie genutzt werden, um Art und Konzentration von emittierenden oder absorbierenden Substanzen zu bestimmen.\nZeigt ein Spektrum scharfe und voneinander getrennte Intensit\u00e4tsmaxima, wird es allgemein als Linienspektrum bezeichnet, andernfalls als kontinuierliches Spektrum. Oft sind Spektren aus diesen beiden Grundtypen gemischt. Der Name Linienspektrum erkl\u00e4rt sich daraus, dass die ersten optischen Spektralapparate das Licht aus einem beleuchteten schmalen Spalt empfingen, der abh\u00e4ngig von der Wellenl\u00e4nge an einen bestimmten Ort auf dem Schirm abgebildet wurde, so dass sich f\u00fcr jedes Intensit\u00e4tsmaximum eine helle Linie bildete (siehe Abbildung).\nBeispielsweise ist das Energie- oder Wellenl\u00e4ngenspektrum der W\u00e4rmestrahlung vom kontinuierlichen Typ mit einem breiten Maximum, an dessen Lage man auch die Temperatur des strahlenden K\u00f6rpers ablesen kann. Hingegen zeigt das von Atomen ausgesandte oder absorbierte Licht ein Linienspektrum, an dem man die chemischen Elemente, zu denen die Atome geh\u00f6ren, eindeutig identifizieren kann (Spektralanalyse nach Kirchhoff und Bunsen, 1859). Auch das Massenspektrum eines Stoffes bei Untersuchung mit einem Massenspektrometer ist ein Linienspektrum, das die Massen der im Stoff vorhandenen Molek\u00fcle oder gegebenenfalls ihrer Bruchst\u00fccke anzeigt. Die beiden Arten von Linienspektren zeigen hohe Empfindlichkeit und werden daher bei chemischen Analysen routinem\u00e4\u00dfig zum Nachweis von Beimengungen fremder Stoffe in geringster Konzentration eingesetzt.\nDie Spektrografie wird in verschiedensten Formen beispielsweise in der Medizin, in der kriminalistischen Chemie, der forensischen Toxikologie und der forensischen Biologie eingesetzt. Spektroskopische Beobachtungen der Linienspektren der Atome und Molek\u00fcle gaben entscheidende Impulse f\u00fcr die Entwicklung der Atomphysik und Quantenmechanik. Die hohe Pr\u00e4zision, mit der viele ihrer Spektrallinien gemessen werden k\u00f6nnen, erlaubt u. a. die genaue \u00dcberpr\u00fcfung von Naturgesetzen, die Bestimmung von Naturkonstanten und die Definition der Basiseinheiten Meter und Sekunde.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Spektroskopie"
+    },
+    {
+        "title": "Strahlung",
+        "content": "Der Begriff Strahlung bezeichnet die Ausbreitung von Teilchen oder Wellen. Im ersten Fall spricht man von Teilchenstrahlung oder Korpuskularstrahlung, im zweiten von Wellenstrahlung.\nDie Unterscheidung zwischen Teilchen und Wellen ist historisch und hat als anschauliche Aussage nach wie vor Bedeutung. Jedoch hat nach heutiger Kenntnis jede Strahlung sowohl Teilchen- als auch Welleneigenschaften (siehe auch Welle-Teilchen-Dualismus).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Strahlung"
+    },
+    {
+        "title": "Stern",
+        "content": "Unter einem Stern (altgriechisch \u1f00\u03c3\u03c4\u03ae\u03c1, \u1f04\u03c3\u03c4\u03c1\u03bf\u03bd ast\u0113r, astron und lateinisch aster, astrum, stella, sidus f\u00fcr \u2018Stern, Gestirn\u2019; ahd. sterno; astronomisches Symbol: \u2731) versteht man in der Astronomie einen massereichen, selbstleuchtenden Himmelsk\u00f6rper aus sehr hei\u00dfem Gas und Plasma, wie zum Beispiel die Sonne. Daneben wird ein von der Sonne angestrahlter Planet unseres Sonnensystems gemeinsprachlich auch Stern genannt, etwa Abendstern, obgleich er kein Stern wie die Sonne ist.\n\nDass nahezu alle mit dem blo\u00dfen Auge sichtbaren selbstleuchtenden Himmelsk\u00f6rper sonnen\u00e4hnliche Objekte sind, die nur wegen ihrer weiten Entfernung punktf\u00f6rmig erscheinen, ist eine der wichtigsten Erkenntnisse der modernen Astronomie. Etwa drei Viertel der Sterne sind Teil eines Doppelstern- oder Mehrfachsystems, viele haben ein Planetensystem. Gemeinsam entstandene Sterne bilden \u00f6fters Sternhaufen. Unter g\u00fcnstigen Bedingungen k\u00f6nnen mehrere Tausend Sterne frei\u00e4ugig unterschieden werden. Sie geh\u00f6ren alle zur gleichen Galaxie wie die Sonne, zur Milchstra\u00dfe, die aus \u00fcber hundert Milliarden Sternen besteht. Diese Galaxis geh\u00f6rt gemeinsam mit ihren Nachbargalaxien zur Lokalen Gruppe, einem von abertausend Galaxienhaufen.\n\nSterne entstehen aus Gaswolken \u2013 in bestimmten Gebieten (H-II-Gebiet) aus gasf\u00f6rmigen Molek\u00fclwolken \u2013 durch lokale starke Verdichtung in mehreren Phasen. Sie werden von der Schwerkraft ihrer eigenen Masse zusammengehalten und sind daher ann\u00e4hernd kugelf\u00f6rmig. W\u00e4hrend ein Stern im Inneren mehrere Millionen Grad hei\u00df ist (beim Kern der Sonne knapp 16.000.000 Kelvin), liegt bei den meisten die Oberfl\u00e4chentemperatur etwa zwischen 2.000 K und 20.000 K (bei der Photosph\u00e4re der Sonne knapp 6.000 K); Wei\u00dfe Zwerge k\u00f6nnen als freigelegte Sternkerne Temperaturen bis zu 100.000 K an ihrer Oberfl\u00e4che erreichen. Von der gl\u00fchenden Sternoberfl\u00e4che geht nicht nur eine intensive Strahlung wie Licht aus, sondern auch ein Strom geladener Plasmateilchen (Sternwind) weit in den Raum und bildet so eine Astrosph\u00e4re.\nSterne k\u00f6nnen sich in Masse und Volumen erheblich unterscheiden, wie auch hinsichtlich Leuchtkraft und Farbe; im Verlauf der Entwicklung eines Sterns ver\u00e4ndern sich diese Eigenschaften. Eine orientierende Klassifizierung der Sterne wird schon allein mit den beiden Merkmalen absolute Helligkeit und Spektraltyp m\u00f6glich. Die Eigenschaften von Sternen sind auch von Bedeutung bei der Frage, ob ein sie umkreisender Planet Leben tragen k\u00f6nnte oder nicht (siehe habitable Zone).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Stern"
+    },
+    {
+        "title": "Geometrie",
+        "content": "Die Geometrie (altgriechisch \u03b3\u03b5\u03c9\u03bc\u03b5\u03c4\u03c1\u03af\u03b1 geometria, ionisch \u03b3\u03b5\u03c9\u03bc\u03b5\u03c4\u03c1\u03af\u03b7 geometri\u0113, \u201aErdma\u00dfe\u2018, \u201aErdmessung\u2018, \u201aLandmessung\u2018) ist ein Teilgebiet der Mathematik.\nEinerseits versteht man unter Geometrie die zwei- und dreidimensionale euklidische Geometrie, die Elementargeometrie, die auch im Mathematikunterricht \u2013 fr\u00fcher unter dem Begriff Raumlehre \u2013 gelehrt wird und die sich mit Punkten, Geraden, Ebenen, Abst\u00e4nden, Winkeln usw. besch\u00e4ftigt, sowie diejenigen Begriffsbildungen und Methoden, die im Zuge einer systematischen und mathematischen Behandlung dieses Themas entwickelt wurden.\nAndererseits umfasst der Begriff Geometrie eine Reihe von gro\u00dfen Teilgebieten der Mathematik, deren Bezug zur Elementargeometrie f\u00fcr Laien nur mehr schwer erkennbar ist. Dies gilt insbesondere f\u00fcr den modernen Begriff der Geometrie, der im Allgemeinen die Untersuchung invarianter Gr\u00f6\u00dfen bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Geometrie"
+    },
+    {
+        "title": "Algebra",
+        "content": "Die Algebra (von arabisch \u0627\u0644\u062c\u0628\u0631, DMG al-\u011fabr \u201edas Zusammenf\u00fcgen gebrochener Teile\u201c) ist eines der grundlegenden Teilgebiete der Mathematik; es befasst sich mit den Eigenschaften von Rechenoperationen. Im Volksmund wird Algebra h\u00e4ufig als das Rechnen mit Unbekannten in Gleichungen bezeichnet (zum Beispiel \n  \n    \n      \n        x\n        +\n        1\n        =\n        2\n      \n    \n    {\\displaystyle x+1=2}\n  ); die Unbekannte wird (bzw. die Unbekannten werden) mit Buchstaben dargestellt. Als Begr\u00fcnder der Algebra gilt der Grieche Diophantos von Alexandria, der wahrscheinlich zwischen 100 v. Chr. und 350 n. Chr. lebte.\nSein 13 B\u00e4nde umfassendes Werk Arithmetica ist das \u00e4lteste bis heute erhaltene, in dem die algebraische Methode (also das Rechnen mit Buchstaben) verwendet wird.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Algebra"
+    },
+    {
+        "title": "Stereometrie",
+        "content": "Stereometrie ist ein Teilgebiet der Geometrie und damit der Mathematik. Sie befasst sich \u2013 im Gegensatz zur ebenen Geometrie (Planimetrie) \u2013 mit geometrischen Gebilden im (dreidimensionalen) Raum. Statt Stereometrie sagt man auch Raumgeometrie oder r\u00e4umliche Geometrie.\nZur Stereometrie geh\u00f6rt unter anderem die Berechnung der Oberfl\u00e4che (Fl\u00e4chenberechnung) bzw. der Mantelfl\u00e4che und des Volumens (Volumsberechnung) einfacher und zusammengesetzter geometrischer K\u00f6rper sowie die Stereotomie.\nDie Stereometrie stellte im antiken Griechenland einen der Wissenschaftsbereiche dar, die von herausragender Bedeutung waren. So versuchten sich verschiedene namhafte Denker dieser Zeit an der L\u00f6sung des stereometrischen Problems der W\u00fcrfelverdoppelung. Platon fordert gar in seinem Werk Der Staat, dass die Stereometrie neben der Planimetrie in das wissenschaftliche Prop\u00e4deutikum mit aufgenommen werden solle.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Stereometrie"
+    },
+    {
+        "title": "Polyeder",
+        "content": "Ein (dreidimensionales) Polyeder [poli\u02c8(\u0294)e\u02d0d\u0250] (auch Vielflach, Vielfl\u00e4chner oder Ebenfl\u00e4chner; von altgriechisch \u03c0\u03bf\u03bb\u03cd\u03b5\u03b4\u03c1\u03bf\u03c2 pol\u00fdedros, deutsch \u201avielsitzig, vieleckig\u2018) ist im engeren Sinne eine Teilmenge des dreidimensionalen Raumes, welche ausschlie\u00dflich von geraden Fl\u00e4chen (Ebenen) begrenzt wird, beispielsweise ein W\u00fcrfel oder ein Oktant eines dreidimensionalen Koordinatensystems.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Polyeder"
+    },
+    {
+        "title": "Polygon",
+        "content": "Ein Polygon (von altgriechisch \u03c0\u03bf\u03bb\u03c5\u03b3\u03ce\u03bd\u03b9\u03bf\u03bd polyg\u1e53nion \u201aVieleck\u2018; aus \u03c0\u03bf\u03bb\u03cd\u03c2 pol\u00fds \u201aviel\u2018 und \u03b3\u03c9\u03bd\u03af\u03b1 g\u014dn\u00eda \u201aWinkel\u2018) oder auch Vieleck ist in der elementaren Geometrie eine ebene geometrische Figur, die durch einen geschlossenen Streckenzug gebildet wird.\nEin Polygon ist ein zweidimensionales Polytop.\nEin Polygon erh\u00e4lt man, indem in einer Zeichenebene mindestens drei verschiedene (nicht kollineare) Punkte durch Strecken miteinander verbunden werden. Dabei entsteht ein geschlossener Streckenzug (Polygonzug) mit ebenso vielen Ecken, beispielsweise ein Dreieck (3 Punkte, 3 Strecken) oder ein Viereck (4 Punkte, 4 Strecken).\nDie umschlossene Fl\u00e4che wird oft auch als Polygon bezeichnet, so in der Planimetrie.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Polygon"
+    },
+    {
+        "title": "Radiokarbonmethode",
+        "content": "Die Radiokarbonmethode, auch Radiokohlenstoffdatierung, 14C; C14-Datierung oder Radiokarbondatierung bzw. Radiocarbondatierung, ist ein Verfahren zur radiometrischen Datierung kohlenstoffhaltiger, insbesondere organischer Materialien. Der zeitliche Anwendungsbereich liegt zwischen 300 und etwa 60.000 Jahren.\nDas Verfahren beruht darauf, dass in abgestorbenen Organismen die Menge an gebundenen radioaktiven 14C-Atomen gem\u00e4\u00df dem Zerfallsgesetz abnimmt. Lebende Organismen sind von diesem Effekt nicht betroffen, da sie st\u00e4ndig neuen Kohlenstoff aus der Umwelt aufnehmen, der wieder den normalen Anteil an 14C-Atomen einbringt. Dieser \u201enormale Anteil\u201c ist trotz des st\u00e4ndigen Zerfalls nahezu konstant, da 14C st\u00e4ndig in der oberen Atmosph\u00e4re neu gebildet wird.\nEntwickelt wurde die Radiokarbondatierung 1946 von Willard Frank Libby, der f\u00fcr diese Leistung 1960 mit dem Nobelpreis f\u00fcr Chemie ausgezeichnet wurde.\nDie Radiokarbondatierung wird in der arch\u00e4ologischen Altersbestimmung, Arch\u00e4obotanik und Quart\u00e4rforschung angewandt.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Radiokarbonmethode"
+    },
+    {
+        "title": "Plattentektonik",
+        "content": "Plattentektonik ist urspr\u00fcnglich die Bezeichnung f\u00fcr eine Theorie der Geowissenschaften \u00fcber die gro\u00dfr\u00e4umigen tektonischen Vorg\u00e4nge in der \u00e4u\u00dferen Erdh\u00fclle, der Lithosph\u00e4re (Erdkruste und oberster Erdmantel), die heute zu den grundlegenden Theorien \u00fcber die endogene Dynamik der Erde geh\u00f6rt. Sie besagt, dass die \u00e4u\u00dfere Erdh\u00fclle in Lithosph\u00e4renplatten (umgangssprachlich als Kontinentalplatten bezeichnet) gegliedert ist, die dem \u00fcbrigen Oberen Erdmantel aufliegen und darauf umherwandern (\u2192 Kontinentaldrift).\nVorrangig bezeichnet der Begriff Plattentektonik heute jedoch nicht mehr die Theorie, sondern das mittlerweile in weiten Teilen direkt oder indirekt nachgewiesene Ph\u00e4nomen als solches. Selbiges kann als an der Erdoberfl\u00e4che auftretender Ausdruck der Mantelkonvektion im Erdinneren aufgefasst werden, hat aber noch weitere Ursachen.\nZu den mit der Plattentektonik verbundenen Prozessen und Erscheinungen z\u00e4hlen die Entstehung von Faltengebirgen (Orogenese) durch den Druck zusammensto\u00dfender Kontinente sowie die h\u00e4ufigsten Formen von Vulkanismus und Erdbeben.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Plattentektonik"
+    },
+    {
+        "title": "Komet",
+        "content": "Ein Komet oder Schweifstern ist ein kleiner Himmelsk\u00f6rper von meist einigen Kilometern Durchmesser, der in den sonnennahen Teilen seiner Bahn eine durch Ausgasen erzeugte Koma und meist auch einen leuchtenden Schweif entwickelt. Der Name kommt von altgriechisch \u03ba\u03bf\u03bc\u03ae\u03c4\u03b7\u03c2 kom\u1e17t\u0113s (\u201eHaarstern\u201c), abgeleitet von \u03ba\u03cc\u03bc\u03b7 k\u00f3m\u0113 (\u201eHaupthaar, M\u00e4hne\u201c).Kometen sind wie Asteroiden \u00dcberreste der Entstehung des Sonnensystems und bestehen aus Eis, Staub und lockerem Gestein. Sie bildeten sich in den \u00e4u\u00dferen, kalten Bereichen des Sonnensystems (\u00fcberwiegend jenseits der Neptunbahn), wo die reichlichen Wasserstoff- und Kohlenstoff-Verbindungen zu Eis kondensierten.\nIn Sonnenn\u00e4he ist der meist nur wenige Kilometer gro\u00dfe Kometenkern von einer diffusen, nebeligen H\u00fclle umgeben, die Koma genannt wird und eine Ausdehnung von 2 bis 3 Millionen Kilometern erreichen kann. Kern und Koma zusammen nennt man auch den Kopf des Kometen. Das auff\u00e4lligste Kennzeichen der von der Erde aus sichtbaren Kometen ist jedoch der Schweif. Er bildet sich erst ab einer Sonnenentfernung unter 2 AE, kann aber bei gro\u00dfen und sonnennahen Objekten eine L\u00e4nge von mehreren 100 Millionen Kilometern erreichen. Meistens sind es aber nur einige 10 Millionen Kilometer.\nDie Zahl neu entdeckter Kometen lag bis in die 1990er Jahre bei etwa 10 pro Jahr und stieg seither durch automatische Suchprogramme und Weltraumteleskope merklich an. Die meisten der neuen Kometen und der schon bei fr\u00fcheren Uml\u00e4ufen beobachteten sind aber nur im Fernrohr sichtbar. Mit Ann\u00e4herung an die Sonne beginnen sie st\u00e4rker zu leuchten, doch l\u00e4sst sich die Entwicklung von Helligkeit und Schweif nicht genau voraussagen. Wirklich eindrucksvolle Erscheinungen gibt es nur etwa 10 pro Jahrhundert.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Komet"
+    },
+    {
+        "title": "Galaxie",
+        "content": "Eine Galaxie ist eine durch Gravitation gebundene gro\u00dfe Ansammlung von Sternen, Planetensystemen, Gasnebeln, Staubwolken, Dunkler Materie und sonstigen astronomischen Objekten mit einer Gesamtmasse von typischerweise 109 bis 1013 Sonnenmassen (M\u2609). Ihr Durchmesser kann mehrere hunderttausend Lichtjahre betragen. W\u00e4hrend gro\u00dfe Galaxien h\u00e4ufig die Struktur von Spiralen ausbilden, sind Zwerggalaxien zumeist von irregul\u00e4rem Typ. Daneben existieren weitere Arten und Formen. Die Milchstra\u00dfe, Heimatgalaxie des Sonnensystems, ist eine Balkenspirale von rund 1,5 Billionen M\u2609 mit etwa 250 Milliarden Sternen. Von der Erde aus lassen sich mit aktueller Technik mehr als 50 Milliarden Galaxien beobachten. Seit 2016 geht die Forschung davon aus, dass sich im beobachtbaren Universum ca. eine Billion Galaxien befinden.Die Bezeichnung entstammt dem gleichbedeutenden altgriechischen \u03b3\u03b1\u03bb\u03b1\u03be\u03af\u03b1\u03c2 galax\u00edas und geht auf eine antike Sage zur\u00fcck, wonach es sich dabei um die verspritzte Milch (\u03b3\u03ac\u03bb\u03b1 g\u00e1la) der G\u00f6ttin Hera handelt, als diese Herakles stillen wollte. Als Galaxis (Singular) wird im Deutschen speziell die Milchstra\u00dfe bezeichnet. Im Englischen (galaxy, f\u00fcr die Galaxie auch Galaxy) gibt es eine \u00e4hnliche Unterscheidung. Alexander von Humboldt verwendete die Bezeichnung \u201eWelteninsel\u201c.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Galaxie"
+    },
+    {
+        "title": "Perseiden",
+        "content": "Die Perseiden [p\u025b\u0250\u032fz\u0259\u02c8\u0294i\u02d0dn\u0329] (Laurentiustr\u00e4nen, Tr\u00e4nen des Laurentius) sind ein j\u00e4hrlich in der ersten Augusth\u00e4lfte wiederkehrender Meteorstrom, der in den Tagen um den 12. August ein deutliches Maximum an Sternschnuppen aufweist. Oft erreichen sie als sogenannte Feuerkugeln sogar die Helligkeit der Venus. Der Radiant, der scheinbare Ursprung dieses Stroms, liegt im namensgebenden Sternbild Perseus, nahe der Grenze zur Kassiopeia.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Perseiden"
+    },
+    {
+        "title": "Hubble-Weltraumteleskop",
+        "content": "Das Hubble-Weltraumteleskop (englisch Hubble Space Telescope, kurz HST) ist ein Weltraumteleskop, das von der NASA und der ESA gemeinsam entwickelt wurde und das nach dem Astronomen Edwin Hubble benannt ist. Es arbeitet im Bereich des elektromagnetischen Spektrums vom Infrarotbereich \u00fcber das sichtbare Licht bis in den Ultraviolettbereich. Der Spiegeldurchmesser betr\u00e4gt 2,4 Meter.\nDas HST wurde am 24. April 1990 mit der Space-Shuttle-Mission STS-31 gestartet und am n\u00e4chsten Tag aus dem Frachtraum der Discovery ausgesetzt. Es war das erste von vier Weltraumteleskopen, die von der NASA im Rahmen des Great Observatory Programms geplant wurden. Die anderen drei Weltraumteleskope sind Compton Gamma Ray Observatory, Chandra X-Ray Observatory und Spitzer-Weltraumteleskop.\nNach dem Aussetzen des Teleskops stellte sich schnell heraus, dass die Bildqualit\u00e4t nicht den Erwartungen entsprach. Ein Fehler des Hauptspiegels f\u00fchrte zu Bildern, die praktisch nicht brauchbar waren. Drei Jahre sp\u00e4ter wurde 1993 mit Hilfe des COSTAR-Spiegelsystems (Corrective Optics Space Telescope Axial Replacement) der Fehler erfolgreich korrigiert. Nach dieser ersten Reparaturmission STS-61 fanden weitere Wartungsmissionen statt: STS-82, STS-103, STS-109 und STS-125. Mit der letzten Wartungsmission wurde die COSTAR-Korrektur \u00fcberfl\u00fcssig, da alle Instrumente ein eigenes System zur Korrektur des Spiegelfehlers hatten.\nIm Jahr 2021 k\u00f6nnte das geplante James-Webb-Weltraumteleskop die Nachfolge des Hubble-Weltraumteleskops antreten. Es wird derzeit getestet und ist ein Gemeinschaftsprojekt der NASA, der ESA und der kanadischen Weltraumagentur (CSA).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Hubble-Weltraumteleskop"
+    },
+    {
+        "title": "Parker Solar Probe",
+        "content": "Parker Solar Probe (vormals Solar Probe Plus) ist eine Raumsonde der NASA zur Erforschung der Sonne, insbesondere ihrer \u00e4u\u00dfersten Atmosph\u00e4renschicht, der Korona.  Die Raumsonde startete am 12. August 2018; sie soll am 24. Dezember 2024 erstmals ihren sonnenn\u00e4chsten Punkt (Perihel) erreichen. Benannt wurde die Sonde nach dem US-amerikanischen Astrophysiker Eugene N. Parker, der den Begriff \u201esolar wind\u201c (Sonnenwind) pr\u00e4gte.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Parker_Solar_Probe"
+    },
+    {
+        "title": "Archimedes",
+        "content": "Archimedes von Syrakus (griechisch \u1f08\u03c1\u03c7\u03b9\u03bc\u03ae\u03b4\u03b7\u03c2 \u1f41 \u03a3\u03c5\u03c1\u03b1\u03ba\u03bf\u03cd\u03c3\u03b9\u03bf\u03c2 Archim\u1e17d\u0113s ho Syrako\u00fasios; * um 287 v. Chr. vermutlich in Syrakus; \u2020 212 v. Chr. ebenda) war ein griechischer Mathematiker, Physiker und Ingenieur. Er gilt als einer der bedeutendsten Mathematiker der Antike. Seine Werke waren auch noch im 16. und 17. Jahrhundert bei der Entwicklung der h\u00f6heren Analysis von Bedeutung.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Archimedes"
+    },
+    {
+        "title": "Data Science",
+        "content": "Data Science (von englisch data \u201eDaten\u201c und science \u201eWissenschaft\u201c, im Deutschen auch Datenwissenschaft) bezeichnet generell die Extraktion von Wissen aus Daten.Data Science ist ein interdisziplin\u00e4res Wissenschaftsfeld, welches wissenschaftlich fundierte Methoden, Prozesse, Algorithmen und Systeme zur Extraktion von Erkenntnissen, Mustern und Schl\u00fcssen sowohl aus strukturierten als auch unstrukturierten Daten erm\u00f6glicht.\nDer Studiengang Data Science verwendet Techniken und Theorien aus den F\u00e4chern Mathematik, Statistik und Informationstechnologie, einschlie\u00dflich der Signalverarbeitung, verwendet Wahrscheinlichkeitsmodelle des maschinellen Lernens, des statistischen Lernens, der Programmierung, der Datentechnik, der Mustererkennung, der Prognostik, der Modellierung von Unsicherheiten und der Datenlagerung.\nPersonen, die im Bereich Data Science arbeiten, werden als Data Scientist bzw. Datenwissenschaftler bezeichnet, wobei meist speziellere oder Spezialisierungen anderer, \u00fcbergeordneter Berufsbezeichnungen \u00fcblich sind (z. B. Statistiker, Informatiker).",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Data_Science"
+    },
+    {
+        "title": "Wahrscheinlichkeit",
+        "content": "Die Wahrscheinlichkeit ist eine Einstufung von Aussagen und Urteilen nach dem Grad der Gewissheit (Sicherheit). Besondere Bedeutung hat dabei die Gewissheit von Vorhersagen. In der Mathematik hat sich mit der Wahrscheinlichkeitstheorie ein eigenes Fachgebiet entwickelt, das Wahrscheinlichkeiten als mathematische Objekte beschreibt, deren formale Eigenschaften im Alltag und der Philosophie auch auf Aussagen und Urteile \u00fcbertragen werden.",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wahrscheinlichkeit"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Indien",
+        "content": "Indien ist ein Land in Asien. \nSein eigener Name in der Sprache Hindi ist Bahrati.\n\nDer Kontinent und das Land hei\u00dfen nach dem Fluss Indus. \n\nNachbarn sind Nepal, Bangladesch, Myanmar (Birma). Sri Lanka (Insel) und Pakistan. Und weitere.\n\n\nIndien ist eine Demokratie. Die Regierung wird von allen gew\u00e4hlt.\n\nWie in Deutschland gibt es in Indien auch Bundesl\u00e4nder.\nIn Indien sagt man dazu \"Bundesstaaten\"\nEs gibt in Indien 28 Staaten.\nDie Hauptstadt von Indien ist Neu-Dehli.\nDas ist im Norden des Landes.\n\nIn Indien leben viele verschiedene V\u00f6lker. \nDeshalb gibt es in Indien auch viele verschiedene Sprachen. \n\u00dcber 100 verschiedene Sprachen.\nDie meisten sprechen:\nHindi, Hindi, Tamil, Englisch, Urdu.\n\nViele Menschen sprechen mehrere Sprachen.\nDas hei\u00dft:\nViele haben eine Muttersprache.\nUnd k\u00f6nnen noch eine Sprache.\nZum Beispiel Hindi und Englisch. \n\nIn Indien bezahlt man mit der Rupie.\n\n\u00dcber 1 Milliarde Menschen leben in Indien. \nDas ist etwa ein Sechstel oder Siebtel aller Menschen auf der Erde.\n\nFr\u00fcher war Indien eine Kolonie von Gro\u00dfbritannien, Frankreich und Portugal. \nEs gab F\u00fcrsten, die Maharadschas.\n\nMahatma Gandhi hat in Indien gelebt.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Indien"
+    },
+    {
+        "title": "Afrika",
+        "content": "Afrika ist ein Kontinent.\nDie Menschen die in Afrika leben hei\u00dfen:\nAfrikaner\n\nIm Norden von Afrika ist der Kontinent Europa.\nIm Westen von Afrika ist der Atlantische Ozean.\nIm Osten von Afrika ist der Indische Ozean.\n\nDer l\u00e4ngste Fluss in Afrika hei\u00dft Nil.\n\nEs gibt 55 L\u00e4nder in Afrika.\nIn Afrika leben \u00fcber 1 Milliarde Menschen.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Afrika"
+    },
+    {
+        "title": "Europa",
+        "content": "Europa ist ein Kontinent.\nDie Menschen, die in Europa leben, hei\u00dfen:\nEurop\u00e4er.\n\n\n\nZu Europa geh\u00f6ren:\nL\u00e4nder, Inseln.\nDiese L\u00e4nder und Gebiete gibt es in Europa.\n\nAland (geh\u00f6rt zu Finnland), Albanien, Andorra, Athos (geh\u00f6rt zu Griechenland), Azoren (geh\u00f6ren zu Portugal), Belgien, Bosnien und Herzegowina, Bulgarien, D\u00e4nemark, Deutschland, England (geh\u00f6rt zum Vereinigten K\u00f6nigreich - Gro\u00dfbritannien), Estland, F\u00e4r\u00f6er (geh\u00f6rt zu D\u00e4nemark), Finnland, Frankreich, Gibraltar (geh\u00f6rt zu Gro\u00dfbritannien), Griechenland, Gro\u00dfbritannien, Guernsey (geh\u00f6rt zu Gro\u00dfbritannien), Irland, Island, Isle of Man] (geh\u00f6rt zu Gro\u00dfbritannien), Italien, Jersey (geh\u00f6rt zu Gro\u00dfbritannien), Korsika  ( geh\u00f6rt zu Frankreich), Kreta (geh\u00f6rt zu Griechenland), Kroatien, Lettland, Liechtenstein, Litauen, Luxemburg, Madeira (geh\u00f6rt zu Portugal), Malta, Mazedonien, Moldawien, Monaco (, Montenegro, Niederlande, Nordirland (geh\u00f6rt zu Gro\u00dfbritannien), Norwegen, \u00d6sterreich, Polen, Portugal, Rum\u00e4nien, Russland (teilweise in Europa), San Marino, Sardinien, Schottland (geh\u00f6rt zu Gro\u00dfbritannien), Schweden, Schweiz, Serbien, Shetland (geh\u00f6rt zu Gro\u00dfbritannien), Slowakei, Slowenien, Spanien, T\u00fcrkei (teilweise in Europa), Tschechien, Ukraine, Ungarn, Vatikan, Wales (geh\u00f6rt Gro\u00dfbritannien), Wei\u00dfrussland, Zypern.\n\nExklaven sind Gebiete au\u00dferhalb vom eigentlichen Gebiet.\nManche Exklaven geh\u00f6ren auch zu Europa.\n\nDiese Exklaven sind au\u00dferhalb von Europa\nZum Beispiel:\nin Afrika\n Seuta (geh\u00f6rt zu Spanien), in S\u00fcd\u00b7amerika\n Franz\u00f6sisch-Guayana (geh\u00f6rt zu Frankreich)\n Insel Saint-Martin in der Karibik  (im [[geh\u00f6rt zu Frankreich), im Pazifik\nNeukaledonien.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Europa"
+    },
+    {
+        "title": "Nordamerika",
+        "content": "Nord\u00b7amerika ist ein Kontinent.\n\n\n\nBelize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama.\nAntigua und Barbuda, Bahamas, Barbados, Dominica, Dominikanische Republik, Grenada, Haiti, Jamaika, Kuba, St. Kitts und Nevis, St. Lucia, St. Vincent und die Grenadinen, Trinidad und Tobago.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Nordamerika"
+    },
+    {
+        "title": "Schweiz",
+        "content": "Die Schweiz ist ein Land in Europa.\n\n\n\nSchweizerische Eidgenossenschaft, Conf\u00e9d\u00e9ration suisse (Franz\u00f6sisch), Confederazione Svizzera (Italienisch), Confederaziun svizra (R\u00e4toromanisch), Confoederatio Helvetica (CH) (Lateinisch).\nDie Regierung der Schweiz ist der Bundesrat.\n\nDie Schweiz hat 26 Kantone.\nEin Kanton ist so \u00e4hnlich wie ein Bundes\u00b7land.\n\nDie Schweiz hat keine Hauptstadt. \nDie Regierung sitzt in Bern.\n\nIn der Schweiz leben ungef\u00e4hr 8 Millionen Menschen.\n\nDie Schweiz ist ein Nachbarland von Deutschland. \nDie Schweiz liegt im S\u00fcden von Deutschland.\n\nDie Schweiz liegt zwar in Europa, \nist aber kein Mitglied der Europ\u00e4ischen Union.\n\nIn der Schweiz sprechen die Menschen verschiedene Sprachen.\nDeutsch, Franz\u00f6sisch, Italienisch, Schweizer\u00b7deutsch (Schwizer\u00b7d\u00fctsch).\n\nIn der Schweiz bezahlt man mit Schweizer Franken.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Schweiz"
+    },
+    {
+        "title": "Deutschland",
+        "content": "Deutschland ist ein Land.\nDeutschland liegt in Europa.\n\nDie Menschen die in Deutschland leben hei\u00dfen Deutsche.\nDie Haupt\u00b7stadt von Deutschland ist Berlin. \n\n\u00dcber 82 Millionen Menschen leben in Deutschland.\nIn Deutschland ist eine Demokratie.\n\nEs gibt ein Staats\u00b7ober\u00b7haupt.\nDas Staats\u00b7oberhaupt ist der Bundes\u00b7pr\u00e4sident.\nDer Bundes\u00b7pr\u00e4sident ist Frank - Walter Steinmeier.\n\nUnd es gibt einen Regierungs\u00b7chef.\nDer Regierungs\u00b7chef ist der Bundes\u00b7kanzler.\nDie Bundes\u00b7kanzlerin ist Angela Merkel.\n\nDeutschland hat 16 Bundes\u00b7l\u00e4nder.\nDie Haupt\u00b7stadt von Deutschland ist Berlin.\n\nIn Deutschland gibt es viele Fl\u00fcsse. \nSehr bekannt ist der Fluss Rhein.\nEr flie\u00dft von S\u00fcden nach Norden.\nIm Norden ist die Nordsee.\n\nAndere Fl\u00fcsse in Deutschland sind:\nElbe, Donau, Isar, Mosel, Neckar.\n\nIn Deutschland gibt es viele Berge. \nSehr bekannt ist der Berg Zugspitze.\nEr ist im S\u00fcden.\nIm Norden ist der Bungsberg.\n\nAndere Berge in Deutschland sind:\nBrocken, Feldberg, Wasserkuppe, Langenberg.\n\nIn Deutschland gibt es viele St\u00e4dte. \nSehr bekannt ist die Stadt Berlin.\nSie ist im Osten.\nIm Norden ist die Stadt Hamburg.\n\nAndere St\u00e4dte in Deutschland sind:\nHannover, Stuttgart, Leipzig, M\u00fcnchen.\n\nDeutschland ist Mitglied in der Europ\u00e4ischen Union.\nIn Deutschland sprechen die Menschen die Sprache Deutsch.\nIn Deutschland bezahlen die Menschen mit dem Euro.\n\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Deutschland"
+    },
+    {
+        "title": "Berlin",
+        "content": "Berlin ist eine Stadt.\nBerlin ist die Haupt\u00b7stadt von Deutschland.\n\n\n\nBerlin ist die Haup\u00b7stadt von Deutschland.\nUnd Berlin ist ein Bundes\u00b7land.\n\nIn Berlin leben ungef\u00e4hr 3,5 Millionen Menschen.\nDer Ober\u00b7b\u00fcrger\u00b7meister ist Michael M\u00fcller.\n\nBerlin hat 12 Stadt\u00b7teile.\nManche sagen dazu auch Bezirke.\nDie Bezirke haben Orts\u00b7teile.\nDas sind die Bezirke:\nBerlin Mitte, Friedrichshain-Kreuzberg, Pankow, Charlottenburg-Wilmersdorf, Spandau, Steglitz-Zehlendorf, Tempelhof-Sch\u00f6neberg, Neuk\u00f6lln, Treptow-K\u00f6penick, Marzahn-Hellersdorf, Lichtenberg, Reinickendorf.\n\nBerlin war fr\u00fcher geteilt.\nIn Ostberlin und Westberlin.\nEs gab eine Mauer.\nDie Berliner Mauer.\nAm 9. November 1989 wurde sie abgerissen.\n\nEs gibt verschiedene Sehens\u00b7w\u00fcrdigkeiten in Berlin.\nZum Beispiel:\nBrandenburger Tor, Reichs\u00b7tag, Berliner Dom, Fern\u00b7seh\u00b7turm.\n\nIn Berlin arbeitet auch Angela Merkel.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Berlin"
+    },
+    {
+        "title": "Balkanroute",
+        "content": "Die Balkanroute sind verschiedene Wege nach Europa. \nDie Wege gehen von L\u00e4ndern im Naher Osten nach Europa. \n\nBei diesen Wegen muss man durch L\u00e4nder in S\u00fcd\u00b7ost\u00b7europa. \nDort gibt es viele Grenzen. \nEs sind Grenzen zur Europ\u00e4ischen Union. \n\nViele Menschen benutzen diese Wege um nach Europa zu kommen. \nIm Jahr 2015 haben besonders viele Fl\u00fcchtlinge diese Wege benutzt.\nEs ist ein gro\u00dfer Fl\u00fcchtlings\u00b7strom gewesen. \nEs sind fast 1. Million Menschen gewesen.\n\nViele L\u00e4nder wollen manche Wege der Balkan\u00b7route sperren. \nDamit weniger Menschen nach Europa kommen k\u00f6nnen. \n\n\n\nDie Balkan\u00b7route hat sehr viele Wege. \nDiese Wege gehen durch viele L\u00e4nder. \n\nEs gibt 2 gro\u00dfe Wege. \nDie 2 gro\u00dfen Wege werden West\u00b7balkan\u00b7route und Ost\u00b7balkan\u00b7route genannt. \n\nDie Wege der West\u00b7balkan\u00b7route gehen durch diese 3 L\u00e4nder:\nGriechenland, Mazedonien, Serbien.\n\nDie Wege der Ost\u00b7balkan\u00b7route gehen durch diese 9 L\u00e4nder:\nT\u00fcrkei, Bulgarien, Rum\u00e4nien, Serbien, Ungarn, Kroatien, Slowenien, Moldawien, Italien.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Balkanroute"
+    },
+    {
+        "title": "Italien",
+        "content": "Italien ist ein Land in S\u00fcd-Europa.\nDie Menschen die in Italien leben hei\u00dfen: Italiener. \nDie Haupt\u00b7stadt von Italien ist: Rom.\n\n\nItalien hat eine Demokratie.\nWie in Deutschland gibt es in Italien auch Bundes\u00b7l\u00e4nder.\nIn Italien sagt man dazu \"Regionen\".\nEs gibt in Italien 20 Regionen.\n\nIn Italien leben 59 Millionen Menschen.\nIn Italien sprechen die Menschen italienisch.\n\nIn der Haupt\u00b7stadt Rom leben fast 3 Millionen Menschen.  \nUnd in Deutschland leben \u00fcber 500.000 Italiener. \n\nIn Italien bezahlt man mit dem Euro.\nFr\u00fcher war es Lira. \n\nItalien ist Mitglied in der:\nUNO, Europ\u00e4ischen Union, OECD, NATO, G8, G20.\n\nSo sieht die Flagge von Italien aus:\n\n\nSo sieht das Wappen von Spanien aus:\n\n\nItalienisch wird in vielen L\u00e4ndern gesprochen.\nZum Beispiel in:\nSan Marino, Vatikan\u00b7stadt, Schweiz, Frankreich, Slowenien, Kroatien.\n\n70 Millionen Menschen sprechen Italienisch als Mutter\u00b7sprache.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Italien"
+    },
+    {
+        "title": "\u00c4gypten",
+        "content": "\u00c4gypten ist ein Land in Afrika.\n\n\n\nAm Freitag, 11. Februar 2011 ist der Pr\u00e4sident Muhammad Husni Mubarak zur\u00fcckgetreten. \nEr war 30 Jahre lang das Oberhaupt von \u00c4gypten. \nDas war bei der Revolution in \u00c4gypten im Jahr 2011.\nManche sagen zu der Revolution auch:\nArabischer Fr\u00fchling\nDann wurde Mohammed Mursi zum Pr\u00e4sident gew\u00e4hlt.\nDavor hat er zu den Muslimbr\u00fcdern geh\u00f6rt.\n\nViele waren mit Mohammed Mursi nicht einverstanden.\nEs gab wieder eine Revolution.\nAm 3. Juli 2013 hat das Milit\u00e4r Mohammed Mursi gefangen genommen.\nManche sagen dazu:\nMilit\u00e4rputsch.\n\nDas Milit\u00e4r hat gesagt:\nEs soll wieder Wahlen geben.\nBis es Wahlen gibt,\nsoll Adly Mansour Pr\u00e4sident von \u00c4gypten sein.\n\nIn \u00c4gypten bezahlt man mit \"\u00e4gyptischen Pfund\".\nIn \u00c4gypten sprechen die Menschen arabisch.\n\nDie Hauptstadt von \u00c4gypten ist Kairo.\n\n\u00dcber 83 Millionen Menschen leben in \u00c4gypten.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/%C3%84gypten"
+    },
+    {
+        "title": "\u00d6sterreich",
+        "content": "\u00d6sterreich ist ein Land in Europa.\nDie Hauptstadt von \u00d6sterreich ist Wien.\nDie Menschen in \u00d6sterreich nennt man \u00d6sterreicher.\n\nDie Menschen sprechen Deutsch in \u00d6sterreich.\nManche W\u00f6rter sind anders als in Deutschland.\nZum Beispiel\nJanuar hei\u00dft in \u00d6sterreich J\u00e4nner., Speisequark hei\u00dft in \u00d6sterreich Topfen., Meerrettich hei\u00dft in \u00d6sterreich Kren..\n\nSo sieht die Flagge von \u00d6sterreich aus:\nIn \u00d6sterreich leben  8,8 Millionen Menschen.\nIn \u00d6sterreich  zahlt man mit dem Euro.\n\u00d6sterreich hat 9 Bundesl\u00e4nder.\nDie Sprache in \u00d6sterreich ist \u00f6sterreichisches Deutsch.\n\nIn \u00d6sterreich gibt es ein Staats\u00b7ober\u00b7haupt.\nDas Staats\u00b7oberhaupt ist der Bundes\u00b7pr\u00e4sident.\nDer Bundes\u00b7pr\u00e4sident ist Alexander Van der Bellen.\n\nUnd es gibt einen Regierungs\u00b7chef.\nDer Regierungs\u00b7chef ist der Bundes\u00b7kanzler.\nDer Bundes\u00b7kanzler ist Sebastian Kurz. \n\u00d6sterreich ist ein Binnen\u00b7staat.\n\nSchweiz, Liechtenstein, Deutschland, Italien, Slowenien, Ungarn, Slowakei, Tschechien, .\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/%C3%96sterreich"
+    },
+    {
+        "title": "Vatikanstadt",
+        "content": "Vatikanstadt ist der kleinste Staat der Welt. \nEs ist ein eigener Staat innerhalb der Stadt Rom in Italien. \n\n\n\nDer Vatikanstadt hat 932 Einwohner. \nDas Oberhaupt der Vatikanstadt ist der Papst.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Vatikanstadt"
+    },
+    {
+        "title": "Staatsbesuch",
+        "content": "Ein Staatsbesuch ist ein Besuch in einem anderen Land. \nEin Staats\u00b7besuch macht der Chef von einem Staat. \n\n\n\nBeim Besuch in einem anderen Land,\nsoll sich der Staats\u00b7chef an Vorschriften halten.\nZum Beispiel an Kleider\u00b7vorschriften. \nOder Sitz\u00b7vorschriften. \nDie Regeln stehen im Diplomatisches Protokoll. \n\nManchmal gibt es einen besonderen Gru\u00df,\nwenn ein Staats\u00b7chef im neuen Land angekommen ist. \nZum Beispiel ein Empfang mit Ehren oder ein Bankett.\n\nEin Staats\u00b7chef bekommt meistens Begleit\u00b7schutz. \nUnd kann mit einer Eskorte mit\u00b7fahren. \n\nDeutschland bekommt oft Staats\u00b7besuch vom US-Pr\u00e4sidenten.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Staatsbesuch"
+    },
+    {
+        "title": "Landsleute",
+        "content": "Landsleute sind Menschen die aus dem gleichen Land kommen. \n\n\n\nLandsleute tifft man zum Beispiel im Urlaub. \nDie Person kommt aus dem selben Land wie du.\n\nDas Wort Lands\u00b7leute ist ein Substantiv.\nEs hat diese 2 W\u00f6rter:\nLands (damit ist ein Land gemeint - wo man herkommt), Leute (damit sind Menschen gemeint).\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Landsleute"
+    },
+    {
+        "title": "China",
+        "content": "China ist ein Land in Asien.\n\n\nIn China gibt es nur eine Partei.\nDie Kommunistische Partei China.\nDie Partei erlaubt keine andere Parteien.\n\nDie Hauptstadt von China ist Peking.\n\nIn China bezahlt man mit dem Yuan.\n\n\u00dcber 1 Milliarde Menschen leben in China.\nIn keinem anderen Land auf der Welt leben so viele Menschen.\nJeder f\u00fcnfte Mensch auf der Erde ist ein Chinese.\n\nIn China isst man mit L\u00f6ffel und St\u00e4bchen.\nNicht mit Messer und Gabel.\n\nIn China schreibt man keine Buchstaben.\nIn China gibt es Schriftzeichen. \nSie bedeuten ein ganzes Wort.\nJedes Zeichen steht f\u00fcr ein anderes Wort.\nEs gibt mehr als 50 000 ( 50 Tausend ) Schriftzeichen.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/China"
+    },
+    {
+        "title": "Brandenburger Tor",
+        "content": "Das Brandenburger Tor ist ein ber\u00fchmtes Wahrzeichen.\nDas Brandenburger Tor steht in Berlin.\nDieses Wahrzeichen verbindet viele deutsche Ereignisse.\n\n\n\nDas Brandenburger Tor wurde vom 1788 bis zum Jahr 1791 gebaut.\nDer preu\u00dfische K\u00f6nig Friedrich Wilhelm II. hat es bauen lassen.\nDer Architekt Carl Gotthard Langhans hat es gebaut.\nEr baute es so auf wie das Stadttor von Athen.\n\nVom Jahr 1871 bis zum Jahr 1918 war Deutschland ein Kaiserreich.\nNur der Kaiser und seine G\u00e4ste durften durch das Brandenburger Tor gehen.\n\nAuf dem Tor sieht man die r\u00f6mische G\u00f6ttin Victoria.\nSie befindet sich in einem Wagen.\nDieser Wagen wird von 4 Pferden gezogen.\nManche sgen dazu auch: Die Quadriga.\nDie Quadriga wurde im Jahr 1793 gebaut.\n\nIm Jahre 1933 war die Machtergreifung der Nationalsozialisten.\nSie haben ihren Sieg gefeiert.\nSie sind mit mit Fackeln durch das Brandenburger Tor marschiert.\n\nAm Ende des 2. Weltkriegs wurde das Tor schwer besch\u00e4digt\n\nIm Jahr 1987 hielt Ronald Reagan eine Rede in Berlin.\nRonald Reagan war zu diesem Zeitpunkt Pr\u00e4sident von USA.\nEr hat zum sowjetischen Pr\u00e4sidenten Michail Gorbatschow gesagt.\nDas Brandenburger Tor soll aufgemacht werden.\nUnd die Berliner Mauer soll abgerissen werden. \n\nDas Brandenburger Tor ist ein Symbol der Wiedervereinigung von Deutschland im Jahr 1990.\n\nDas Brandenburger Tor ist 26 meter hoch,\n65 meter breit und\n11 meter tief\n\nHeute werden viele Ereignisse dort gefeiert\nZum Beispiel:\nSilvester, Fu\u00dfball-WM, Fu\u00dfball-EM.\n\nIn der N\u00e4he vom Brandenburger Tor ist der Reichstag.\nUnd die Siegess\u00e4ule.\n\nAuf manchen Euro M\u00fcnzen ist das Bild vom Brandenburger Tor.\nAuf der R\u00fcckseite von der 10-Cent\u00b7m\u00fcnze, \nder 20-Cent\u00b7m\u00fcnze und \nder 50-Cent\u00b7m\u00fcnzen.\n\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Brandenburger_Tor"
+    },
+    {
+        "title": "Berliner Mauer",
+        "content": "Die Berliner Mauer hat die Stadt Berlin geteilt.\nDie Mauer wurde im Jahr 1961 gebaut. \nSie wurde im November 1989 abgerissen.\n\nDas kurze Wort f\u00fcr Deutsche Demokratische Republik ist DDR.\nWalter Ulbricht war ein Politiker in der DDR.\nVom Jahr 1950 bis zum Jahr 1971 war er an der Spitze  des Zentral\u00b7komitees der SED.\nDas hei\u00dft: Er hat am meisten in der DDR bestimmt.\n\nEr hat den Soldaten einen Befehl geben.\nSie sollen eine Mauer zwischen Ost\u00b7berlin und West\u00b7berlin bauen.\nAm  Sonntag, den 13. August 1961 haben die Soldaten angefangen die Mauer zu bauen.\n\nDie Leute aus dem Osten konnten bis zum Jahr 1989 nicht unerlaubt nach Westen reisen.\nViele Menschen haben versucht zu fliehen.\nManche wurden dabei erschossen.\n\nDie Grenzen wurden von Solden sicher bewacht.\nAb dem Jahr 1963 durfte man mit einen Passierschein nach Ostdeutschland reisen. \nViele Menschen besuchten dort ihre Familie. \nSie konnten aber nicht f\u00fcr immer dort bleiben.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Berliner_Mauer"
+    },
+    {
+        "title": "Buckingham Palace",
+        "content": "Buckingham Palace ist der Name von einem bekannten Haus.\nGenauer: Von einem bekannter Palast.\nDer Palast steht in London, England.\nIm Palast wohnt die K\u00f6nigin von England.\n\n\n\nIm Buckingham Palace wohnen K\u00f6nigin Elisabeth II. und ihr Ehe\u00b7mann Prinz Philip.\nK\u00f6nigin Elisabeth II arbeitet auch dort.\n\nDer Palast hat 3 Teil\u00b7geb\u00e4ude.\n\nManchmal besuchen ausl\u00e4ndische Staats\u00b7chefs Gro\u00dfbritannien.\nDann werden sie im Buckingham Palace empfangen.\n\nIm Jahr 1703 ist der Palast gebaut worden. \nGenauer: Es wurde ein gro\u00dfes Stadt\u00b7haus gebaut.\nDas Stadt\u00b7haus war f\u00fcr John Sheffield, 1. Duke of Buckingham and Normanby. \n\nIm Jahr 1761 hat K\u00f6nig Georg III. das Stadt\u00b7haus gekauft.\nEr wollte, \ndass es William Chambers umbaut.\n\nJohn Nash war Architekt.\nIm Jahr 1826 hat er das Stadt\u00b7haus umgebaut.\nEr hat daraus ein Palast gemacht.\n\nIm Jahr 1837 wurde Vitoria K\u00f6nigin.\nSeither ist der Palast der offizielle Wohn\u00b7sitz der britischen K\u00f6nige.\n\nDer Verwaltungssitz (dort wo man Dinge verwaltet) findet im St. Jame's Palace statt.\nIm Palast und Garten kann man viele Kunstwerke sehen.\nViele Touristen gehen dorthin um ihn anzusehen.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Buckingham_Palace"
+    },
+    {
+        "title": "Cannstatter Wasen",
+        "content": "Der Cannstatter Wasen ist ein gro\u00dfes Fest\u00b7gel\u00e4nde.\nDas Fest\u00b7gel\u00e4nde ist in Stuttgart.\nIm Stadt\u00b7teil Bad Cannstatt. \nAuf dem Fest\u00b7gel\u00e4nde gibt es jedes Jahr Volks\u00b7feste.\nDas Cannstatter Volks\u00b7fest. \nUnd das Stuttgarter Fr\u00fchlings\u00b7fest,\n\n\n\nDer Cannstatter Wasen ist Teil vom Veranstaltungs\u00b7gel\u00e4nde Neckar\u00b7park.\nAuf dem Cannstatter Wasen gibt es verschiedene Veranstaltungen.\nZum Beispiel:\nCannstatter Volks\u00b7fest, Stuttgarter Fr\u00fchlings\u00b7fest, Zirkus\u00b7vorstellungen, Frei\u00b7luft\u00b7konzerte.\n\nManchmal ist der Cannstatter Wasen auch ein Park\u00b7platz.\nZum Beispiel, wenn im Neckar\u00b7park gro\u00dfe Veranstaltungen sind.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Cannstatter_Wasen"
+    },
+    {
+        "title": "Drachenschlucht",
+        "content": "Drachen\u00b7schlucht ist der Name von einer bestimmten Schlucht.\nDie Schlucht ist im Th\u00fcringer Wald.\nIn der N\u00e4he von der Stadt Eisenach.\n\n\n\nDie Drachenschlucht ist in einem Natur\u00b7schutz\u00b7gebiet.\nDas Gebiet hei\u00dft: \u201eWartburg Hohe Sonne\u201c.\n\nDer Name Drachen\u00b7schlucht kommt von einer Sage.\nEin Wurm soll durch die Schlucht gekrochen sein.\n\nDie Schlucht ist fast 3 km lang.\nEin Bach flie\u00dft durch die Schlucht in dem Gebirge.\nEr hat die Felsen ausgeh\u00f6hlt.\n\nSchmale Wanderwege sind entstanden.\nManche sind weniger als 1 Meter breit.\nNicht geeignet f\u00fcr:\nRollstuhlfahrer, Kinderwagen, Fahrr\u00e4der.\n\nDer Eintritt ist kostenlos.\n\u00d6ffnungszeiten:  Die Touristeninformation gibt Auskunft\n03691- 79 230.\nGesperrt bei:\nSturm, Eis, \u00dcberschwemmung.\n\nBusverbindungen Linie 11 & 31.\nParkpl\u00e4tze:\nMariental, Hohe Sonne.\n\nAuf der Hohen Sonne ist eine Gastst\u00e4tte.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Drachenschlucht"
+    },
+    {
+        "title": "Naturschutzgebiet",
+        "content": "Ein Natur\u00b7schutz\u00b7gebiet ist ein bestimmtes Gebiet.\nDort gibt es Regeln.\nManche Sachen sind verboten.\n\n\n\nIn einem Natur\u00b7schutz\u00b7gebiet sollen Pflanzen und \nWasser gesch\u00fctzt werden.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Naturschutzgebiet"
+    },
+    {
+        "title": "Eiffelturm",
+        "content": "Der Eiffel\u00b7turm ist ein Fach\u00b7werk\u00b7turm aus Eisen.\nDer Turm steht in Paris, Frankreich.\nDer Turm ist das Wahr\u00b7zeichen von Paris.\nEr ist 324 Meter hoch,\nund hat 1700 Stufen.\n\nIm Jahr 1789 war die Franz\u00f6sische Revolution.\nIm Jahr 1889 war die 100-Jahr\u00b7feier zur Franz\u00f6sischen Revolution.\nFrankreich wollte zur Feier einen Turm haben.\n\nFrankreich hat gesagt:\nGustave Eiffel soll den Turm bauen.\nEr hat auch beim Bau von der Freiheits\u00b7statue mit gemacht.\n\nIm Jahr 1887 haben Arbeiter angefangen,\nden Eiffel\u00b7turm zu bauen.\nIm Jahr 1889 waren sie fertig.\nZwischen 80 und 250 Arbeiter haben am Turm mit gearbeitet.\nEin Arbeiter ist dabei gestorben.\n\nDer Plan war.\nDer Turm soll nach 20 Jahren wieder abgebaut werden.\n\nAber der Turm war auch praktisch.\nDer Turm ist auch ein Radio\u00b7sende\u00b7turm.\nUnd die Leute haben sich an den Turm gew\u00f6hnt.\nDie Leute wollten den Turm behalten.\n\nViele Menschen kommen jedes Jahr zum Eiffel\u00b7turm.\nUngef\u00e4hr 6 Millionen jedes Jahr.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Eiffelturm"
+    },
+    {
+        "title": "Eisenach",
+        "content": "Eisenach ist eine Stadt. \nEine Stadt in Deutschland.\nDie Stadt ist im Bundes\u00b7land Th\u00fcringen.\nIn Eisenach leben \u00fcber 40 Tausend Menschen.\nDie Chefin der Stadt ist Katja Wolf. \n\n\n\nEisenach ist eine kreisfreie Stadt. \nDie Stadt gibt es seit dem Jahr 1067.\nEisenach ist eine Luther\u00b7stadt.\n\nDurch Eisenach flie\u00dfen 3 Fl\u00fcsse:\nH\u00f6rsel, Werra und Nesse. \n\nUnd im Norden ist der Th\u00fcringer Wald. \n\nIn Eisenach gibt es eine sehr bekannte Burg. \nDas ist die Burg: Wartburg. \nDie Wartburg ist das Wahrzeichen von Eisenach.\nAuf der Wartburg hat Martin Luther die Bibel in deutsche Sprache \u00fcbersetzt. \n\nSo sieht das Wappen der Stadt Eisenach aus:\nAuf dem Bild ist das Wappen von Eisenach zu sehen\n\nJedes Jahr gibt es ein sehr gro\u00dfes Fest in Eisenach. \nDas Fest hei\u00dft: Sommergewinn. \n\nAuf dem Bild sind Menschen beim Sommergewinn\u00b7fest zu sehen\n\nJohann Sebastian Bach ist in Eisenach geboren worden. \n\nEisenach hat 9 Orts\u00b7teile:\nStedtfeld, Neuenhof-H\u00f6rschel, Wartha-G\u00f6ringen, Stregda, Madelungen, Neukirchen, Berteroda, H\u00f6tzelsroda, Stockhausen.\n\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Eisenach"
+    },
+    {
+        "title": "Elbphilharmonie",
+        "content": "Die Elb\u00b7philharmonie ist ein Haus.\nGenauer: Ein Konzert\u00b7haus.\nDas Haus steht in Hamburg.\n\n\n\nDie Idee f\u00fcr das Haus gibt es seit dem Jahr 2001.\nIm Jahr 2003 haben Architekten Vorschl\u00e4ge gemacht.\nIm Jahr 2003 hat die Stadt Hamburg gesagt:\nDie Elb\u00b7philharmonie soll gebaut werden.\nAm Anfange haben die Leute gedacht,\ndie Elb\u00b7philharmonie kostet 77 Millionen Euro.\nUnd die Elb\u00b7philharmonie soll im Jahr 2010 fertig gebaut sein.\n\nDie Elb\u00b7philharmonie hat am Ende 789 Millionen Euro gekostet.\nUnd soll am 11. Januar 2017 er\u00f6ffnet werden.\n\nIm Jahr 1963 bis zum Jahr 1966 wurde der Kaispeicher A gebaut.\nDer steht im Hamburger Hafen.\nDer Kaispeicher A war ein Lager\u00b7haus.\nIm Lager\u00b7haus waren verschiedene Waren.\nZum Beispiel:\nKakao, Tabak, Tee.\nSp\u00e4ter hat niemand mehr das Lager\u00b7haus gebraucht.\nDie Elb\u00b7philharmonie wurde auf das Lager\u00b7haus oben drauf gebaut.\n\nIn der Elb\u00b7philharmonie gibt es verschiedene Sachen.\nZum Beispiel:\n3 Konzert\u00b7s\u00e4\u00e4le., 1 Hotel mit 244 Zimmern, 45 Wohnungen, 1 Park\u00b7haus.\n\nManche sagen.\nDie Elb\u00b7philharmonie ist schlecht.\nSie ist ein Schand\u00b7mal f\u00fcr die Reichen.\nViel Geld von den B\u00fcrgern ist verplempert worden.\n\nManche sagen:\nDie Elb\u00b7philharmonie ist ist gut.\nWeil die Elb\u00b7philharmonie gut ist f\u00fcr die Kultur in Hamburg.\nDann kommen viele Leute nach Hamburg.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Elbphilharmonie"
+    },
+    {
+        "title": "Europa-Park",
+        "content": "Der Europa-Park ist ein Themen\u00b7park.\n\n\nDer Europa-Park ist ein Themen\u00b7park.\nEs gibt verschiedene Bereiche.\nDie Bereiche haben das Thema Europa.\nJeder Bereich ist ein europ\u00e4isches Land, z. B. Italien, Spanien, England.\n\nEs gibt viele Fahr\u00b7gesch\u00e4fte dort.\nEs gibt auch Shows.\nMan kann im Europa-Park gut essen.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Europa-Park"
+    },
+    {
+        "title": "Themenpark",
+        "content": "Ein Themen\u00b7park ist ein Ort, an den man in seiner Freizeit geht.\nEs gibt viele Fahr\u00b7gesch\u00e4fte dort.\nEs gibt Achterbahnen und Karussells.\nEs gibt auch Shows.\n\nIm Themen\u00b7park gibt es verschiedene Themen\u00b7bereiche\nJedes Fahr\u00b7gesch\u00e4ft hat ein Thema.\nDer Park bringt Spa\u00df und Unterhaltung.\nEin Themen\u00b7park ist f\u00fcr junge und alte Leute.\n\nThemen\u00b7park ist ein Substantiv.\nEs hat 2 W\u00f6rter:\nThema (Mehrzahl: Themen), Park.\n\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Themenpark"
+    },
+    {
+        "title": "Frankfurter Buchmesse",
+        "content": "Die Frankfurter Buchmesse ist eine Buchmesse.\nDas hei\u00dft: Hier werden B\u00fccher vorgestellt.\n\nBei dieser Messe treffen sich zum Beispiel:\nAutoren, Verleger, Filmproduzenten, \u00dcbersetzer aus der ganzen Welt.\n\nBei der Messe werden Gesch\u00e4fte gemacht.\nZum Beispiel kauft ein Filmproduzent die Rechte an einem Buch.\n\n\n\nDie Frankfurter Buch-messe ist einmal im Jahr.\nDie Messe ist immer im Oktober.\nDie Messe ist auf dem Gel\u00e4nde der Messe Frankfurt.\n\nSeit dem Jahr 1949 gibt es die Frankfurter Buchmesse.\nDer B\u00f6rsenverein des Deutschen Buchhandels hat die Frankfurter Buch-messe gegr\u00fcndet.\n\nJedes Jahr hat die Messe ein besonderes Thema.\nSeit dem Jahr 1988 ist das  Thema immer \u00fcber ein Land oder eine Region.\nDas Thema im Jahr 2013: Brasilien, Das Thema im Jahr 2014: Finnland, Das Thema im Jahr 2015: Indonesien.\n\nW\u00e4hrend der Messe werden verschiedene Preise verliehen.\nZum Beispiel:\nFriedenspreis des Deutschen Buchhandels, der Deutsche Jugendliteraturpreis.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Frankfurter_Buchmesse"
+    },
+    {
+        "title": "Finnland",
+        "content": "Finnland ist ein Land.\nDas Land ist in Europa.\nAuf dem Bild ist eine Land\u00b7karte. Das Land Finnland ist gr\u00fcn angemalt.\n\nFinnland ist eine parlamentarische Republik.\nDas hei\u00dft:\nEs gibt ein Staats\u00b7oberhaupt und \neinen Regierungs\u00b7chef.\nDas Staats\u00b7oberhaupt hei\u00dft Sauli Niinist\u00f6.\nEr ist der Pr\u00e4sident von Finnland.\n\nDer Regierungs\u00b7chef hei\u00dft Alexander Stubb.\nEr ist der Minister\u00b7pr\u00e4sident von Finnland.\n\nDie Haupt\u00b7stadt von Finnland hei\u00dft Helsinki.\n\nIn Finnland sprechen die Menschen Finnisch.\nIn manchen Teilen von Schweden sprechen die Menschen auch andere Sprachen.\nZum Beispiel:\nSchwedisch, Romani, Samisch.\n\nIn Finnland gibt es die Finnische Geb\u00e4rden\u00b7sprache.\nDie Finnische Geb\u00e4rdensprache ist auch Amts\u00b7sprache.\n\nFinnland ist Mitglied in der Europ\u00e4ischen Union.\nIn Finnland bezahlen die Menschen mit dem Euro. \nIn Finnland leben ungef\u00e4hr 5,4 Millionen Menschen.\nSo sieht die Flagge von Finnland aus:\nAuf dem Bild ist die Finnische Flagge.\n\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Finnland"
+    },
+    {
+        "title": "Freiheitsstatue",
+        "content": "Die Freiheits\u00b7statue steht in New York, USA.\nSie ist ein Symbol f\u00fcr Freiheit in den USA.\nAm 28. Oktober 1886 wurde die Statue feierlich eingeweiht.\n\nDie Freiheits\u00b7statue ist ein Geschenk von den Franzosen gewesen.\nGrund f\u00fcr das Geschenk:\nDie Unabh\u00e4ngigkeitserkl\u00e4rung gab es 100 Jahre lang.\nDie Statue wurd am  28. Oktober 1886 eingeweiht.\n\nDie Statue ist ein Zeichen.\nEin Zeichen f\u00fcr Freiheit und Hoffnung.\n\nFrederic Auguste Batholdie war ein Bildhauer.\nEr lebte vom Jahr 1834 bis zum Jahr 1904.\nEr hat die Statue entworfen.\n\nIn der linken Hand hat die Statue eine Steintafel.\nDarauf steht das Datum 04. Juli 1776.\nAn diesen Tag wurde die Unabh\u00e4ngigkeitserkl\u00e4rung unterzeichnet.\n\nAuf dem Kopf tr\u00e4gt die Statue eine Krone.\nAuf dieser Krone sind sieben (7) Strahlen zu sehen.\nDiese stehen f\u00fcr die sieben (7) Weltmeere\n\nDie Statue of Liberty ist 102 Meter hoch.\nUnd 250 Tonnen schwer.\n\nAm 11. September 2001 gab es einen Anschlag in New York.\nDanach wurde Eintritt der Statue f\u00fcr Touristen gesperrt.\nErst im Jahr 2004 durfte wieder jeder in die Statue gehen.\n\nPreise:\nErwachsene: 12 Dollar, Senioren: 10 Dollar, Kinder: 5 Dollar.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Freiheitsstatue"
+    },
+    {
+        "title": "Yellowstone-Nationalpark",
+        "content": "Der Yellowstone-Nationalpark ist ein National\u00b7park.\nDer Park ist in den USA.\nDen Park gibt es seit dem 1. M\u00e4rz 1872.\nDas ist der der \u00e4lteste National\u00b7park der Welt.\n\n\n\nVor 10 Tausend Jahren haben die ersten Menschen in dem Gebiet gelebt.\nSie waren Indianer.\n\nJohn Colter war ein Trapper.\nIm Jahr 1807 kam er in das Gebiet.\nEr ist wahrscheinlich der erste wei\u00dfe Mensch der das Gebiet gesehen hat.\nAls er kam,\nhaben viele Indianer\u00b7st\u00e4mme dort gelebt.\nZum Beispiel:\nShoshone, Blackfoot, Absarokee, Bannock.\nDie Indianer haben Tiere gejagt.\nUnd Fische gefangen.\n\nFerdinand von Hayden war Geologe.\nIm Jahr 1871 hat er das Yellowstone-Gebiet erforscht.\nEr hat einen Bericht \u00fcber seine Forschung geschrieben.\nAuch die Presse hat \u00fcber das Gebiet geschrieben.\n\nDamals war Ulysses S. Grant der Pr\u00e4sident von den USA.\nEr war von den Bilder der Reise ziemlich beeindruckt.\nAm 1. M\u00e4rz 1872 hat er ein Gesetz unterschrieben.\nMit dem Gesetz soll das Yellowstone-Gebiet gesch\u00fctzt werden.\nVor Gold\u00b7suchern, Siedlern und Trappern.\nMit dem Gesetz hat er den ersten Nationalpark auf der Welt gegr\u00fcndet.\n\nDer Yellowstone-Nationalpark ist 8987 Quadrat\u00b7kilometer gro\u00df.\nDer Nationalpark ist im Bundes\u00b7staat Wyoming, USA.\n\nDer h\u00f6chste Punkt im Park ist der Eagle Peak.\nDas ist der Name von dem Gipfel.\nDer Gipfel ist 3462 Meter hoch.\n\nDurch den Park fliest ein Fluss.\nDer Fluss hei\u00dft Yellowstone River.\nVon dem Fluss hat der Park seinen Namen.\n\nIm Park gibt es auch Vulkane.\nDer bekannteste Vulkan hei\u00dft Old Faithful.\nDurch die Vulkane gibt es viele Geysire.\n\nIm Park gibt es viele wilde Tiere.\nZum Beispiel\nBisons, Grizzlys, Schwarz\u00b7b\u00e4ren, W\u00f6lfe.\n\nHeute leben nur noch 3500 Bisons im Park.\nLaufen die Bisons aus dem Park heraus,\nwerden sie get\u00f6tet.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Yellowstone-Nationalpark"
+    },
+    {
+        "title": "Hollywood Walk of Fame",
+        "content": "Hollywood Walk of Fame ist der Name von einem Geh\u00b7weg.\nDer Geh\u00b7weg ist in der Stadt Los Angeles. \nAuf dem Geh\u00b7weg sind Sterne.\nUnter den Sternen stehen die Namen von ber\u00fchmten Leuten.\nZum Beispiel von Schauspielern.\n\n\nHollywood Walk of Fame ist in der Stra\u00dfe Hollywood Boulevard.\nDie Stra\u00dfe ist im Stadt\u00b7teil Hollywood.\nAuf dem Geh\u00b7weg gibt es 2.664 Sterne.\n\nDen Hollywood Walk of Fame gibt es seit dem Jahr 1957.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Hollywood_Walk_of_Fame"
+    },
+    {
+        "title": "San Diego Comic-Con International",
+        "content": "San Diego Comic-Con International ist der Name von einem Treffen.\nManche sagen zu dem Treffen auch Comic-Con.\nBei dem Treffen geht es um das Thema Comics.\nZum Beispiel kommen zu dem Treffen Verlage.\nDie Verlage zeigen ihre Comics.\nUnd zu dem Treffen kommen viele Fans.\nViele Fans verkleiden sich.\nSie verkleiden sich wie Comic\u00b7figuren.\n\n\n\nSheldon Dorf war ein amerikanischer K\u00fcnstler.\nUnd Grafik\u00b7designer.\nUnd ein comic-strip letterer.\nDas hei\u00dft:\nEr hat die Sprech\u00b7blasen in Comics gezeichnet.\nEr hat die Idee gehabt f\u00fcr die San Diego Comic-Con International.\nZusammen mit anderen hat er das erste Treffen geplant.\nDas war im Jahr 1970.\n\nDas Treffen ist in der Stadt San Diego.\nSan Diego ist in den USA.\n\nJedes Jahr kommen mehr Menschen zu dem Treffen.\nIm Jahr 2015 waren 167 Tausend Menschen da.\n\nZu dem Treffen kommen viele Comic\u00b7zeichner.\n\nUnd es kommen viele Comic\u00b7fans.\nViele Fans verkleiden sich.\nSie verkleiden sich als ihre Lieblings\u00b7comic\u00b7figur.\nDas hei\u00dft: Cosplay.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/San_Diego_Comic-Con_International"
+    },
+    {
+        "title": "Sixtinische Kapelle",
+        "content": "Die Sixtinische Kapelle ist eine kleine Kirche in der Vatikanstadt.\nIn dieser Kapelle ist auch das Kon\u00adkla\u00adve.\nDas hei\u00dft:\nHier treffen sich die Kardin\u00e4le und\nw\u00e4hlen den Papst.\n\nDie Kapelle wurde zur Zeit von Papst Sixtus IV gebaut.\nVon ihm hat sie ihren Namen.\nDie Sixtinische Kapelle wurde am 15. August 1483 eingeweiht.\n\nAuf die W\u00e4nde und an die Decke sind Bilder gemalt.\nDie Bilder sind von verschiedenen Malern.\nZum Beispiel:\nSandro Botticelli, Pietro Perugino, Luca Signorelli, Michelangelo.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sixtinische_Kapelle"
+    },
+    {
+        "title": "The Plaza",
+        "content": "The Plaza ist ein Luxus\u00b7hotel.\nEs befindet sich in Mannhattan, New York, USA.\nEs ist ein Wahr\u00b7zeichen der Stadt.\n\n\n\nDas The Plaza steht in Mannhattan, in der USA\nEs wurde im Jahr 1905 gebaut.\nHenry Janeway Hardenbergh hat das Hotel bauen lassen.\nDer Bau hat 12,5 Millionen US-Dollar gekostet.\nAm 1. Oktober 1907 wurde The Plaza er\u00f6ffnet.\n\nDamals \u00fcbernachteten noch Gesch\u00e4ftsm\u00e4nner im Plaza Hotel.\n\nDas Hotel hat 800 Zimmer und 19 Stockwerke.\n\nIn The Plaza waren auch viele ber\u00fchmte G\u00e4ste.\nZum Beispiel:\nMitglieder der Familien Vanderbilt, Ernest Hemingway, Die Beatles.\n\nDas Hotel wurde versteigert.\nDas war im Jahr 2004.\nElad Properties hat es gekauft.\nEr hat 675 Millionen US-Dollar gezahlt.\n\nIm The Plaza wurden auch einige Filme gedreht.\nZum Beispiel:\nDer unsichtbare Dritte, Kevin - Allein in New York..\n\nIm The Plaza  gibt es auch Konzerte.\nIm Hotel haben schon verschiedene Leute Musik gemacht.\nZum Beispiel:\nJosephine Baker, Liza Minnelli, Marlene Dietrich, Peggy Lee, Miles Davis.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/The_Plaza"
+    },
+    {
+        "title": "Th\u00fcringer Wald",
+        "content": "Th\u00fcringer Wald ist der Name von einem Gebirge.\nDas Gebirge ist in Deuschland.\nIm Bundes\u00b7land Th\u00fcringen.\n\n\n\n\nDer Th\u00fcringer Wald ist ein Mittel\u00b7gebirge.\nDort gibt es sehr viel Wald.\nDer Th\u00fcringer Wald ist 150 Kilo\u00b7meter lang.\nUnd 35 Kilo\u00b7meter breit.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Th%C3%BCringer_Wald"
+    },
+    {
+        "title": "Oktoberfest",
+        "content": "Das Oktober\u00b7fest ist ein gro\u00dfes Fest,\ndas viele Leute feiern. \n\n\nDas Oktober\u00b7fest gibt es in [M\u00fcnchen]].\nDas Oktober\u00b7fest ist das gr\u00f6\u00dfte Volks\u00b7fest der Welt.\nDas hei\u00dft: Zu diesem Fest kommen die meisten Besucher.\n\nViele Besucher kommen in Trachten.\nM\u00e4nner ziehen zum Beispiel Leder\u00b7hosen an\nFrauen ziehen ein Dirndl an.\n\nAuf dem Fest gibt es:\nBier\u00b7zelte, Trachten\u00b7gruppen, Riesen\u00b7rad, Fahrgesch\u00e4fte.\n\nDas Oktober\u00b7fest ist jedes Jahr.\nDas Fest f\u00e4ngt am ersten Samstag nach dem 15. September an.\nDas Fest geht 16 bis 18 Tage lang.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Oktoberfest"
+    },
+    {
+        "title": "Reise",
+        "content": "Bei einer Reise geht man von einem Ort zu einem anderen. \nEine Reise kann man zu Fu\u00df machen. \nOder man kann fahren. \nZum Beispiel mit dem Auto. \nOder man kann eine Flug\u00b7reise machen. \n\nBei einer Reise besucht man einen anderen Ort. \nZum Beispiel um den anderen Ort kennen zu lernen. \nOder um sich an einem Ort zu erholen. \nJemand der eine Reise macht,\nist ein Reisender. \nViele Menschen machen eine Reise, \nwenn sie Urlaub haben. \nAuf einer Reise nimmt man Gep\u00e4ck mit.\n\nWenn man an mehrere Orte besucht,\nist es eine Rund\u00b7reise. \nWenn man zum Arbeiten Orte besucht,\nist es eine Dienst\u00b7reise.\nWenn man zur Arbeit geht,\nist das pendeln. \n\nWenn man selber eine Reise plant,\nist es eine Individual\u00b7reise.\nWenn andere die Reise planen,\nist es eine Pauschal\u00b7reise. \n\nWenn viele Menschen zusammen eine Reise machen,\nist es eine Gruppen\u00b7reise. \nWenn man sehr viele L\u00e4nder besucht,\nist es eine Wel\u00b7treise.\nUnd wenn man eine Reise durch die ganze Erde macht,\nist es eine Welt\u00b7um\u00b7rundung.\nWenn man eine Reise macht um eine Sprache zu lernen,\nist es eine Sprach\u00b7reise.\nWenn man eine Reise wegen Religion macht,\nist es eine Wall\u00b7fahrt. \n\nEine Reise die einen (1) Tag lang geht,\nist ein Tages\u00b7ausflug. \nEine Reise die viele Monate geht,\nist eine Lang\u00b7zeit\u00b7reise.\n\nExperten untersuchen warum Menschen eine Reise machen. \nWenn Experten etwas von anderen Orten untersuchen,\nmachen sie eine Forschungs\u00b7reise.\nSie untersuchen warum Menschen von einem Ort an einen anderen gehen. \nUnd was sie am anderen Ort machen. \n\nEs gibt viele B\u00fccher \u00fcber das Reisen. \nZum Beispiel das Buch Gullivers Reisen.\nUnd es gibt viele Filme \u00fcber das Reisen.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Reise"
+    },
+    {
+        "title": "Sprachreise",
+        "content": "Eine Sprachereise ist eine Reise in ein anderes Land. \nMan geht dahin weil:\nman eine andere Sprache lernen will.\nman eine andere Sprache verbessern will.\n\nBei den meisten Sprachreisen wird eine Sprachschule besucht. \nDort lernt man dann die Sprache. \n\nEine Sprachreise kann man selber organisieren. \nOder man l\u00e4sst es von einer Firma organisieren.\nSo eine Firma nennt man: Sprachreiseveranstalter\nDas ist ein spezieller Reiseveranstalter f\u00fcr Sprachen. \n\nDas Wort Sprachreise ist ein Substantiv.\nEs hat 2 W\u00f6rter:\nSprach, Reise.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sprachreise"
+    },
+    {
+        "title": "Reisepass",
+        "content": "Ein Reise\u00b7pass ist ein kleines Heft.\nIm Reise\u00b7pass steht:\nwie man hei\u00dft, aus welchem Land man ist.\nEinen Reise\u00b7pass braucht man,\nwenn man in ein anderes Land reisen will.\n\n\nWenn man in ein anderes Land reisen will,\nbraucht man eine Erlaubnis.\nDie Erlaubnis hei\u00dft Visum.\nF\u00fcr viele L\u00e4nder reicht ein Reise\u00b7pass.\nDas hei\u00dft man kann ohne Visum reisen.\nDen Reise\u00b7pass zeigt man an der Grenze.\nDann darf man in das Land reisen.\nManchmal machen die Z\u00f6llner auch einen Stempel in den Reise\u00b7pass.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Reisepass"
+    },
+    {
+        "title": "Visum",
+        "content": "Ein Visum ist eine Erlaubnis. \nDamit man in einem fremden Land sein darf. \nOder das man durch ein fremdes Land reisen darf. \nDiese Erlaubnis kann man alleine beantragen. \nOder sie gemeinsam mit einem Anwalt beantragen.\n\n\n\nEin Visum wird in den Reise\u00b7pass eingetragen. \nZum Beispiel mit einem Stempel. \nOder einem extra Papier im Reise\u00b7pass.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Visum"
+    },
+    {
+        "title": "Fernbus",
+        "content": "Ein Fernbus ist ein Bus. \nMit einem Fern\u00b7bus kann man sehr weit fahren. \n\n\nFern\u00b7busse sind Reise\u00b7busse. \nSie fahren meistens von einer gro\u00dfen Stadt ab.\nVon einem Fern\u00b7bus\u00b7bahnhof. \n\nEin Fern\u00b7bus f\u00e4hrt meistens auf einer Auto\u00b7bahn.\nDamit man schnell eine weite Strecke fahren kann. \nIn Deutschland ist Flix\u00b7bus sehr bekannt.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Fernbus"
+    },
+    {
+        "title": "Hotelbus",
+        "content": "Ein Hotelbus ist ein gro\u00dfer Bus. \nDarin gibt es Sitze.\nUnd Betten zum schlafen. \n\n\n\nMit einem Hotelbus kann man in den Urlaub fahren. \nUnd gleichzeitig darin schlafen. \nSo\u00e4hnlich wie in einem: Wohnmobil. \n\nDas Wort Hotelbus ist ein Substantiv. \nEs hat diese zwei (2) W\u00f6rter:\nHotel, Bus.\n\nDer Hotelbus wurde von Georg H\u00f6ltl erfunden.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Hotelbus"
+    },
+    {
+        "title": "Landyachting",
+        "content": "Landyachting ist Urlaub mit einem sehr gro\u00dfen Wohn\u00b7wagen. \nSo ein Wohn\u00b7wagen hat sehr viel Luxus. \nUnd ist deshalb sehr teuer. \n\n\n\nLandyachting ist eine Form des Glamping. \nWeil der Wohn\u00b7wagen sehr gro\u00df ist.\nMeistens genau so gro\u00df wie ein Hotelbus.\n\nDer Wohn\u00b7wagen hat viele Sachen drinnen. \nUnd der Wohn\u00b7wagen kostet sehr viel Geld. \nZum Beispiel, weil er Sitze aus Leder hat.\nOder ein sehr gro\u00dfes Wohn\u00b7zimmer hat.\n\n\n\nLand\u00b7yachting hat zwei (2) Englische W\u00f6rter:\nLand (damit ist der Boden gemeint - zum Beispiel eine Stra\u00dfe), yachting (damit ist eine Schiff\u00b7fahrt gemeint - mit einem teuren Schiff).\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Landyachting"
+    },
+    {
+        "title": "Little Italy (New York City)",
+        "content": "Little Italy ist der Name von einem Stadt\u00b7viertel.\nDas Stadt\u00b7viertel ist in der Stadt New York City, USA.\nGenauer: Im Stadt\u00b7teil Manhattan.\n\n\n\nIn den 1870er Jahren zogen Italiener nach New York.\nIn S\u00fcditalien gab es Armut.\nSie verlie\u00dfen deshalb ihre Heimat.\nSie wollte in Manhattan neu anfangen.\n\nIn Little Italy wohnte man in kleinen und dreckigen Mietsh\u00e4usern\nAls der 20 Jahrhundert begann, zogen die Nachkommen der Einwanderer in bessere Stadtteile innerhalb Manhattan.\nDer Grund: Sie wurden reicher.\n\nEs gab viele Mafias dort.\n\nMan sagt, dass nur f\u00fcnf (5) Prozent der Bewohner von Little Italy aus Italien stammen.\nDer Rest ist nur in Amerika geboren.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Little_Italy_(New_York_City)"
+    },
+    {
+        "title": "Sehensw\u00fcrdigkeit",
+        "content": "Eine Sehensw\u00fcrdigkeit ist etwas besonderes,\ndas man sich gerne anschaut. \n\nWenn etwas sch\u00f6n und besonders ist, \nschaut man es sich gerne an. \nZum Beispiel eine alte Kirche. \n\nWenn es bekannt ist,\nund sich viele Menschen daf\u00fcr interessieren,\nkann man dazu Sehensw\u00fcrdigkeit sagen. \n\nDas Wort Sehensw\u00fcrdigkeit ist ein Substantiv.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sehensw%C3%BCrdigkeit"
+    },
+    {
+        "title": "Los Angeles",
+        "content": "Los Angeles ist eine Stadt im Bundes\u00b7staat Kalifornien, USA.\nEs ist die zweitgr\u00f6sste Stadt der USA.\nIn Los Angeles leben 4 Millionen Menschen.\n\n\n\nDas kurze Wort f\u00fcr Los Angeles ist L.A.\nDas wird so gesprochen: El E\n\nLos Angeles wurde 1781 von Felipe de Neve gegr\u00fcndet.\nEr gab auch den Namen Los Angeles.\nAm Anfang haben 44 Menschen in Los Angeles gewohnt.\nDie Einwohner von Los Angeles hei\u00dfen Angelinos.\nSie lebten im Anfang von Viehzucht.\n1835 wurde LA zu einer Stadt.\n\nIn Los Angeles ist es nicht kalt und nicht warm.\nDas Wetter \u00e4ndert sich st\u00e4ndig.\nIm Winter ist es selten unter 15 Grad.\nRegen gibt es meistens nur in den Winter\u00b7monaten.\nIm Herbst und im Fr\u00fch\u00b7jahr ist das Wetter sch\u00f6n.\n\nIn Los Angeles gibt es viele Sehens\u00b7w\u00fcrdigkeiten.\nZum Beispiel in Hollywood.\nHollywood ist ein Stadt\u00b7teil von Los Angeles.\n\nBeispiele f\u00fcr Sehensw\u00fcrdigkeiten:\nWalk of Fame:.\nDolby Theatre:.\nRoosevelt Hotel:.\nund es gab das Ger\u00fccht, dass John F. Kennedy in den 60er Jahren eine Aff\u00e4re mit Marilyn Monroe hatte.\nDer Hollywoodschriftzug:.\nDiese findet man in den H\u00fcgeln der Stadt.\nUniversal Filmstudios.\nRodeodrive.\nDer Rodeo Drive ist eine ber\u00fchmte Stra\u00dfe, wo viele luxori\u00f6se L\u00e4den gibt.\nDisneyland Resort.\n\nMan kann auch sch\u00f6ne Spazierg\u00e4nge an den Str\u00e4nden von Santa Monica machen.\nDer bekannteste Strand ist der Venice Beach.\n\nIn Los Angeles wurden viele ber\u00fchmte Personen geboren.\nZum Beispiel:\nKristen Stewart, Angelina Jolie, Leonardo DiCaprio, Gwyneth Paltrow, Helen Hunt, Jodie Foster, Jamie Lee Curtis.\nund viele weitere.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Los_Angeles"
+    },
+    {
+        "title": "Russland",
+        "content": "Russland ist ein Land in Eurasien.\nDie Menschen die in Russland leben hei\u00dfen: Russen. \nDie Haupt\u00b7stadt von Russland ist: Moskau.\n\nRussland hat eine Gelenkte Demokratie. \nDer Pr\u00e4sident von Russland hei\u00dft: Wladimir Putin.\nDer Regierungs\u00b7chef von Russland hei\u00dft: Dmitri Medwedew.\n\nRussland ist Mitglied bei:\nSicherheitsrat der Vereinten Nationen, OSZE, Europarat, G8, IWF, Weltbank.\n\nRu\u00dfland ist das gr\u00f6\u00dfte Land der Welt.\nWeil es so gro\u00df ist, \ngibt es 11 verschiedene Uhr\u00b7zeiten. \n\nDurch Russland f\u00e4hrt die Transsibirische Eisenbahn.\nDas ist die l\u00e4ngste Zug\u00b7strecke der Welt. \nEine Zug\u00b7fahrt von Moskau nach Wladiwostok dauert \u00fcber 160 Stunden.\n\nDer h\u00f6chste Berg in Russland hei\u00dft: Elbrus.\nEr ist \u00fcber 5000 Meter hoch und liegt im Kaukasus.\n\n\nIn Russland leben \u00fcber 140 Millionen Menschen.\nUnd sie sprechen die Sprache Russisch.\nRussisch wird in vielen L\u00e4ndern gesprochen.\nZum Beispiel in:\nWei\u00dfrussland, Kasachstan, Kirgistan, Ukraine.\n\n163 Millionen sprechen Russisch als Mutter\u00b7sprache.\n\nIn Russland bezahlt man mit Rubel.\n\nIn der Haupt\u00b7stadt Moskau leben \u00fcber 11 Millionen Menschen.  \nUnd in Deutschland leben \u00fcber 6 Millionen Russen.  \n\nSo sieht die Flagge von Russland aus:\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Russland"
+    },
+    {
+        "title": "Philippinen",
+        "content": "Die Philippinen sind ein Land in Asien.\nGenauer: Die Philippinen sind eine Gruppe von Inseln.\nDie Inseln sind im Pazifischen Ozean.\n\n\nIm Moment haben die Philippinen eine Demokratie.\nDie Hauptstadt der Philippinen ist Manila.\nAuf den Philippinen sprechen die Menschen Filipino und Englisch.\nAuf den Philippinen bezahlt man mit dem philippinischen Peso.\n\nAuf den Philippinen leben ungef\u00e4hr 92 Millionen Menschen.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Philippinen"
+    },
+    {
+        "title": "Gro\u00dfbritannien",
+        "content": "Gro\u00dfbritannien ist ein Land in Europa.\n\n\n\nIn Gro\u00dfbritannien gibt es eine Demokratie.\nGenauer: eine parlamentarische Monarchie.\nDas Staatsoberhaupt hei\u00dft: K\u00f6nigin Elisabeth II.\n\nDie Hauptstadt von Gro\u00dfbritannien ist London.\n\nDas Vereinigte K\u00f6nigreich besteht aus\nEngland,, Schottland,, Wales und, Nordirland..\nIn Gro\u00dfbritannien sprechen die Menschen Englisch.\nJe nach Region sprechen die Menschen auch:\nKornisch,, Irisch,, Manx,, Schottisch-G\u00e4lisch,, Scots,, Ulster Scots und, Walisisch.\n\nIn Gro\u00dfbritannien leben ungef\u00e4hr 64 Millionen Menschen.\nIn Gro\u00dfbritannien bezahlen die Menschen mit Pfund Sterling.\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Gro%C3%9Fbritannien"
+    },
+    {
+        "title": "Hawaii",
+        "content": "Hawaii ist eine Insel im Pazifik.\n\nHawaii ist ein Amerikanischer Bundesstaat. \nEs ist der 50. Bundesstaat in der USA. \nEr besteht aus Inseln im Pazifischen Ozean. \n\nAuf Hawaii spricht man Hawaiianisch\n",
+        "language": "German",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Hawaii"
+    }
+]

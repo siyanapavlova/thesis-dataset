@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Science and Technology",
+        "content": "Science is what we do to find out about the natural world. Natural sciences include physics, chemistry, biology, geology and astronomy. Science uses mathematics and logic, which are sometimes called \"formal sciences\". Natural science makes observations and experiments. Science produces accurate facts, scientific laws and theories. 'Science' also refers to the large amount of knowledge that has been found using this process.Research uses the scientific method. Scientific research uses hypotheses based on ideas or earlier knowledge, which can be categorized through different topics. Then those hypotheses are tested by experiments.\nPeople who study and research science and try to find out everything about it are called scientists.  Scientists study things by looking at them very carefully, by measuring them, and by doing experiments and tests.  Scientists try to explain why things act the way they do, and predict what will happen.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Science"
+    },
+    {
+        "title": "Mathematics",
+        "content": "Mathematics is the study of numbers, shapes and patterns. The word comes from the Greek word \"\u03bc\u03ac\u03b8\u03b7\u03bc\u03b1\" (m\u00e1thema), meaning \"science, knowledge, or learning\", and is sometimes shortened to maths (in England, Australia, Ireland, and New Zealand) or math (in the United States and Canada). The short words are often used for arithmetic, geometry or simple algebra by students and their schools.\nMathematics includes the study of:\n\nNumbers: how things can be counted.\nStructure: how things are organized. This subfield is usually called algebra.\nPlace: where things are and their arrangement. This subfield is usually called geometry.\nChange: how things become different. This subfield is usually called analysis.Mathematics is useful for solving problems that occur in the real world, so many people besides mathematicians study and use mathematics. Today, some mathematics is needed in many jobs. People working in business, science, engineering, and construction need some knowledge of mathematics.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Mathematics"
+    },
+    {
+        "title": "Biology",
+        "content": "Biology is the science that studies life, and living things, and the evolution of life. Living things include animals, plants, fungi (such as mushrooms), and microorganisms such as bacteria and archaea.\nThe term 'biology' is relatively modern. It was introduced in 1799 by a physician, Thomas Beddoes.People who study biology are called biologists. Biology looks at how animals and other living things behave and work, and what they are like. Biology also studies how organisms react with each other and the environment. It has existed as a science for about 200 years, and was preceded by natural history. Biology has many research fields and branches. Like all sciences, biology uses the scientific method. This means that biologists must be able to show evidence for their ideas and that other biologists must be able to test the ideas for themselves.\nBiology attempts to answer questions such as:\n\n\"What are the characteristics of this living thing?\" (comparative anatomy)\n\"How do the parts work?\" (physiology)\n\"How should we group living things?\" (classification, taxonomy)\n\"What does this living thing do?\" (behaviour, growth)\n\"How does inheritance work?\" (genetics)\n\"What is the history of life?\" (palaeontology)\n\"How do living things relate to their environment?\" (ecology)Modern biology is influenced by evolution, which answers the question: \"How has the living world come to be as it is?\"",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Biology"
+    },
+    {
+        "title": "Cell",
+        "content": "In biology, the cell is the basic structure of organisms. All cells are made by the division of other cells.\nThe environment outside the cell is separated from the cytoplasm inside the cell by the cell membrane. Inside some cells, parts of the cell stay separate from other parts. These separate parts are called organelles (like small organs). They each do different things in the cell. Examples are the nucleus (where DNA is), and mitochondria (where chemical energy is converted).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cell"
+    },
+    {
+        "title": "Animal",
+        "content": "Animals are eukaryotic organisms with many cells. They do not use light to get energy as plants do. Animals use different ways to get energy from other living things. They may eat other living things, though some are parasites or have photosynthetic protists as symbionts.\nMost animals are mobile, meaning they can move around. Animals take in oxygen, and give out carbon dioxide. This cellular respiration is part of their metabolism (chemical working). In both these ways they are different from plants. Also, the cells of animals have different cell membranes to other eukaryotes like plants and fungi. The study of animals is called zoology.Plants are also multicellular eukaryotic organisms, but live by using light, water and basic elements to make their tissues.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Animal"
+    },
+    {
+        "title": "Plant",
+        "content": "Plants are one of six big groups (kingdoms) of living things. They are autotrophic eukaryotes, which means they have complex cells, and make their own food. Usually they cannot move (not counting growth).\nPlants include familiar types such as trees, herbs, bushes, grasses, vines, ferns, mosses, and green algae. The scientific study of plants, known as botany, has identified about 350,000 extant (living) species of plants. Fungi and non-green algae are not classified as plants.\nMost plants grow in the ground, with stems in the air and roots below the surface. Some float on water. The root part absorbs water and some nutrients the plant needs to live and grow. These climb the stem and reach the leaves. The evaporation of water from pores in the leaves pulls water through the plant. This is called transpiration.\nA plant needs sunlight, carbon dioxide, minerals and water to make food by photosynthesis. A green substance in plants called chlorophyll traps the energy from the Sun needed to make food. Chlorophyll is mostly found in leaves, inside plastids, which are inside the leaf cells. The leaf can be thought of as a food factory. Leaves of plants vary in shape and size, but they are always the plant organ best suited to capture solar energy. Once the food is made in the leaf, it is transported to the other parts of the plant such as stems and roots.The word \"plant\" can also mean the action of putting something in the ground. For example, farmers plant seeds in the field.\nPhotosynthesis is a process that is taken place by the leaves on the plant. The leaves are the only parts of a plant that can do this process (as they adapted). This is also known as how the plant gets its food.You can make the process quicker by adding more CO2, light and chlorophyll.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Plant"
+    },
+    {
+        "title": "Species",
+        "content": "A species is a kind of organism. It is a basic unit of biological classification, and a formal rank in taxonomy. Originally, the word was used informally in a rather vague way, but now there are at least 26 different ways it is used.All animals or plants that are the same kind belong to the same species. Wolves (Canis lupus) are one species. Humans (Homo sapiens) are another species. Broadly, the idea is that, for example, cats breed with cats and produce more cats. This is the basis for deciding to have a species called Felis catus. However, to give a simple definition of 'species' is difficult, and many people have tried.Species is a word for a particular kind of living thing, for example, a jackdaw. Jackdaws and ravens are similar, so they are together in a larger group (taxon) called a genus, in this case Corvus. Then there is a family (such as the crow family, which includes crows and ravens as well as jays and magpies). Families are put together into orders such as the songbirds, which includes many families of birds. The next group is the class; all birds are in the same class. After that is the phylum, such as vertebrates, which is all animals with backbones. Last of all is the kingdom, like the animal kingdom. These are ways to classify living things.\nThere is a mnemonic to help people remember the order of the divisions which are listed again below: \"King Phillip Came Over For Great Spaghetti\".",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Species"
+    },
+    {
+        "title": "Computer",
+        "content": "A computer is a machine that accepts data as input, processes that data using programs, and outputs the processed data as information. Many computers can store and retrieve information using hard drives. Computers can be connected together to form networks, allowing connected computers to communicate with each other.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Computer"
+    },
+    {
+        "title": "Computer science",
+        "content": "Computer science is the study of manipulating, managing, transforming and encoding information.\nThere are many different areas in computer science. Some areas consider problems in an abstract manner, while some need special machines, called computers.\nA person who works with computers will often need mathematics, science, and logic in order to design and work with computers.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Computer_science"
+    },
+    {
+        "title": "Pythagoras",
+        "content": "Pythagoras of Samos was a famous Greek mathematician and philosopher (c. 570 \u2013 c. 495 BC). He is known best for the proof of the important Pythagorean theorem, which is about right angle triangles. He started a group of mathematicians, called the Pythagoreans, who worshiped numbers and lived like monks. He had an influence on Plato.\nHe had a great impact on mathematics, theory of music and astronomy. His theories are still used in mathematics today. He was one of the greatest thinkers of his time.\nPythagoras was born in Samos, a little island off the western coast of Asia Minor. There is not much information about his life. It is said that he had a good childhood. Growing up with two or three brothers, he was well educated. He did not agree with the government and their schooling, so he moved to Crotone and set up his own cult (little society) of followers under his rule. His followers did not have any personal possessions, and they were all vegetarians. Pythagoras taught them all, and they had to obey strict rules.\nSome say he was the first person to use the term philosophy. Since he worked very closely with his group, the Pythagoreans, it is sometimes hard to tell his works from those of his followers.\nReligion was important to the Pythagoreans.  They swore their oaths by \"1+2+3+4\" (which equals 10).  They also believed the soul is immortal and goes through a cycle of rebirths until it can become pure.  They believed that these souls were in both animal and plant life.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pythagoras"
+    },
+    {
+        "title": "Euclid",
+        "content": "Euclid of Alexandria  (Greek: \u0395\u1f50\u03ba\u03bb\u03b5\u03af\u03b4\u03b7\u03c2) (about 325 BC\u2013265 BC) was a Greek mathematician who lived in Alexandria, Egypt and worked at the Library of Alexandria. Little is known about this person, but people think he lived there when Ptolemy I was Pharaoh. It is not known where and when he was born.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Euclid"
+    },
+    {
+        "title": "Chemistry",
+        "content": "Chemistry is a branch of  science that deals with chemical elements and compounds, and how these things work together and change.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chemistry"
+    },
+    {
+        "title": "Atom",
+        "content": "Atoms are very small pieces of matter. There are many different types of atoms, each with its own name, mass and size.  These different types of atoms are called chemical elements.  The chemical elements are organized on the periodic table.  Examples of elements are hydrogen and gold.\nAtoms are very small, but their exact size depends on the element.  Atoms range from 0.1 to 0.5 nanometers in width. One nanometer is about 100,000 times smaller than the width of a human hair. This makes atoms impossible to see without special tools. Scientists discover how they work and interact with other atoms through experiments.\nAtoms can join together to make molecules: for example, two hydrogen atoms and one oxygen atom combine to make a water molecule. When atoms join together it is called a chemical reaction.\nAtoms are made up of three kinds of smaller particles, called protons, neutrons and electrons. The protons and neutrons are heavier, and stay in the middle of the atom, which is called the nucleus. The nucleus is surrounded by a cloud of light-weight electrons, these are attracted to the protons in the nucleus by the electromagnetic force because they have opposite electric charges.\nThe number of protons an atom has defines what chemical element it is, this number is sometimes called its atomic number. For example, hydrogen has one proton and sulfur has 16 protons. Because the mass of neutrons and protons is very similar, and the mass of electrons is very small, we can call the amount of protons and neutrons in an atom its atomic mass.Atoms move faster when they are in their gas form (because they are free to move) than they do in liquid form and solid matter. In solid materials, the atoms are tightly packed next to each other so they vibrate, but are not able to move (there is no room) as atoms in liquids do.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Atom"
+    },
+    {
+        "title": "Atom",
+        "content": "Atoms are very small pieces of matter. There are many different types of atoms, each with its own name, mass and size.  These different types of atoms are called chemical elements.  The chemical elements are organized on the periodic table.  Examples of elements are hydrogen and gold.\nAtoms are very small, but their exact size depends on the element.  Atoms range from 0.1 to 0.5 nanometers in width. One nanometer is about 100,000 times smaller than the width of a human hair. This makes atoms impossible to see without special tools. Scientists discover how they work and interact with other atoms through experiments.\nAtoms can join together to make molecules: for example, two hydrogen atoms and one oxygen atom combine to make a water molecule. When atoms join together it is called a chemical reaction.\nAtoms are made up of three kinds of smaller particles, called protons, neutrons and electrons. The protons and neutrons are heavier, and stay in the middle of the atom, which is called the nucleus. The nucleus is surrounded by a cloud of light-weight electrons, these are attracted to the protons in the nucleus by the electromagnetic force because they have opposite electric charges.\nThe number of protons an atom has defines what chemical element it is, this number is sometimes called its atomic number. For example, hydrogen has one proton and sulfur has 16 protons. Because the mass of neutrons and protons is very similar, and the mass of electrons is very small, we can call the amount of protons and neutrons in an atom its atomic mass.Atoms move faster when they are in their gas form (because they are free to move) than they do in liquid form and solid matter. In solid materials, the atoms are tightly packed next to each other so they vibrate, but are not able to move (there is no room) as atoms in liquids do.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Atom"
+    },
+    {
+        "title": "Galileo Galilei",
+        "content": "Galileo Galilei (15 February 1564 \u2013 8 January 1642) was an Italian polymath. Galileo was originally going to be a doctor but became a tutor instead. He was a professor of mathematics and natural science in Padua and Pisa. People most remembered him today for his conflict with the Catholic Church of his day, which led to his trial for heresy by the Inquisition.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+        "title": "Alan Turing",
+        "content": "Alan Mathison Turing OBE FRS (London, 23 June 1912 \u2013 Wilmslow, Cheshire, 7 June 1954) was an English mathematician and computer scientist. He was born in Maida Vale, London.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Alan_Turing"
+    },
+    {
+        "title": "Enigma (machine)",
+        "content": "The Enigma machine was created for Germany by Arthur Scherbius in World War I. It is a cypher machine: a way of changing the letters of a message so that it appears to be scrambled letters (or, random letters).\nEach time a letter is typed, it appears as another letter in the alphabet. The choices are not random. They are decided by a series of rotors which are set each day to a different starting set-up. Every press of a key turns the rotors to a new position.\nGerman military messages done on the Enigma machine were first broken by the Polish Cipher Bureau, beginning in December 1932. Later, they designed mechanical devices for breaking Enigma cyphers. From 1938 more complexity was added to the Enigma machines, making decryption more difficult.\nOn 25 July 1939, in Warsaw, the Poles showed French and British intelligence agents their cryptanalysis of the Enigma, and promised each delegation a Polish-built Enigma. The demonstration was a vital start for the later British work at Bletchley Park.\n\n\"Hut 6 Ultra would never have got off the ground if we had not learned from the Poles, in the nick of time, the details both of the German military version of the commercial Enigma machine, and of the operating procedures that were in use\". Gordon Welchman, The Hut Six Story, 1982, p. 289.During the invasion of Poland (1939) the Polish codebreakers were sent to France for safety. Later, they fled to Britain. Making technical improvements, British codebreakers solved a vast number of messages from Enigma, and gave the plaintext to military staff. The information got from this, called \"Ultra\" by the British, was a great help to the Allied war effort. Ultra also included decrypts of other German, Italian and Japanese cyphers and codes, including the cypher of the German High Command.\nMistakes by German operators helped the cryptanalysis of Luftwaffe Enigmas, and the British capture of key tables and a machine from a German submarine helped in cracking Navy ones.On 15th July 2011, Queen Elizabeth II visited Bletchley Park, where the machine is kept in the Museum, to pay tribute to those who worked there, since they cut short the war by breaking the cyphers of Nazi Germany.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Enigma_(machine)"
+    },
+    {
+        "title": "Cryptography",
+        "content": "Cryptography, or cryptology,  is the practice and study of hiding information. It is sometimes called code, but this is not really a correct name. It is the science used to try to keep information secret and safe. Modern cryptography is a mix of mathematics, computer science, and electrical engineering. Cryptography is used in ATM (bank) cards, computer passwords, and shopping on the internet.\nWhen a message is sent using cryptography, it is changed (or encrypted) before it is sent. The method of changing text is called a \"code\" or, more precisely, a \"cipher\". The changed text is called \"ciphertext\". The change makes the message hard to read. Someone who wants to read it must change it back (or decrypt it).  How to change it back is a secret.  Both the person that sends the message and the one that gets it should know the secret way to change it, but other people should not be able to. Studying the cyphertext to discover the secret is called \"cryptanalysis\" or \"cracking\" or sometimes \"code breaking\".Different types of cryptography can be easier or harder to use and can hide the secret message better or worse. Ciphers use a \"key\" which is a secret that hides the secret messages. The cryptographic method needn't be secret. Various people can use the same method but different keys, so they cannot read each other's messages. Since the Caesar cipher has only as many keys as the number of letters in the alphabet, it is easily cracked by trying all the keys. Ciphers that allow billions of keys are cracked by more complex methods.\nSince the time of Caesar, many improved cyphers have been made.  Some involved clever mathematics to resist clever cryptanalysis.  During the 20th century computers became the principle tool of cryptography.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cryptography"
+    },
+    {
+        "title": "Big Bang",
+        "content": "The Big Bang is a scientific theory about how the universe started, and then made the stars and galaxies we see today. The Big Bang is the name that scientists use for the most common theory of the universe, from the very early stages to the present day.The universe began as a very hot, small, and dense superforce (the mix of the four fundamental forces), with no stars, atoms, form, or structure (called a \"singularity\"). Then about 13.8 billion years ago, space expanded very quickly (thus the name \"Big Bang\"). This started the formation of atoms, which eventually led to the formation of stars and galaxies. It was Georges Lema\u00eetre who first noted (in 1927) that an expanding universe could be traced back in time to an originating single point. The universe is still expanding today, and getting colder as well.\nAs a whole, the universe is growing and the temperature is falling as time passes. Cosmology is the study of how the universe began and its development. Scientists who study cosmology have agreed that the Big Bang theory matches what they have observed so far.Fred Hoyle called the theory the \"Big Bang\" on his radio show. He did not believe the Big Bang was correct. Scientists who did not agree with him thought the name was funny and decided to use it.Scientists base the Big Bang theory on many different observations. The most important is the redshift of very far away galaxies. Redshift is the Doppler effect occurring in light. When an object moves away from Earth, its color rays look more similar to the color red than they actually are, because the movement stretches the wavelength of light given off by the object. Scientists use the word \"red hot\" to describe this stretched light wave because red is the longest wavelength on the visible spectrum. The more redshift there is, the faster the object is moving away. By measuring the redshift, scientists proved that the universe is expanding, and they can work out how fast the object is moving away from the Earth. With very exact observation and measurements, scientists believe that the universe was a singularity approximately 13.8 billion years ago. Because most things become colder as they expand, scientists assume that the universe was very small and very hot when it started.Other observations that support the Big Bang theory are the amounts of chemical elements in the universe. Amounts of very light elements, such as hydrogen, helium, and lithium seem to agree with the theory of the Big Bang. Scientists also have found \"cosmic microwaves background radiation\". This radiation is known as radio waves, and they are everywhere in the universe. This radiation is now very weak and cold, but a long time ago it was very strong and very hot.It can be said that time had no meaning before the Big Bang. If the Big Bang was the beginning of time, then there was no universe before the Big Bang, since there could not be any \"before\" if there was no time! Other ideas state that the Big Bang was not the beginning of time 13.8 billion years ago. Instead, some believe that there was a completely different universe before the Big Bang, and it may have been very different from the one we know today.Nonetheless, in November 2019, Jim Peebles, awarded the 2019 Nobel Prize in Physics for his theoretical discoveries in physical cosmology. noted, in his award presentation, that he does not support the Big Bang Theory, due to the lack of concrete supporting evidence, and stated, \"It's very unfortunate that one thinks of the beginning whereas in fact, we have no good theory of such a thing as the beginning.\"",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Big_Bang"
+    },
+    {
+        "title": "Gravity",
+        "content": "Gravity, or gravitation is one of the fundamental forces of the universe.  In this article, we discuss it in three parts:\n\nEveryday sense: the force which causes objects to fall to the ground\nNewton's laws: how gravity keeps the Solar System and most major astronomical objects together\nEinstein's theory of general relativity: the role of gravity in the universeSome physicists think gravity is caused by gravitons, but they are still unsure.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gravity"
+    },
+    {
+        "title": "States of matter",
+        "content": "There are four common states of matter (or phases) in the universe: solid, liquid, gas, and plasma. The state of matter affects a substance's properties, such as density, viscosity (how well it flows), malleability (how easy it is to bend), and conductivity. Changes between states of matter are often reversible.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/States_of_matter"
+    },
+    {
+        "title": "Antimatter",
+        "content": "Antimatter is a term in particle physics. Antimatter is a material composed of antiparticles. These have the same mass as particles of ordinary matter but have opposite charge and properties, such as lepton and baryon number.\nEncounters between a particle and an antiparticle lead to both of them being destroyed. This gives rise to high-energy photons (gamma rays), neutrinos, and lower-mass particle\u2013antiparticle pairs.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Antimatter"
+    },
+    {
+        "title": "Evolution",
+        "content": "Evolution is a biological process. It describes how living things change over a long time. The explanation of how this process works and how living beings have come to be the way they are is called the theory of evolution.Earth is very old. By studying the layers of rock that make up Earth's crust, scientists can find out about its past. This kind of research is called historical geology.\nIt is known that living things have changed over time, because their remains can be seen in the rocks. These remains are called 'fossils'. This proves that the animals and plants of today are different from those of long ago.  The older the fossils, the bigger the differences from modern forms.  This has happened because evolution has taken place. That evolution has taken place is a fact, because it is overwhelmingly supported by many lines of evidence. At the same time, evolutionary questions are still being actively researched by biologists.\nComparison of DNA sequences allows organisms to be grouped by how similar their sequences are. In 2010 an analysis compared sequences to phylogenetic trees, and supported the idea of common descent. There is now \"strong quantitative support, by a formal test\", for the unity of life.The theory of evolution is the basis of modern biology. Theodosius Dobzhansky, a well-known evolutionary biologist, has said: \"Nothing in biology makes sense except in the light of evolution\".",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Evolution"
+    },
+    {
+        "title": "Charles Darwin",
+        "content": "Charles Robert Darwin (12 February 1809 \u2013 19 April 1882) was an English naturalist. He was born in Shrewsbury, Shropshire. He is famous for his work on the theory of evolution.\nHis book On the Origin of Species (1859) did two things. First, it provided a great deal of evidence that evolution has taken place. Second, it proposed a theory to explain how evolution works. That theory is natural selection. Evolution and natural selection is the key to understanding and the diversity of life on Earth.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+        "title": "Botany",
+        "content": "Botany is the study of plants. It is a science. It is a branch of biology, and is also called plant biology. It is sometimes called phytology. Scientists who study botany are called botanists. They study how plants work.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Botany"
+    },
+    {
+        "title": "Molecule",
+        "content": "A molecule is the smallest amount of a chemical substance that can exist. If a molecule were split into smaller pieces, it would be a different substance.\nMolecules are made up of atoms that are stuck together in a particular shape or form. Not all combinations of atoms are equally possible; atoms make certain shapes in preference to others.  Also, they have different valency.  For example, oxygen atoms always have two bonds with other atoms, carbon atoms always have four bonds with other atoms, and nitrogen atoms always have three bonds with other atoms.\nIn the kinetic theory of gases, the term molecule is often used for any gaseous particle regardless of its composition. According to this definition, noble gas atoms are considered molecules as they are in fact monoatomic molecules.In gases like air, the molecules are just flying around. In liquids like water, the molecules are stuck together but they can still move. In solids like sugar, the molecules can only vibrate.  In the fourth state of matter known as plasma, the atoms are ionized and cannot form molecules.\nWith a molecular formula, you can write down the numbers of all atoms in a molecule. For example, the molecular formula of glucose is C6H12O6. That means that one molecule of glucose is made up of six carbon atoms, twelve hydrogen atoms and six oxygen atoms.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Molecule"
+    },
+    {
+        "title": "Sphere",
+        "content": "A sphere is a shape in space that is like the surface of a ball. Most of the time, the terms ball and sphere are used as the same. But in mathematics, the precise (exact) definition only allows points in the 3 dimensional space which are uniformly and symmetrically located at a fixed length called radius of the sphere.\nExamples of these are basketballs, superballs, and playground balls.\nA sphere is the 3 dimensional analogue of a circle.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sphere"
+    },
+    {
+        "title": "Platonic solid",
+        "content": "A platonic solid is a kind of polyhedron.  It has the following characteristics:\n\nEach face is built from the same type of polygons\nThere are the same number of polygons meeting at every corner of the shape.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Platonic_solid"
+    },
+    {
+        "title": "Statistics",
+        "content": "Statistics is a branch of applied mathematics dealing with data collection, organization, analysis, interpretation and presentation. Descriptive statistics summarize data. Inferential statistics make predictions. Statistics helps in the study of many other fields, such as science, medicine, economics, psychology, politics and marketing. Someone who works in statistics is called a statistician. In addition to being the name of a field of study, the word \"statistics\" also refers to numbers that are used to describe data or relationships.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Statistics"
+    },
+    {
+        "title": "Game theory",
+        "content": "Game theory is the study of how and why people make decisions. (Specifically, it is \"the study of mathematical models of conflict and cooperation between intelligent rational decision-makers\".) It helps people understand parts of science and politics. An alternative term suggested \"as a more descriptive name for the discipline\" is interactive decision theory.In the Cold War period, the strategic decisions of the United States and the Soviet Union were sometimes viewed as an exercise in game theory. In that case the \"players\" being studied were the United States and the Soviet Union.Game theory is not just about games, but how and why businesses make decisions, and just about any decision based on valuing likely outcomes.  In game theory, all of these situations are \"games\" since the people involved make  choices based on how they value the possible outcomes of the choices.  This is true even of cases where the decisions of a single person only affect that one person.\nGame theory is found in the financial choices people make, and is found in the study of economics.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Game_theory"
+    },
+    {
+        "title": "Niels Bohr",
+        "content": "Niels Bohr (7 October 1885 \u2013 18 November 1962) was a Danish physicist who helped discover quantum physics, the structure of the atom, and the atomic bomb. Bohr was awarded the Nobel Prize in 1922 for, in short, discovering the quantization of atomic energy levels. He worked also in a project of physicists known as Manhattan Project. He married Margrethe N\u00f8rlund in 1912. One of his sons was Aage Bohr, who was also an important physicist. Aage won in 1975 his own Nobel prize. Niels Bohr worked also with Albert Einstein. He is also considered one of the most important physicists of the 20th century.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Niels_Bohr"
+    },
+    {
+        "title": "Astronomy",
+        "content": "Astronomy (from the Greek astron (\u1f04\u03c3\u03c4\u03c1\u03bf\u03bd) meaning \"star\" and nomos (n\u03cc\u03bc\u03bf\u03c2) meaning \"law\") is the scientific study of celestial bodies such as stars, planets, comets, and galaxies\nThe objects studied include stars, galaxies, planets, moons, asteroids, comets and nebulae. Phenomena outside the Earth's atmosphere are also studied. That includes supernovae explosions, gamma ray bursts, and cosmic microwave background radiation. Astronomy concerns the development, physics, chemistry, meteorology and movement of celestial bodies, as well as the structure and development of the Universe.\nAstronomy is one of the oldest sciences. Ancient people used the positions of the stars to navigate, and to find when was the best time to plant crops. Astronomy is very similar to astrophysics. A related subject, cosmology, is concerned with studying the Universe as a whole, and the way the universe changed over time. Astronomy is not the same as astrology, the belief that motion of the stars and the planets may affect human lives.\nSince the 20th century there have been two main types of astronomy, observational and theoretical astronomy. Observational astronomy uses telescopes and cameras to observe or look at stars, galaxies and other astronomical objects. Theoretical astronomy uses maths and computer models to explain the observations and predict what might happen.  Working together, theories predict what should happen and observations show whether the predictions work.  The main work of astronomy is to explain puzzling features of the universe.  For thousands of years the most important issue was the motions of planets; now many other topics are studied.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Astronomy"
+    },
+    {
+        "title": "Climate",
+        "content": "Climate means the usual condition of the temperature, humidity, atmospheric pressure, wind, rainfall, and other meteorological elements in an area of the Earth's surface for a long time. In simple terms climate is the average condition for about thirty years. Climate and weather are different. Weather is the day to day conditions in the atmosphere.  The types of climates are: Tropical, Desert/dry, Temperate, Polar, Mediterranean. \n\nPolar climate (also called boreal climate), has long, usually very cold winters, and short summers.\nTemperate climates have four seasons. Some of the countries which have a temperate climate are: Turkey, and most of the European countries.\nDeserts. They just have one or two seasons such as: Saudi Arabia and most of the African countries.\nTropical climates have warm temperature and only two seasons; wet and dry. An example of a place with a tropical climate is the Amazon Rainforest in Brazil.\nThe Mediterranean climate is usually hot and dry in summer, and is cool and wet in winter. An example of a country with a Mediterranean climate is Spain.The latitude, ground, and height can change the climate of a location. It is also important to note if oceans or other large bodies of water are nearby. Climates are most commonly classified by temperature and precipitation. The most commonly used classification was the K\u00f6ppen climate classification, first made by Wladimir K\u00f6ppen. The Thornthwaite system, which was used from 1948, not only uses temperature and precipitation information, but evapotranspiration too. This makes it useful for studying how many different kinds of animal species there are, and about the things that could happen when climates change. The Bergeron and Spatial Synoptic Classification systems focus more on where the air masses which help make climates come from.\nClimates can change after a long time. Nowadays people are making the world warmer.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Climate"
+    },
+    {
+        "title": "Climate",
+        "content": "Climate means the usual condition of the temperature, humidity, atmospheric pressure, wind, rainfall, and other meteorological elements in an area of the Earth's surface for a long time. In simple terms climate is the average condition for about thirty years. Climate and weather are different. Weather is the day to day conditions in the atmosphere.  The types of climates are: Tropical, Desert/dry, Temperate, Polar, Mediterranean. \n\nPolar climate (also called boreal climate), has long, usually very cold winters, and short summers.\nTemperate climates have four seasons. Some of the countries which have a temperate climate are: Turkey, and most of the European countries.\nDeserts. They just have one or two seasons such as: Saudi Arabia and most of the African countries.\nTropical climates have warm temperature and only two seasons; wet and dry. An example of a place with a tropical climate is the Amazon Rainforest in Brazil.\nThe Mediterranean climate is usually hot and dry in summer, and is cool and wet in winter. An example of a country with a Mediterranean climate is Spain.The latitude, ground, and height can change the climate of a location. It is also important to note if oceans or other large bodies of water are nearby. Climates are most commonly classified by temperature and precipitation. The most commonly used classification was the K\u00f6ppen climate classification, first made by Wladimir K\u00f6ppen. The Thornthwaite system, which was used from 1948, not only uses temperature and precipitation information, but evapotranspiration too. This makes it useful for studying how many different kinds of animal species there are, and about the things that could happen when climates change. The Bergeron and Spatial Synoptic Classification systems focus more on where the air masses which help make climates come from.\nClimates can change after a long time. Nowadays people are making the world warmer.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Climate"
+    },
+    {
+        "title": "Electricity",
+        "content": "Electricity  is the presence and flow of electric charge. Using electricity we can transfer energy in ways that allow us to do simple chores. Its best-known form is the flow of electrons through conductors such as copper wires. \nThe word \"electricity\" is sometimes used to mean \"electrical energy\".  They are not the same thing: electricity is a transmission medium for electrical energy, like sea water is a transmission medium for wave energy.  An item which allows electricity to move through it is called a conductor.  Copper wires and other metal items are good conductors, allowing electricity to move through them and transmit electrical energy.  Plastic is a bad conductor (also called an insulator) and does not allow much electricity to move through it so it will stop the transmission of electrical energy.\nTransmission of electrical energy can happen naturally (such as lightning), or be made by people (such as in a generator). It can be used to power machines and electrical devices.  When electrical charges are not moving, electricity is called static electricity.  When the charges are moving they are an electric current, sometimes called 'dynamic electricity'. Lightning is the most known - and dangerous - kind of electric current in nature, but sometimes static electricity causes things to stick together in nature as well.\nElectricity can be dangerous, especially around water because water is a form of good conductor as it has impurities like salt in it. Salt can help electricity flow. Since the nineteenth century, electricity has been used in every part of our lives. Until then, it was just a curiosity seen in the lightning of a thunderstorm.\nElectrical energy can be created if a magnet passes close to a metal wire. This is the method used by a generator. The biggest generators are in power stations.  Electrical energy can also be released by combining chemicals in a jar with two different kinds of metal rods. This is the method used in a battery. Static electricity can be created through the friction between two materials - for instance a wool cap and a plastic ruler. This may make a spark. Electrical energy can also be created using energy from the sun, as in photovoltaic cells.    \nElectrical energy arrives at homes through wires from the places where it is made. It is used by electric lamps, electric heaters, etc. Many appliances such as washing machines and electric cookers use electricity. In factories, electrical energy powers machines. People who deal with electricity and electrical devices in our homes and factories are called \"electricians\".",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Electricity"
+    },
+    {
+        "title": "Energy",
+        "content": "Energy can mean various things:\n\nMostly, it is used in science to describe how much potential a physical system has to change. In physics, energy is a property of matter and space, objects and fields. It can be transferred between objects and can also be converted in form. It cannot, however, be created or destroyed.\nIn economics it may mean the \u2018energy industry,\u2019 the harnessing and sale of energy itself as in fuel or electric power distribution.\nIn ordinary language, the word is used to describe someone acting or speaking in a lively and vigorous way.\nIt is a major part of physics and other sciences.\nEnergy can be used to heat, move or illuminate.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Energy"
+    },
+    {
+        "title": "Experiment",
+        "content": "An experiment is a test of an idea or a method. It is often used by scientists and engineers. An experiment is used to see how well the idea matches the real world. Experiments have been used for many years to help people understand the world around them. Experiments are part of scientific method. Many experiments are controlled experiments or even blind experiments. Many are done in a laboratory.\nExperiments can tell us if a theory is false, or if something does not work. They cannot tell us if a theory is true. When Einstein said that gravity could affect light, it took a few years before astronomers could test it. General relativity predicts that the path of light is bent in a gravitational field; light passing a massive body is deflected towards that body. This effect has been confirmed by observing the light of stars or distant quasars being deflected as it passes the Sun.Now, a hundred years or so after Einstein published his ideas, there have been many tests, all of which have been consistent with Einstein's predictions. But, one day, we might find the theory has some limits beyond which it does not work. What we test are implications of the theory, because the theory itself is too large and complicated to test all at once.\n\n\"The universe does not tell us when we are right, only when we are wrong\". \u2013 Karl Popper",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Experiment"
+    },
+    {
+        "title": "Genetics",
+        "content": "Genetics is a discipline of biology. It is the science of heredity. This includes the study of genes, and the inheritance of variation and traits of living organisms. In the laboratory, genetics proceeds by mating carefully selected organisms, and analysing their offspring. More informally, genetics is the study of how parents pass some of their characteristics to their children. It is an important part of biology, and gives the basic rules on which evolution acts.\nThe fact that living things inherit traits from their parents has been known since prehistoric times, and used to improve crop plants and animals through selective breeding. However, the modern science of genetics seeks to understand the process of inheritance. This began with the work of Gregor Mendel in the mid-nineteenth century. Although he did not know the physical basis for heredity, Mendel observed that organisms inherit traits via discrete units of inheritance, which are now called genes.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Genetics"
+    },
+    {
+        "title": "Hypothesis",
+        "content": "A hypothesis is a proposed explanation for some event or problem. For a scientific hypothesis, the scientific method requires that one can test it.In the early 17th century, Cardinal Bellarmine gave a well known example of the older sense of the word in his warning to Galileo: that he must not treat the motion of the Earth as a reality, but merely as a hypothesis.\nToday, a hypothesis refers to an idea that needs to be tested. A hypothesis needs more work by the researcher in order to check it. A tested hypothesis that works may become part of a theory\u2014or become a theory itself. The testing should be an attempt to prove that the hypothesis is wrong. That is, there should be a way to falsify the hypothesis, at least in principle if not in practice.\nPeople often call a hypothesis an \"educated guess\".\n\n\"When it is not clear under which law of nature an effect or class of effect belongs, we try to fill this gap by means of a guess. Such guesses have been given the name conjectures or hypotheses\". Hans Christian \u00d8rsted (1811) \n\"In general we look for a new law by the following process. First we guess it. ...\" Experimenters may test and reject several hypotheses, before solving the problem or reaching a satisfactory theory.\nA 'working hypothesis' is just a rough kind of hypothesis that is provisionally accepted as a basis for further research. The hope is that a theory will be produced, even if the hypothesis ultimately fails.Hypotheses are especially important in science. Several philosophers have said that without hypotheses, there could be no science. In recent years, philosophers of science have tried to integrate the various approaches to testing hypotheses (and the scientific method in general), to form a more complete system. The point is that hypotheses are suggested ideas, which are then tested by experiments or observations.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hypothesis"
+    },
+    {
+        "title": "Laboratory",
+        "content": "A laboratory (lab for short) is a work place where scientific research, experiments, or measurement are done. \nThe word laboratory is also used for other places where the work done or equipment used are like those in scientific laboratories. These include:\n\na film laboratory or photographic laboratory\na computer lab\na medical lab\na clandestine lab for making illegal drugsScientific laboratories can be found in schools and universities, in hospitals, in industry, in government or military facilities, and even aboard ships and spacecraft.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Laboratory"
+    },
+    {
+        "title": "Matter",
+        "content": "Matter is the substance of which all material is made. That means objects which have mass. More specifically, they must have rest mass, which is a form of energy that matter has even when it is not moving (it has no kinetic energy), is extremely cold (it has no thermal energy), etc. Matter is a word that is sometimes used in varying ways in everyday life, whereas mass is a well-defined concept and quantity at least in physics. They are not the same thing, though they are related.Ordinary matter is made of tiny particles called atoms. The atoms have spaces between them and they move or vibrate all the time. The particles move faster and move further apart when heated, and the reverse when cooled.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Matter"
+    },
+    {
+        "title": "Matter",
+        "content": "Matter is the substance of which all material is made. That means objects which have mass. More specifically, they must have rest mass, which is a form of energy that matter has even when it is not moving (it has no kinetic energy), is extremely cold (it has no thermal energy), etc. Matter is a word that is sometimes used in varying ways in everyday life, whereas mass is a well-defined concept and quantity at least in physics. They are not the same thing, though they are related.Ordinary matter is made of tiny particles called atoms. The atoms have spaces between them and they move or vibrate all the time. The particles move faster and move further apart when heated, and the reverse when cooled.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Matter"
+    },
+    {
+        "title": "Matter",
+        "content": "Matter is the substance of which all material is made. That means objects which have mass. More specifically, they must have rest mass, which is a form of energy that matter has even when it is not moving (it has no kinetic energy), is extremely cold (it has no thermal energy), etc. Matter is a word that is sometimes used in varying ways in everyday life, whereas mass is a well-defined concept and quantity at least in physics. They are not the same thing, though they are related.Ordinary matter is made of tiny particles called atoms. The atoms have spaces between them and they move or vibrate all the time. The particles move faster and move further apart when heated, and the reverse when cooled.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Matter"
+    },
+    {
+        "title": "Observation",
+        "content": "Observation is an activity of an intelligent living being (e.g. human), which senses and assimilates the knowledge of a phenomenon in its framework of previous knowledge and ideas.Observation is more than the bare act of observing: Observation requires observing and seeking knowledge.\nObservations that come from self-defining instruments are often unreliable. Such observations are hard to reproduce because they may vary even with respect to the same stimuli. Thus they are not of much use in exact sciences like physics which require instruments which do not define themselves. It is thus often necessary to use various engineered instruments like: spectrometers, oscilloscopes, cameras, telescopes, interferometers, tape recorders, thermometers etc. and tools like clocks, scale that help in improving the accuracy, quality and utility of the information obtained from an observation. \nThe accuracy and tremendous success of science is primarily attributed to the accuracy and objectivity (i.e. repeatability) of observation of the reality that science explores.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Observation"
+    },
+    {
+        "title": "Organism",
+        "content": "An organism is an individual living thing. It is easy to recognize a living thing, but not so easy to define it. Animals and plants are organisms, obviously. Organisms are a biotic, or living, part of the environment. Rocks and sunshine are parts of the non-living environment.\nOrganisms usually have five basic needs, to continue their metabolism. They need air, water, nutrient (food), energy, and a place to live. However, not all living things need all these at the same time. Many organisms do not need access to air at all.\nA little thought is needed about viruses. There is no agreement as to whether they should be regarded as living. They are made of protein and nucleic acid, and they evolve, which is a really important fact. However, they exist in two quite different phases. One phase is dormant, not active. The other is inside a living cell of some other organism. Then the virus is very active reproducing itself. Consider the parallel with a computer program. When in use it is active; when it is not, it is completely inactive. It is still a program all the same.\nAnother example from biology is the spore, which is a distribution phase of a bacteria, fungus or some plants. They are not active until they get to the right situation. They have all the working parts to build a complete organism, but for the moment it is switched off.\nSome organisms are made up of millions of cells. They are multicellular organisms. Many can be seen without using a microscope.\nMost organisms are so small that they cannot be seen with the naked eye. You need a microscope to see them. They are called microorganisms. Organisms can be made up of just one cell. They are called unicellular organisms or single celled organisms. Examples include bacteria, and protozoa such as the Amoeba and Paramecium.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Organism"
+    },
+    {
+        "title": "Telescope",
+        "content": "A telescope is an important tool for astronomy that gathers light and directs it to a single point. Some do this with curved mirrors, some with curved lenses, and some with both. Telescopes make distant things look bigger, brighter and closer. Galileo was the first person to use a telescope for astronomy, but he did not invent them. The first telescope was invented in the Netherlands in 1608. Some telescopes, not mainly used for astronomy, are binoculars, camera lenses, or spyglasses.\nWhen telescopes are used with just your eye, an eyepiece has to be used. These use two or more smaller lenses to magnify an image. Without an eyepiece, an eye can not focus the image. When a telescope is used with a camera or other special scientific tools, eyepiece lenses are not needed.\nMost big telescopes for astronomy are made for looking very carefully at things that are already known. A few are made to search for things, such as unknown asteroids. A telescope made to be used with a camera instead of just your eye are sometimes called \"astrographs\".\nTelescopes can be used by normal people too, not just scientists. These are amateur telescopes, and they are usually smaller, and they don't cost too much for a normal person to buy. Some of the most popular amateur telescopes are Dobsonians, a type of Newtonian telescope.\nThe word telescope is usually used for light human eyes can see, but there are telescopes for wavelengths we cannot see. Infrared telescopes look like normal telescopes, but have to be kept cold since all warm things give off infrared light. Radio telescopes are like radio antennas, usually shaped like large dishes. \nX-ray and Gamma ray telescopes have a problem because the rays go through most metals and glasses. To solve this problem, the mirrors are shaped like a bunch of rings inside each other so the rays strike them at a shallow angle and are reflected. These telescopes are space telescopes because little of this radiation reaches the Earth.  Other space telescopes are put in orbit so the Earth's atmosphere does not interfere.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Telescope"
+    },
+    {
+        "title": "Temperature",
+        "content": "Temperature is how hot or cold  something is. Our bodies can feel the difference between something which is hot and something which is cold. To measure temperature more accurately, a thermometer can be used. Thermometers use a temperature scale to record how hot or cold something is. The scale used in most of the world is in degrees Celsius, sometimes called \"centigrade\". In the USA and some other countries and locations, degrees Fahrenheit  are more often used while scientists mostly use kelvins  to measure temperature because it never goes below zero.\nScientifically, temperature is a physical quantity which describes how quickly molecules are moving inside a material. In solids and liquids the molecules are vibrating around a fixed point in the substance, but in gases they are in free flight and bouncing off each other as they travel. In a gas the temperature, pressure and volume of the gas are closely related by a law of physics.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Temperature"
+    },
+    {
+        "title": "Weather",
+        "content": "Weather is the day-to-day or hour-to-hour change in the atmosphere. Weather includes wind, lightning, storms, hurricanes, tornadoes, rain, hail, snow, and lots more. Energy from the Sun affects the weather too. \nClimate tells us what kinds of weather usually happen in an area at different times of the year. \nChanges in weather can affect our mood and life. We wear different clothes and do different things in different weather conditions. We choose different foods in different seasons, like ice cream in the summer, nut and berries in autumn, or hot chocolate in the winter.\nWeather stations around the world measure different parts of weather. Ways to measure weather are wind speed, wind direction, temperature and humidity. People try to use these measurements to make weather forecasts for the future.  These people are  scientists that are called meteorologists. They use computers to build large mathematical models to follow weather trends.\nSevere weather can hurt people and their property. It can also just be a bother. Some examples of severe weather are:\n\nTropical cyclones\nRainstorms\nDrought\nHeat waves\nTornadoes",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Weather"
+    },
+    {
+        "title": "Weather",
+        "content": "Weather is the day-to-day or hour-to-hour change in the atmosphere. Weather includes wind, lightning, storms, hurricanes, tornadoes, rain, hail, snow, and lots more. Energy from the Sun affects the weather too. \nClimate tells us what kinds of weather usually happen in an area at different times of the year. \nChanges in weather can affect our mood and life. We wear different clothes and do different things in different weather conditions. We choose different foods in different seasons, like ice cream in the summer, nut and berries in autumn, or hot chocolate in the winter.\nWeather stations around the world measure different parts of weather. Ways to measure weather are wind speed, wind direction, temperature and humidity. People try to use these measurements to make weather forecasts for the future.  These people are  scientists that are called meteorologists. They use computers to build large mathematical models to follow weather trends.\nSevere weather can hurt people and their property. It can also just be a bother. Some examples of severe weather are:\n\nTropical cyclones\nRainstorms\nDrought\nHeat waves\nTornadoes",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Weather"
+    },
+    {
+        "title": "Virology",
+        "content": "Virology is the study of viruses such as the cold virus.\nVirologists are responsible for many immunisations against common viruses like the common influenza (Flu) and things like chickenpox and smallpox.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Virology"
+    },
+    {
+        "title": "Volume",
+        "content": "This article is about physical object; for meaning from audio field, see loudness.The volume of an object is a measure of the amount of space occupied by that object, and is not to be confused with mass. The volume of a mountain is much larger than the volume of a rock, for instance.\nBy convention, the word volume implies a three-dimensional context where: \n\nThe length is the longest distance between the object's extremities.\nThe width (or breadth) refers to the size of the object in a direction perpendicular to its length.\nThe height (or depth) stands for the size of that object in the direction perpendicular to both the length and the width.For objects at or near the Earth's surface, height or depth often refers to the dimension of the object along the local vertical. All physical objects occupy a volume, even if some are so thin that they appear to be two-dimensional, like a sheet of paper.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Volume"
+    },
+    {
+        "title": "Fact",
+        "content": "A fact is a statement that is real or true,\nA fact is something that has really happened or is actually the case. The usual test for a statement of fact is whether it can be seen to be true. Standard reference works are often used to check facts. Scientific facts are verified by careful observation or measurement (by experiments or other means).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fact"
+    },
+    {
+        "title": "Unit of measurement",
+        "content": "Units of measurement provide standards so that the numbers from our measurements refer to the same thing. Measurement is a process that uses numbers to describe a physical quantity. We can measure how big things are, how warm they are, how heavy they are, and lots of other features as well.\nFor example, the metre is a standard unit to measure length. Before 1982, it was defined as the distance between two markers on a special rod. Now scientists define the metre by using the speed of light. Saying something has a length of two metres means that it is exactly twice as long as that rod used to define the metre.\nIn past centuries many different units were used in different countries. Today, most units of measure fall into one of three systems:\nThe older two, the British imperial system and the closely related US customary system use the foot as a measure of length, the pound as a measure for weight, and the second as a measure for time. They use other units as well. The number of smaller units that make the bigger units in these two systems varies: For example, there are 12 inches in a foot and 16 ounces in a pound. \nThe newest and most used of the three systems is the metric system or SI system which use 10, 100 or 1000 of a smaller unit to make a bigger one. For instance, there are 100 centimetres in one metre or 1000 grams in one kilogram. This system uses the metre for length and kilogram for mass. \nThe common, non-metric measurement of time does not follow this pattern. The second is the basis for time measurement, and it is based on the sexagesimal system: 60 seconds make one minute, and 60 minutes make one hour.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Unit_of_measurement"
+    },
+    {
+        "title": "Prediction",
+        "content": "A prediction is a statement that someone makes about what they think is going to happen. It is often very helpful to know what is going to happen to help prepare for these future events. Predictions are based on the idea that two beginning positions that are like each other will have similar results. By watching something happen, it is possible to predict what will happen if something similar happens. Predictions are given by science or fortune tellers or horoscopes. \nThe most common example of a prediction is the weather forecast. Studying how weather happens lets people predict what the weather will be by looking at what is currently happening. This is helpful because by knowing that it is going to rain, a person can wear the right clothes for it.\nNostradamus has made many predictions about the future.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Prediction"
+    },
+    {
+        "title": "Isaac Newton",
+        "content": "Sir Isaac Newton  (25 December 1642 \u2013 20 March 1726/27) was an English physicist, mathematician and astronomer. He is well known for his work on the laws of motion, optics, gravity, and calculus. In 1687, Newton published a book called the Philosophi\u00e6 Naturalis Principia Mathematica in which he presents his theory of universal gravitation and  three laws of motion.Newton built the first practical reflecting telescope in 1668. He also developed a theory of light based on the observation that a prism decomposes white light into the colors of the rainbow. Newton also shares credit with Gottfried Leibniz for the development of calculus.\nNewton's ideas on light, motion, and gravity dominated physics for the next three centuries, until modified by Albert Einstein's theory of relativity.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+        "title": "Albert Einstein",
+        "content": "Albert Einstein (14 March 1879 \u2013 18 April 1955) was a German-born scientist. He worked on theoretical physics. He developed the theory of relativity. He received the Nobel Prize in Physics in 1921 for theoretical physics. His famous equation is \n  \n    \n      \n        E\n        =\n        m\n        \n          c\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle E=mc^{2}}\n   (E = energy, m = mass, c = speed of light).\nAt the beginning of his career, Einstein did not think that Newtonian mechanics was enough to reconcile (bring together) the laws of classical mechanics and the laws of the electromagnetic field. Between 1902\u20131909 he developed the theory of special relativity to correct that. Einstein also thought that Isaac Newton's idea of gravity was not completely correct. So, he extended his ideas on special relativity to include gravity. In 1916 he published a paper on general relativity with his theory of gravitation.\nIn 1933, Einstein was visiting the United States. In Germany, Adolf Hitler and the Nazis came to power. Einstein, being of Jewish ethnicity, did not return to Germany due to Hitler\u2019s anti-Semitic policies. He lived in the United States and became an American citizen in 1940. On the beginning of World War II, he sent a letter to President Franklin D. Roosevelt explaining to him that Germany was in the process of making a nuclear weapon; so Einstein recommended that the US should also make one. This led to the Manhattan Project, and the US became the first nation in history to create and use the atomic bomb (not on Germany though but Japan). Einstein and other physicists like Richard Feynman who worked on the Manhattan project later regretted that the bomb was used on Japan.Einstein lived in Princeton and was one of the first members invited to the Institute for Advanced Study, where he worked for the remainder of his life. He is widely considered one of the greatest scientists of all time. His contributions helped lay the foundations for all modern branches of physics, including quantum mechanics and relativity.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+        "title": "Albert Einstein",
+        "content": "Albert Einstein (14 March 1879 \u2013 18 April 1955) was a German-born scientist. He worked on theoretical physics. He developed the theory of relativity. He received the Nobel Prize in Physics in 1921 for theoretical physics. His famous equation is \n  \n    \n      \n        E\n        =\n        m\n        \n          c\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle E=mc^{2}}\n   (E = energy, m = mass, c = speed of light).\nAt the beginning of his career, Einstein did not think that Newtonian mechanics was enough to reconcile (bring together) the laws of classical mechanics and the laws of the electromagnetic field. Between 1902\u20131909 he developed the theory of special relativity to correct that. Einstein also thought that Isaac Newton's idea of gravity was not completely correct. So, he extended his ideas on special relativity to include gravity. In 1916 he published a paper on general relativity with his theory of gravitation.\nIn 1933, Einstein was visiting the United States. In Germany, Adolf Hitler and the Nazis came to power. Einstein, being of Jewish ethnicity, did not return to Germany due to Hitler\u2019s anti-Semitic policies. He lived in the United States and became an American citizen in 1940. On the beginning of World War II, he sent a letter to President Franklin D. Roosevelt explaining to him that Germany was in the process of making a nuclear weapon; so Einstein recommended that the US should also make one. This led to the Manhattan Project, and the US became the first nation in history to create and use the atomic bomb (not on Germany though but Japan). Einstein and other physicists like Richard Feynman who worked on the Manhattan project later regretted that the bomb was used on Japan.Einstein lived in Princeton and was one of the first members invited to the Institute for Advanced Study, where he worked for the remainder of his life. He is widely considered one of the greatest scientists of all time. His contributions helped lay the foundations for all modern branches of physics, including quantum mechanics and relativity.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+        "title": "Quantum mechanics",
+        "content": "Quantum mechanics explains how the universe works at a scale smaller than atoms.  It is also called quantum physics or quantum theory. Mechanics is the part of physics that explains how things move and quantum is the Latin word for 'how much' . A quantum of energy is the least amount possible (or the least extra amount), and quantum mechanics describes how that energy moves or interacts.\nAtoms used to be considered the smallest building blocks of matter but modern science has shown that there are even smaller particles, like protons, neutrons and electrons. Quantum mechanics describes how the particles that make up atoms work.\nQuantum mechanics also tells us how electromagnetic waves (like light) work. Wave\u2013particle duality means that particles behave like waves and waves behave like particles. (They are not two kinds of thing, they are something like both: this is their duality.) Much of modern physics and chemistry can be described and understood using the mathematical rules of quantum mechanics.\nThe mathematics used to study subatomic particles and electromagnetic waves is very complex because they act in very strange ways.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Quantum_mechanics"
+    },
+    {
+        "title": "Optics",
+        "content": "Optics is the science of light and how it interacts with the world. Optics explains how rainbows exist, how light reflects off mirrors, how light refracts through glass or water, and what splits light shining through a prism. In addition to visible light in the standard \"spectrum\" of red, orange, yellow, green, blue, indigo, and violet, optics also deals with invisible parts of the whole electromagnetic spectrum of which visible light is but a small part.\nOptics is both a science and an area of engineering. It has been used to make many useful things, including eyeglasses, cameras, telescopes, and microscopes. Many of these things are based on lenses, which focus light and can make images of things that are bigger or smaller than the original.\nWhile optics is an old science, new things are still being discovered in it. Scientists have learned how to make light travel through a thin optical fiber made of glass or plastic. Light can go long distances in a fiber. Fibers are used to carry phone calls and the Internet between cities.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Optics"
+    },
+    {
+        "title": "Force",
+        "content": "In physics, a force is an interaction between objects. It is called an interaction because if one object acts on another, its action  is matched by a reaction from the other object. This idea is known as Newton's third law, where action and reaction are \"equal and opposite\"  (matched).\nThe objects are just the things the force acts between. Different forces act between different sorts of object. For example, gravity acts between objects with mass, like the sun and the earth. Another example is electromagnetic force, which acts between objects with charge, like an electron and the nucleus of an atom. Gravity and electromagnetic force are two examples of forces. \nA force changes the state of an object (some physical quantity changes) or, strictly, the states of two objects, since the force is an interaction. For example, a force causes an affected object to be pushed or pulled in a certain direction. This  changes the object's momentum. Forces cause objects to accelerate, add to the object's overall pressure, change direction, or change shape. The strength of a force is measured in Newtons (N).  There are four fundamental forces in physics.\nA force is always a push, pull, or a twist, and it affects objects by pushing them up, pulling them down, pushing them to a side, or by changing their motion or shape in some other way.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Force"
+    },
+    {
+        "title": "Force",
+        "content": "In physics, a force is an interaction between objects. It is called an interaction because if one object acts on another, its action  is matched by a reaction from the other object. This idea is known as Newton's third law, where action and reaction are \"equal and opposite\"  (matched).\nThe objects are just the things the force acts between. Different forces act between different sorts of object. For example, gravity acts between objects with mass, like the sun and the earth. Another example is electromagnetic force, which acts between objects with charge, like an electron and the nucleus of an atom. Gravity and electromagnetic force are two examples of forces. \nA force changes the state of an object (some physical quantity changes) or, strictly, the states of two objects, since the force is an interaction. For example, a force causes an affected object to be pushed or pulled in a certain direction. This  changes the object's momentum. Forces cause objects to accelerate, add to the object's overall pressure, change direction, or change shape. The strength of a force is measured in Newtons (N).  There are four fundamental forces in physics.\nA force is always a push, pull, or a twist, and it affects objects by pushing them up, pulling them down, pushing them to a side, or by changing their motion or shape in some other way.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Force"
+    },
+    {
+        "title": "Electromagnetism",
+        "content": "Electromagnetism is the study of the electromagnetic force, one of the four fundamental forces of nature. The electromagnetic force pushes or pulls anything that has an electric charge, like electrons and protons. It includes the electric force, which pushes all charged particles, and the magnetic force, which only pushes moving charges.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Electromagnetism"
+    },
+    {
+        "title": "Particle",
+        "content": "Particles are tiny bits of matter that make up everything in the universe. In particle physics, an elementary particle is a particle which cannot be split up into smaller pieces.\nThere are many different types of particles, with different particle sizes and properties.\nMacroscopic particles are particles that are larger than atoms or molecules. They have volume and shape. Powder and dust are some examples of macroscopic particles. Nanoparticles are an intermediate size, being a very fine powder but very much bigger than atoms.\nAtoms and molecules are called microscopic particles. Subatomic particles are particles that are smaller than atoms. The proton, the neutron, and the electron are subatomic particles. These are the particles which make atoms. The proton has a positive charge (a + charge). The neutron has a neutral charge. The electron has a negative charge (a - charge), and it is the smallest of these three particles. In atoms, there is a small nucleus in the center, which is where the protons and neutrons are, and electrons orbit the nucleus.\nProtons and neutrons are made up of quarks. Quarks are subatomic particles, but they are also elementary particles because we do not know if they are made up of even smaller particles. There are six different types of quarks. These are the up quark, the down quark, the strange quark, the charm quark, the bottom quark, and the top quark. A neutron is made of two down quarks and one up quark. The proton is made up of two up quarks and one down quark.\n\n?",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Particle"
+    },
+    {
+        "title": "CERN",
+        "content": "CERN is a research institute near Geneva, Switzerland. The full name is Organisation Europ\u00e9ene pour la Recherche Nucl\u00e9aire (European Organization for Nuclear Research). The letters \"CERN\" are left over from the older Conseil Europ\u00e9en pour la Recherche Nucl\u00e9aire (European Council for Nuclear Research). CERN was founded in 1954. Today 22 nations are members of the organisation. It is the world's biggest laboratory for particle physics. About 2600 people work there full-time, and over 7800 scientists from about 500 universities and research institutes work there in total.\nThe Large Hadron Collider, the largest particle accelerator in the world, is at CERN.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/CERN"
+    },
+    {
+        "title": "Entropy",
+        "content": "The entropy of an object is a measure of the amount of energy which is unavailable to do work. Entropy is also a measure of the number of possible arrangements the atoms in a system can have. In this sense, entropy is a measure of uncertainty or randomness. The higher the entropy of an object, the more uncertain we are about the states of the atoms making up that object because there are more states to decide from. A law of physics says that it takes work to make the entropy of an object or system smaller; without work, entropy can never become smaller \u2013 you could say that everything slowly goes to disorder (higher entropy).\nThe word entropy came from the study of heat and energy in the period 1850 to 1900. Some very useful mathematical ideas about probability calculations emerged from the study of entropy. These ideas are now used in information theory, chemistry and other areas of study. \nEntropy is simply a quantitative measure of what the second law of thermodynamics describes: the spreading of energy until it is evenly spread. The meaning of entropy is different in different fields. It can mean:\n\nInformation entropy, which is a measure of information communicated by systems that are affected by data noise.\nThermodynamic entropy is part of the science of heat energy. It is a measure of how organized or disorganized energy is in a system of atoms or molecules.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Entropy"
+    },
+    {
+        "title": "Homeostasis",
+        "content": "Homeostasis  is self-regulation, a basic property of all self-organising systems. In biology, it is the keeping of a stable internal environment.Homeostasis is life's ability to stay balanced, when the environment changes. Animals keep their body in a stable condition. They do so by regulating their inner equilibrium . For example, they adjust their pH, temperature, amount of oxygen or carbon dioxide in the blood and so on. In living things, the study of how they keep in a stable condition is called physiology. Mostly, our physiology works unconsciously throughout life. We have many negative feedback systems which adjust our physiology so that we stay alive. These systems are self-organising and do not need to be learnt. They are inherited.\nThe concept was described by Claude Bernard, and the term was later coined by Walter Cannon in 1926, 1929, and 1932. Walter Cannon thought these were the features of homeostasis:\nConstancy in an open system, such as our bodies, is done by mechanisms which maintain this constancy. Cannon based this on insights into the ways by which steady states such as glucose concentrations, body temperature and acid-base balance were regulated.\nTo keep a steady-state condition, any change automatically meets with factors that resist change. An increase in blood salt results in thirst as the body attempts to dilute the concentration of salt in the extracellular fluid.\nThe regulating system doing homeostasis has a number of cooperating mechanisms which act simultaneously or successively. Blood sugar is regulated by insulin, glucagons, and other hormones that control its release from the liver or its uptake by the tissues.Examples of homeostasis:\n\nThe operation of a thermostat\nThe regulation of water and minerals in the body\nThe regulation of body temperature: mammals and birds have complicated systems which keep their body temperature within close limits.In mammals, the main organs involved with homeostasis are:\n\nThe hypothalamus and pituitary gland\nthe lungs\nthe skin\nthe muscles\nthe kidneys\nthe liver and pancreasThe brain is also central to homeostasis. It controls behaviour, and the basic function of behaviour is to support life by taking action.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Homeostasis"
+    },
+    {
+        "title": "Bacteria",
+        "content": "Bacteria (sing. bacterium) are very small organisms. They are prokaryotic microorganisms. Bacterial cells do not have a nucleus, and most have no organelles with membranes around them. Most have a cell wall. They do have DNA, and their biochemistry is basically the same as other living things. They are amongst the simplest and the oldest organisms.   They function as independent organisms.  \nAlmost all bacteria are so tiny they can only be seen through a microscope. Bacteria are made up of one cell, so they are a kind of unicellular organism. They are among the simplest single-celled organisms on Earth, and were one of the earliest forms of life. They include a number of extremophiles which live in extreme habitats.\nThere are probably more individual bacteria than any other sort of organism on the planet. Most bacteria live in the ground or in water, but many live inside or on the skin of other organisms, including humans. There are about 1:1 bacterial cells as human cells in each of our bodies. Some bacteria can cause diseases, but others help us in everyday activities like digesting food (gut flora). Some even work for us in factories, producing cheese and yogurt.\nThe founder of bacteriology was a German biologist called Ferdinand Cohn (1828\u20131898). He published the first biological classification of bacteria, based on their appearance.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bacteria"
+    },
+    {
+        "title": "Fossil",
+        "content": "A fossil is the remains or trace of an ancient living thing.Fossils of animals, plants, or protists occur in sedimentary rock. \nIn a typical fossil, the body form is retained, but the original molecules that made up the body have been replaced by some inorganic material, such as calcium carbonate (CaCO3) or silica (SiO2). The fossil feels like, and is, made of rock. It has been mineralised or petrified (literally, turned into rock). \nA fossil may also be an imprint or impression of a living thing remaining in the fossilised mud of a long-gone age. \nSome organisms fossilise well, others do not. The most common fossils are those left behind by organisms that produce hard materials. The hard, calcitic shells of molluscs (such as clams and snails) and of now-rare brachiopods (also known as lampshells) are examples. These sea-dwelling shellfish have produced many fossiliferous (that is, fossil-bearing) chalky layers of limestone in the earth. \nSoft-bodied organisms can fossilise in special circumstances: the Ediacaran biota is a good example.The best-known fossils for the general public are those of the giant, prehistoric dinosaurs. The fossilized bones and fossilized tracks of these huge, ancient reptiles can be seen in many museums of natural history and earth science. \nThe study of fossils by geologists and biologists is known as paleontology. If the study puts living things in their ecological context it is called paleobiology.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fossil"
+    },
+    {
+        "title": "Physiology",
+        "content": "Physiology is the study of how living things work. Physiologists can study how organs of an organism work together to make things happen. In human beings, for example, the digestion of food hormones and other chemicals are made by the stomach, liver, and pancreas. Muscle contraction happens because of chemical messages made by nerves of that muscle. By learning how the body functions normally, physiologists and physicians can better understand what happens when organs do not function normally. For example, an understanding of how the thyroid gland functions has helped in treating goitre. Studies of the circulatory system and the nervous system have helped physicians understand and treat such illnesses like heart disease, stroke, and high blood pressure.\nThe field is usually divided into human physiology, animal physiology, and plant physiology.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Physiology"
+    },
+    {
+        "title": "DNA",
+        "content": "DNA, short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms. This includes animals, plants, protists, archaea and bacteria.\nDNA is in each cell in the organism and tells cells what proteins to make. Mostly, these proteins are enzymes. DNA is inherited by children from their parents. This is why children share traits with their parents, such as skin, hair and eye color. The DNA in a person is a combination of the DNA from each of their parents.\nPart of an organism's DNA is \"non-coding DNA\" sequences. They do not code for protein sequences. Some noncoding DNA is transcribed into non-coding RNA molecules, such as transfer RNA, ribosomal RNA, and regulatory RNAs. Other sequences are not transcribed at all, or give rise to RNA of unknown function. The amount of non-coding DNA varies greatly among species. For example, over 98% of the human genome is non-coding DNA, while only about 2% of a typical bacterial genome is non-coding DNA.\nViruses use either DNA or RNA to infect organisms. The genome replication of most DNA viruses takes place in the cell's nucleus, whereas RNA viruses usually replicate in the cytoplasm.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/DNA"
+    },
+    {
+        "title": "Genome",
+        "content": "The genome of an organism is the whole of its hereditary information encoded in its DNA (or, for some viruses, RNA). This includes both the genes and the non-coding sequences of the DNA.\nProfessor Hans Winkler coined the term in 1920.Winkler's definition, in translation, runs:\n\n\"I propose the expression genome for the haploid chromosome set, which, together with the pertinent protoplasm, specifies the material foundations of the species ....\" p165However, no single haploid chromosome set defines even the DNA of a species. Because of the huge variety of alleles carried by a population, every individual is genetically different. Even a diploid individual carries genetic variety. For that reason Dobzhansky preferred \"set of chromosomes\", and the definition now must be broader than Winklers' definition. The genome of a haploid chromosome set is merely a sample of the total genetic variety of a species.\nThe term 'genome' can be applied specifically to mean the complete set of nuclear DNA (the 'nuclear genome') but can also be used of organelles that contain their own DNA, as with the mitochondrial genome or the chloroplast genome.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Genome"
+    },
+    {
+        "title": "Genome",
+        "content": "The genome of an organism is the whole of its hereditary information encoded in its DNA (or, for some viruses, RNA). This includes both the genes and the non-coding sequences of the DNA.\nProfessor Hans Winkler coined the term in 1920.Winkler's definition, in translation, runs:\n\n\"I propose the expression genome for the haploid chromosome set, which, together with the pertinent protoplasm, specifies the material foundations of the species ....\" p165However, no single haploid chromosome set defines even the DNA of a species. Because of the huge variety of alleles carried by a population, every individual is genetically different. Even a diploid individual carries genetic variety. For that reason Dobzhansky preferred \"set of chromosomes\", and the definition now must be broader than Winklers' definition. The genome of a haploid chromosome set is merely a sample of the total genetic variety of a species.\nThe term 'genome' can be applied specifically to mean the complete set of nuclear DNA (the 'nuclear genome') but can also be used of organelles that contain their own DNA, as with the mitochondrial genome or the chloroplast genome.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Genome"
+    },
+    {
+        "title": "Ion",
+        "content": "An ion is an electrically charged atom or group of atoms.\nIt is a part of an atom, or part of a group of atoms (molecule). It is \"charged\" so it will move near electricity. This is because atoms are made of three smaller parts:\n\nneutrons (with no charge),\nequal numbers of charged protons and\noppositely-charged electrons.An ion has unequal numbers of protons and electrons. Making an ion from an atom or molecule is called ionization.\nThe charge on a proton is measured as +1 (positively charged). The charge on an electron is measured as -1 (negatively charged). An atom that is ionized makes two ions, one positive, and one negatively charged. For example, a neutral hydrogen atom has one proton and one electron. Heating the atom breaks it into two parts: (1) a positively charged hydrogen ion, H+ (2) a negatively charged electron.\nA liquid with ions is called an electrolyte. A gas with lots of ions is called a plasma. When ions move, it is called electricity. For example, in a wire, the metal ions do not move, but the electrons move as electricity. A positive ion and a negative ion will move together. Two ions of the same charge will move apart. When ions move they also make magnetic fields.\nMany ions are colourless. Elements in the main groups in the Periodic Table form colourless ions. Some ions are coloured. The transition metals usually form coloured ions.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ion"
+    },
+    {
+        "title": "Chemical reaction",
+        "content": "A chemical reaction happens when one or more chemicals are changed into one or more other chemicals. Examples:\n\niron and oxygen combining to make rust\nvinegar and baking soda combining to make sodium acetate, carbon dioxide and water\nthings burning or exploding\nmany reactions that happen inside living things\nelectrochemical reactions when discharging or recharging batteriesSome reactions are fast, and others are slow. Some happen at different speeds, depending on temperature or other things. For example, wood does not react with air when it is cold, but if it is made hot enough, it will start to burn. Some reactions give out energy. These are exothermic reactions. In other reactions, energy is taken in. These are endothermic reactions.\nNuclear reactions are not chemical reactions. Chemical reactions involve only the electrons of atoms; nuclear reactions involve the protons and neutrons in the atomic nuclei.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chemical_reaction"
+    },
+    {
+        "title": "Acid",
+        "content": "The article about certain properties of databases is at ACID\nSometimes acid is another name for the drug LSD (Lysergic acid diethylamide)\n\nAn acid is a substance that can donate a hydrogen ion (H+) (generally speaking, this will be a proton) to another substance. Acids have a pH less than 7.0. \nA chemical can donate a proton if the hydrogen atom is attached to an electronegative atom like oxygen, nitrogen, or chlorine. Some acids are strong and others are weak. The weak acids hold on to some of their protons, while the strong acids let go of all of them. All acids will release hydrogen ions into solutions. The amount of ions that get released per molecule will determine if the acid is weak or strong. Weak acids are acids that partially release the hydrogen atoms that are attached. These acids, then, may lower pH by dissociation of hydrogen ions, but not completely. Weak acids generally have a pH value of 4-6 while strong acids have a pH value of 1 to 3.\nA base is an acid's \"chemical opposite.\" A base is a substance that will accept the acid's hydrogen atom. Bases are molecules that can  split apart in water and release hydroxide ions.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Acid"
+    },
+    {
+        "title": "Base (chemistry)",
+        "content": "A base is a substance that can accept a hydrogen ion (H+) from another substance. A chemical can accept a proton if it has a negative charge, or if the molecule has an electronegative atom like oxygen, nitrogen, or chlorine that is rich in electrons. Like acids, some bases are strong and others are weak. The weak bases are less likely to accept protons, while the strong bases quickly take protons in solution or from other molecules.\nAn acid is a base's \"chemical opposite\". An acid is a substance that will donate a hydrogen atom to the base. \nBases have a pH greater than 7.0.  Weak bases generally have a pH value of 7\u20139 while strong bases have a pH value of 9\u201314.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Base_(chemistry)"
+    },
+    {
+        "title": "Alchemy",
+        "content": "Alchemy is the very old study and philosophy of how to change basic substances (such as metals) into other substances. It also studied how substances (and how they are changed into other substances) were related to magic and astrology. People who studied alchemy were called alchemists. Some things alchemists tried to do were change lead or mercury into gold, make the philosopher's stone, and make the \"elixir of life,\" which they thought could cure (make better) any disease and make someone young again.\nAlchemists believed that substances, mind, philosophies, religion, magic and astrology were related to each other. They tried to find connections between them. They tried to understand one by understanding the other. Some alchemists used metals (like gold or silver) to represent spiritual or occult ideas. People in many different countries studied alchemy.\nIn the 1600s and 1700s, people started to study only the properties of substances without trying to relate them to secret, old knowledge. They did experiments and wrote down what they discovered so other people could learn from them. One of the important people who did these experiments was Robert Boyle. People called the new study of substances chemistry.\nScientists have since discovered how to change one kind of element (the simplest kind of chemical substance) into another. In 1980, an American scientist named Glenn Seaborg discovered how to change a very tiny amount of bismuth into gold with a nuclear reactor. Making gold this way is much more difficult and expensive (costs a lot of money) than mining or recycling it.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Alchemy"
+    },
+    {
+        "title": "Medicine",
+        "content": "Medicine is the science that deals with diseases (illnesses) in humans and animals, the best ways to prevent diseases, and the best ways to return to a healthy condition.People who practice medicine are most often called medical doctors or physicians. Often doctors work closely with nurses and many other types of health care professionals.\nMany doctors specialize in one kind of medical work. For example, pediatrics is the medical specialty about the health of children.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Medicine"
+    },
+    {
+        "title": "Chromatography",
+        "content": "Chromatography is a method using mixed substances that depends on the speed at which they move through special media, or chemical substances. It consists of a stationary phase (a solid) and a mobile phase (a liquid or a gas). The mobile phase flows through the stationary phase. Chromatography is much used in biochemistry and analytical chemistry.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chromatography"
+    },
+    {
+        "title": "Spectroscopy",
+        "content": "Spectroscopy is the study of light as a function of length of the wave that has been emitted, reflected or shone through a solid, liquid, or gas. To be analyzed the chemical is heated, because hot things glow and each chemical glows differently. The various wavelengths of the glow make a color spectrum that differs in some detail from other chemicals. Spectroscopy separates and measures the brightness of the different wavelengths. It can identify the chemicals in a mixture, and determine some other things, such as how hot the thing is.\nSpectroscopy allows scientists to investigate and explore things that are too small to be seen through a microscope, such as molecules, and the even smaller subatomic particles like protons, neutrons and  electrons. There are special instruments to measure and analyze these light waves.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Spectroscopy"
+    },
+    {
+        "title": "Radiation",
+        "content": "In physics, radiation is the emission or transmission of energy in the form of waves or particles through space or through a material medium.This includes:\n\nelectromagnetic radiation such as radio waves, visible light, and x-rays\nparticle radiation such as \u03b1, \u03b2, and neutron radiation\nacoustic radiation such as ultrasound, sound\nseismic waves.Radiation may also refer to the energy, waves, or particles being radiated.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Radiation"
+    },
+    {
+        "title": "Star",
+        "content": "A star is a very large ball of bright glowing hot matter in space. That matter is called plasma. Stars are held together by gravity. They give out heat and light because they are very hot.\nThe amount of material in a star (its mass) is so huge that it starts a nuclear reaction going. The reaction changes hydrogen to helium and gives off heat. \nStars like the Sun are hot because this nuclear reaction happens inside them. The reaction is called nuclear fusion.  Nuclear fusion makes light and heat and makes bigger chemical elements. In the Sun (but not all stars) the change which takes place is the production of helium, with minute (very small) amounts of heavier elements.\nStars have a lot of hydrogen. Nuclear fusion changes hydrogen into helium. Fusion makes a lot of energy. The energy makes the star very hot. The energy produced by stars moves (radiates) away from them. Much of the energy leaves as light. The rest leaves as other kinds of electromagnetic radiation.\nWhen a star like the Sun gets old, it will expand in size and become a red giant star. That will happen in about a billion years' time (109 years).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Star"
+    },
+    {
+        "title": "Star",
+        "content": "A star is a very large ball of bright glowing hot matter in space. That matter is called plasma. Stars are held together by gravity. They give out heat and light because they are very hot.\nThe amount of material in a star (its mass) is so huge that it starts a nuclear reaction going. The reaction changes hydrogen to helium and gives off heat. \nStars like the Sun are hot because this nuclear reaction happens inside them. The reaction is called nuclear fusion.  Nuclear fusion makes light and heat and makes bigger chemical elements. In the Sun (but not all stars) the change which takes place is the production of helium, with minute (very small) amounts of heavier elements.\nStars have a lot of hydrogen. Nuclear fusion changes hydrogen into helium. Fusion makes a lot of energy. The energy makes the star very hot. The energy produced by stars moves (radiates) away from them. Much of the energy leaves as light. The rest leaves as other kinds of electromagnetic radiation.\nWhen a star like the Sun gets old, it will expand in size and become a red giant star. That will happen in about a billion years' time (109 years).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Star"
+    },
+    {
+        "title": "Star",
+        "content": "A star is a very large ball of bright glowing hot matter in space. That matter is called plasma. Stars are held together by gravity. They give out heat and light because they are very hot.\nThe amount of material in a star (its mass) is so huge that it starts a nuclear reaction going. The reaction changes hydrogen to helium and gives off heat. \nStars like the Sun are hot because this nuclear reaction happens inside them. The reaction is called nuclear fusion.  Nuclear fusion makes light and heat and makes bigger chemical elements. In the Sun (but not all stars) the change which takes place is the production of helium, with minute (very small) amounts of heavier elements.\nStars have a lot of hydrogen. Nuclear fusion changes hydrogen into helium. Fusion makes a lot of energy. The energy makes the star very hot. The energy produced by stars moves (radiates) away from them. Much of the energy leaves as light. The rest leaves as other kinds of electromagnetic radiation.\nWhen a star like the Sun gets old, it will expand in size and become a red giant star. That will happen in about a billion years' time (109 years).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Star"
+    },
+    {
+        "title": "Geometry",
+        "content": "Geometry is the part of mathematics that studies the size, shapes, positions and dimensions of things.  We can only see or make shapes that are flat (2D) or solid (3D), but mathematicians (people who study math) are able to study shapes that are 4D, 5D, 6D, and so on.\nSquares, circles and triangles are some of the simplest shapes in flat geometry. Cubes, cylinders, cones and spheres are simple shapes in solid geometry.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Geometry"
+    },
+    {
+        "title": "Algebra",
+        "content": "Algebra (from Arabic: \u0627\u0644\u062c\u0628\u0631\u200e, transliterated \"al-jabr\", meaning \"reunion of broken parts\") is a part of mathematics (often called math in the United States and maths or numeracy in the United Kingdom ). It uses variables to represent a value that is not yet known.  When an equals sign (=) is used, this is called an equation.  A very simple equation using a variable is: 2 + 3 = x. In this example, x = 5, or it could also be said that \"x equals five\".  This is called solving for x.  Besides equations, there are inequalities (less than and greater than). A special type of equation is called the function.  This is often used in making graphs because it always turns one input into one output.\nAlgebra can be used to solve real problems because the rules of algebra work in real life and numbers can be used to represent the values of real things.  Physics, engineering and computer programming are areas that use algebra all the time.  It is also useful to know in surveying, construction and business, especially accounting.\nPeople who do algebra use the rules of numbers and mathematic operations used on numbers.  The simplest are adding, subtracting, multiplying, and dividing.  More advanced operations involve exponents, starting with squares and square roots.  \nAlgebra was first used to solve equations and inequalities. Two examples are linear equations (the equation of a straight line, y=mx+b) and quadratic equations, which has variables that are squared (multiplied by itself, for example: 2*2, 3*3, or x*x).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Algebra"
+    },
+    {
+        "title": "Solid geometry",
+        "content": "Solid geometry is the geometry of three-dimensional Euclidean space. It includes the measurements of volumes of various solid figures (three-dimensional figures). These include pyramids, cylinders, cones, spheres, and prisms.\nIt is Euclidean geometry, but not plane geometry. Points are defined as a defined position on a sphere. A \"staight line\" is the shortest path between two points which stays on the surface of the sphere. \nEuclid's account of spherical geometry is in his Elements volumes XI\u2013XIII containing solid geometry, and in his lesser-known work the Phaenomena, which includes 25 geometric propositions. The actual discoveries were often made by others. \nThe Pythagoreans dealt with the regular solids, like the cube and the sphere. The pyramid, prism, cone and cylinder were not studied until the Platonists. Eudoxus proved the pyramid and cone have one-third the volume of a prism and cylinder on the same base and of the same height.\nThe equations for areas and volumes in two and three dimensions was proved by Archimedes. One of Archimedes' works was called On the sphere and the cylinder. He asked that a carving of the two solid figures be placed on his tomb. He specified a \"right circular cylinder with height equal to its circumference\" because he had used this in his proof.People use solid geometry for many purposes including engineering and the calculation of perspective.  \n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Solid_geometry"
+    },
+    {
+        "title": "Sphere packing",
+        "content": "In geometry, Sphere packing refers to a number of problems that try to arrange spheres in space. Very often, the spheres all have the same size, and the space used is usually three-dimensional Euclidean space. The problem is part of packing problems. When it is generalised, not all the spheres need to have the same size, and spaces can be n-dimensional Euclidean space, or hyperbolic space.\nA typical sphere packing problem is to find an arrangement in which the spheres fill as large a proportion of the space as possible. The proportion of space filled by the spheres is called the density of the arrangement. As the local density of a packing in an infinite space can vary depending on the volume over which it is measured, the problem is usually to maximise the average or asymptotic density, measured over a large enough volume.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sphere_packing"
+    },
+    {
+        "title": "Polyhedron",
+        "content": "A polyhedron (one polyhedron, many polyhedra, or polyhedrons) is a geometrical shape. It is a 3D shape with flat faces, and straight edges. Usually it is defined by the number of faces, or edges. \nMathematicians do not agree on what makes a polyhedron. They do agree that there are five Platonic solids.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Polyhedron"
+    },
+    {
+        "title": "Polygon",
+        "content": "A polygon is a closed two-dimensional shape. It is a simple curve that is made up of straight line segments. It usually has three sides/corners or more. \nIt could also be referred to as 'A closed plane figure bound by three or more straight line segments'. It has a number of edges. These edges are connected by lines. A square is a polygon because it has four sides. The smallest possible polygon in a Euclidean geometry or \"flat geometry\" is the triangle, but on a sphere, there can be a digon and a henagon.\nIf the edges (lines of the polygon) do not intersect (cross each other), the polygon is called simple, otherwise it is complex.\nIn computer graphics, polygons (especially triangles) are often used to make graphics.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Polygon"
+    },
+    {
+        "title": "Radiocarbon dating",
+        "content": "Radiocarbon dating, also known as the C14 dating method, is a way of telling how old an object is. It is a type of radiometric dating. \nThe method uses the radioactive isotope carbon-14. Most organic matter contains carbon. Carbon has different isotopes, which are usually not radioactive. 14C is the radioactive one, its half-life  (time it takes to reduce its radioactivity by half)  is about 5,730 years. This makes it possible to tell the age of substances that contain carbon. The method works to about 60,000 years old. Dates obtained are usually written as before present ('present' is 1950). \nPlants take up atmospheric carbon dioxide by photosynthesis, and are eaten by animals, so every living thing is constantly exchanging carbon-14 with its environment as long as it lives. Once it dies, however, this exchange stops.\nIn 1958 Hessel de Vries showed that the concentration of carbon-14 in the atmosphere varies with time and locality. The relatively short-lived 14C is constantly renewed by cosmic ray bombardment on atmospheric nitrogen. Since the bombardment is slightly variable, and for other reasons, the 14C taken into organic matter is also slightly variable. That leads to errors in the chronology. However, under about 20,000 years the results can be compared with dendrochronology, based on tree rings. For the most accurate work, variations are compensated by means of calibration curves. \nThe method was developed by Willard Libby and his colleagues at the University of Chicago in 1949. In 1960, he was awarded the Nobel Prize in Chemistry for this work. He first demonstrated the accuracy of radiocarbon dating by accurately estimating the age of wood from an ancient Egyptian royal barge of which the age was known from historical documents.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Radiocarbon_dating"
+    },
+    {
+        "title": "Plate tectonics",
+        "content": "Plate tectonics is a theory of geology. It explains movement of the Earth's lithosphere: this is the earth's crust and the upper part of the mantle. The lithosphere is divided into plates, some of which are very large and can be entire continents.\nHeat from the mantle is the source of energy driving plate tectonics. Exactly how this works is still a matter of debate.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Plate_tectonics"
+    },
+    {
+        "title": "Comet",
+        "content": "A comet is a ball of mostly ice that moves around in outer space. Comets are often described as \"dirty snowballs\". They are very different from asteroids.  The orbital inclinations of comets are usually high and not near the ecliptic where most solar system objects are found. Most of them are long-period comets and come from the Kuiper belt. That is very far away from the Sun, but some of them also come near enough to Earth for us to see at night.  \nThey have long \"tails\", because the Sun melts the ice. A comet's tail does not trail behind it, but points directly away from the Sun, because it is blown by the solar wind.\nThe hard centre of the comet is the nucleus. It is one of the blackest things (lowest albedo) in the solar system. When light shone on the nucleus of Halley's Comet, the comet reflected only 4% of the light back to us.\nPeriodic comets visit again and again. Non-periodic or single-apparition comets visit only once.\nComets sometimes break up, as Comet Biela did in the 19th century.  Comet Shoemaker-Levy 9 broke up, and the pieces hit Jupiter in 1994. Some comets orbit (go around) together in groups. Astronomers think these comets are broken pieces that used to be one object.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Comet"
+    },
+    {
+        "title": "Galaxy",
+        "content": "A galaxy is a group of many stars, with gas, dust, and dark matter. The name 'galaxy' is taken from the Greek word galaxia meaning milky, a reference to our own galaxy, the Milky Way.\nGravity holds galaxies together against the general expansion of the universe. In effect, the expansion of the universe takes place between groups of galaxies, not inside those groups. Gravity holds the galaxy together. The same applies to  groups and clusters of galaxies, such as our Local Group where the Milky Way is, and the Virgo Cluster, a collection of more than 1,000 (might even be 2,000) galaxies. The gravitation is produced by the matter and energy in a galaxy or group of galaxies. Everything in a galaxy moves around a centre of mass, which is also an effect of gravity.  \nThere are various types of galaxies: elliptical, spiral and lenticular galaxies, which can all be with or without bars. Then there are irregular galaxies. All galaxies exist inside the universe. The observable Universe contains more than 2 trillion (1012) galaxies and, overall, as many as an estimated 1\u00d71024 stars (more stars than all the grains of sand on planet Earth).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Galaxy"
+    },
+    {
+        "title": "Perseids",
+        "content": "The Perseids are prolific meteor showers associated with the comet Swift\u2013Tuttle. The point they appear to come from (called the radiant) is in the constellation Perseus.\nThey come into the sky regularly mid-July to late August. Date of peak shower is August 24th.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Perseids"
+    },
+    {
+        "title": "Hubble Space Telescope",
+        "content": "The Hubble Space Telescope (HST) is the first big optical space observatory telescope. Being above the atmosphere means it can see the sky more clearly than a telescope on the ground. The atmosphere blurs starlight before it reaches Earth. Named after the astronomer Edwin Hubble, the Hubble Space Telescope can observe 24 hours a day. The main mirror is 94.5 inches (2.4 meters) across.  The telescope can take pictures of things so far away it would be nearly impossible to see them from anywhere else.\nIt was made by both NASA and the ESA working together. It is 600 km in space and was launched on April 24, 1990. Like other things in low Earth orbit it travels at 5 miles (10 km) per second. If you were going this speed on Earth, you would be able to get from New York to San Francisco in 10 minutes. This speed creates difficulty in scheduling observations.The Hubble itself is the size of a large school bus, but still small enough to fit inside the cargo bay of a Space Shuttle. It was repaired in 1993 due to problems in the picture quality.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+        "title": "Parker Solar Probe",
+        "content": "Parker Solar Probe is a NASA robotic spacecraft heading towards the outer corona of the Sun. It will reach to within 8.86 solar radii (6.2 million kilometers or 3.85 million miles) from the \"surface\" of the Sun and will travel, at closest approach, as fast as 700,000 km/h (430,000 mph).",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Parker_Solar_Probe"
+    },
+    {
+        "title": "Archimedes",
+        "content": "Archimedes of Syracuse (c.\u2009287 \u2013 c.\u2009212 BC) was a Greek scientist. He was an inventor, an astronomer, and a mathematician. He was born in the town of Syracuse in Sicily.\nHis father was Phidias, an astronomer, and he may have been in the family of a king of Syracuse. Syracuse was a rich Greek city, on the seashore in Sicily. When Archimedes was about ten years old, he left Syracuse to study in Alexandria, Egypt. He was in the school of Euclid, a famous mathematician. Not much is known about the personal life of Archimedes, for example, whether he was married or if he had children.\nWhen the Romans invaded Syracuse, they captured Archimedes so they could learn all of the things he knew. About two years after he was drawing a mathematical diagram in the sand and enraged a soldier by refusing to go to meet the Roman general until he had finished working on the problem. The Roman killed him. His last words are supposed to have been \"Do not disturb my circles!\"",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Archimedes"
+    },
+    {
+        "title": "Data science",
+        "content": "Data science is the study of the extraction of knowledge from data. It uses various techniques from many fields, including signal processing, mathematics, probability, machine learning, computer programming, statistics, data engineering, pattern matching, and data visualization, with the goal of extracting useful knowledge from the data. With computer systems able to handle more data, big data is an important aspect of data science.\nA person that does data science is called a data scientist. Data scientists solve complicated data problems using mathematics, statistics and computer science, although very good skill in these subjects are not required. However, a data scientist is most likely to be an expert in only one or two of these disciplines, meaning that cross disciplinary teams can be a key component of data science.\nGood data scientists are able to apply their skills to achieve many kinds of purposes. Their skills and competencies vary widely.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Data_science"
+    },
+    {
+        "title": "Probability",
+        "content": "Probability is a part of applied mathematics. It has to do with chance, the study of things that might happen or might not happen. \nFor example, using probability, one can show that by throwing a coin up in the air and letting it land, half of the time it will land with one side facing up, and half of the time with the other side facing up. Many coins have a picture of the face of a famous person on one side, and something else on the other side. Often people call the side with the face \"heads\", and the other side \"tails\".\nThe probability (p) of an event E, written \n  \n    \n      \n        P\n        (\n        E\n        )\n      \n    \n    {\\displaystyle P(E)}\n  , is always between zero (impossible) and one (certain).If we roll a die (plural: dice), then the chance that it will land on 1 is 1/6 (because there are 6 numbers on a die). Similarly, the chance it will land on 2 is also 1/6. The chance it will land on any number between 1 and 6 is 1, because every time we roll the die, it will always land on a number between 1 and 6.Probability can be figured out using mathematics. For example, if one rolls six dice, the chance of them getting a number more than ten is not obvious, but can be figured out using math and science.\nOne of the most interesting things about chance is that to figure out the probability that two things will both happen, one usually multiply their two probabilities together. For example, suppose that one wants to know the probability of rolling two dice and getting a certain combination (it could be two 6s or a 3 then a 5, just any two). The possibility of getting a 3 is one in six (\u2159), and the possibility of getting a 5 is also one in six, so the chances of getting a 3 then a 5 is \u2159\u00d7\u2159=\u215f36. If that number is expressed as somewhere between 0 and 1, it equals 0.027...7, which is fairly low. The possibility of getting a 3, then a 5, and then a 2 would be \u2159\u00d7\u2159\u00d7\u2159=\u215f216 or 0.00463, which is a much lower probability.",
+        "language": "English",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Probability"
+    }
+]

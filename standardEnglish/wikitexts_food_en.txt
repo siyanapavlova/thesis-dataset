@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Indian cuisine",
+        "content": "Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. Given the diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally available spices, herbs, vegetables, and fruits. Indian food is also heavily influenced by religion, in particular Hinduism, cultural choices and traditions. Centuries of Islamic rule, particularly by the Mughals, also introduced dishes like samosa and pilaf.Historical events such as invasions, trade relations, and colonialism have played a role in introducing certain foods to this country. The Columbian discovery of the New World brought a number of new vegetables and fruit to India. A number of these such as the potato, tomatoes, chillies, peanuts, and Guava have become staples in many regions of India. Indian cuisine has shaped the history of international relations; the spice trade between India and Europe was the primary catalyst for Europe's Age of Discovery. Spices were bought from India and traded around Europe and Asia. Indian cuisine has influenced other cuisines across the world, especially those from Europe (especially Britain), the Middle East, Southern African, East Africa, Southeast Asia, North America, Mauritius, Fiji, Oceania, and the Caribbean.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Indian_cuisine"
+    },
+    {
+        "title": "Chinese cuisine",
+        "content": "Chinese cuisine is an important part of Chinese culture, which includes cuisine originating from the diverse regions of China, as well as from Overseas Chinese who have settled in other parts of the world. Because of the Chinese diaspora and historical power of the country, Chinese cuisine has influenced many other cuisines in Asia, with modifications made to cater to local palates. Chinese food staples such as rice, soy sauce, noodles, tea, and tofu, and utensils such as chopsticks and the wok, can now be found worldwide.\nThe preference for seasoning and cooking techniques of Chinese provinces depend on differences in historical background and ethnic groups. Geographic features including mountains, rivers, forests and deserts also have a strong effect on the local available ingredients, considering that the climate of China varies from tropical in the south to subarctic in the northeast. Imperial, royal and noble preference also plays a role in the change of Chinese cuisines. Because of imperial expansion and trading, ingredients and cooking techniques from other cultures are integrated into Chinese cuisines over time.\nThe most praised \"Four Major Cuisines\" are Chuan, Lu, Yue and Huaiyang, representing West, North, South and East China cuisine correspondingly. The modern \"Eight Cuisines\" of China are Anhui (\u5fbd\u83dc; Hu\u012bc\u00e0i), Cantonese (\u7ca4\u83dc; Yu\u00e8c\u00e0i), Fujian (\u95fd\u83dc; M\u01d0nc\u00e0i), Hunan (\u6e58\u83dc; Xi\u0101ngc\u00e0i), Jiangsu (\u82cf\u83dc; S\u016bc\u00e0i), Shandong (\u9c81\u83dc; L\u01d4c\u00e0i), Sichuan (\u5ddd\u83dc; Chu\u0101nc\u00e0i), and Zhejiang (\u6d59\u83dc; Zh\u00e8c\u00e0i) cuisines.Color, smell and taste are the three traditional aspects used to describe Chinese food, as well as the meaning, appearance and nutrition of the food. Cooking should be appraised with respect to the ingredients used, knifework, cooking time and seasoning.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Chinese_cuisine"
+    },
+    {
+        "title": "Thai cuisine",
+        "content": "Thai cuisine (Thai: \u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22, RTGS: ahan thai, pronounced [\u0294\u0101\u02d0.h\u01ce\u02d0n t\u02b0\u0101j]) is the national cuisine of Thailand.\nThai cooking places emphasis on lightly prepared dishes with strong aromatic components and a spicy edge. Thai chef McDang characterises Thai food as demonstrating \"intricacy; attention to detail; texture; color; taste; and the use of ingredients with medicinal benefits, as well as good flavor\", as well as care being given to the food's appearance, smell and context.  Australian chef David Thompson, an expert on Thai food, observes that unlike many other cuisines, Thai cooking is \"about the juggling of disparate elements to create a harmonious finish. Like a complex musical chord it's got to have a smooth surface but it doesn't matter what's happening underneath. Simplicity isn't the dictum here, at all.\"\nTraditional Thai cuisine loosely falls into four categories: tom (boiled dishes), yam (spicy salads), tam (pounded foods), and gaeng (curries). Deep-fries, stir-fries, and steamed dishes derive from Chinese cooking.In 2017, seven Thai dishes appeared on a list of the \"World's 50 Best Foods\"\u2014an online poll of 35,000 people worldwide by CNN Travel. Thailand had more dishes on the list than any other country. They were: tom yam goong (4th), pad Thai (5th), som tam (6th), massaman curry (10th), green curry (19th), Thai fried rice (24th) and mu nam tok (36th).",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Thai_cuisine"
+    },
+    {
+        "title": "Italian cuisine",
+        "content": "Italian cuisine is a Mediterranean cuisine consisting of the ingredients, recipes and cooking techniques developed across the Italian Peninsula since the antiquity, and later spread around the world together with waves of Italian diaspora.Significant changes occurred with the colonization of the Americas and the introduction of potatoes, tomatoes, capsicums, maize and sugar beet, this last introduced in quantity in the 18th century. Italian cuisine is known for its regional diversity, especially between the north and the south of the Italian peninsula. It offers an abundance of taste, and is one of the most popular and copied in the world. It influenced several cuisines around the world, chiefly that of the United States.Italian cuisine is generally characterized by its simplicity, with many dishes having only two to four main ingredients. Italian cooks rely chiefly on the quality of the ingredients rather than on elaborate preparation. Ingredients and dishes vary by region. Many dishes that were once regional have proliferated with variations throughout the country.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Italian_cuisine"
+    },
+    {
+        "title": "French cuisine",
+        "content": "French cuisine consists of the cooking traditions and practices from France.\nFrench cuisine developed throughout the centuries influenced by the many surrounding cultures of Spain, Italy, Switzerland, Germany and Belgium, in addition to its own food traditions on the long western coastlines of the Atlantic, the Channel and of course inland. In the 14th century, Guillaume Tirel, a court chef known as \"Taillevent\", wrote Le Viandier, one of the earliest recipe collections of medieval France. In the 17th century, chefs Fran\u00e7ois Pierre La Varenne and Marie-Antoine Car\u00eame spearheaded movements that shifted French cooking away from its foreign influences and developed France's own indigenous style. Cheese and wine are a major part of the cuisine. They play different roles regionally and nationally, with many variations and appellation d'origine contr\u00f4l\u00e9e (AOC) (regulated appellation) laws.French cuisine was made important in the 20th century by Auguste Escoffier to become the modern haute cuisine; Escoffier, however, left out much of the local culinary character to be found in the regions of France and was considered difficult to execute by home cooks. Culinary tourism and the Guide Michelin helped to acquaint people with the cuisine bourgeoise of the urban elites and the peasant cuisine of the French countryside starting in the 20th century. Gascon cuisine has also had great influence over the cuisine in the southwest of France. Many dishes that were once regional have proliferated in variations across the country.\nKnowledge of French cooking has contributed significantly to Western cuisines. Its criteria are used widely in Western cookery school boards and culinary education. In November 2010, French gastronomy was added by the UNESCO to its lists of the world's \"intangible cultural heritage\".",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/French_cuisine"
+    },
+    {
+        "title": "Balkan cuisine",
+        "content": "Balkan cuisine is a type of Mediterranean cuisine combining European with some Oriental characteristics and may refer to:\n\nAlbanian cuisine, the national cuisine of the Albanian people\nBosnia and Herzegovina cuisine, the cuisine of Bosnia and Herzegovina\nBulgarian cuisine, the cuisine of Bulgaria\nCroatian cuisine, the cuisines of Croatia\nGreek cuisine, the cuisine of Greece\nKosovan cuisine, the cuisine of Kosovo\nMacedonian cuisine, the traditional cuisine of North Macedonia\nMacedonian cuisine (Greek), the cuisine of the region of Macedonia in northern Greece\nMontenegrin cuisine, the cuisine of Montenegro\nRomanian cuisine, the cuisine of Romania\nSerbian cuisine, the cuisine of Serbia\nSlovenian cuisine, the cuisine of Slovenia\nTurkish cuisine, the cuisine of Turkey",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Balkan_cuisine"
+    },
+    {
+        "title": "Hamburger",
+        "content": "A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or a \"special sauce\", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.The term \"burger\" can also be applied to the meat patty on its own, especially in the United Kingdom, where the term \"patty\" is rarely used, or the term can even refer simply to ground beef. Since the term hamburger usually implies beef, for clarity \"burger\" may be prefixed with the type of meat or meat substitute used, as in beef burger, turkey burger, bison burger, or veggie burger.\nHamburgers are sold at fast-food restaurants, diners, and specialty and high-end restaurants (where burgers may sell for several times the cost of a fast-food burger, but may be one of the cheaper options on the menu). There are many international and regional variations of the hamburger.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Hamburger"
+    },
+    {
+        "title": "Fish and chips",
+        "content": "Fish and chips is a hot dish consisting of fried fish in batter served with chips. The dish originated in England and is an example of culinary fusion, as its two main components were introduced by immigrants. Fish and chips is a common take-away food in the United Kingdom and numerous other countries, particularly in English-speaking and Commonwealth nations. \nFish and chips first appeared in the UK in the 1860s, and by 1910, there were over 25,000 fish and chip shops across the UK. By the 1930s there were over 35,000 shops, but the trend reversed and by 2009 there were only approximately 10,000.The British Government safeguarded the supply of fish and chips during the First World War and the Second World War and it was one of the few foods in the UK not subject to rationing during the wars.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fish_and_chips"
+    },
+    {
+        "title": "Fruit",
+        "content": "In botany, a fruit is the seed-bearing structure in flowering plants (also known as angiosperms) formed from the ovary after flowering.\nFruits are the means by which angiosperms disseminate seeds. Edible fruits, in particular, have propagated with the movements of humans and animals in a symbiotic relationship as a means for seed dispersal and nutrition; in fact, humans and many animals have become dependent on fruits as a source of food. Accordingly, fruits account for a substantial fraction of the world's agricultural output, and some (such as the apple and the pomegranate) have acquired extensive cultural and symbolic meanings.\nIn common language usage, \"fruit\" normally means the fleshy seed-associated structures of a plant that are sweet or sour, and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries. On the other hand, in botanical usage, \"fruit\" includes many structures that are not commonly called \"fruits\", such as bean pods, corn kernels, tomatoes, and wheat grains. The section of a fungus that produces spores is also called a fruiting body.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fruit"
+    },
+    {
+        "title": "Vegetable",
+        "content": "Vegetables are parts of plants that are consumed by humans or other animals as food.  The original meaning is still commonly used and is applied to plants collectively to refer to all edible plant matter, including the flowers, fruits, stems, leaves, roots, and seeds. The alternate definition of the term is applied somewhat arbitrarily, often by culinary and cultural tradition. It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses.\nOriginally, vegetables were collected from the wild by hunter-gatherers and entered cultivation in several parts of the world, probably during the period 10,000 BC to 7,000 BC, when a new agricultural way of life developed. At first, plants which grew locally would have been cultivated, but as time went on, trade brought exotic crops from elsewhere to add to domestic types. Nowadays, most vegetables are grown all over the world as climate permits, and crops may be cultivated in protected environments in less suitable locations. China is the largest producer of vegetables, and global trade in agricultural products allows consumers to purchase vegetables grown in faraway countries. The scale of production varies from subsistence farmers supplying the needs of their family for food, to agribusinesses with vast acreages of single-product crops. Depending on the type of vegetable concerned, harvesting the crop is followed by grading, storing, processing, and marketing.\nVegetables can be eaten either raw or cooked and play an important role in human nutrition, being mostly low in fat and carbohydrates, but high in vitamins, minerals and dietary fiber. Many nutritionists encourage people to consume plenty of fruit and vegetables, five or more portions a day often being recommended.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Vegetable"
+    },
+    {
+        "title": "baking (food)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Pavlova (cake)",
+        "content": "Pavlova is a meringue-based dessert named after the Russian ballerina Anna Pavlova. It is a meringue dessert with a crisp crust and soft, light inside, usually topped with fruit and whipped cream. The name is pronounced , or like the name of the dancer, which was .The dessert is believed to have been created in honour of the dancer either during or after one of her tours to Australia and New Zealand in the 1920s. The nationality of its creator has been a source of argument between the two nations for many years.'The pav' is a popular dish and an important part of the national cuisine of both Australia and New Zealand, and with its simple recipe, is frequently served during celebratory and holiday meals. It is a dessert most identified with the summer time, and popularly eaten during that period, including at Christmas time; however, it is also eaten all year round in many Australian and New Zealand homes.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pavlova_(cake)"
+    },
+    {
+        "title": "Gordon Ramsay",
+        "content": "Gordon James Ramsay  (born 8 November 1966) is a British chef, restaurateur, writer, and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total and currently hold a total of seven. His signature restaurant, Restaurant Gordon Ramsay in Chelsea, London, has held three Michelin stars since 2001. After rising to fame on the British television miniseries Boiling Point in 1998, Ramsay had become one of the best-known and most influential chefs in the UK by 2004.As a reality television personality, Ramsay is known for his bluntness, as well as occasionally fiery temper, strict demeanour, and frequent use of expletives. He combines activities in the television, film, hospitality, and food industries and has promoted and hired various chefs who have apprenticed under his wing. Ramsay is known for presenting TV programmes about competitive cookery and food, such as the British series Hell's Kitchen, The F Word, and Ramsay's Kitchen Nightmares, the latter winning the BAFTA for Best Feature at the 2005 British Academy Television Awards, and the American versions of Hell's Kitchen, Kitchen Nightmares, MasterChef, MasterChef Junior, as well as Hotel Hell and 24 Hours to Hell and Back. In 2020, Forbes listed his earnings at $70 million for the previous 12 months, and ranked him the 19th-highest-earning celebrity in the world.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gordon_Ramsay"
+    },
+    {
+        "title": "Diet (nutrition)",
+        "content": "In nutrition, diet is the sum of food consumed by a person or other organism.\nThe word diet often implies the use of specific intake of nutrition for health or weight-management reasons (with the two often being related). Although humans are omnivores, each culture and each person holds some food preferences or some food taboos. This may be due to personal tastes or ethical reasons. Individual dietary choices may be more or less healthy.\nComplete nutrition requires ingestion and absorption of vitamins, minerals, essential amino acids from protein and essential fatty acids from fat-containing food, also food energy in the form of carbohydrate, protein, and fat. Dietary habits and choices play a significant role in the quality of life, health and longevity.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Diet_(nutrition)"
+    },
+    {
+        "title": "Vegetarian cuisine",
+        "content": "Vegetarian cuisine is based on food that meets vegetarian standards by not including meat and animal tissue products (such as gelatin or animal-derived rennet). For lacto-ovo vegetarianism (the most common type of vegetarianism in the Western world), eggs and dairy products (such as milk and cheese without rennet) are permitted. For lacto vegetarianism, dairy products are permitted but eggs are not, and for ovo vegetarianism eggs are permitted but dairy products are not. The strictest form of vegetarianism is veganism, which excludes all animal products, including dairy, honey, and some refined sugars if filtered and whitened with bone char.  There are also partial vegetarians (flexitarians), such as pescetarians who may eat fish but avoid other types of meat.Vegetarian foods can be classified into several different types:\n\nTraditional foods that have always been vegetarian include cereals, grains, fruits, vegetables, legumes and nuts.\nSoy products, including tofu and tempeh, which are common protein sources.\nTextured vegetable protein (TVP), made from defatted soy flour, often included in chili and burger recipes in place of ground meat.\nMeat analogues, which mimic the taste, texture, and appearance of meat and are often used in recipes that traditionally contained meat.\nEggs and dairy product analogues in vegan cuisine (such as aquafaba, plant cream or plant milk).",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Vegetarian_cuisine"
+    },
+    {
+        "title": "pasta food",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Pizza",
+        "content": "Pizza (Italian: [\u02c8pittsa], Neapolitan: [\u02c8pitts\u0259]) is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.) which is then baked at a high temperature, traditionally in a wood-fired oven. A small pizza is sometimes called a pizzetta. A person who makes pizza is known as a pizzaiolo.\nIn Italy, pizza served in formal settings, such as at a restaurant, is presented unsliced, and is eaten with the use of a knife and fork. In casual settings, however, it is cut into wedges to be eaten while held in the hand.\nThe term pizza was first recorded in the 10th century in a Latin manuscript from the Southern Italian town of Gaeta in Lazio, on the border with Campania. Modern pizza was invented in Naples, and the dish and its variants have since become popular in many countries. It has become one of the most popular foods in the world and a common fast food item in Europe and North America, available at pizzerias (restaurants specializing in pizza),  restaurants offering Mediterranean cuisine, and via pizza delivery. Many companies sell ready-baked frozen pizzas to be reheated in an ordinary home oven.\nThe Associazione Verace Pizza Napoletana (lit. True Neapolitan Pizza Association) is a non-profit organization founded in 1984 with headquarters in Naples that aims to promote traditional Neapolitan pizza. In 2009, upon Italy's request, Neapolitan pizza was registered with the European Union as a Traditional Speciality Guaranteed dish, and in 2017 the art of its making was included on UNESCO's list of intangible cultural heritage.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+        "title": "Cheese",
+        "content": "Cheese is a dairy product, derived from milk and produced in wide ranges of flavours, textures and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk, usually the milk of cows, buffalo, goats, or sheep. During production, the milk is usually acidified and adding the enzymes of rennet (or bacterial enzymes with similar activity) causes the milk proteins (casein) to coagulate. The solids (curd) are separated from the liquid (whey) and pressed into final form. Some cheeses have aromatic molds on the rind, the outer layer, or throughout. Most cheeses melt at cooking temperature.\nOver a thousand types of cheese exist and are currently produced in various countries. Their styles, textures and flavors depend on the origin of the milk (including the animal's diet), whether they have been pasteurized, the butterfat content, the bacteria and mold, the processing, and how long they have been aged for. Herbs, spices, or wood smoke may be used as flavoring agents. The yellow to red color of many cheeses is produced by adding annatto. Other ingredients may be added to some cheeses, such as black pepper, garlic, chives or cranberries. A cheesemonger, or specialist seller of cheeses, may have expertise with selecting the cheeses, purchasing, receiving, storing and ripening them.For a few cheeses, the milk is curdled by adding acids such as vinegar or lemon juice. Most cheeses are acidified to a lesser degree by bacteria, which turn milk sugars into lactic acid, then the addition of rennet completes the curdling. Vegetarian alternatives to rennet are available; most are produced by fermentation of the fungus Mucor miehei, but others have been extracted from various species of the Cynara thistle family. Cheesemakers near a dairy region may benefit from fresher, lower-priced milk, and lower shipping costs.\nCheese is valued for its portability, long life, and high content of fat, protein, calcium, and phosphorus. Cheese is more compact and has a longer shelf life than milk, although how long a cheese will keep depends on the type of cheese. Hard cheeses, such as Parmesan, last longer than soft cheeses, such as Brie or goat's milk cheese. The long storage life of some cheeses, especially when encased in a protective rind, allows selling when markets are favorable. Vacuum packaging of block-shaped cheeses and gas-flushing of plastic bags with mixtures of carbon dioxide and nitrogen are used for storage and mass distribution of cheeses in the 21st century.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+        "title": "Yogurt",
+        "content": "Yogurt (UK: ; US: , from Turkish: yo\u011furt), also spelled yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk. The bacteria used to make yogurt are known as yogurt cultures. The fermentation of lactose by these bacteria produces lactic acid, which acts on milk protein to give yogurt its texture and characteristic tart flavor. Cow's milk is commonly available worldwide and, as such, is the milk most commonly used to make yogurt. Milk from water buffalo, goats, ewes, mares, camels, and yaks is also used to produce yogurt where available locally. The milk used may be homogenized or not. It may be pasteurized or raw. Each type of milk produces substantially different results.\nYogurt is produced using a culture of Lactobacillus delbrueckii subsp. bulgaricus and Streptococcus thermophilus bacteria. In addition, other lactobacilli and bifidobacteria are sometimes added during or after culturing yogurt. Some countries require yogurt to contain a certain amount of colony-forming units (CFU) of bacteria; in China, for example, the requirement for the number of lactobacillus bacteria is at least 1 million CFU per milliliter.To produce yogurt, milk is first heated, usually to about 85 \u00b0C (185 \u00b0F), to denature the milk proteins so that they do not form curds. After heating, the milk is allowed to cool to about 45 \u00b0C (113 \u00b0F). The bacterial culture is mixed in, and that temperature of 45 \u00b0C is maintained for 4 to 12 hours to allow fermentation to occur.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Yogurt"
+    },
+    {
+        "title": "Fast food",
+        "content": "Fast food is a type of mass-produced food designed for commercial resale and with a strong priority placed on \"speed of service\" versus other relevant factors involved in culinary science. Fast food was originally created as a commercial strategy to accommodate the larger numbers of busy commuters, travelers and wage workers who often did not have the time to sit down at a public house or diner and wait for their meal. By making speed of service the priority, this ensured that customers with strictly limited time (a commuter stopping to procure dinner to bring home to their family, for example, or an hourly laborer on a short lunch break) were not inconvenienced by waiting for their food to be cooked on-the-spot (as is expected from a traditional \"sit down\" restaurant). For those with no time to spare, fast food became a multibillion-dollar industry. In 2018, the fast food industry was worth an estimated $570 billion globally.The fastest form of \"fast food\" consists of pre-cooked meals kept in readiness for a customer's arrival (Boston Market rotisserie chicken, Little Caesars pizza, etc.), with waiting time reduced to mere seconds. Other fast food outlets, primarily the hamburger outlets (McDonald's, Burger King, etc.) use mass-produced pre-prepared ingredients (bagged buns & condiments, frozen beef patties, prewashed/sliced vegetables, etc.) but take great pains to point out to the customer that the \"meat and potatoes\" (hamburgers and french fries) are always cooked fresh (or at least relatively recently) and assembled \"to order\" (like at a diner).\nAlthough a vast variety of food can be \"cooked fast\", \"fast food\" is a commercial term limited to food sold in a restaurant or store with frozen, preheated or precooked ingredients, and served to the customer in a packaged form for take-out/take-away.\nFast food restaurants are traditionally distinguished by their ability to serve food via a drive-through.  Outlets may be stands or kiosks, which may provide no shelter or seating, or fast food restaurants (also known as quick service restaurants). Franchise operations that are part of restaurant chains have standardized foodstuffs shipped to each restaurant from central locations.Fast food began with the first fish and chip shops in Britain in the 1860s. Drive-through restaurants were first popularized in the 1950s in the United States. The term \"fast food\" was recognized in a dictionary by Merriam\u2013Webster in 1951.Eating fast food has been linked to, among other things, cardiovascular disease, colorectal cancer, obesity, high cholesterol, insulin resistance conditions and depression. Controlling for other diet and lifestyle confounders of fast food consumers often doesn\u2019t attenuate these associations and it sometimes strengthens the association between fast food consumption and mortality. Many fast foods tend to be high in saturated fat, sugar, salt and calories.The traditional family dinner is increasingly being replaced by the consumption of takeaway fast food. As a result, the time invested on food preparation is getting lower, with an average couple in the United States spending 47 minutes and 19 seconds per day on food preparation in 2013.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fast_food"
+    },
+    {
+        "title": "Slow Food",
+        "content": "Slow Food is an organization that promotes local food and traditional cooking. It was founded by Carlo Petrini in Italy in 1986 and has since spread worldwide. Promoted as an alternative to fast food, it strives to preserve traditional and regional cuisine and encourages farming of plants, seeds, and livestock characteristic of the local ecosystem. It promotes local small businesses and sustainable foods. It also focuses on food quality, rather than quantity. It was the first established part of the broader slow movement. It speaks out against overproduction and food waste. It sees globalization as a process in which small and local farmers and food producers should be simultaneously protected from and included in the global food system.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Slow_Food"
+    },
+    {
+        "title": "Dessert",
+        "content": "Dessert () is a course that concludes a meal. The course usually consists of sweet foods, such as confections, and possibly a beverage such as dessert wine or liqueur; however, in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China and India, there is no tradition of a dessert course to conclude a meal.\nThe term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatins, ice creams, pastries, pies, puddings, sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness.  Some cultures sweeten foods that are more commonly savory to create desserts.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Dessert"
+    },
+    {
+        "title": "Dinner",
+        "content": "Dinner usually refers to what is in many Western cultures the largest and most formal meal of the day, which some Westerners eat in the evening.  Historically the largest meal used to be eaten around midday, and called dinner.  In Western cultures, especially among the elite, it gradually migrated later in the day over the 16th to 19th centuries.  However, the word \"dinner\" can have different meanings depending on culture, and may mean a meal of any size eaten at any time of day.  In particular, it is still sometimes used for a meal at noon or in the early afternoon on special occasions, such as a Christmas dinner.  In hot climates, people have always tended to eat the main meal in the evening, after the temperature has fallen.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Dinner"
+    },
+    {
+        "title": "Lunch",
+        "content": "Lunch, an abbreviation for luncheon, is a meal eaten around midday. During the 20th century, the meaning gradually narrowed to a meal eaten midday. Lunch is commonly the second meal of the day, after breakfast. The meal varies in size depending on the culture, and significant variations exist in different areas of the world.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Lunch"
+    },
+    {
+        "title": "Breakfast",
+        "content": "Breakfast is the meal eaten in the morning. The word in English refers to breaking the fasting period of the previous night. There is a strong likelihood for one or more \"typical\", or \"traditional\", breakfast menus to exist in most places, but their composition varies widely from place to place, and has varied over time, so that globally a very wide range of preparations and ingredients are now associated with breakfast.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Breakfast"
+    },
+    {
+        "title": "Cronut",
+        "content": "A Cronut is a croissant-doughnut pastry invented by New York City pastry chef Dominique Ansel of Dominique Ansel Bakery while working at Fauchon in France. The treat was later brought over to New York City and sold in the Dominique Ansel Bakery. The pastry resembles a doughnut and is made from croissant-like dough which is filled with flavored cream and fried in grapeseed oil. A trademark was registered for the name \"cronut\" at the United States Patent and Trademark Office.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cronut"
+    },
+    {
+        "title": "Doughnut",
+        "content": "A doughnut  or donut (the latter spelling often seen in American English) is a type of fried dough confection or dessert food. The doughnut is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors.\nDoughnuts are usually deep fried from a flour dough, and typically either ring-shaped or a number of shapes without a hole, and often filled, but can also be ball-shaped (\"doughnut holes\"). Other types of batters can also be used, and various toppings and flavorings are used for different types, such as sugar, chocolate, or maple glazing. Doughnuts may also include water, leavening, eggs, milk, sugar, oil, shortening, and natural or artificial flavors.The two most common types are the ring doughnut and the filled doughnut, which is injected with fruit preserves, cream, custard, or other sweet fillings. Alternatively, small pieces of dough are sometimes cooked as doughnut holes. Once fried, doughnuts may be glazed with a sugar icing, spread with icing or chocolate on top, or topped with powdered sugar, cinnamon, sprinkles or fruit. Other shapes include rings, balls, flattened spheres, twists, and other forms. Doughnut varieties are also divided into cake (including the old-fashioned) and yeast-risen type doughnuts. Doughnuts are often accompanied by coffee purchased at doughnut shops, convenience stores, petrol stations, cafes or fast food restaurants, but can also be paired with milk.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Doughnut"
+    },
+    {
+        "title": "Croissant",
+        "content": "A croissant (UK: ; US: , ; French pronunciation: [k\u0281wa.s\u0251\u0303] (listen)) is a buttery, flaky, viennoiserie pastry of Austrian origin, named for its historical crescent shape. Croissants and other viennoiserie are made of a layered yeast-leavened dough. The dough is layered with butter, rolled and folded several times in succession, then rolled into a thin sheet, in a technique called laminating. The process results in a layered, flaky texture, similar to a puff pastry.\nCrescent-shaped breads have been made since the Renaissance, and crescent-shaped cakes possibly since antiquity. Croissants have long been a staple of Austrian and French bakeries and p\u00e2tisseries. The modern croissant was developed in the early 20th century. In the late 1970s, the development of factory-made, frozen, pre-formed but unbaked dough made them into a fast food that can be freshly baked by unskilled labor. The croissant bakery, notably the La Croissanterie chain, was a French response to American-style fast food, and as of 2008 30\u201340% of the croissants sold in French bakeries and patisseries were baked from frozen dough.Croissants are a common part of a continental breakfast in many European countries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is a dough of flour, water and shortening (solid fats, including butter) that may be savoury or sweetened. Sweetened pastries are often described as bakers' confectionery. The word \"pastries\" suggests many kinds of baked products made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and eggs. Small tarts and other sweet baked products are called pastries. Common pastry dishes include pies, tarts, quiches, croissants, and pasties.The French word p\u00e2tisserie is also used in English (with or without the accent) for the same foods. Originally, the French word pastisserie referred to anything, such as a meat pie, made in dough (paste, later p\u00e2te) and not typically a luxurious or sweet product. This meaning still persisted in the nineteenth century, though by then the term more often referred to the sweet and often ornate confections implied today.\nPastry can also refer to the pastry dough, from which such baked products are made. Pastry dough is rolled out thinly and used as a base for baked products.\nPastry is differentiated from bread by having a higher fat content, which contributes to a flaky or crumbly texture.  A good pastry is light and airy and fatty, but firm enough to support the weight of the filling. When making a shortcrust pastry, care must be taken to blend the fat and flour thoroughly before adding any liquid. This ensures that the flour granules are adequately coated with fat and less likely to develop gluten. On the other hand, overmixing results in long gluten strands that toughen the pastry. In other types of pastry such as Danish pastry and croissants, the characteristic flaky texture is achieved by repeatedly rolling out a dough similar to that for yeast bread, spreading it with butter, and folding it to produce many thin layers.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Filo",
+        "content": "Filo or phyllo is a very thin unleavened dough used for making pastries such as baklava and b\u00f6rek in Middle Eastern and Balkan cuisines. Filo-based pastries are made by layering many sheets of filo brushed with oil or butter; the pastry is then baked.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Filo"
+    },
+    {
+        "title": "Angolan cuisine",
+        "content": "Angola is a Southern African country. The Angolan cuisine has many popular dishes among the nationals and foreigners. One of the most popular being Funge (which is made from the cassava or corn flour), Mufete (having grilled fish, plantain, sweet potato, cassava, and gari). There is also Calulu, Moamba de Galinha, Moamba de ginguba, Kissaca and so many more delicious dishes. I addition, there is also the extremely popular mukua sorbet.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Angolan_cuisine"
+    },
+    {
+        "title": "Congolese cuisine",
+        "content": "The cuisine of the Democratic Republic of the Congo and the Republic of the Congo varies widely, representing the food of indigenous people.  Cassava, fufu, rice, plantain and potatoes are generally the staple foods eaten with other side dishes.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Congolese_cuisine"
+    },
+    {
+        "title": "Ethiopian cuisine",
+        "content": "Ethiopian cuisine (Amharic: \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u121d\u130d\u1265) characteristically consists of vegetable and often very spicy meat dishes. This is usually in the form of wat, a thick stew, served atop injera, a large sourdough flatbread, which is about 50 centimeters (20 inches) in diameter and made out of fermented teff flour. Ethiopians eat most of the time with their right hands, using pieces of injera to pick up bites of entr\u00e9es and side dishes.The Ethiopian Orthodox Tewahedo Church prescribes a number of fasting periods (tsom, Ge'ez: \u133e\u121d \u1e63\u014dm) from any kind of animal products (including dairy products and eggs) on Wednesdays, Fridays, and the entire Lenten season, so Ethiopian cuisine contains many dishes that are vegan.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    },
+    {
+        "title": "Tunisian cuisine",
+        "content": "Tunisian cuisine, the cuisine of Tunisia, is a blend of Mediterranean and Berber cuisines. Its distinctive spiciness comes from the many civilizations which have ruled the land now known as Tunisia: Romans, Vandals, Byzantines, Arabs, Spanish, Turkish, Italians (Sicilians), French, and the native Punics-Berber people. Many of the cooking styles and utensils began to take shape when the ancient tribes were nomads. Nomadic people were limited in their cooking implements by what pots and pans they could carry with them. The Tunisian tagine, is very different from the Algerian or Moroccan dish. It is a type of a pie dish, made out of eggs, meat and vegetables, similar to the Italian frittata or the eggah.\nLike many countries in the Mediterranean basin, the Tunisian cuisine is heavily based on olive oil, spices, tomatoes, seafood and meat.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tunisian_cuisine"
+    },
+    {
+        "title": "Lebanese cuisine",
+        "content": "Lebanese cuisine (Arabic: \u0627\u0644\u0645\u0637\u0628\u062e \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u200e) is the culinary traditions and practices originating from Lebanon. It includes an abundance of whole grains, fruits, vegetables, fresh fish and seafood. Poultry is eaten more often than red meat, and when red meat is eaten, it is usually lamb and goat meat. It also includes copious amounts of garlic and olive oil, often seasoned with lemon juice. Chickpeas and parsley are also staples of the Lebanese diet.Well-known savoury dishes include baba ghanouj, a dip made of char-grilled eggplant; falafel, small deep-fried patties made of highly spiced ground chickpeas, fava beans, or a combination of the two; and shawarma, a sandwich with marinated meat skewered and cooked on large rods. An important component of many Lebanese meals is hummus, a dip or spread made of blended chickpeas, sesame tahini, lemon juice, and garlic, typically eaten with flatbread. A well known dessert is baklava, which is made of layered filo (thinly rolled pastry) filled with nuts and steeped in date syrup or honey. Some desserts are specifically prepared on special occasions: the meghli (rice pudding dessert, spiced with anise, caraway, and cinnamon) for instance, is served to celebrate a newborn baby in the family.Arak is an anise (aromatic spice) flavoured moonshine, and is the Lebanese national drink, usually served with a traditional convivial Lebanese meal. Another historic and traditional drink is Lebanese wine.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    },
+    {
+        "title": "Namibian cuisine",
+        "content": "Namibian cuisine is the cuisine of Namibia. It is influenced by two primary cultural strands:\n\nCookery practised by indigenous people of Namibia such as the Himba, Herero and San groups\nSettler cookery introduced during the colonial period by people of German, Afrikaner and British descent.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Namibian_cuisine"
+    },
+    {
+        "title": "Gambian cuisine",
+        "content": "Gambian cuisine is part of West African cuisine and includes the culinary practices and traditions of the nation of The Gambia. Common ingredients include fish, rice, peanuts, tomato, black eyed peas, lemon, cassava, cabbage, salt, pepper, onion, chili, and various herbs. Oysters are also a popular food from the River Gambia, and are harvested by women.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gambian_cuisine"
+    },
+    {
+        "title": "Mexican cuisine",
+        "content": "Mexican cuisine began about nine thousand years ago, when agricultural communities such as the Maya formed, domesticating maize, creating the standard process of maize nixtamalization, and establishing their foodways (Maya cuisine). Successive waves of other Mesoamerican groups brought with them their own cooking methods. These included the Olmec, Teotihuacanos, Toltec, Huastec, Zapotec, Mixtec, Otomi, Pur\u00e9pecha, Totonac, Mazatec, Mazahua, and Nahua. With the Mexica formation of the multi-ethnic Triple Alliance (Aztec Empire), culinary foodways became infused (Aztec cuisine). The staples are native foods, such as corn (maize), beans, squash, amaranth, chia, avocados, tomatoes, tomatillos, cacao, vanilla, agave, turkey, spirulina, sweet potato, cactus, and chili pepper.\nAfter the Spanish Conquest of Mexico in the 16th century and the subsequent conquest of the Maya area, Europeans introduced a number of other foods, the most important of which were meats from domesticated animals (beef, pork, chicken, goat, and sheep), dairy products (especially cheese and milk), and rice. While the Spanish initially tried to impose their own diet on the country, this was not possible.\nAsian and African influences were also introduced into the indigenous cuisine during this era as a result of African slavery in New Spain and the Manila-Acapulco Galleons.Over the centuries, this resulted in regional cuisines based on local conditions, such as those in Oaxaca, Veracruz and the Yucat\u00e1n Peninsula. Mexican cuisine is an important aspect of the culture, social structure and popular traditions of Mexico. The most important example of this connection is the use of mole for special occasions and holidays, particularly in the South and Central regions of the country. For this reason and others, traditional Mexican cuisine was inscribed in 2010 on the Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    },
+    {
+        "title": "Global cuisine",
+        "content": "A global cuisine is a cuisine that is practiced around the world. A cuisine is a characteristic style of cooking practices and traditions, often associated with a specific region, country or culture. To become a global cuisine, a local, regional or national cuisine must spread around the world, its food served worldwide. There have been significant improvements and advances during the last century in food preservation, storage, shipping and production, and today many countries, cities and regions have access to their traditional cuisines and many other global cuisines.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Global_cuisine"
+    },
+    {
+        "title": "Japanese cuisine",
+        "content": "Japanese cuisine encompasses the regional and traditional foods of Japan, which have developed through centuries of political, economic, and social changes.\nThe traditional cuisine of Japan, washoku (\u548c\u98df), lit. \"Japanese eating\" (or kapp\u014d (ja:\u5272\u70f9)), is based on rice with miso soup and other dishes; there is an emphasis on seasonal ingredients. Side dishes often consist of fish, pickled vegetables, and vegetables cooked in broth. Seafood is common, often grilled, but also served raw as sashimi or in sushi. Seafood and vegetables are also deep-fried in a light batter, as tempura. Apart from rice, staples include noodles, such as soba and udon. Japan also has many simmered dishes such as fish products in broth called oden, or beef in sukiyaki and nikujaga.\nHistorically influenced by Chinese cuisine, Japanese cuisine has opened up to influence from Western cuisines in the modern era. Dishes inspired by foreign food\u2014in particular Chinese food\u2014like ramen and gy\u014dza, as well as foods like spaghetti, curry, and hamburgers, have become adopted with variants for Japanese tastes and ingredients. Traditionally, the Japanese shunned meat due to Buddhism, but with the modernization of Japan in the 1880s, meat-based dishes such as tonkatsu and yakiniku have become common. Japanese cuisine, particularly sushi, has become popular throughout the world.\nIn 2011, Japan overtook France to become the country with the most 3-starred Michelin restaurants; as of 2018, the capital Tokyo has maintained the title of the city with the most 3-starred restaurants in the world.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Japanese_cuisine"
+    },
+    {
+        "title": "Georgian cuisine",
+        "content": "Georgian cuisine(Georgian: \u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8 \u10e1\u10d0\u10db\u10d6\u10d0\u10e0\u10d4\u10e3\u10da\u10dd, romanized: kartuli samzareulo) is a traditional cuisine of Georgia. Georgian cuisine has similarities with Caucasus cuisine. Every region of Georgia has its own distinct style of food preparation. Eating and drinking are important parts of Georgian culture.\nGeorgia was one of the countries on the Silk Road, which resulted in travelers influencing Georgian cuisine. The Georgian love of family and friends is one of the reasons why the supra (tablecloth) is so important in Georgia. Supra is offered spontaneously to relatives, friends or guests. Every supra has its tamada (toastmaster), who gives the toast and entertains the guests.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    },
+    {
+        "title": "Russian cuisine",
+        "content": "Russian cuisine is a collection of the different cooking traditions of the Russian people. The cuisine is diverse, with Northern and Eastern European, Caucasian, Central Asian, Siberian, and East Asian influences. Its foundations were laid by the peasant food of the rural population in an often harsh climate, with a combination of plentiful fish, pork, poultry, caviar, mushrooms, berries, and honey. Crops of rye, wheat, barley and millet provided the ingredients for a plethora of breads, pancakes, pies, cereals, beer and vodka.  Soups and stews are centered on seasonal or storable produce, fish and meats. Such food remained the staple for the vast majority of Russians well into the 20th century. Soviet cuisine had a separate character of its own.\nThe 16th through 18th centuries brought more refined culinary techniques. It was during this time period that smoked meats and fish, pastry cooking, salads and green vegetables, chocolate, ice cream, wines, and juice were imported from abroad. At least for the urban aristocracy and provincial gentry, this opened the doors for the creative integration of these new foodstuffs with traditional Russian dishes.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Russian_cuisine"
+    },
+    {
+        "title": "Venezuelan cuisine",
+        "content": "Venezuelan cuisine is influenced by its European (Italian, Spanish, Portuguese, and French), West African, and Native American traditions. Venezuelan cuisine varies greatly from one region to another. Food staples include corn, rice, plantains, yams, beans and several meats. Potatoes, tomatoes, onions, eggplants, squashes, spinach and zucchini are also common sides in the Venezuelan diet.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Venezuelan_cuisine"
+    },
+    {
+        "title": "Cutlery",
+        "content": "Cutlery includes any hand implement used in preparing, serving, and especially eating food in Western culture. A person who makes or sells cutlery is called a cutler. The city of Sheffield in England has been famous for the production of cutlery since the 17th century and a train \u2013 the Master Cutler \u2013 running from Sheffield to London was named after the industry. Bringing affordable cutlery to the masses, stainless steel was developed in Sheffield in the early 20th century.Cutlery is more usually known as silverware or flatware in the United States, where cutlery usually means knives and related cutting instruments. Although the term silverware is used irrespective of the material composition of the utensils, the term tableware has come into use to avoid the implication that they are made of silver.\nThe major items of cutlery in Western culture are the knife, fork and spoon. These three implements first appeared together on tables in Britain in the Georgian era. In recent times, hybrid versions of cutlery have been made combining the functionality of different eating implements, including the spork (spoon / fork), spife (spoon / knife), and knork (knife / fork) or the sporf which combines all three.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cutlery"
+    },
+    {
+        "title": "Gastronomy",
+        "content": "Gastronomy is the study of the relationship between food and culture, the art of preparing and serving rich or delicate and appetizing food, the cooking styles of particular regions, and the science of good eating. One who is well versed in gastronomy is called a gastronome, while a gastronomist is one who unites theory and practice in the study of gastronomy. Practical gastronomy is associated with the practice and study of the preparation, production, and service of the various foods and beverages, from countries around the world. Theoretical gastronomy supports practical gastronomy. It is related with a system and process approach, focused on recipes, techniques and cookery books. Food gastronomy is connected with food and beverages and their genesis. Technical gastronomy underpins practical gastronomy, introducing a rigorous approach to evaluation of gastronomic topics.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gastronomy"
+    },
+    {
+        "title": "Gravy",
+        "content": "Gravy is a sauce often made from the juices of meats that run naturally during cooking and often thickened with wheat flour or corn starch for added texture. The gravy may be further colored and flavored with gravy salt (a simple mix of salt and caramel food coloring) or gravy browning (gravy salt dissolved in water) or ready-made cubes and powders can be used as a substitute for natural meat or vegetable extracts. Canned and instant gravies are also available. Gravy is commonly served with roasts, meatloaf, rice, noodles and mashed potatoes.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gravy"
+    },
+    {
+        "title": "Tea",
+        "content": "Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured or fresh leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world. There are many different types of tea; some, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour, while others have vastly different profiles that include sweet, nutty, floral, or grassy notes. Tea has a stimulating effect in humans primarily by its caffeine content.Tea originated in the region encompassing today's Northeast India, north Myanmar, Southwest China and Tibet, where it was used as a medicinal drink by various ethnic groups in the region. An early credible record of tea drinking dates to the 3rd century AD, in a medical text written by Hua Tuo. It was popularised as a recreational drink during the Chinese Tang dynasty, and tea drinking spread to other East Asian countries. Portuguese priests and merchants introduced it to Europe during the 16th century. During the 17th century, drinking tea became fashionable among the English, who started to plant tea on a large scale in India. \nThe term herbal tea refers to drinks not made from Camellia sinensis: infusions of fruit, leaves, or other parts of the plant, such as steeps of rosehip, chamomile, or rooibos. These are sometimes called tisanes or herbal infusions to prevent confusion with tea made from the tea plant.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+        "title": "Coffee",
+        "content": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. When coffee berries turn from green to bright red in color \u2013 indicating ripeness \u2013 they are picked, processed, and dried. Dried coffee seeds (referred to as \"beans\") are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and then brewed with near-boiling water to produce the beverage known as coffee.\nCoffee is darkly colored, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content. It is one of the most popular drinks in the world, and can be prepared and presented in a variety of ways (e.g., espresso, French press, caff\u00e8 latte, or already-brewed canned coffee). It is usually served hot, although chilled or iced coffee is common. Sugar, sugar substitutes, milk or cream are often used to lessen the bitter taste. \nClinical research indicates that moderate coffee consumption is benign or mildly beneficial as a stimulant in healthy adults, with continuing research on whether long-term consumption reduces the risk of some diseases, although some of the long-term studies are of questionable credibility.The earliest credible evidence of coffee-drinking as the modern beverage appears in modern-day Yemen in southern Arabia in the middle of the 15th century in Sufi shrines where coffee seeds were first roasted and brewed in a manner similar to how it is now prepared for drinking. The Yemenis procured the coffee beans from the Ethiopian Highlands and began cultivation. By the 16th century, the drink had reached the rest of the Middle East and North Africa, later spreading to Europe.\nThe two most commonly grown coffee bean types are C. arabica and C. robusta. Coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, the Indian subcontinent, and Africa. As of 2018, Brazil was the leading grower of coffee beans, producing 35% of the world total. Coffee is a major export commodity as the leading legal agricultural export for numerous countries. It is one of the most valuable commodities exported by developing countries. Green, unroasted coffee is one of the most traded agricultural commodities in the world. The way developed countries trade coffee with developing nations has been criticised, as well as the impact on the environment with regards to the clearing of land for coffee-growing and water use. Consequently, the markets for fair trade and organic coffee are expanding.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+        "title": "Guacamole",
+        "content": "Guacamole (Spanish: [(\u0261)waka\u02c8mole] (listen), see below for more; informally shortened to guac in the United States since the 1980s) is an avocado-based dip, spread, or salad first developed in Mexico. In addition to its use in modern Mexican cuisine, it has become part of international and American cuisine as a dip, condiment and salad ingredient.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Guacamole"
+    },
+    {
+        "title": "Sauce",
+        "content": "In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish. Sauce is a French word taken from the Latin salsa, meaning salted. Possibly the oldest recorded European sauce is garum, the fish sauce used by the Ancient Romans; while doubanjiang, the Chinese soy bean paste is mentioned in Rites of Zhou in the 3rd century BC.\nSauces need a liquid component. Sauces are an essential element in cuisines all over the world.\nSauces may be used for sweet or savory dishes. They may be prepared and served cold, like mayonnaise, prepared cold but served lukewarm like pesto, cooked and served warm like bechamel or cooked and served cold like apple sauce. They may be freshly prepared by the cook, especially in restaurants, but today many sauces are sold premade and packaged like Worcestershire sauce, HP Sauce, soy sauce or ketchup. Sauces for salad are called salad dressing. Sauces made by deglazing a pan are called pan sauces.\nA chef who specializes in making sauces is called a saucier.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sauce"
+    },
+    {
+        "title": "Salad",
+        "content": "A salad is  a dish consisting of pieces of food in a mixture, with at least one raw ingredient. It is often dressed, and is typically served at room temperature or chilled, though some (such as south German potato salad, or chicken salad) can be served warm.\nGarden salads use a base of leafy greens such as lettuce, arugula/rocket, kale or spinach; they are common enough that the word salad alone often refers specifically to garden salads. Other types include bean salad, tuna salad, fattoush, Greek salad (vegetable-based, but without leafy greens), and s\u014dmen salad (a noodle-based salad). The sauce used to flavor a salad is generally called a salad dressing; most salad dressings are based on either a mixture of oil and vinegar or a fermented milk product like kefir.\nSalads may be served at any point during a meal:\n\nAppetizer salads\u2014light, smaller-portion salads served as the first course of the meal.\nSide salads\u2014to accompany the main course as a side dish, examples include potato salad and Caesar salad.\nMain course salads\u2014usually containing a portion of a high-protein foods, such as meat, fish, eggs, legumes, or cheese.\nDessert salads\u2014sweet versions containing fruit, gelatin, sweeteners or whipped cream.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Salad"
+    },
+    {
+        "title": "Junk food",
+        "content": "Junk food is unhealthful food that is high in calories from sugar or fat, with little dietary fiber, protein, vitamins, minerals, or other important forms of nutritional value.Precise definitions vary by purpose and over time.  Some high-protein foods, like meat prepared with saturated fat, may be considered junk food. The term HFSS foods (high in fat, salt and sugar) is used synonymously. Fast food and fast food restaurants are often equated with junk food, although fast foods cannot be categorically described as junk food.  Most junk food is highly processed food.\nConcerns about the negative health effects resulting from a junk food-heavy diet, especially obesity, have resulted in public health awareness campaigns, and restrictions on advertising and sale in several countries.Junk food is a pejorative dating back at least to the 1950s.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Junk_food"
+    },
+    {
+        "title": "Juice",
+        "content": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. Juice is commonly consumed as a beverage or used as an ingredient or flavoring in foods or other beverages, as for smoothies. Juice emerged as a popular beverage choice after the development of pasteurization methods enabled its preservation without using fermentation (which is used in wine production). The largest fruit juice consumers are New Zealand (nearly a cup, or 8 ounces, each day) and Colombia (more than three quarters of a cup each day). Fruit juice consumption on average increases with country income level.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Juice"
+    },
+    {
+        "title": "Bean",
+        "content": "A bean is the seed of one of several genera of the flowering plant family Fabaceae, which are used as vegetables for human or animal food. They can be cooked in many different ways, including boiling, frying, and baking, and are used in several traditional dishes throughout the world.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bean"
+    },
+    {
+        "title": "Legume",
+        "content": "A legume () is a plant in the family Fabaceae (or Leguminosae), or the fruit or seed of such a plant. The seed is also called a pulse. Legumes are grown agriculturally, primarily for human consumption, for livestock forage and silage, and as soil-enhancing green manure.  Well-known legumes include alfalfa, clover, beans, peas, chickpeas, lentils, lupins, mesquite, carob, soybeans, peanuts, and tamarind. Legumes produce a botanically unique type of fruit \u2013 a simple dry fruit that develops from a simple carpel and usually dehisces (opens along a seam) on two sides.\nLegumes are notable in that most of them have symbiotic nitrogen-fixing bacteria in structures called root nodules. For that reason, they play a key role in crop rotation.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Legume"
+    },
+    {
+        "title": "Seafood",
+        "content": "Seafood is any form of sea life regarded as food by humans, prominently including fish and shellfish. Shellfish include various species of molluscs (e.g. bivalve molluscs such as clams, oysters, and mussels and cephalopods such as octopus and squid), crustaceans (e.g. shrimp, crabs, and lobster), and echinoderms (e.g. sea cucumbers and sea urchins). Historically, marine mammals such as cetaceans (whales and dolphins) as well as seals have been eaten as food, though that happens to a lesser extent in modern times. Edible sea plants such as some seaweeds and microalgae are widely eaten as sea vegetables around the world, especially in Asia. In the United States, although not generally in the United Kingdom, the term \"seafood\" is extended to fresh water organisms eaten by humans, so all edible aquatic life may be referred to as \"seafood\".The harvesting of wild seafood is usually known as fishing or hunting, while the cultivation and farming of seafood is known as aquaculture or fish farming (in the case of fish). Seafood is often colloquially distinguished from meat, although it is still animal in nature and is excluded from a vegetarian diet, as decided by groups like the Vegetarian Society after confusion surrounding pescetarianism. Seafood is an important source of (animal) protein in many diets around the world, especially in coastal areas.\nMost of the seafood harvest is consumed by humans, but a significant proportion is used as fish food to farm other fish or rear farm animals. Some seafoods (i.e. kelp) are used as food for other plants (a fertilizer). In these ways, seafoods are used to produce further food for human consumption. Also, products such as fish oil and spirulina tablets are extracted from seafoods. Some seafood is fed to aquarium fish, or used to feed domestic pets such as cats. A small proportion is used in medicine, or is used industrially for nonfood purposes (e.g. leather).",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Seafood"
+    },
+    {
+        "title": "Lunchbox",
+        "content": "A lunch box (alt. spelling lunchbox) refers to a hand-held container used to transport food, usually to work or to school. It is commonly made of metal or plastic, is reasonably airtight and often has a handle for carrying.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Lunchbox"
+    },
+    {
+        "title": "Milkshake",
+        "content": "A milkshake, or simply shake, is a drink that is usually made by blending milk, ice cream, and flavorings or sweeteners such as butterscotch, caramel sauce, chocolate syrup, fruit syrup, or whole fruit into a thick, sweet, cold mixture.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Milkshake"
+    },
+    {
+        "title": "Ice cream",
+        "content": "Ice cream (derived from earlier iced cream or cream ice) is a sweetened frozen food typically eaten as a snack or dessert. It may be made from dairy milk or cream and is flavoured with a sweetener, either sugar or an alternative, and any spice, such as cocoa or vanilla. Colourings are usually added, in addition to stabilizers. The mixture is stirred to incorporate air spaces and cooled below the freezing point of water to prevent detectable ice crystals from forming. The result is a smooth, semi-solid foam that is solid at very low temperatures (below 2 \u00b0C or 35 \u00b0F). It becomes more malleable as its temperature increases.\nThe meaning of the name \"ice cream\" varies from one country to another. Terms such as \"frozen custard,\" \"frozen yogurt,\" \"sorbet,\" \"gelato,\" and others are used to distinguish different varieties and styles. In some countries, such as the United States, \"ice cream\" applies only to a specific variety, and most governments regulate the commercial use of the various terms according to the relative quantities of the main ingredients, notably the amount of cream. Products that do not meet the criteria to be called ice cream are sometimes labelled \"frozen dairy dessert\" instead. In other countries, such as Italy and Argentina, one word is used for all variants. Analogues made from dairy alternatives, such as goat's or sheep's milk, or milk substitutes (e.g., soy, cashew, coconut,  almond milk or tofu), are available for those who are lactose intolerant, allergic to dairy protein, or vegan.\nIce cream may be served in dishes, for eating with a spoon, or licked from edible cones. Ice cream may be served with other desserts, such as apple pie, or as an ingredient in ice cream floats, sundaes, milkshakes, ice cream cakes and even baked items, such as Baked Alaska.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+        "title": "Nutrition",
+        "content": "Nutrition is the science that interprets the nutrients and other substances in food in relation to maintenance, growth, reproduction, health and disease of an organism. It includes ingestion, absorption, assimilation, biosynthesis, catabolism and excretion.The diet of an organism is what it eats, which is largely determined by the availability and palatability of foods. For humans, a healthy diet includes preparation of food and storage methods that preserve nutrients from oxidation, heat or leaching, and that reduces risk of foodborne illnesses. The seven major classes of human nutrients are carbohydrates, fats, fiber, minerals, proteins, vitamins, and water. Nutrients can be grouped as either macronutrients or micronutrients (needed in small quantities).\nIn humans, an unhealthy diet can cause deficiency-related diseases such as blindness, anemia, scurvy, preterm birth, stillbirth and cretinism, or nutrient excess health-threatening conditions such as obesity and metabolic syndrome; and such common chronic systemic diseases as cardiovascular disease, diabetes, and osteoporosis. Undernutrition can lead to wasting in acute cases, and the stunting of marasmus in chronic cases of malnutrition.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Nutrition"
+    },
+    {
+        "title": "Oatmeal",
+        "content": "Oatmeal is a type of coarse flour made of hulled oat grains (groats) that have either been milled (ground) or steel-cut.  Ground oats are also called \"white oats\".  Steel-cut oats are known as \"coarse oatmeal\", \"Irish oatmeal\" or \"pinhead oats\".  Rolled oats can be either thick or thin, and may be categorized as \"old-fashioned\", \"quick\", or \"instant\", depending on the cooking time, which is shortened by the size of the oats, precooking, and sometimes the addition of enzymes.\nThe term oatmeal is also used in the U.S. and parts of Canada to describe a popular oat porridge made from either ground, steel-cut, or rolled oats.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Oatmeal"
+    },
+    {
+        "title": "Peanut butter",
+        "content": "Peanut butter is a food paste or spread made from ground, dry-roasted peanuts. It often contains additional ingredients that modify the taste or texture, such as salt, sweeteners, or emulsifiers. Peanut butter is popular in many countries. The United States is a leading exporter of peanut butter and itself consumes $800 million of peanut butter annually.Peanut butter is served as a spread on bread, toast, or crackers, and used to make sandwiches (notably the peanut butter and jelly sandwich). It is also used in a number of breakfast dishes and desserts, such as peanut-flavored granola, smoothies, crepes, cookies, brownies, or croissants. It is similar to other nut butters such as cashew butter and almond butter.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Peanut_butter"
+    },
+    {
+        "title": "Oil",
+        "content": "An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally \"water fearing\") and lipophilic (mixes with other oils, literally \"fat loving\"). Oils have a high carbon and hydrogen content and are usually flammable and surface active. Most oils are unsaturated lipids that are liquid at room temperature.\nThe general definition of oil includes classes of chemical compounds that may be otherwise unrelated in structure, properties, and uses. Oils may be animal, vegetable, or petrochemical in origin, and may be volatile or non-volatile. They are used for food (e.g., olive oil), fuel (e.g., heating oil), medical purposes (e.g., mineral oil), lubrication (e.g. motor oil), and the manufacture of many types of paints, plastics, and other materials. Specially prepared oils are used in some religious ceremonies and rituals as purifying agents.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Oil"
+    },
+    {
+        "title": "Pickling",
+        "content": "Pickling is the process of preserving or extending the shelf life of food by either anaerobic fermentation in brine or immersion in vinegar. The pickling procedure typically affects the food's texture, taste and flavor. The resulting food is called a pickle, or, to prevent ambiguity, prefaced with pickled. Foods that are pickled include vegetables, fruits, meats, fish, dairy and eggs.\nA distinguishing characteristic is a pH of 4.6 or lower, which is sufficient to kill most bacteria. Pickling can preserve perishable foods for months. Antimicrobial herbs and spices, such as mustard seed, garlic, cinnamon or cloves, are often added. If the food contains sufficient moisture, a pickling brine may be produced simply by adding dry salt. For example, sauerkraut and Korean kimchi are produced by salting the vegetables to draw out excess water. Natural fermentation at room temperature, by lactic acid bacteria, produces the required acidity. Other pickles are made by placing vegetables in vinegar. Like the canning process, pickling (which includes fermentation) does not require that the food be completely sterile before it is sealed.  The acidity or salinity of the solution, the temperature of fermentation, and the exclusion of oxygen determine which microorganisms dominate, and determine the flavor of the end product.When both salt concentration and temperature are low, Leuconostoc mesenteroides dominates, producing a mix of acids, alcohol, and aroma compounds.  At higher temperatures Lactobacillus plantarum dominates, which produces primarily lactic acid. Many pickles start with Leuconostoc, and change to Lactobacillus with higher acidity.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pickling"
+    },
+    {
+        "title": "Popcorn",
+        "content": "Popcorn (popped corn, popcorns or pop-corn) is a variety of corn kernel which expands and puffs up when heated; the same names are also used to refer to the foodstuff produced by the expansion.\nA popcorn kernel's strong hull contains the seed's hard, starchy shell endosperm with 14\u201320% moisture, which turns to steam as the kernel is heated. Pressure from the steam continues to build until the hull ruptures, allowing the kernel to forcefully expand, from 20 to 50 times its original size, and then cool.Some strains of corn (taxonomized as Zea mays)  are cultivated specifically as popping corns. The Zea mays variety everta, a special kind of flint corn, is the most common of these.\nPopcorn is one of the six major types of corn, which includes dent corn, flint corn, pod corn, flour corn, and sweet corn.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Popcorn"
+    },
+    {
+        "title": "Roasting",
+        "content": "Roasting is a cooking method that uses dry heat where hot air covers the food, cooking it evenly on all sides with temperatures of at least 150 \u00b0C (300 \u00b0F) from an open flame, oven, or other heat source. Roasting can enhance the flavor through caramelization and Maillard browning on the surface of the food. Roasting uses indirect, diffused heat (as in an oven), and is suitable for slower cooking of meat in a larger, whole piece.Meats and most root and bulb vegetables can be roasted. Any piece of meat, especially red meat, that has been cooked in this fashion is called a roast. Meats and vegetables prepared in this way are described as \"roasted\", e.g., roasted chicken or roasted squash.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Roasting"
+    },
+    {
+        "title": "Barbecue",
+        "content": "Barbecue or barbeque (informally, BBQ; in Australia barbie, in South Africa braai) is a cooking method, a cooking \ndevice, a style of food, and a name for a meal or gathering at which this style of food is cooked and served.\nA barbecue can refer to the cooking method itself, the meat cooked this way, or to a type of social event featuring this type of cooking. Barbecuing is usually done outdoors by smoking meat over wood or charcoal. Restaurant barbecue may be cooked in large, specially-designed brick or metal ovens. Barbecue is practiced in many countries and there are numerous regional variations.\nBarbecuing techniques include smoking, roasting, and grilling. The technique for which it is named involves cooking using smoke at low temperatures and long cooking times (several hours). Grilling is done over direct, dry heat, usually over a hot fire for a few minutes.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+        "title": "quinoa grain",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Quiche",
+        "content": "Quiche ( KEESH) is a French tart consisting of pastry crust filled with savoury custard and pieces of cheese, meat, seafood or vegetables. The best-known variant is quiche Lorraine, which includes lardons or bacon. Quiche can be served hot or cold. It is popular worldwide.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Quiche"
+    },
+    {
+        "title": "Restaurant",
+        "content": "A restaurant (French: [\u0281\u025bsto\u0281\u0251\u0303] (listen)), or an eatery, is a business that prepares and serves food and drinks to customers. Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services. Restaurants vary greatly in appearance and offerings, including a wide variety of cuisines and service models ranging from inexpensive fast food restaurants and cafeterias, to mid-priced family restaurants, to high-priced luxury establishments.\nIn Western countries, most mid-to high-range restaurants serve alcoholic beverages such as beer and wine. Some restaurants serve all the major meals, such as breakfast, lunch, and dinner (e.g., major fast food chains, diners, hotel restaurants, and airport restaurants). Other restaurants may serve only a single meal (for example, a pancake house may only serve breakfast) or they may serve two meals (e.g., lunch and dinner).",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Restaurant"
+    },
+    {
+        "title": "Bakery",
+        "content": "A bakery is an establishment that produces and sells flour-based food baked in an oven such as bread, cookies, cakes, pastries, and pies. Some retail bakeries are also categorized as caf\u00e9s, serving coffee and tea to customers who wish to consume the baked goods on the premises. Confectionery items are also made in most bakeries throughout the world.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bakery"
+    },
+    {
+        "title": "Spice",
+        "content": "A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring or coloring food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish. Spices are sometimes used in medicine, religious rituals, cosmetics or perfume production.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+        "title": "Sandwich",
+        "content": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type. The sandwich began as a portable finger food in the Western world, though over time it has become prevalent worldwide.\nSandwiches are a popular type of lunch food, taken to work, school, or picnics to be eaten as part of a packed lunch. The bread may be plain or be coated with condiments, such as mayonnaise or mustard, to enhance its flavour and texture. As well as being homemade, sandwiches are also widely sold in restaurants and can be served hot or cold. There are both savoury sandwiches, such as deli meat sandwiches, and sweet sandwiches, such as a peanut butter and jelly sandwich.\nThe sandwich is named after its supposed inventor, John Montagu, 4th Earl of Sandwich. The Wall Street Journal has described it as Britain's \"biggest contribution to gastronomy.\"",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sandwich"
+    },
+    {
+        "title": "Snacking",
+        "content": "Snacking may refer to:\n\nEating a snack\nGrazing (human eating pattern), an eating pattern",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Snacking"
+    },
+    {
+        "title": "Soup",
+        "content": "Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth. Soups are similar to stews, and in some cases there may not be a clear distinction between the two; however, soups generally have more liquid (broth) than stews.In traditional French cuisine, soups are classified into two main groups: clear soups and thick soups. The established French classifications of clear soups are bouillon and consomm\u00e9. Thick soups are classified depending upon the type of thickening agent used: pur\u00e9es are vegetable soups thickened with starch; bisques are made from pur\u00e9ed shellfish or vegetables thickened with cream; cream soups may be thickened with b\u00e9chamel sauce; and velout\u00e9s are thickened with eggs, butter, and cream. Other ingredients commonly used to thicken soups and broths include  rice, lentils, flour, and grains; many popular soups also include pumpkin, carrots, potatoes, pig's trotters and bird's nests.\nOther types of soup include fruit soups, dessert soups, pulse soups like split pea, cold soups and other styles.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Soup"
+    },
+    {
+        "title": "Stir frying",
+        "content": "Stir frying (Chinese: \u7092; pinyin: ch\u01ceo) is a Chinese cooking technique in which ingredients are fried in a small amount of very hot oil while being stirred in a wok. The technique originated in China and in recent centuries has spread into other parts of Asia and the West.\nScholars think that wok (or pan) frying may have been used as early as the Han dynasty (206 B.C. \u2013 220 A.D.) for drying grain, not for cooking, but it was not until the Ming dynasty (1368\u20131644) that the wok reached its modern shape and allowed quick cooking in hot oil. Well into the 20th century, while restaurants and affluent families could afford the oil and fuel needed for stir fry, the most widely used cooking techniques remained boiling and steaming. Stir fry cooking came to predominate over the course of the century as more people could afford oil and fuel, and in the West spread beyond Chinese communities.Stir frying and Chinese food have been recommended as both healthy and appealing for their skillful use of vegetables, meats, and fish which are moderate in their fat content and sauces which are not overly rich, provided calories are kept at a reasonable level.The English language term \"stir-fry\" was coined by Y.R. Chao in Buwei Yang Chao's book How to Cook and Eat in Chinese (1945), to describe the ch\u01ceo technique.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Stir_frying"
+    },
+    {
+        "title": "Sugar",
+        "content": "Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Table sugar, granulated sugar, or regular sugar, refers to sucrose, a disaccharide composed of glucose and fructose.\nSimple sugars, also called monosaccharides, include glucose, fructose, and galactose. Compound sugars, also called disaccharides or double sugars, are molecules composed of two monosaccharides joined by a glycosidic bond. Common examples are sucrose (table sugar) (glucose + fructose), lactose (glucose + galactose), and maltose (two molecules of glucose). In the body, compound sugars are hydrolysed into simple sugars.\nLonger chains of monosaccharides are not regarded as sugars, and are called oligosaccharides or polysaccharides. Some other chemical substances, such as glycerol and sugar alcohols, may have a sweet taste, but are not classified as sugar. \nSugars are found in the tissues of most plants. Honey and fruit are abundant natural sources of unbounded simple sugars. Sucrose is especially concentrated in sugarcane and sugar beet, making them ideal for efficient commercial extraction to make refined sugar. In 2016, the combined world production of those two crops was about two billion tonnes. Maltose may be produced by malting grain. Lactose is the only sugar that cannot be extracted from plants. It can only be found in milk, including human breast milk, and in some dairy products. A cheap source of sugar is corn syrup, industrially produced by converting corn starch into sugars, such as maltose, fructose and glucose.\n\nSucrose is used in prepared foods (e.g. cookies and cakes), is sometimes added to commercially available processed food and beverages, and may be used by people as a sweetener for foods (e.g. toast and cereal) and beverages (e.g. coffee and tea). The average person consumes about 24 kilograms (53 lb) of sugar each year, or 33.1 kilograms (73 lb) in developed countries, equivalent to over 260 food calories per day. As sugar consumption grew in the latter part of the 20th century, researchers began to examine whether a diet high in sugar, especially refined sugar, was damaging to human health. Excessive consumption of sugar has been implicated in the onset of obesity, diabetes, cardiovascular disease, dementia, and tooth decay. Numerous studies have tried to clarify those implications, but with varying results, mainly because of the difficulty of finding populations for use as controls that consume little or no sugar. In 2015, the World Health Organization recommended that adults and children reduce their intake of free sugars to less than 10%, and encouraged a reduction to below 5%, of their total energy intake.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sugar"
+    },
+    {
+        "title": "Taco",
+        "content": "A taco (US: , UK: , Spanish: [\u02c8tako]) is a traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling. The tortilla is then folded around the filling and eaten by hand. A taco can be made with a variety of fillings, including beef, pork, chicken, seafood, beans, vegetables, and cheese, allowing great versatility and variety. They are often garnished with various condiments, such as salsa, guacamole, or sour cream, and vegetables, such as lettuce, onion, tomatoes, and chiles. Tacos are a common form of antojitos, or Mexican street food, which have spread around the world.\nTacos can be contrasted with similar foods such as burritos, which are often much larger and rolled rather than folded, taquitos which are rolled and fried, or chalupas/tostadas, in which the tortilla is fried before filling.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Taco"
+    },
+    {
+        "title": "Vitamin",
+        "content": "A vitamin is an organic molecule (or a chemically closely related set of molecules, i.e. vitamers) that is an essential micronutrient which an organism needs in small quantities for the proper functioning of its metabolism. Essential nutrients cannot be synthesized in the organism, either at all or not in sufficient quantities, and therefore must be obtained through the diet. Vitamin C can be synthesized by some species but not by others; it is not a vitamin in the first instance but is in the second. The term vitamin does not include the three other groups of essential nutrients: minerals, essential fatty acids, and essential amino acids. Most vitamins are not single molecules, but groups of related molecules called vitamers. For example, vitamin E consists of four tocopherols and four tocotrienols. Some sources list fourteen vitamins, by including choline,  but major health organizations list thirteen: vitamin A (as all-trans-retinol, all-trans-retinyl-esters, as well as all-trans-beta-carotene and other provitamin A carotenoids), vitamin B1 (thiamine), vitamin B2 (riboflavin), vitamin B3 (niacin), vitamin B5 (pantothenic acid), vitamin B6 (pyridoxine), vitamin B7 (biotin), vitamin B9 (folic acid or folate), vitamin B12 (cobalamins), vitamin C (ascorbic acid), vitamin D (calciferols), vitamin E (tocopherols and tocotrienols), and vitamin K (phylloquinone and menaquinones).Vitamins have diverse biochemical functions. Vitamin A acts as a regulator of cell and tissue growth and differentiation. Vitamin D provides a hormone-like function, regulating mineral metabolism for bones and other organs. The B complex vitamins function as enzyme cofactors (coenzymes) or the precursors for them. Vitamins C and E function as antioxidants. Both deficient and excess intake of a vitamin can potentially cause clinically significant illness, although excess intake of water-soluble vitamins is less likely to do so.\nBefore 1935, the only source of vitamins was from food. If intake of vitamins was lacking, the result was vitamin deficiency and consequent deficiency diseases. Then, commercially produced tablets of yeast-extract vitamin B complex and semi-synthetic vitamin C became available. This was followed in the 1950s by the mass production and marketing of vitamin supplements, including multivitamins, to prevent vitamin deficiencies in the general population. Governments mandated addition of vitamins to staple foods such as flour or milk, referred to as food fortification, to prevent deficiencies. Recommendations for folic acid supplementation during pregnancy reduced risk of infant neural tube defects.The term vitamin is derived from the word vitamine, which was coined in 1912 by Polish biochemist Casimir Funk, who isolated a complex of micronutrients essential to life, all of which he presumed to be amines. When this presumption was later determined not to be true, the \"e\" was dropped from the name.  All vitamins were discovered (identified) between 1913 and 1948.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Vitamin"
+    },
+    {
+        "title": "Carbohydrate",
+        "content": "A carbohydrate () is a biomolecule consisting of carbon (C), hydrogen (H) and oxygen (O) atoms, usually with a hydrogen\u2013oxygen atom ratio of 2:1 (as in water) and thus with the empirical formula Cm(H2O)n (where m may be different from n). However, not all carbohydrates conform to this precise stoichiometric definition (e.g., uronic acids, deoxy-sugars such as fucose), nor are all chemicals that do conform to this definition automatically classified as carbohydrates (e.g. formaldehyde).  \nThe term is most common in biochemistry, where it is a synonym of saccharide, a group that includes sugars, starch, and cellulose. The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and polysaccharides. Monosaccharides and disaccharides, the smallest (lower molecular weight) carbohydrates, are  commonly referred to as sugars. The word saccharide comes from the Greek word \u03c3\u03ac\u03ba\u03c7\u03b1\u03c1\u03bf\u03bd (s\u00e1kkharon), meaning \"sugar\". While the scientific nomenclature of carbohydrates is complex, the names of the monosaccharides and disaccharides very often end in the suffix -ose, as in the monosaccharides fructose (fruit sugar) and glucose (starch sugar) and the disaccharides sucrose (cane or beet sugar) and lactose (milk sugar).\nCarbohydrates perform numerous roles in living organisms. Polysaccharides serve for the storage of energy (e.g. starch and glycogen) and as structural components (e.g. cellulose in plants and chitin in arthropods). The 5-carbon monosaccharide ribose is an important component of coenzymes (e.g. ATP, FAD and NAD) and the backbone of the genetic molecule known as RNA. The related deoxyribose is a component of DNA. Saccharides and their derivatives include many other important biomolecules that play key roles in the immune system, fertilization, preventing pathogenesis, blood clotting, and development.Carbohydrates are central to nutrition and are found in a wide variety of natural and processed foods. Starch is a polysaccharide. It is abundant in cereals (wheat, maize, rice), potatoes, and processed food based on cereal flour, such as bread, pizza or pasta. Sugars appear in human diet mainly as table sugar (sucrose, extracted from sugarcane or sugar beets), lactose (abundant in milk), glucose and fructose, both of which occur naturally in honey, many fruits, and some vegetables. Table sugar, milk, or honey are often added to drinks and many prepared foods such as jam, biscuits and cakes.\nCellulose, a polysaccharide found in the cell walls of all plants, is one of the main components of insoluble dietary fiber. Although it is not digestible, insoluble dietary fiber helps to maintain a healthy digestive system by easing defecation. Other polysaccharides contained in dietary fiber include resistant starch and inulin, which feed some bacteria in the microbiota of the large intestine, and are metabolized by these bacteria to yield short-chain fatty acids.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Carbohydrate"
+    },
+    {
+        "title": "Pescetarianism",
+        "content": "Pescetarianism, or pescatarianism, () is the practice of adhering to a diet that incorporates seafood as the only source of meat in an otherwise vegetarian diet.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pescetarianism"
+    },
+    {
+        "title": "Semi-vegetarianism",
+        "content": "A semi-vegetarian diet (SVD), also called a flexitarian diet, is one that is centered on plant foods with the occasional inclusion of meat. In 2003, the American Dialect Society voted flexitarian as the year's most useful word. Flexitarian is a portmanteau of the words flexible and vegetarian, signifying its followers' less strict diet pattern when compared to other vegetarian pattern diets.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Semi-vegetarianism"
+    },
+    {
+        "title": "Chocolate",
+        "content": "Chocolate is a preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, which may also be used as a flavoring ingredient in other foods. The earliest signs of use are associated with Olmec sites (within what would become Mexico\u2019s post-colonial territory) suggesting consumption of chocolate beverages, dating from 19 centuries BCE. The majority of Mesoamerican people made chocolate beverages, including the Maya and Aztecs. The word chocolate is derived from the Spanish word chocolate, deriving in turn from the Classical Nahuatl word xocol\u0101tl.The seeds of the cacao tree have an intense bitter taste and must be fermented to develop the flavor. After fermentation, the beans are dried, cleaned, and roasted. The shell is removed to produce cacao nibs, which are then ground to cocoa mass, unadulterated chocolate in rough form. Once the cocoa mass is liquefied by heating, it is called chocolate liquor. The liquor may also be cooled and processed into its two components: cocoa solids and cocoa butter. Baking chocolate, also called bitter chocolate, contains cocoa solids and cocoa butter in varying proportions, without any added sugar. Powdered baking cocoa, which contains more fiber than cocoa butter, can be processed with alkali to produce dutch cocoa. Much of the chocolate consumed today is in the form of sweet chocolate, a combination of cocoa solids, cocoa butter or added vegetable oils, and sugar. Milk chocolate is sweet chocolate that additionally contains milk powder or condensed milk. White chocolate contains cocoa butter, sugar, and milk, but no cocoa solids.\nChocolate is one of the most popular food types and flavors in the world, and many foodstuffs involving chocolate exist, particularly desserts, including cakes, pudding, mousse, chocolate brownies, and chocolate chip cookies. Many candies are filled with or coated with sweetened chocolate. Chocolate bars, either made of solid chocolate or other ingredients coated in chocolate, are eaten as snacks. Gifts of chocolate molded into different shapes (such as eggs, hearts, coins) are traditional on certain Western holidays, including Christmas, Easter, Valentine's Day, and Hanukkah. Chocolate is also used in cold and hot beverages, such as chocolate milk and hot chocolate, and in some alcoholic drinks, such as creme de cacao.\nAlthough cocoa originated in the Americas, West African countries, particularly C\u00f4te d'Ivoire and Ghana, are the leading producers of cocoa in the 21st century, accounting for some 60% of the world cocoa supply.\nWith some two million children involved in the farming of cocoa in West Africa, child slavery and trafficking were major concerns in 2018. International attempts to improve conditions for children were failing because of persistent poverty, absence of schools, increasing world cocoa demand, more intensive farming of cocoa, and continued exploitation of child labor.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+        "title": "Chef",
+        "content": "A chef is a trained professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word \"chef\" is derived from the term chef de cuisine (French pronunciation: \u200b[\u0283\u025bf.d\u0259.k\u0265i.zin]), the director or head of a kitchen. Chefs can receive formal training from an institution, as well as by apprenticing with an experienced chef.\nThere are different terms that use the word chef in their titles, and deal with specific areas of food preparation. Examples include a sous-chef, who acts as the second-in-command in a kitchen, a chef de partie, who handles a specific area of production. The kitchen brigade system is a hierarchy found in restaurants and hotels employing extensive staff, many of which use the word \"chef\" in their titles. Underneath the chefs are the kitchen assistants. A chef's standard uniform includes a hat (called a toque), neckerchief, double-breasted jacket, apron and sturdy shoes (that may include steel or plastic toe-caps).",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Chef"
+    },
+    {
+        "title": "MasterChef show",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Protein",
+        "content": "Proteins are large biomolecules, or macromolecules, consisting of one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, providing structure to cells, and organisms, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific 3D structure that determines its activity.\nA linear chain of amino acid residues is called a polypeptide. A protein contains at least one long polypeptide. Short polypeptides, containing less than 20\u201330 residues, are rarely considered to be proteins and are commonly called peptides, or sometimes oligopeptides. The individual amino acid residues are bonded together by peptide bonds and adjacent amino acid residues. The sequence of amino acid residues in a protein is defined by the sequence of a gene, which is encoded in the genetic code. In general, the genetic code specifies 20 standard amino acids; but in certain organisms the genetic code can include selenocysteine and\u2014in certain archaea\u2014pyrrolysine. Shortly after or even during synthesis, the residues in a protein are often chemically modified by post-translational modification, which alters the physical and chemical properties, folding, stability, activity, and ultimately, the function of the proteins. Some proteins have non-peptide groups attached, which can be called prosthetic groups or cofactors. Proteins can also work together to achieve a particular function, and they often associate to form stable protein complexes.\nOnce formed, proteins only exist for a certain period and are then degraded and recycled by the cell's machinery through the process of protein turnover. A protein's lifespan is measured in terms of its half-life and covers a wide range. They can exist for minutes or years with an average lifespan of 1\u20132 days in mammalian cells. Abnormal or misfolded proteins are degraded more rapidly either due to being targeted for destruction or due to being unstable.\nLike other biological macromolecules such as polysaccharides and nucleic acids, proteins are essential parts of organisms and participate in virtually every process within cells. Many proteins are enzymes that catalyse biochemical reactions and are vital to metabolism. Proteins also have structural or mechanical functions, such as actin and myosin in muscle and the proteins in the cytoskeleton, which form a system of scaffolding that maintains cell shape. Other proteins are important in cell signaling, immune responses, cell adhesion, and the cell cycle. In animals, proteins are needed in the diet to provide the essential amino acids that cannot be synthesized. Digestion breaks the proteins down for use in the metabolism.\nProteins may be purified from other cellular components using a variety of techniques such as ultracentrifugation, precipitation, electrophoresis, and chromatography; the advent of genetic engineering has made possible a number of methods to facilitate purification. Methods commonly used to study protein structure and function include immunohistochemistry, site-directed mutagenesis, X-ray crystallography, nuclear magnetic resonance and mass spectrometry.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Protein"
+    },
+    {
+        "title": "Mineral",
+        "content": "In geology and mineralogy, a mineral or mineral species is, broadly speaking, a solid chemical compound with a fairly well-defined chemical composition and a specific crystal structure, that occurs naturally in pure form..The geological definition of mineral normally excludes compounds that occur only in living beings. However some minerals are often biogenic (such as calcite) or are organic compounds in the sense of chemistry (such as mellite). Moreover, living beings often synthesize inorganic minerals (such as hydroxylapatite) that also occur in rocks. \nThe concept of mineral is distinct from rock, any bulk solid geologic material that is relatively homogeneous at a large enough scale.  A rock may consist of one type of mineral, or may be an aggregate of two or more different types of minerals, spacially segregated into distinct phases.Some natural solid substances without a definite crystalline structure, such as opal or obsidian, are more properly called mineraloids.  If a chemical compound may occur naturally with different crystal structures, each structure is considered a different mineral species.  Thus, for example, quartz and stishovite are two different minerals consisting of the same compound, silicon dioxide.\nThe International Mineralogical Association (IMA) is the generally recognized standard body for the definition and nomenclature of mineral species. As of March 2020, the IMA recognizes 5,562 official mineral species out of more than 5,750 proposed or traditional ones.The chemical composition of a named mineral species may vary somewhat by the inclusion of small amounts of impurities.  Specific varieties of a species sometimes have conventional or official names of their own. For example, amethyst is a purple variety of the mineral species quartz.  Some mineral species can have variable proportions of two or more chemical elements that occupy equivalent positions in the mineral's structure; for example, the formula of mackinawite is given as (Fe,Ni)9S8, meaning FexNi9-xS8, where x is a variable number between 0 and 9.  Sometimes a mineral with variable composition is split into separate species, more or less arbitrarily, forming a mineral group; that is the case of the silicates CaxMgyFe2-x-ySiO4, the olivine group.\nBesides the essential chemical composition and crystal structure, the description of a mineral species usually includes its common physical properties such as  habit, hardness, lustre, diaphaneity, colour, streak, tenacity, cleavage, fracture, parting, specific gravity, magnetism, fluorescence, radioactivity, as well as its taste or smell and its reaction to acid.\nMinerals are classified by key chemical constituents; the two dominant systems are the Dana classification and the Strunz classification. Silicate minerals comprise approximately 90% of the Earth's crust. Other important mineral groups include the native elements, sulfides, oxides, halides, carbonates, sulfates, and phosphates.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Mineral"
+    },
+    {
+        "title": "Fats",
+        "content": "Fats or FATS may refer to:",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fats"
+    },
+    {
+        "title": "Hunger",
+        "content": "In politics, humanitarian aid, and the social sciences, hunger is defined as a condition in which a person cannot eat sufficient food to meet basic nutritional needs for a sustained period. In the field of hunger relief, the term hunger is used in a sense that goes beyond the common desire for food that all humans experience.\n\nThroughout history, portions of the world's population have often suffered sustained periods of hunger. In many cases, hunger resulted from food supply disruptions caused by war, plagues, or adverse weather. In the decades following World War II, technological progress and enhanced political cooperation suggested it might be possible to substantially reduce the number of people suffering from hunger. While progress was uneven, by 2015, the threat of extreme hunger subsided for many of the world's population. According to figures published by the FAO in 2019, however, the number of people suffering from chronic hunger increased over the prior four years.  This is both a percentage of the world's population and in absolute terms, with about 820 million afflicted with hunger in 2019.\nWhile most of the world's hungry people continue to live in Asia, much of the increase in hunger since 2015 occurred in Africa and South America. The FAO's 2017 report discussed three principal reasons for the recent increase in hunger: climate, conflict, and economic slowdowns. The 2018 report focused on extreme weather as a primary driver of the increase in hunger, finding rising rates to be especially severe in countries where agricultural systems were most sensitive to extreme weather variations. The FAO's 2019 report found a strong correlation between increases in hunger and countries that had suffered an economic slowdown.\nMany thousands of organizations are engaged in the field of hunger relief, operating at local, national, regional, or international levels. Some of these organizations are dedicated to hunger relief, while others may work several different fields. The organizations range from multilateral institutions to national governments, to small local initiatives such as independent soup kitchens. Many participate in umbrella networks that connect thousands of different hunger relief organizations. At the global level, much of the world's hunger relief efforts are coordinated by the UN and geared towards achieving the Sustainable Development Goal 2 of \"zero hunger\" by 2030.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Hunger"
+    },
+    {
+        "title": "Culinary arts",
+        "content": "Culinary arts, in which culinary means \"related to cooking\", are the cuisine arts of food preparation, cooking, and presentation of food, usually in the form of meals. People working in this field \u2013 especially in establishments such as restaurants \u2013 are commonly called \"chefs\" or \"cooks\", although, at its most general, the terms \"culinary artist\" and \"culinarian\" are also used. Table manners (\"the table arts\") are sometimes referred to as a culinary art.\nExpert chefs are required to have knowledge of food science, nutrition and diet and are responsible for preparing meals that are as pleasing to the eye as they are to the palate. After restaurants, their primary places of work include delicatessens and relatively large institutions such as hotels and hospitals.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Culinary_arts"
+    },
+    {
+        "title": "Right to food",
+        "content": "The right to food, and its variations, is a human right protecting the right of people to feed themselves in dignity, implying that sufficient food is available, that people have the means to access it, and that it adequately meets the individual's dietary needs. The right to food protects the right of all human beings to be free from hunger, food insecurity and malnutrition. The right to food does not imply that governments have an obligation to hand out free food to everyone who wants it, or a right to be fed. However, if people are deprived of access to food for reasons beyond their control, for example, because they are in detention, in times of war or after natural disasters, the right requires the government to provide food directly.The right is derived from the International Covenant on Economic, Social and Cultural Rights which has 170 state parties as of April 2020. States that sign the covenant agree to take steps to the maximum of their available resources to achieve progressively the full realization of the right to adequate food, both nationally and internationally. In a total of 106 countries the right to food is applicable either via constitutional arrangements of various forms or via direct applicability in law of various international treaties in which the right to food is protected.At the 1996 World Food Summit, governments reaffirmed the right to food and committed themselves to halve the number of hungry and malnourished from 840 to 420 million by 2015. However, the number has increased over the past years, reaching an infamous record in 2009 of more than 1 billion undernourished people worldwide. Furthermore, the number who suffer from hidden hunger \u2013 micronutrient deficiences that may cause stunted bodily and intellectual growth in children \u2013 amounts to over 2 billion people worldwide.Whilst under international law states are obliged to respect, protect and fulfill the right to food, the practical difficulties in achieving this human right are demonstrated by prevalent food insecurity across the world, and ongoing litigation in countries such as India. In the continents with the biggest food-related problems \u2013 Africa, Asia and South America \u2013 not only is there shortage of food and lack of infrastructure but also maldistribution and inadequate access to food.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Right_to_food"
+    },
+    {
+        "title": "Frozen food",
+        "content": "Freezing food preserves it from the time it is prepared to the time it is eaten. Since early times, farmers, fishermen, and trappers have preserved grains and produce in unheated buildings during the winter season. Freezing food slows down decomposition by turning residual moisture into ice, inhibiting the growth of most bacterial species. In the food commodity industry, there are two processes: mechanical and cryogenic (or flash freezing). The freezing kinetics is important to preserve the food quality and texture. Quicker freezing generates smaller ice crystals and maintains cellular structure. Cryogenic freezing is the quickest freezing technology available due to the ultra low liquid nitrogen temperature \u2212196 \u00b0C (\u2212320 \u00b0F).Preserving food in domestic kitchens during modern times is achieved using household freezers. Accepted advice to householders was to freeze food on the day of purchase. An initiative by a supermarket group in 2012 (backed by the UK's Waste & Resources Action Programme) promotes the freezing of food \"as soon as possible up to the product's 'use by' date\". The Food Standards Agency was reported as supporting the change, provided the food had been stored correctly up to that time.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Frozen_food"
+    },
+    {
+        "title": "Finger food",
+        "content": "Finger food is food meant to be eaten directly using the hands, in contrast to food eaten with a knife and fork, spoon, chopsticks, or other utensils. In most cultures, food is almost always eaten with the hands; for example, Ethiopian cuisine is eaten by rolling various dishes up in injera bread. Foods considered street foods are frequently, though not exclusively, finger foods.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Finger_food"
+    },
+    {
+        "title": "Organic food",
+        "content": "Organic food is food produced by methods complying with the standards of organic farming. Standards vary worldwide, but organic farming features practices that cycle resources, promote ecological balance, and conserve biodiversity. Organizations regulating organic products may restrict the use of certain pesticides and fertilizers in the farming methods used to produce such products. Organic foods typically are not processed using irradiation, industrial solvents, or synthetic food additives.In the 21st century, the European Union, the United States, Canada, Mexico, Japan, and many other countries require producers to obtain special certification to market their food as organic. Although the produce of kitchen gardens may actually be organic, selling food with an organic label is regulated by governmental food safety authorities, such as the National Organic Program of the US Department of Agriculture (USDA) or European Commission (EC).From an environmental perspective, fertilizing, overproduction, and the use of pesticides in conventional farming may negatively affect ecosystems, biodiversity, groundwater, and drinking water supplies. These environmental and health issues are intended to be minimized or avoided in organic farming.Demand for organic foods is primarily driven by consumer concerns for personal health and the environment. \nNevertheless, from the perspective of science and consumers, there is insufficient evidence in the scientific and medical literature to support claims that organic food is either safer or healthier to eat than conventional food. While there may be some differences in the nutrient and antinutrient contents of organically and conventionally produced food, the variable nature of food production, shipping, storage, and handling makes it difficult to generalize results. Claims that \"organic food tastes better\" are generally not supported by tests.Organic agriculture has a higher production costs and lower yields, higher labor costs, and higher consumer prices as compared to conventional farming methods.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Organic_food"
+    },
+    {
+        "title": "Kitchen utensil",
+        "content": "A kitchen utensil is a small hand held tool used for food preparation.  Common kitchen tasks include cutting food items to size, heating food on an open fire or on a stove, baking, grinding, mixing, blending, and measuring; different utensils are made for each task. A general purpose utensil such as a chef's knife may be used for a variety of foods; other kitchen utensils are highly specialized and may be used only in connection with preparation of a particular type of food, such as an egg separator or an apple corer.  Some specialized utensils are used when an operation is to be repeated many times, or when the cook has limited dexterity or mobility. The number of utensils in a household kitchen varies with time and the style of cooking.\nA cooking utensil is a utensil for cooking.  Utensils may be categorized by use with terms derived from the word \"ware\": kitchenware, wares for the kitchen; ovenware and bakeware, kitchen utensils that are for use inside ovens and for baking; cookware, merchandise used for cooking; and so forth.\nA partially overlapping category of tools is that of eating utensils, which are tools used for eating (c.f. the more general category of tableware).  Some utensils are both kitchen utensils and eating utensils.  Cutlery (i.e. knives and other cutting implements) can be used for both food preparation in a kitchen and as eating utensils when dining.  Other cutlery such as forks and spoons are both kitchen and eating utensils.\nOther names used for various types of kitchen utensils, although not strictly denoting a utensil that is specific to the kitchen, are according to the materials they are made of, again using the \"-ware\" suffix, rather than their functions: earthenware, utensils made of clay; silverware, utensils (both kitchen and dining) made of silver; glassware, utensils (both kitchen and dining) made of glass; and so forth.  These latter categorizations include utensils \u2014 made of glass, silver, clay, and so forth \u2014 that are not necessarily kitchen utensils.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Kitchen_utensil"
+    },
+    {
+        "title": "Oven",
+        "content": "An oven is a thermally insulated chamber used for the heating, baking, or drying of a substance, and most commonly used for cooking. Kilns and furnaces are special-purpose ovens used in pottery and metalworking, respectively.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Oven"
+    },
+    {
+        "title": "Grill",
+        "content": "Grill or grille may refer to:",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Grill"
+    },
+    {
+        "title": "Food security",
+        "content": "Food security is a measure of the availability of food and individuals' ability to access it.  Affordability is only one factor. There is evidence of food security being a concern many thousands of years ago, with central authorities in ancient China and ancient Egypt being known to release food from storage in times of famine. At the 1974 World Food Conference the term \"food security\" was defined with an emphasis on supply; food security is defined as the \"availability at all times of adequate, nourishing, diverse, balanced and moderate world food supplies of basic foodstuffs to sustain a steady expansion of food consumption and to offset fluctuations in production and prices\". Later definitions added demand and access issues to the definition. The final report of the 1996 World Food Summit states that food security \"exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs and food preferences for an active and healthy life.\"Household food security exists when all members, at all times, have access to enough food for an active, healthy life. Individuals who are food secure do not live in hunger or fear of starvation. Food insecurity, on the other hand, is defined by the United States Department of Agriculture (USDA) as a situation of \"limited or uncertain availability of nutritionally adequate and safe foods or limited or uncertain ability to acquire acceptable foods in socially acceptable ways\". Food security incorporates a measure of resilience to future disruption or unavailability of critical food supply due to various risk factors including droughts, shipping disruptions, fuel shortages, economic instability, and wars. In the years 2011\u20132013, an estimated 842 million people were suffering from chronic hunger. The Food and Agriculture Organization of the United Nations, or FAO, identified the four pillars of food security as availability, access, utilization, and stability. The United Nations (UN) recognized the Right to Food in the Declaration of Human Rights in 1948, and has since said that it is vital for the enjoyment of all other rights.The 1996 World Summit on Food Security declared that \"food should not be used as an instrument for political and economic pressure\".",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Food_security"
+    },
+    {
+        "title": "Rice",
+        "content": "Rice is the seed of the grass species Oryza glaberrima (African rice) or Oryza sativa (Asian rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes).\n\nSince sizable portions of sugarcane and maize crops are used for purposes other than human consumption, rice is the most important grain with regard to human nutrition and caloric intake, providing more than one-fifth of the calories consumed worldwide by humans. There are many varieties of rice and culinary preferences tend to vary regionally.\n\nRice, a monocot, is normally grown as an annual plant, although in tropical areas it can survive as a perennial and can produce a ratoon crop for up to 30 years. Rice cultivation is well-suited to countries and regions with low labor costs and high rainfall, as it is labor-intensive to cultivate and requires ample water. However, rice can be grown practically anywhere, even on a steep hill or mountain area with the use of water-controlling terrace systems. Although its parent species are native to Asia and certain parts of Africa, centuries of trade and exportation have made it commonplace in many cultures worldwide.\n\nThe traditional method for cultivating rice is flooding the fields while, or after, setting the young seedlings. This simple method requires sound irrigation planning but reduces the growth of less robust weed and pest plants that have no submerged growth state, and deters vermin. While flooding is not mandatory for the cultivation of rice, all other methods of irrigation require higher effort in weed and pest control during growth periods and a different approach for fertilizing the soil.\nThe name wild rice is usually used for species of the genera Zizania and Porteresia, both wild and domesticated, although the term may also be used for primitive or uncultivated varieties of Oryza.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+        "title": "Potato",
+        "content": "The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum, and the plant itself is a perennial in the nightshade family, Solanaceae.Wild potato species, originating in modern-day Peru, can be found throughout the Americas, from the United States to southern Chile. The potato was originally believed to have been domesticated by indigenous peoples of the Americas independently in multiple locations, but later genetic testing of the wide variety of cultivars and wild species traced a single origin for potatoes. In the area of present-day southern Peru and extreme northwestern Bolivia, from a species in the Solanum brevicaule complex, potatoes were domesticated approximately 7,000\u201310,000 years ago. In the Andes region of South America, where the species is indigenous, some close relatives of the potato are cultivated.\nPotatoes were introduced to Europe from the Americas in the second half of the 16th century by the Spanish. Today they are a staple food in many parts of the world and an integral part of much of the world's food supply. As of 2014, potatoes were the world's fourth-largest food crop after maize (corn), wheat, and rice.Following millennia of selective breeding, there are now over 5,000 different types of potatoes. Over 99% of presently cultivated potatoes worldwide descended from varieties that originated in the lowlands of south-central Chile.The importance of the potato as a food source and culinary ingredient varies by region and is still changing. It remains an essential crop in Europe, especially Northern and Eastern Europe, where per capita production is still the highest in the world, while the most rapid expansion in production over the past few decades has occurred in southern and eastern Asia, with China and India leading the world in overall production as of 2018.\nLike the tomato, the potato is a nightshade in the genus Solanum, and the vegetative and fruiting parts of the potato contain the toxin solanine which is dangerous for human consumption. Normal potato tubers that have been grown and stored properly produce glycoalkaloids in amounts small enough to be negligible to human health, but if green sections of the plant (namely sprouts and skins) are exposed to light, the tuber can accumulate a high enough concentration of glycoalkaloids to affect human health.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Potato"
+    }
+]

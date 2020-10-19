@@ -1,0 +1,872 @@
+[
+    {
+        "title": "Rechnungswesen",
+        "content": "Das Rechnungswesen (RW oder auch REWE) oder (seltener) Unternehmensrechnung ist ein Teilgebiet der Betriebswirtschaftslehre und dient der systematischen Erfassung, \u00dcberwachung und informatorischen Verdichtung der durch den betrieblichen Leistungsprozess entstehenden Geld- und Leistungsstr\u00f6me.\nZum einen werden Geld- und G\u00fcterstr\u00f6me in einem Unternehmen dokumentiert, um gegen\u00fcber Au\u00dfenstehenden Rechenschaft ablegen zu k\u00f6nnen (externes Rechnungswesen), zum Beispiel gegen\u00fcber dem Finanzamt, den Banken oder auch Kostentr\u00e4gern im Gesundheitswesen. Zum anderen soll das Rechnungswesen dem Unternehmer aber auch die Daten liefern, die zur Steuerung und Planung des Unternehmens notwendig sind (internes Rechnungswesen). In der Schul- und Berufsausbildung mehrerer deutscher Bundesl\u00e4nder wird Rechnungswesen im Fach Kaufm\u00e4nnische Steuerung und Kontrolle (KSK) gelehrt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Rechnungswesen"
+    },
+    {
+        "title": "Board of Directors",
+        "content": "Das Board of Directors (englisch f\u00fcr w\u00f6rtlich etwa \u201aVerwaltungsrat\u2018 oder \u201aDirektorium\u2018) ist im anglo-amerikanischen Raum das Leitungs- und Kontrollgremium eines Unternehmens. Meist vereinigt es in etwa die Funktionen von Vorstand und Aufsichtsrat einer deutschen Aktiengesellschaft und stellt somit ein monistisches System der Unternehmensf\u00fchrung dar. Der Vorsitzende des Board of Directors wird als Chairman of the Board (COB) bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Board_of_Directors"
+    },
+    {
+        "title": "Buchhaltung",
+        "content": "Die Buchhaltung ist die Organisationseinheit eines Unternehmens, die sich mit der Buchf\u00fchrung befasst. H\u00e4ufig wird auch der umfassendere Begriff Rechnungswesen verwendet. Die Begriffe Buchhaltung und Buchf\u00fchrung werden als T\u00e4tigkeit umgangssprachlich h\u00e4ufig synonym verwendet. In der Betriebswirtschaftslehre bezeichnet der Begriff Buchf\u00fchrung nur die Methodik oder T\u00e4tigkeit. Personen, die mit der Buchhaltung betraut sind, werden als Buchhalter bezeichnet.\nJe nach Gr\u00f6\u00dfe und Art der Organisation kann es sinnvoll sein, die Buchhaltung in Teilbereiche zu untergliedern.\n\nDie Finanzbuchhaltung bucht Vorg\u00e4nge, die zur Bilanzierung und Gewinn- und Verlustrechnung n\u00f6tig sind.\nDie Debitorenbuchhaltung verarbeitet die Forderungen an Kunden.\nDie Kreditorenbuchhaltung verarbeitet die Verbindlichkeiten gegen\u00fcber Lieferanten.\nDie Anlagenbuchhaltung verwaltet G\u00fcter des Anlageverm\u00f6gens.\nDie Lohnbuchhaltung wickelt die Lohn- und Gehaltsabrechnungen ab.\nDie Kosten- und Leistungsrechnung ordnet zu, welche Kosten die einzelnen Unternehmensteile und/oder die Projekte verursachen.Die Lager- oder Mengenbuchhaltung ist f\u00fcr die Verbuchung von Gesch\u00e4ftsvorf\u00e4llen in der Materialwirtschaft zust\u00e4ndig.\nDie Energiebuchhaltung wird im kommunalen Facilitymanagement angewendet.Die Kameralistik bzw. Kameralbuchhaltung ist eine Sonderform, die in staatlichen Organisationen angewendet wird.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Buchhaltung"
+    },
+    {
+        "title": "Budget",
+        "content": "Das Budget [by\u02c8d\u0292e\u02d0] ist in vielen Fachgebieten eine bilanz\u00e4hnliche Gegen\u00fcberstellung von Einnahmen und Ausgaben oder Kosten und Ertr\u00e4gen, sonstigen Werten oder die f\u00fcr einen bestimmten Zweck einem Wirtschaftssubjekt zur Verf\u00fcgung stehenden Geldmittel.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Budget"
+    },
+    {
+        "title": "Bruttoinlandsprodukt",
+        "content": "Das Bruttoinlandsprodukt (in der Schweiz auch Bruttoinlandprodukt, offizielle Abk\u00fcrzung: BIP; englisch gross domestic product, GDP) gibt den Gesamtwert aller G\u00fcter, Waren und Dienstleistungen an, die w\u00e4hrend eines Jahres innerhalb der Landesgrenzen einer Volkswirtschaft als Endprodukte hergestellt wurden, nach Abzug aller Vorleistungen.\nIm Jahr 2018 betrug das Bruttoinlandsprodukt der Bundesrepublik Deutschland 3.388,2 Mrd. Euro \u2013 also rund 3,4 Billionen Euro und damit 29 % des BIP der Eurozone oder 25 % des BIP der EU27.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bruttoinlandsprodukt"
+    },
+    {
+        "title": "Eink\u00e4ufer",
+        "content": "Als Eink\u00e4ufer werden die Mitarbeiter eines Unternehmens bezeichnet, die f\u00fcr den Einkauf von Waren, Lebensmitteln, Material und Dienstleistungen zust\u00e4ndig sind. Zusammengefasst werden diese Mitarbeiter in der Einkaufsabteilung. Die Berufsbezeichnung ist nicht gesetzlich gesch\u00fctzt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Eink%C3%A4ufer"
+    },
+    {
+        "title": "Kapitalismus",
+        "content": "Kapitalismus bezeichnet zum einen eine spezifische Wirtschafts- und Gesellschaftsordnung, zum anderen eine Epoche der Wirtschaftsgeschichte. Die zentralen Merkmale sind in Anbetracht des historischen Wandels und der zahlreichen Kapitalismusdefinitionen sowie ideologischer Unterschiede umstritten. Allgemein wird unter Kapitalismus eine Wirtschafts- und Gesellschaftsordnung verstanden, die auf Privateigentum an den Produktionsmitteln und einer Steuerung von Produktion und Konsum \u00fcber den Markt (Marktwirtschaft) beruht. Als weitere konstitutive Merkmale werden genannt: die Akkumulation (f\u00fcr manche das \u201eHerzst\u00fcck\u201c, Hauptmerkmal und Leitprinzip des Kapitalismus), \u201efreie Lohnarbeit\u201c und das \u201eStreben nach Gewinn im kontinuierlichen, rationalen kapitalistischen Betrieb\u201c.Marktwirtschaft hat es unter vielen verschiedenen Regierungsformen, Gesellschaften und Kulturen gegeben. Die Epoche des modernen Kapitalismus bezeichnet eine wirtschaftsgeschichtliche Periode, die im 18. Jahrhundert mit der industriellen Revolution beginnt und bis heute andauert. Sie folgte auf die Epochen des Feudalismus des europ\u00e4ischen Mittelalters bzw. des Merkantilismus zur Zeit des Absolutismus. Im historischen Verlauf haben alle kapitalistischen L\u00e4nder Wirtschaftswachstum erlebt, woraus eine Erh\u00f6hung des allgemeinen Lebensstandards folgte.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kapitalismus"
+    },
+    {
+        "title": "Kommerz",
+        "content": "Kommerz ist der veraltete Ausdruck f\u00fcr Handel und Verkehr, heute ist der Begriff negativ konnotiert und wird als Gesch\u00e4ftemacherei oder Profitgier verstanden.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kommerz"
+    },
+    {
+        "title": "Wettkampf",
+        "content": "Ein Wettkampf, auch Wettbewerb (\u00f6sterreichisch: Bewerb) oder Wettstreit, ist ein Kampf um beste Leistungen, etwa um  sportliche, dichterische, k\u00fcnstlerische, musische, handwerkliche oder andere kulturelle Leistungen. Latente Wettbewerbssituationen gibt es in vielen Situationen. Wettk\u00e4mpfe im Sport treten medial besonders stark ins \u00f6ffentliche Bewusstsein. Im kulturellen Bereich wird eher von Wettbewerben gesprochen. Hier gibt es ein regelrechtes Wettbewerbswesen. Herman Nohl meint, dass Wetteifer eine p\u00e4dagogische Kategorie ist, die sich bei Kindern und Jugendlichen von fr\u00fchester Jugend an manifestiert.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wettkampf"
+    },
+    {
+        "title": "Verbraucher",
+        "content": "Als Verbraucher oder Konsument wird eine nat\u00fcrliche Person bezeichnet, die eine oder mehrere Waren oder Dienstleistungen zur eigenen privaten Bed\u00fcrfnisbefriedigung k\u00e4uflich erwirbt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Verbraucher"
+    },
+    {
+        "title": "K\u00f6rperschaft",
+        "content": "Eine K\u00f6rperschaft (auch Korporation von franz\u00f6sisch corporation gelehnt) ist ein auf Dauer angelegter Zusammenschluss von Personen, der einen \u00fcberindividuellen Zweck verfolgt und dessen Bestand vom Wechsel der Mitglieder unabh\u00e4ngig ist. Die K\u00f6rperschaft ist eine rechtsf\u00e4hige juristische Person.\nEs gibt K\u00f6rperschaften des privaten Rechts und K\u00f6rperschaften des \u00f6ffentlichen Rechts.\nPrivatrechtliche K\u00f6rperschaften wie Aktiengesellschaften oder GmbHs nehmen am allgemeinen Wirtschaftsleben teil. Ihre freie Gr\u00fcndung und Bet\u00e4tigung ist in der Bundesrepublik Deutschland verfassungsrechtlich garantiert, ebenso die Mitgliedschaft (Art. 19 Abs. 3 in Verbindung mit Art. 9 Abs. 1 GG). Das gilt auch f\u00fcr juristische Personen des Privatrechts mit Sitz im EU-Ausland.K\u00f6rperschaften des \u00f6ffentlichen Rechts sind Teil der mittelbaren Staatsverwaltung und nehmen neben Anstalten und Stiftungen des \u00f6ffentlichen Rechts sowie den Beliehenen \u00f6ffentliche Verwaltungsaufgaben wahr. F\u00fcr bestimmte Personen kann die Mitgliedschaft in bestimmten \u00f6ffentlich-rechtlichen K\u00f6rperschaften gesetzlich vorgeschrieben sein, beispielsweise f\u00fcr Angeh\u00f6rige der sog. Kammerberufe in berufsst\u00e4ndischen Organisationen mit Aufsichtsfunktion wie der \u00c4rzte- oder der Rechtsanwaltskammer.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/K%C3%B6rperschaft"
+    },
+    {
+        "title": "Kredit",
+        "content": "Unter Kredit (abgeleitet von lateinisch credere \u201eglauben, vertrauen\u201c und lateinisch creditum \u201edas auf Treu und Glauben Anvertraute\u201c; englisch credit oder englisch loan = Leihe) versteht man allgemein die \u00dcbereignung von Bargeld (Banknoten, M\u00fcnzen), Buchgeld oder vertretbaren Sachen vom Kreditgeber zwecks befristeter Gebrauchs\u00fcberlassung durch den Kreditnehmer, der sich zu einer zuk\u00fcnftigen Tilgung und h\u00e4ufig auch zu einer Gegenleistung in Form von Zinsen verpflichtet.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kredit"
+    },
+    {
+        "title": "Kreditkarte",
+        "content": "Eine Kreditkarte (in der zweiten H\u00e4lfte des 20. Jahrhunderts entstandene Lehn\u00fcbersetzung aus dem englischen credit card) ist eine Karte zur Bezahlung von Waren und Dienstleistungen. Die meisten Kreditkarten sind weltweit einsetzbar, sowohl im realen t\u00e4glichen Gesch\u00e4fts- wie Privatleben als auch bei Online-Geldtransaktionen. Sie wird im Fall von Mastercard oder Visa von Banken in Zusammenarbeit mit den Kreditkartenorganisationen ausgegeben, oder \u2013 im Falle von Diners und American Express \u2013 direkt von der Kartengesellschaft. Diese vier Gesellschaften teilen sich nahezu den gesamten europ\u00e4ischen Kreditkartenmarkt. Der Name Kreditkarte entstand aus der Tatsache, dass Kreditkarten dem Karteninhaber oftmals einen Kredit gew\u00e4hren.\n36 Prozent der Deutschen besitzen eine Kreditkarte, mit langsam steigender Tendenz. Im Jahr 2019 lag die Anzahl der ausgegebenen Kreditkarten in \u00d6sterreich bei etwas mehr als 3,6 Millionen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kreditkarte"
+    },
+    {
+        "title": "W\u00e4hrung",
+        "content": "Eine W\u00e4hrung (mhd. werunge f\u00fcr \u201aGew\u00e4hrleistung\u2018) ist im weiteren Sinne die Verfassung und Ordnung des gesamten Geld\u00adwesens eines Staates, die insbesondere die Festlegung des M\u00fcnz- und Notensystems innerhalb des W\u00e4hrungsraums betrifft. Der W\u00e4hrungsraum ist dabei der Geltungsbereich einer W\u00e4hrung. Sie erm\u00f6glicht den Transfer von Waren und Dienstleistungen, ohne eine Gegenleistung in Form von anderen Waren und Dienstleistungen zu liefern.\nAls W\u00e4hrung oder W\u00e4hrungseinheit wird auch die vom Staat anerkannte Geldart (das gesetzliche Zahlungsmittel eines Landes) bezeichnet. In diesem Fall ist W\u00e4hrung dann eine Unterform des Geldes. Die meisten W\u00e4hrungen werden an den internationalen Devisenm\u00e4rkten gehandelt. Der sich dort ergebende Preis wird als Wechselkurs bezeichnet. Nahezu alle g\u00e4ngigen W\u00e4hrungen basieren inzwischen auf dem Dezimalsystem, das hei\u00dft, es gibt eine Haupteinheit und eine Untereinheit, wobei die Untereinheit ein dezimaler Bruchteil (i. d. R. ein Hundertstel) des Wertes der Haupteinheit verk\u00f6rpert (Dezimalw\u00e4hrung). In Fachkreisen wird die Untereinheit auch Unterw\u00e4hrung genannt.\nIn den jeweiligen Staaten \u00fcben der Finanzminister oder die staatliche Zentralbank Kontrolle \u00fcber die W\u00e4hrung beziehungsweise die W\u00e4hrungspolitik aus. Die Zentralbanken besitzen in nahezu allen westlichen Staaten ein gro\u00dfes Ma\u00df an Autonomie, das hei\u00dft die Regierung kann gar nicht oder nur in sehr geringem Ma\u00dfe beziehungsweise indirekt auf die Zentralbank einwirken.\nIst eine W\u00e4hrung weltweit handel- und umtauschbar, so wird von ihrer Konvertibilit\u00e4t gesprochen. Wird eine W\u00e4hrung durch Gold und/oder Silber hinterlegt und ist der Umtausch von Banknoten in das jeweilige Metall jederzeit m\u00f6glich, so ist auch in diesem Zusammenhang Konvertibilit\u00e4t gegeben.\nDerzeit gibt es weltweit \u00fcber 160 offizielle W\u00e4hrungen, aber nur der US-Dollar und in zunehmendem Ma\u00dfe auch der Euro gelten als internationale Leitw\u00e4hrungen. Daneben gibt es noch Komplement\u00e4rw\u00e4hrungen, die nur regional neben dem offiziellen Geld als Tauschmittel akzeptiert werden.\nHat eine W\u00e4hrung innerhalb der Bev\u00f6lkerung stark an Vertrauen verloren, so bilden sich oft Ersatzw\u00e4hrungen wie Zigaretten (z. B. Zigarettenw\u00e4hrung in Deutschland nach dem Zweiten Weltkrieg), die dann als Zahlungs- und Tauschmittel dienen. Auch sogenanntes Notgeld dient in Krisenzeiten als Ersatz f\u00fcr die offizielle W\u00e4hrung. Oftmals werden auch W\u00e4hrungen anderer Staaten zur Ersatzw\u00e4hrung. Ein bekanntes Beispiel ist der Gebrauch der \u201eWestmark\u201c in der DDR neben der DDR-Mark. Insbesondere die sogenannten \u201eblauen Fliesen\u201c (100-DM-Scheine) waren ein beliebtes Tauschmittel auf dem Schwarzmarkt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/W%C3%A4hrung"
+    },
+    {
+        "title": "Kunde",
+        "content": "Ein Kunde (englisch customer, client) ist allgemein in der Wirtschaft und speziell im Marketing eine Person, ein Unternehmen oder eine Organisation (Wirtschaftssubjekt), das als Nachfrager ein Gesch\u00e4ft mit einer Gegenpartei abschlie\u00dft. Ein solches Gesch\u00e4ft ist beispielsweise ein Kaufvertrag, Miete oder Leasing, eine Dienstleistung oder ein Werkvertrag. Meist zahlt der Kunde daf\u00fcr Geld, seine Gegenleistung kann aber auch unentgeltlich oder in Form eines gegenseitigen Tauschgesch\u00e4ftes erfolgen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kunde"
+    },
+    {
+        "title": "Dividende",
+        "content": "Als Dividende wird meist der Teil des Gewinns, den eine Aktiengesellschaft (oder eine andere Kapitalgesellschaft) an ihre Aktion\u00e4re oder Anteilseigner aussch\u00fcttet, bezeichnet. Der Gesetzgeber verwendet den Begriff Dividende nicht im Aktiengesetz, sondern nennt es in \u00a7 174 Abs. 2 Nr. 2 Aktiengesetz den \u201eauszusch\u00fcttenden Betrag\u201c. Bei anderen Kapitalgesellschaften, wie der GmbH, gibt es Gewinnaussch\u00fcttungen.\nDie Aussch\u00fcttungen von Investmentfonds werden zwar manchmal als \u201eDividende\u201c bezeichnet, jedoch ist diese Bezeichnung nicht korrekt, da in den Aussch\u00fcttungen auch zinsartige Ertr\u00e4ge enthalten sein k\u00f6nnen. Die Aussch\u00fcttungen von Genussscheinen eines Unternehmens sind selbst keine Dividenden, werden aber gelegentlich an die H\u00f6he der Dividende einer Aktie desselben Unternehmens gekoppelt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Dividende"
+    },
+    {
+        "title": "Anzahlung",
+        "content": "Eine Anzahlung (fr\u00fcher Angeld, Aufgeld oder Haftgeld) liegt vor, wenn der K\u00e4ufer bei einem Kaufvertrag oder Erwerber bei einem sonstigen Vertrag eine Teilzahlung erbringt, wobei die Lieferung oder Leistung noch nicht erfolgt ist.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Anzahlung"
+    },
+    {
+        "title": "Debitkarte",
+        "content": "Eine Debitkarte (von lateinisch debere \u201aschulden\u2018, englisch debit, \u201aSoll\u2018, \u201aKontobelastung\u2018) ist eine Bankkarte, Sparkassenkarte oder Bankomatkarte (Warenzeichen, \u00d6sterreich), die zur bargeldlosen Bezahlung oder zur Barauszahlung am Geldautomaten eingesetzt werden kann. Debitkarten sind eine der Formen der Zahlungskarten.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Debitkarte"
+    },
+    {
+        "title": "Wirtschaftswissenschaft",
+        "content": "Die Wirtschaftswissenschaft, auch \u00d6konomie und vereinzelt auch \u00d6konomik, ist die Wissenschaft von der Wirtschaft. Die Wirtschaftswissenschaft untersucht den rationalen Umgang mit knappen, also nur begrenzt verf\u00fcgbaren, G\u00fctern.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wirtschaftswissenschaft"
+    },
+    {
+        "title": "Skaleneffekt",
+        "content": "Als Skaleneffekt (englisch economies of scale) wird in der Produktionstheorie, der Betriebswirtschaftslehre und in der Mikro\u00f6konomie die Abh\u00e4ngigkeit der Produktionsmenge von der Menge der eingesetzten Produktionsfaktoren definiert.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Skaleneffekt"
+    },
+    {
+        "title": "Unternehmertum",
+        "content": "Der Begriff Unternehmertum (engl. entrepreneurship, von frz. entreprendre, dt. unternehmen), auch Unternehmergeist, Gr\u00fcndertum, Gr\u00fcnderszene oder Gr\u00fcnderkultur, besch\u00e4ftigt sich als wirtschaftswissenschaftliche Teildisziplin mit dem Gr\u00fcndungsgeschehen oder der Gr\u00fcndung von neuen Organisationen als Reaktion auf identifizierte M\u00f6glichkeiten und als Ausdruck spezifischer Gr\u00fcnderpers\u00f6nlichkeiten, die ein pers\u00f6nliches Kapitalrisiko tragen. Entrepreneur war im Franz\u00f6sischen seit dem 16. Jahrhundert eigentlich ein Begriff f\u00fcr einen milit\u00e4rischen Anf\u00fchrer. So wurde im 18. Jahrhundert zuerst von B. F. de Belister eine Person genannt, die Waren zum kontrahierten Preis verkauft und versucht, sie m\u00f6glichst billig einzukaufen (sog. Arbitrage, also im Unterschied zu sp\u00e4teren Definitionen ein risikoloses Gesch\u00e4ft).Die klassischen Definitionen des Entrepreneurs heben seine gesamtwirtschaftliche Erneuerungsfunktion hervor. In der modernen Entrepreneurship-Literatur finden sich zahlreiche, teils breitere Definitionsans\u00e4tze. Entrepreneurship ist mehr als Unternehmensgr\u00fcndung und effiziente Nutzung von Ressourcen. Es schlie\u00dft kreative Elemente wie die systematische Identifizierung von (Markt-)Chancen, das Finden von neuen (Gesch\u00e4fts-)Ideen und deren Umsetzung in Form von neuen Gesch\u00e4ftsmodellen ein und ist nicht zwingend mit der Eigent\u00fcmerfunktion verbunden. Das hei\u00dft, Unternehmertum kann auch innerhalb bestehender Unternehmen von Nicht-Eigent\u00fcmern praktiziert werden (Intrapreneurship).\nDer deutsche Begriff \u201eUnternehmertum\u201c bezeichnet au\u00dferdem die Gesamtheit der Unternehmer eines Landes bzw. die soziale Klasse der Unternehmer (z. B. das \u201e\u00f6sterreichische Unternehmertum\u201c), wobei die Abgrenzung zum Kleinunternehmertum unscharf verl\u00e4uft. Zur Kennzeichnung der Charakteristika von innovativen, pers\u00f6nlich risikotragenden Gr\u00fcndern wird heute in der deutschen Sprache meist der Entrepreneurbegriff verwendet. Hingegen wird ein Gr\u00fcnder ohne innovative Gesch\u00e4ftsideen, ohne eigene Mitarbeiter und ohne Wachstumspotenzial im Unterschied zum Entrepreneur oft als Existenzgr\u00fcnder bezeichnet. Als Start-Up bezeichnet man eine fr\u00fche und zeitlich begrenzte Entwicklungsphase eines innovativen Unternehmens, das beansprucht, ein skalierbares Gesch\u00e4ftsmodell vorzulegen, also in gr\u00f6\u00dferem Ma\u00dfe zu wachsen.\nEntscheidend f\u00fcr den Erfolg von Gr\u00fcndern und jungem Unternehmertum ist ein ganzheitliches regionales Gr\u00fcnder-\u00d6kosystem und gr\u00fcnderfreundliches Klima (siehe Abschnitt). Zu den Aktivit\u00e4ten staatlicher und privater Gr\u00fcnderausbildung und Gr\u00fcndungsf\u00f6rderung im internationalen Vergleich siehe die Artikel Gr\u00fcnderausbildung und Gr\u00fcndungsf\u00f6rderung und Gr\u00fcnderzentrum.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Unternehmertum"
+    },
+    {
+        "title": "Erwerbst\u00e4tigkeit",
+        "content": "Erwerbst\u00e4tige sind nach dem Europ\u00e4ischen System Volkswirtschaftlicher Gesamtrechnungen alle zivilen Erwerbspersonen, also Personen, die als Arbeitnehmer oder Selbst\u00e4ndige beziehungsweise mithelfende Familienangeh\u00f6rige eine auf wirtschaftlichen Erwerb gerichtete T\u00e4tigkeit aus\u00fcben. Die Gruppe der Erwerbspersonen setzt sich aus den Erwerbst\u00e4tigen und den (sofort verf\u00fcgbaren) Erwerbslosen zusammen.\nNach Definition der Internationalen Arbeitsorganisation (ILO) z\u00e4hlen zu den Erwerbst\u00e4tigen alle Personen im Alter von 15 und mehr Jahren, die in einem Arbeitsverh\u00e4ltnis stehen (Arbeitnehmer) oder selbst\u00e4ndig ein Gewerbe oder eine Landwirtschaft betreiben (Selbst\u00e4ndige, Unternehmer) oder als mithelfende Familienangeh\u00f6rige im Betrieb eines Verwandten mitarbeiten. Personen, die lediglich eine geringf\u00fcgige T\u00e4tigkeit (Mini-Job) aus\u00fcben oder als Aushilfe nur vor\u00fcbergehend besch\u00e4ftigt sind, z\u00e4hlen ebenso als Erwerbst\u00e4tige wie auch Personen, die einem Ein-Euro-Job nachgehen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Erwerbst%C3%A4tigkeit"
+    },
+    {
+        "title": "Elektronischer Handel",
+        "content": "Elektronischer Handel, auch Internethandel, Onlinehandel oder E-Commerce, bezeichnet Ein- und Verkaufsvorg\u00e4nge mittels Internet (oder anderer Formen von Datenfern\u00fcbertragung). Fr\u00fche Auspr\u00e4gungen des elektronischen Handels fanden sich in den Online-Portalen der 1980er-Jahre, insbesondere in Form des Electronic Mall (elektronischen Einkaufszentrums) bei Compuserve.\nBeim elektronischen Handel wird durch Daten\u00fcbertragung eine unmittelbare Gesch\u00e4ftsbeziehung zwischen Anbietern und Abnehmern abgewickelt. Im weiteren Sinne umfasst der elektronische Handel jede Art von gesch\u00e4ftlicher Transaktion, bei der Internet-Anbieter \u2013 auch solche, die keine Handelsunternehmen sind \u2013 und Internet-Nachfrager als Transaktionspartner im Rahmen von Leistungsanbahnung, -vereinbarung oder -erbringung elektronische Kommunikationstechniken einsetzen. Den in der Literatur h\u00e4ufig verwendeten Begriff des Electronic Business popularisierte eine IBM-Werbekampagne Ende der 1990er-Jahre als \u201eeBusiness\u201c. Im engeren Sinne umfasst der elektronische Handel die \u00fcber das Internet abgewickelten Gesch\u00e4ftsbeziehungen zwischen Interneth\u00e4ndlern, also Handelsunternehmen, die das Internet ausschlie\u00dflich oder (als Multi-Channel-H\u00e4ndler) zus\u00e4tzlich zum station\u00e4ren oder zum angestammten Versandgesch\u00e4ft nutzen, und Internet-Nachfragern. Waren aus dem pr\u00e4sentierten Angebot k\u00f6nnen, analog zum Einkauf bei einem station\u00e4ren Handelsbetrieb, ausgew\u00e4hlt und in einen sogenannten Warenkorb aufgenommen werden. Der Bestellvorgang wird abgeschlossen, indem die Bestellung online \u00fcbermittelt und best\u00e4tigt wird. Der elektronische Handel macht in jedem Sinne einen Teil der Internet-Wirtschaft aus.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Elektronischer_Handel"
+    },
+    {
+        "title": "Eigenkapital",
+        "content": "Eigenkapital ist in den Wirtschaftswissenschaften derjenige Teil des Kapitals von Wirtschaftssubjekten, der sich bilanziell als positive Differenz aus Verm\u00f6gen und Schulden zeigt, so dass das Eigenkapital dem Reinverm\u00f6gen entspricht. Eine gleichberechtigte Definition geht davon aus, dass das Eigenkapital den Wirtschaftssubjekten zeitlich unbefristet zur Verf\u00fcgung steht und somit keiner R\u00fcckzahlungsverpflichtung unterliegt.\nDer Komplement\u00e4rbegriff zum Eigenkapital ist das Fremdkapital, das die Schulden umfasst.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Eigenkapital"
+    },
+    {
+        "title": "Egalit\u00e4re Gesellschaft",
+        "content": "Egalit\u00e4re Gesellschaft (franz\u00f6sisch \u00e9galit\u00e9, von lateinisch aequalitas: \u201edie Gleichheit\u201c) bezeichnet eine soziale Gruppe, Gemeinschaft oder Gesellschaft, bei der grunds\u00e4tzlich alle Mitglieder den gleichen Zugang zu den zentralen Ressourcen haben (Nahrungsmittel, G\u00fcter, Land usw.) und kein Mitglied dauerhaft Macht \u00fcber Andere aus\u00fcben kann. Der soziale Status des Einzelnen ist in egalit\u00e4ren Gruppen vor allem von seinen F\u00e4higkeiten und seinem Willen abh\u00e4ngig, es herrscht politische und soziale Gleichheit. Diese \u201eHerrschaftslosigkeit\u201c wird im politischen Zusammenhang Akephalie genannt (\u201eohne Haupt\u201c). Individueller Besitz und Eigentum sind nur nachrangige Wertvorstellungen in solchen Gruppen.Der Begriff findet vor allem in der Ethnologie (V\u00f6lkerkunde) Verwendung und bezieht sich haupts\u00e4chlich auf J\u00e4ger und Sammler (Wildbeuter-Horden) oder andere kleine lokale Gemeinschaften traditionell lebender Ethnien, die seit jeher diese Form des Umgangs miteinander pflegen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Egalit%C3%A4re_Gesellschaft"
+    },
+    {
+        "title": "Export",
+        "content": "Export (auch Ausfuhr; lateinisch ex, \u201eaus, hinaus\u201c und lateinisch portare, \u201etragen, bringen\u201c; \u201ehinausbringen\u201c) ist im Au\u00dfenhandel der grenz\u00fcberschreitende Verkauf von G\u00fctern oder Dienstleistungen aus dem Inland in das Ausland. Gegensatz ist der Import.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Export"
+    },
+    {
+        "title": "Aufwand",
+        "content": "Aufwand ist in der Wirtschaft allgemein der materielle oder ideelle Einsatz, den ein Wirtschaftssubjekt erbringen muss, um eine Leistung zu erstellen oder eine Gegenleistung zu erhalten. Pendant ist der Ertrag.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Aufwand"
+    },
+    {
+        "title": "Adam Smith",
+        "content": "Adam Smith [sm\u026a\u03b8], FRSA (getauft am 5. Junijul./ 16. Juni 1723greg. in Kirkcaldy, Grafschaft Fife, Schottland; \u2020 17. Juli 1790 in Edinburgh), war ein schottischer Moralphilosoph und Aufkl\u00e4rer und gilt als Begr\u00fcnder der klassischen National\u00f6konomie.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Adam_Smith"
+    },
+    {
+        "title": "Fabrik",
+        "content": "Eine Fabrik, von lateinisch fabricare \u201eanfertigen\u201c, ist eine Produktionsst\u00e4tte im industriellen Ma\u00dfstab, die auch unter der Bezeichnung Industriebetrieb eine gr\u00f6\u00dfere Anzahl unterschiedlicher Arbeitsvorg\u00e4nge vereinigt und wesentlich mit Hilfe von Maschinen, Produktionsmitarbeitern und einer Betriebsf\u00fchrung Erzeugnisse herstellt. Den Besitzer oder Betreiber einer Fabrik bezeichnete man fr\u00fcher als Fabrikant, heute meist als Unternehmer. Das Geb\u00e4ude, in dem diese Einrichtung untergebracht ist, bezeichnet man als Fabrik.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fabrik"
+    },
+    {
+        "title": "Finanzen",
+        "content": "Finanzen (Plural vom Wort Finanz, das nur als Konfix verwendet wird; englisch finances, franz\u00f6sisch finances) ist allgemein der Sammelbegriff f\u00fcr das Finanzwesen und die Finanzwirtschaft, speziell sind damit \u00f6ffentliche Finanzen (Staatsfinanzen, Kommunalfinanzen) gemeint. Umgangssprachlich sind hierunter die Geldmittel und die Bonit\u00e4t von Wirtschaftssubjekten (Privathaushalte, Unternehmen, Staat, Ausland) zu verstehen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Finanzen"
+    },
+    {
+        "title": "Finanzierung",
+        "content": "Finanzierung (auch Finanz\u00f6konomik; englisch financing) ist in der Finanzwirtschaft die Versorgung eines Wirtschaftssubjekts mit Kapital, damit es seine Ziele verfolgen kann.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Finanzierung"
+    },
+    {
+        "title": "Fundraising",
+        "content": "Fundraising (engl.), auch Mittelakquisition bzw. Mittelbeschaffung, umfasst alle operativen, konzeptionellen und strategischen Aktivit\u00e4ten zum Aufbau von Beziehungen mit dem Zweck, Ressourcen einzuwerben. Jenseits des engen Fokus auf die Beschaffung von Ressourcen wird Fundraising auch verstanden als systematischer Aufbau von Beziehungen zur Unterst\u00fctzung eines gesellschaftlichen Anliegens (einer Mission).",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fundraising"
+    },
+    {
+        "title": "Gut (Wirtschaftswissenschaft)",
+        "content": "Als Gut im Allgemeinen bezeichnet man in der Wirtschaftswissenschaft alle materiellen und immateriellen Mittel, die der Bed\u00fcrfnisbefriedigung dienen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gut_(Wirtschaftswissenschaft)"
+    },
+    {
+        "title": "Wirtschaftswachstum",
+        "content": "Unter Wirtschaftswachstum wird ganz allgemein eine Zunahme der Wirtschaftsleistung (je Land, Region oder global) im Zeitablauf verstanden. Die g\u00e4ngigste Ma\u00dfeinheit ist die prozentuale Ver\u00e4nderung des Bruttoinlandsprodukts (BIP) im Zeitablauf als monatliche, viertelj\u00e4hrliche oder j\u00e4hrliche Wachstumsrate. Diese prozentualen Wachstumsraten berechnen sich als Quotient der \u00c4nderung des Inlandsprodukts und dem Wert in der Vorperiode.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wirtschaftswachstum"
+    },
+    {
+        "title": "Personalbeschaffung",
+        "content": "Die Personalbeschaffung (englisch recruitment, recruiting) ist Teil der Personalwirtschaft und befasst sich mit der Deckung eines zuvor definierten Personalbedarfs. Ihre grunds\u00e4tzliche Aufgabe besteht darin, das Unternehmen bedarfsgerecht und kosteng\u00fcnstig mit potenziell qualitativen Arbeitskr\u00e4ften zu versorgen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Personalbeschaffung"
+    },
+    {
+        "title": "Import",
+        "content": "Import (auch: Einfuhr; lateinisch in [wird wegen des nachfolgenden \u201ep\u201c zu im] \u201ein\u2026 hinein \u201c und lateinisch portare \u201etragen, bringen\u201c: \u201ehineintragen, einf\u00fchren\u201c) ist im Au\u00dfenhandel der grenz\u00fcberschreitende Kauf von G\u00fctern oder Dienstleistungen aus dem Ausland und deren Lieferung ins Inland. Gegensatz ist der Export.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Import"
+    },
+    {
+        "title": "Einkommen",
+        "content": "Einkommen bezeichnet die einer nat\u00fcrlichen oder juristischen Person in einem bestimmten Zeitraum als Geld oder Sache zuflie\u00dfenden Leistungen. Umgangssprachlich spricht man bei nat\u00fcrlichen Personen auch vom Verdienst, bei juristischen Personen hingegen vom Gewinn oder \u00dcberschuss.\nIn der Volkswirtschaftslehre stellt das Einkommen als Prim\u00e4reinkommen oder, was gleichbedeutend ist, als Nationaleinkommen die Summe aller Inl\u00e4ndern zukommenden Wertsch\u00f6pfungen der gesellschaftlichen Produktion dar. Es ist in der Mikro\u00f6konomie wie in der Makro\u00f6konomie eine der Gr\u00f6\u00dfen zur Beurteilung der \u00f6konomischen Wohlfahrt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Einkommen"
+    },
+    {
+        "title": "Anreiz",
+        "content": "Anreize stellen das Bindeglied zwischen Motiven (im Sinne von Bed\u00fcrfnissen) und Motivation dar. Sie sind  verhaltensbeeinflussende Reize, die inner- oder au\u00dferhalb einer Person liegen. Wenn sie ihre Entsprechung in den Bed\u00fcrfnissen eines Menschen finden, k\u00f6nnen sie die Person zu einem bestimmten Verhalten veranlassen. Dann aktivieren sie die Bed\u00fcrfnisse und f\u00fchren zu motiviertem Verhalten.\nMan unterscheidet extrinsische Anreize (z. B. monet\u00e4re Belohnung), die in einem erwarteten \u00e4u\u00dferen Nutzen des Handelns liegen, von intrinsischen Anreizen oder T\u00e4tigkeitsanreizen (z. B. Spa\u00df), die in erwarteten positiven Erlebnissen w\u00e4hrend des Handelns bestehen.\nDamit Anreize wirksam werden, m\u00fcssen sie vom Menschen wahrgenommen werden, wobei der Begriff der Wahrnehmung nicht im physiologischen Sinne (H\u00f6ren des akustischen Lautgebildes), sondern im \u00fcbertragenen Sinne (Erkennen des Anreizcharakters einer Situation) zu verstehen ist.\nDer Anreiz im Sinne des Kaufanreizes, wie er im Marketing behandelt wird, ist unter Incentive erkl\u00e4rt. \nEine \u00dcbersicht \u00fcber verschiedene Definitionen des Anreizbegriffs findet sich bei Schulz (2000: S. 20) bzw. bei Becker (2002, S. 14 f.).",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Anreiz"
+    },
+    {
+        "title": "Inflation",
+        "content": "Inflation (von lat. inflatio \u201eAufbl\u00e4hen\u201c, \u201eAnschwellen\u201c) bezeichnet in der Volkswirtschaftslehre eine allgemeine und anhaltende Erh\u00f6hung des Preisniveaus von G\u00fctern und Dienstleistungen (Teuerung), gleichbedeutend mit einer Minderung der Kaufkraft des Geldes.Bei vielen Zentralbanken geh\u00f6rt die Wahrung der Preisniveaustabilit\u00e4t zum vorrangigen Auftrag, wobei eine leichte Teuerung als Abgrenzung zur gegenteiligen Deflation ausdr\u00fccklich erw\u00fcnscht ist. So strebt etwa die Europ\u00e4ische Zentralbank an, die Inflationsrate durch ihre Geldpolitik mittelfristig unter, aber nahe 2 % zu halten.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Inflation"
+    },
+    {
+        "title": "Versicherung (Kollektiv)",
+        "content": "Mit Versicherung (veraltet Assekuranz) wird das Grundprinzip der kollektiven Risiko\u00fcbernahme (Versicherungsprinzip oder \u00c4quivalenzprinzip) bezeichnet, bei dem viele einen Geldbetrag (= Versicherungspr\u00e4mie) in die Kapitalsammelstelle Versicherer einzahlen, um beim Eintreten eines entsprechenden Schadens, dem Versicherungsfall, aus dieser Kapitalsammelstelle einen Schadenausgleich zu erhalten. Da der Versicherungsfall nur bei wenigen Versicherten eintreten wird, reicht das Verm\u00f6gen der Kapitalsammelstelle bei bezahlbarem Beitrag aus. Voraussetzung ist, dass der Umfang der Sch\u00e4den statistisch absch\u00e4tzbar ist und demnach mit versicherungsmathematischen Methoden der von jedem Mitglied des Kollektivs ben\u00f6tigte Beitrag bestimmbar ist.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Versicherung_(Kollektiv)"
+    },
+    {
+        "title": "Zinssatz",
+        "content": "Der Zinssatz (auch Zinsfu\u00df) ist in der Wirtschaft der in Prozent ausgedr\u00fcckte Preis f\u00fcr Geld oder Kapital (bei zinsgebundenen Finanzprodukten wie Krediten oder Kapitalanlagen), ausgedr\u00fcckt als Prozentangabe des Zinses.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zinssatz"
+    },
+    {
+        "title": "Investition",
+        "content": "Unter einer Investition (lateinisch investire, \u201eeinkleiden\u201c) versteht man in der Wirtschaft allgemein den Einsatz von Kapital f\u00fcr einen bestimmten Verwendungszweck durch einen Investor.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Investition"
+    },
+    {
+        "title": "Management",
+        "content": "Management (['m\u00e6n\u026ad\u0292m\u0259nt]; lateinisch manus, \u201eHand\u201c und lateinisch agere, \u201ef\u00fchren\u201c, \u201ean der Hand f\u00fchren\u201c) ist ein Anglizismus f\u00fcr jede zielgerichtete und nach \u00f6konomischen Prinzipien ausgerichtete menschliche Handlungsweise der Leitung, Organisation und Planung in allen Lebensbereichen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Management"
+    },
+    {
+        "title": "Markt",
+        "content": "Der Begriff Markt (von lateinisch mercatus \u201aHandel\u2018, zu lateinisch merx \u201aWare\u2018) bezeichnet allgemeinsprachlich einen Ort, an dem Waren regelm\u00e4\u00dfig auf einem meist zentralen Platz gehandelt werden.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Markt"
+    },
+    {
+        "title": "Marketing",
+        "content": "Der Begriff Marketing oder (deutsch) Absatzwirtschaft bezeichnet aus historischer Sicht den Unternehmensbereich, dessen Aufgabe (Funktion) es ist, Produkte und Dienstleistungen zu vermarkten (zum Verkauf anbieten in einer Weise, dass K\u00e4ufer dieses Angebot als w\u00fcnschenswert wahrnehmen); aus betriebswirtschaftlicher Sicht beschreibt dieser Begriff seit Beginn des einundzwanzigsten Jahrhunderts das Konzept einer ganzheitlichen, marktorientierten Unternehmensf\u00fchrung zur Befriedigung der Bed\u00fcrfnisse und Erwartungen von Kunden und anderen Interessengruppen (Stakeholder). Damit entwickelt sich das Marketingverst\u00e4ndnis von einer operativen Technik zur Beeinflussung der Kaufentscheidung (Marketing-Mix-Instrumente) hin zu einer F\u00fchrungskonzeption, die andere Funktionen wie zum Beispiel Beschaffung, Produktion, Verwaltung und Personal mit einschlie\u00dft.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Marketing"
+    },
+    {
+        "title": "Kaufmann",
+        "content": "Ein Kaufmann ist eine nat\u00fcrliche Person, die gewerbsm\u00e4\u00dfig Gesch\u00e4fte t\u00e4tigt (Gesch\u00e4ftsmann). Er erwirbt Handelswaren und verkauft diese mit einer Handelsspanne weiter, um beim Verkauf die Kosten zu decken und einen Gewinn zu erzielen. Die T\u00e4tigkeiten des Kaufens und Verkaufens (sowie ein blo\u00dfes Mitwirken an diesen) liegen den kaufm\u00e4nnischen Berufen zugrunde.Die Berufsbezeichnung f\u00fcr Frauen lautet Kauffrau. Historisch gesehen bezeichnet der Begriff Kauffrau eine Handel treibende Frau oder auch die Frau eines Kauf- oder Handelsherrn. \u00dcblich sind die Abk\u00fcrzungen Kfm. und Kffr. Der Plural ist Kaufleute.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kaufmann"
+    },
+    {
+        "title": "Monopol",
+        "content": "Als Monopol (von lateinisch monopolium; Zusammensetzung aus altgriechisch \u03bc\u03cc\u03bd\u03bf\u03c2 monos \u201eallein\u201c und \u03c0\u03c9\u03bb\u03b5\u1fd6\u03bd p\u014dlein \u201everkaufen\u201c) wird in den Wirtschaftswissenschaften und in der Wirtschaft eine Marktform genannt, bei welcher nur ein Anbieter vorhanden ist.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Monopol"
+    },
+    {
+        "title": "Verhandlung",
+        "content": "Verhandlung ist eine Gespr\u00e4chsform \u00fcber einen kontroversen Sachverhalt, die durch gegens\u00e4tzliche Interessen der Parteien gekennzeichnet ist und einen Interessenausgleich beziehungsweise eine Einigung zum Ziel hat.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Verhandlung"
+    },
+    {
+        "title": "Organisation",
+        "content": "Organisation (griechisch \u1f44\u03c1\u03b3\u03b1\u03bd\u03bf\u03bd \u00f3rganon, deutsch \u201aWerkzeug\u2018) ist ein Homonym, das sich allgemein mit \u201eBewerkstelligung\u201c \u00fcbersetzen l\u00e4sst. Eindeutige Definitionen bestehen jedoch nicht. Etymologisch ist \u201eOrganisation\u201c gem\u00e4\u00df Duden vom Verb \u201eorganisieren\u201c abgeleitet (\u201eplanm\u00e4\u00dfig ordnen, gestalten, einrichten, aufbauen\u201c), das auf franz\u00f6sisch organe f\u00fcr \u201eWerkzeug\u201c, \u201emit Organen versehen\u201c, \u201ezu einem lebensf\u00e4higen Ganzen zusammenf\u00fcgen\u201c zur\u00fcckgeht.\nOrganisation steht daher auch f\u00fcr den Prozess des Organisierens, durch den \u201efortlaufende unabh\u00e4ngige Handlungen zu vern\u00fcnftigen Folgen\u201c zusammengef\u00fcgt werden, \u201eso dass vern\u00fcnftige Ergebnisse erzielt werden\u201c bzw. so zusammengef\u00fcgt werden, dass sie zu gew\u00fcnschten Zielen bzw. Ergebnissen f\u00fchren.\nEine Organisation kann dar\u00fcber hinaus ein soziales oder soziotechnisches System sein, das bei der planm\u00e4\u00dfigen und zielorientierten Arbeit von Menschen entsteht, sich zur Umwelt abgrenzt und \u2013 als korporativer Akteur (Coleman) \u2013 mit anderen Akteuren interagieren kann.\nIn der Biologie kennt man Organisationen in Form von Gemeinschaftsbildung, Teambildung (z. B. Horde) oder Staatenbildung (z. B. Ameisenstaat, auch als Superorganismus bezeichnet).",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Organisation"
+    },
+    {
+        "title": "Produktion",
+        "content": "Produktion (lateinisch producere \u201ahervor f\u00fchren\u2018), insbesondere bei Gegenst\u00e4nden auch Fertigung, Fabrikation oder Verarbeitung, Bearbeitung, im rechtlichen Sprachgebrauch die Herstellung, sind die von Arbeitskr\u00e4ften (Produzenten) mittels Arbeit bewirkten Prozesse der Transformation, die aus nat\u00fcrlichen wie bereits produzierten Ausgangsstoffen (Werkstoffe) unter Einsatz von Energie und bestimmten Produktionsmitteln lagerbare Wirtschafts- oder Gebrauchsg\u00fcter (\u00d6konomisches Gut) erzeugen.\nIn seinen Beitr\u00e4gen zur Politischen \u00d6konomie definiert Karl Marx die Produktion philosophisch im Rahmen der Gesellschaftssysteme als \u00f6konomischen Prozess neben der Distribution, der Verteilung/Aneignung und der Konsumtion.\nVom Standpunkt der Betriebswirtschaftslehre ist die Produktion betriebsorganisatorisch als Teil des Gesch\u00e4ftsprozesses eine betriebliche Funktion in Unternehmen. Eine umfassende Betrachtung der Produktion erstreckt sich nicht nur auf organisatorische und technologische Gesichtspunkte, sondern auch auf allgemeinere soziokulturelle und ethisch-normative Wertvorstellungen \u00fcber die Arbeit, denen sie als einer der grundlegenden Vorg\u00e4nge zur Deckung der menschlichen Bed\u00fcrfnisse unterliegt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Produktion"
+    },
+    {
+        "title": "Gewinn",
+        "content": "Gewinn oder Ergebnis ist in der Wirtschaftswissenschaft der \u00dcberschuss der Ertr\u00e4ge \u00fcber die Aufwendungen eines Unternehmens. Ein negativer Gewinn hei\u00dft Verlust.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Gewinn"
+    },
+    {
+        "title": "Kaufkraft (Konsum)",
+        "content": "Als Kaufkraft der Verbraucherhaushalte wird das in privaten Haushalten f\u00fcr Konsumzwecke verf\u00fcgbare Einkommen bezeichnet, also derjenige Betrag, der pro Haushalt vom Einkommen verbleibt, nachdem alle regelm\u00e4\u00dfig wiederkehrenden Zahlungsverpflichtungen (zum Beispiel Wohnungsmieten, Kreditraten, Versicherungspr\u00e4mien) bedient wurden. Die Kaufkraft kann sich somit entweder auf das monatliche Einkommen oder auch auf das Jahreseinkommen einer Person oder eines Haushalts beziehen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kaufkraft_(Konsum)"
+    },
+    {
+        "title": "Personalbeschaffung",
+        "content": "Die Personalbeschaffung (englisch recruitment, recruiting) ist Teil der Personalwirtschaft und befasst sich mit der Deckung eines zuvor definierten Personalbedarfs. Ihre grunds\u00e4tzliche Aufgabe besteht darin, das Unternehmen bedarfsgerecht und kosteng\u00fcnstig mit potenziell qualitativen Arbeitskr\u00e4ften zu versorgen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Personalbeschaffung"
+    },
+    {
+        "title": "Risiko",
+        "content": "Risiko weist je nach Fachgebiet einen unterschiedlichen Begriffsinhalt auf, allgemein wird hierunter die M\u00f6glichkeit des Eintritts k\u00fcnftiger Ereignisse, die nachteilige Auswirkungen wie Verlustgefahren in sich bergen, verstanden. Komplement\u00e4rbegriff ist die Sicherheit.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Risiko"
+    },
+    {
+        "title": "Vertrieb",
+        "content": "Der Vertrieb ist eine betriebliche Funktion in Unternehmen, die Produkte oder Dienstleistungen f\u00fcr Kunden oder Endverbraucher verf\u00fcgbar machen soll. Es handelt sich um das Element des Marketing-Mix, das in \u00e4lteren Lehrb\u00fcchern als Distributionspolitik bezeichnet wurde. Nach aktuellem Marketingverst\u00e4ndnis handelt es sich um Vertriebspolitik, bei der die Umsetzung der Vertriebsstrategie und die effiziente Gestaltung des Vertriebsprozesses im Vordergrund stehen. Die verantwortlichen Personen im Vertrieb ben\u00f6tigen entsprechende Vertriebskompetenzen, die vor allem beim Investitionsg\u00fctermarketing bzw. bei der Vermarktung wissens- und technologieintensiver Produkte und Dienstleistungen von besonderer Bedeutung sind.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Vertrieb"
+    },
+    {
+        "title": "Kontoauszug",
+        "content": "Ein Kontoauszug ist ein Schriftst\u00fcck, auf dem alle Ums\u00e4tze eines Bankkontos einschlie\u00dflich eines sich hieraus ergebenden Saldos ersichtlich sind. Eine spezielle Variante ist der elektronische Kontoauszug, bei dem die Kontoauszugsdaten, beispielsweise beim Online-Banking, in Dateiform bereitgestellt werden.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kontoauszug"
+    },
+    {
+        "title": "Angebot (Volkswirtschaftslehre)",
+        "content": "Angebot ist in der Volkswirtschaftslehre die Menge jeder Art von G\u00fctern und Dienstleistungen, die Wirtschaftssubjekte zu einem bestimmten Preis im Tausch gegen Geld oder andere G\u00fcter und Dienstleistungen als Verk\u00e4ufer auf einem Markt abzusetzen bereit sind. Dem Angebot steht die Nachfrage gegen\u00fcber.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Angebot_(Volkswirtschaftslehre)"
+    },
+    {
+        "title": "Nachfrage",
+        "content": "Nachfrage ist in der Wirtschaft die Menge jeder Art von G\u00fctern und Dienstleistungen, die Wirtschaftssubjekte durch Kauf mit Hilfe von ausreichender Kaufkraft zu einem bestimmten Kaufpreis erwerben. Komplement\u00e4rbegriff ist das Angebot.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Nachfrage"
+    },
+    {
+        "title": "Nichtregierungsorganisation",
+        "content": "Eine Nichtregierungsorganisation (NRO bzw. aus dem Englischen Non-governmental organization, NGO) oder auch nichtstaatliche Organisation ist ein zivilgesellschaftlich zustande gekommener Interessenverband, der nicht durch ein \u00f6ffentliches Mandat legitimiert ist. Die Weltbank definiert NROs als private Organisationen, die durch ihre Aktivit\u00e4ten versuchen, Leid zu mindern, die Interessen der Armen in der \u00d6ffentlichkeit zu vertreten, die Umwelt zu sch\u00fctzen, grundlegende soziale Dienste zu leisten oder Aktionen f\u00fcr Entwicklungsvorhaben zu initiieren. Diese Begriffsbestimmung wurde bewusst unscharf gew\u00e4hlt, da sich NROs aller denkbaren Aufgaben annehmen k\u00f6nnen.Der englische Begriff non-governmental organization wurde einst von den Vereinten Nationen (UNO) eingef\u00fchrt, um Vertreter der Zivilgesellschaft, die sich an den politischen Prozessen der UNO beteiligen, von den staatlichen Vertretern abzugrenzen; non-governmental bedeutet dabei \u201enichtstaatlich\u201c im Sinne von \u201estaatsunabh\u00e4ngig\u201c, \u201eregierungsunabh\u00e4ngig\u201c. Heute wird der Begriff von und f\u00fcr nichtstaatliche Vereinigungen benutzt, die sich insbesondere sozial- und umweltpolitisch engagieren, und zwar unabh\u00e4ngig von einer Beziehung zur UNO. Zu den bekanntesten und gr\u00f6\u00dften internationalen Organisationen z\u00e4hlen beispielsweise im Bereich Umweltschutz Greenpeace und World Wildlife Fund, bei den Menschenrechten Amnesty International und Human Rights Watch, in der Korruptionsbek\u00e4mpfung Transparency International und Internet Corporation for Assigned Names and Numbers f\u00fcr neue Technologien.Einerseits wird eine NRO (engl. NGO), die weltweit aktiv ist, als internationale Nichtregierungsorganisation (INGO) bezeichnet; andererseits wird INGO vom Europarat f\u00fcr die Gemeinschaft der national-t\u00e4tigen NRO mit ihren europ\u00e4ischen Partner-NROs benutzt, die Teilnehmerstatus bei der Konferenz der internationalen Nichtregierungsorganisationen haben (vgl. NRO-Bewerbung f\u00fcr einen Teilnahme-Status beim Europarat).",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Nichtregierungsorganisation"
+    },
+    {
+        "title": "Steuer",
+        "content": "Als Steuer (fr\u00fcher auch Taxe) wird eine Geldleistung ohne Anspruch auf individuelle Gegenleistung bezeichnet, die ein \u00f6ffentlich-rechtliches Gemeinwesen zur Erzielung von Einnahmen allen steuerpflichtigen Personen \u2013 was sowohl nat\u00fcrliche als auch juristische Personen einschlie\u00dft \u2013 auferlegt. Damit sind Steuern \u00f6ffentlich-rechtliche Abgaben, die zur Deckung des allgemeinen Finanzbedarfs alle zahlen m\u00fcssen, die den Tatbestand der Steuerpflicht erf\u00fcllen, wobei die Erzielung von Einnahmen wenigstens Nebenzweck sein sollte. Geb\u00fchren und Beitr\u00e4ge werden hingegen aufgabenbezogen und zweckgebunden verwendet.\nAus den urspr\u00fcnglich als Naturalabgaben in Form von Sach- oder Dienstleistungen (Frondiensten) erhobenen Steuern sind heute reine Geld\u00adleistungen geworden.\nSteuern sind in der Regel die Haupteinnahmequelle eines modernen Staates und das wichtigste Instrument zur Finanzierung seines territorial abgegrenzten Staatswesens und anderer (supranationaler) Aufgaben. Durch die finanziellen Auswirkungen auf alle B\u00fcrger und die komplexe Steuergesetz\u00adgebung sind Steuern und andere Abgaben ein fortdauernder politischer und gesellschaftlicher Streit\u00adpunkt.\nLaut einer von den Vereinten Nationen ver\u00f6ffentlichten Studie geh\u00f6rt Deutschland zu den L\u00e4ndern mit der h\u00f6chsten Bereitschaft, durch Steuern \u00f6ffentliche G\u00fcter zu finanzieren.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Steuer"
+    },
+    {
+        "title": "Transaktion (Wirtschaft)",
+        "content": "Transaktion ist in der Volkswirtschaftslehre die \u00dcbertragung von Wirtschaftsobjekten zwischen Wirtschaftssubjekten.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Transaktion_(Wirtschaft)"
+    },
+    {
+        "title": "Start-up-Unternehmen",
+        "content": "Ein Start-up-Unternehmen (von englisch to start up = \u201egr\u00fcnden, in Gang setzen\u201c), auch Startup-Unternehmen, oder kurz Start-up ist eine Unternehmensgr\u00fcndung mit einer innovativen Gesch\u00e4ftsidee und hohem Wachstums\u00adpotenzial. Der Begriff ist wirtschaftsgeschichtlich relativ neu.\nDie Finanzierung wird dabei h\u00e4ufig wegen der hohen Risiken nicht \u00fcber klassische Banken organisiert, sondern \u00fcber F\u00f6rderbanken und innovative Finanzierungsformen wie Wagniskapital und Crowdfunding.\nOft haben die Startups es dabei mit einem jungen oder noch nicht existierenden Markt zu tun und m\u00fcssen erst ein funktionierendes, skalierbares Gesch\u00e4ftsmodell finden. Haben sie dieses gefunden und etabliert, gelten sie allgemein nicht mehr als Startup. Ehemalige Startups bewahren sich mitunter die erfolgreichen Ans\u00e4tze von Startups (wie Innovationsf\u00e4higkeit, Flexibilit\u00e4t, Modernit\u00e4t, flache Hierarchien), f\u00f6rdern sie durch Inkubatoren, gr\u00fcnden bzw. gliedern eigene Sparten als Startups aus (sogenannte Spinoffs), oder \u00fcbernehmen Startups durch Zuk\u00e4ufe.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Start-up-Unternehmen"
+    },
+    {
+        "title": "Arbeitslosigkeit",
+        "content": "Unter Arbeitslosigkeit (englisch unemployment, franz\u00f6sisch ch\u00f4mage) versteht man in der Volkswirtschaftslehre das Fehlen von erwerbsorientierten Besch\u00e4ftigungsm\u00f6glichkeiten f\u00fcr einen Teil der arbeitsf\u00e4higen und beim bestehenden Lohnniveau arbeitsbereiten Personen. Statistisches Pendant sind die offenen Stellen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Arbeitslosigkeit"
+    },
+    {
+        "title": "Oligopol",
+        "content": "Das Oligopol (altgriechisch \u1f40\u03bb\u03af\u03b3\u03bf\u03b9 oligoi, \u201ewenige\u201c und altgriechisch \u03c0\u03c9\u03bb\u03b5\u1fd6\u03bd p\u014dlein, \u201everkaufen\u201c) ist in der Wirtschaft eine Marktform, die durch wenige Marktteilnehmer gekennzeichnet ist.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Oligopol"
+    },
+    {
+        "title": "Betrug (Deutschland)",
+        "content": "Der Betrug ist ein Tatbestand des deutschen Strafrechts. Er z\u00e4hlt zu den Verm\u00f6gensdelikten und ist in \u00a7 263 StGB geregelt. Die Strafnorm bezweckt den Schutz des Verm\u00f6gens. Sie erfasst Verhaltensweisen, mit denen jemand einen anderen durch T\u00fccke dazu bewegt, sich selbst in seinem Verm\u00f6gen zugunsten des T\u00e4ters oder eines Dritten zu sch\u00e4digen.\nF\u00fcr den Betrug kann eine Freiheitsstrafe bis zu f\u00fcnf Jahren oder eine Geldstrafe verh\u00e4ngt werden. Die Zahl der gemeldeten F\u00e4lle liegt seit vielen Jahren im oberen sechsstelligen Bereich. 2017 wurden 910.352 Betrugstaten angezeigt, womit der Betrug das am h\u00e4ufigsten gemeldete Vergehen nach dem Diebstahl (\u00a7 242 StGB) darstellt. Von besonders gro\u00dfer Bedeutung ist der Betrug gemeinsam mit dem Tatbestand der Untreue (\u00a7 266 StGB) im Wirtschaftsstrafrecht.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Betrug_(Deutschland)"
+    },
+    {
+        "title": "Geltungsbereich",
+        "content": "Geltungsbereich (auch Anwendungsbereich genannt) bezeichnet in Deutschland die r\u00e4umliche, pers\u00f6nliche, sachliche und zeitliche Reichweite einer Rechtsnorm.\nBestimmungen zum r\u00e4umlichen, pers\u00f6nlichen und sachlichen Geltungsbereich stehen oft am Anfang, zum zeitlichen Geltungsbereich am Ende von Rechtsquellen mit Bezug auf alle enthaltenen Rechtsnormen. Der Geltungsbereich kann auch ein Tatbestandsmerkmal einer einzelnen Rechtsnorm sein, beispielsweise das Verbot des Verkehrs mit Kraftfahrzeugen und Fahrr\u00e4dern auf der Insel Helgoland gem\u00e4\u00df \u00a7 50 StVO. Gesetze k\u00f6nnen detaillierte Bestimmungen zu ihrem Geltungsbereich treffen. So umfasst der Titel \u201eGeltungsbereich\u201c des Strafgesetzbuches (StGB) zehn Paragraphen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Geltungsbereich"
+    },
+    {
+        "title": "Recht",
+        "content": "Recht bezeichnet die Gesamtheit genereller Verhaltensregeln, die von der Gemeinschaft gew\u00e4hrleistet werden. Solche Verhaltensnormen entstehen entweder als Gewohnheitsrecht, indem Regeln, die von der Gemeinschaft als verbindlich akzeptiert werden, fortdauernd befolgt werden, oder als gesetztes (\u201epositives\u201c) Recht, das von staatlichen oder \u00fcberstaatlichen Gesetzgebungsorganen oder von satzungsgebenden K\u00f6rperschaften geschaffen wird. Das Recht umfasst damit alle Regeln zur Konfliktverh\u00fctung und -l\u00f6sung, damit ein geordnetes und friedliches Miteinander m\u00f6glich ist, weil sie von allen Mitgliedern einer Gesellschaft eingehalten werden sollen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Recht"
+    },
+    {
+        "title": "Klage",
+        "content": "Die Klage ist im Zivilprozess sowie in den Verfahren vor den Verwaltungs-, Sozial-, Arbeits- und Finanzgerichten die Verfahrenseinleitung, also der Antrag auf gerichtliche Entscheidung in den Verfahren, in denen aufgrund einer m\u00fcndlichen Verhandlung durch Urteil entschieden wird. Im Strafverfahren wird die von der Staatsanwaltschaft zu erhebende \u00f6ffentliche Klage vor einem Gericht auch Anklage genannt. Nach \u00a7 113 Abs. 5 Nr. 2 FamFG wird eine Klage in Familiensachen und in der freiwilligen Gerichtsbarkeit Antrag genannt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Klage"
+    },
+    {
+        "title": "Feilschen",
+        "content": "Feilschen ist eine Art des Verhandelns, bei der der Verk\u00e4ufer und der K\u00e4ufer einer Ware oder Dienstleistung sich \u00fcber den Marktpreis und die exakten Bedingungen des Gesch\u00e4fts einigen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Feilschen"
+    },
+    {
+        "title": "Handelsware",
+        "content": "Handelsware ist eine Sammelbezeichnung f\u00fcr die von Gewerbetreibenden gehandelten materiellen G\u00fcter. Im weitesten Sinn kommen als Handelsobjekte G\u00fcter aller Art in Betracht wie Rohstoffe, landwirtschaftliche Erzeugnisse, Investitionsg\u00fcter, Konsumg\u00fcter oder Commodities. Im engeren Sinn \u2013 und vorherrschend \u2013 wird der Begriff der Handelsware auf den Gesch\u00e4ftsgegenstand von Handelsunternehmen beschr\u00e4nkt. Die in der Industrie Produkte und in Landwirtschaft und Gartenbau Erzeugnisse genannten Waren werden im Handel zu Artikeln.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Handelsware"
+    },
+    {
+        "title": "Schulden",
+        "content": "Unter Schulden versteht man umgangssprachlich Verbindlichkeiten, die mit R\u00fcckzahlungsverpflichtungen von nat\u00fcrlichen oder juristischen Personen gegen\u00fcber Gl\u00e4ubigern verbunden sind.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schulden"
+    },
+    {
+        "title": "Abzinsung und Aufzinsung",
+        "content": "Die Abzinsung (auch Diskontierung, engl. discounting; oft f\u00e4lschlich auch Abdiskontierung genannt) ist eine Rechenoperation aus der Finanzmathematik. Berechnet wird hierbei der Wert einer zuk\u00fcnftigen Zahlung. H\u00e4ufig wird mittels Diskontierung der gegenw\u00e4rtige Wert (Barwert) einer zuk\u00fcnftigen Zahlung ermittelt.\nEntsprechend ist die Aufzinsung (auch Askontierung) die umgekehrte Rechenoperation. Bei ihr wird der Wert, den eine Zahlung zu einem sp\u00e4teren Zeitpunkt hat, ermittelt.\nAuf Grund der Existenz von Zinsen hat derselbe Geldbetrag einen umso h\u00f6heren Wert, je fr\u00fcher man ihn erh\u00e4lt. Dieser Zusammenhang wird durch die Rechenoperationen der Abzinsung und Aufzinsung wiedergegeben.\nDer Wert V, den eine zum Zeitpunkt t2 flie\u00dfende Zahlung der H\u00f6he C zum Zeitpunkt t1 hat, berechnet sich als Produkt von C und dem Diskontierungsfaktor oder Abzinsfaktor DF, der eine Funktion der Zeitpunkte t1 und t2 sowie des ma\u00dfgeblichen Zinssatzes z ist.\n\n  \n    \n      \n        V\n        =\n        C\n        \u22c5\n        D\n        F\n        (\n        z\n        ,\n        \n          t\n          \n            1\n          \n        \n        ,\n        \n          t\n          \n            2\n          \n        \n        )\n      \n    \n    {\\displaystyle V=C\\cdot DF(z,t_{1},t_{2})}\n  Da es sich um eine Abzinsung handelt, liegt der Zeitpunkt t1 vor dem Zeitpunkt t2 (t1 < t2).\nDer Aufzinsungsfaktor AF ist einfach der Kehrwert des Diskontierungsfaktors f\u00fcr den gleichen Zeitraum. Er dient z. B. zur Ermittlung eines Endwertes.\nPositive Zinss\u00e4tze vorausgesetzt, ist der Diskontierungsfaktor DF immer kleiner als 1 und gr\u00f6\u00dfer als 0. Entsprechend ist der Aufzinsungsfaktor immer gr\u00f6\u00dfer als 1. Die genaue Form des Aufzinsungs- und des Diskontierungsfaktors h\u00e4ngt von der gew\u00e4hlten Zinskonvention ab.\nBei den Zinsen kann es sich sowohl um tats\u00e4chliche Zinsen (Marktzinsen) als auch um fiktive, etwa kalkulatorische oder Alternativzinsen handeln (wie zum Beispiel bei der Unternehmensbewertung).",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Abzinsung_und_Aufzinsung"
+    },
+    {
+        "title": "Spende",
+        "content": "Eine Spende ist eine freiwillige Zuwendung f\u00fcr einen religi\u00f6sen, wissenschaftlichen, gemeinn\u00fctzigen, mildt\u00e4tigen, kulturellen, wirtschaftlichen oder politischen Zweck. Spendenempf\u00e4nger k\u00f6nnen entweder nat\u00fcrliche oder juristische Personen, wie Vereine, Stiftungen, politische Parteien, Hilfsorganisationen oder Religionsgemeinschaften, sein. Spenden k\u00f6nnen in Geld oder Sachleistungen bestehen oder in einem Verzicht auf Arbeitsentgelt f\u00fcr geleistete Arbeit (Zeitspende).",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Spende"
+    },
+    {
+        "title": "Arbeitsmarkt\u00f6konomik",
+        "content": "Die Arbeitsmarkt\u00f6konomik ist eine Teildisziplin der Wirtschaftswissenschaften, die sich aus \u00f6konomischer Sicht mit der Funktionsweise von Arbeitsm\u00e4rkten befasst. Zentraler Untersuchungsgegenstand ist dabei das Angebot an und die Nachfrage nach Menschen als essenziellem Produktionsfaktor. Im Fokus der Disziplin stehen zu diesem Zweck beispielsweise die Faktoren und Mechanismen, durch die die Entscheidung zur Arbeitsaufnahme, die Wahl des individuellen Arbeitseinsatzes, die Lohnh\u00f6he sowie die H\u00f6he der Arbeitslosigkeit beeinflusst werden.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Arbeitsmarkt%C3%B6konomik"
+    },
+    {
+        "title": "Hypothekendarlehen",
+        "content": "Hypothekendarlehen ist die umgangssprachliche Bezeichnung f\u00fcr Darlehen, die durch Grundpfandrechte auf mindestens einer Immobilie besichert sind.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Hypothekendarlehen"
+    },
+    {
+        "title": "Konjunktur",
+        "content": "Unter Konjunktur versteht man die gesamtwirtschaftliche Lage, besonders in Hinsicht auf deren aktuellen positiven oder negativen Trend, aber der Ausdruck wird auch f\u00fcr eine besonders gute gesamtwirtschaftliche Lage (Hochkonjunktur) verwendet, also wenn die meisten Unternehmen einen gro\u00dfen Umsatz haben. Wirtschaftswissenschaftlich ausgedr\u00fcckt versteht man unter Konjunktur Schwankungen im Auslastungsgrad des Produktionspotenzials einer Volkswirtschaft. Weiterhin k\u00f6nnen mehr oder weniger regelm\u00e4\u00dfige Schwankungen \u00f6konomischer Gr\u00f6\u00dfen stattfinden wie z. B. Produktion, Besch\u00e4ftigung, Zinssatz und Preise mit der Folge, dass zyklische Schwankungen der gesamtwirtschaftlichen Aktivit\u00e4t entstehen k\u00f6nnen. Gemessen werden kann dieses durch den Grad der Kapazit\u00e4tsauslastung.\nDer wichtigste Indikator hierf\u00fcr ist das reale Bruttoinlandsprodukt.\nGenauer versteht man unter dem Begriff \"Konjunktur\", wenn Nachfrage- und Produktionsschwankungen zu Ver\u00e4nderungen des Auslastungsgrades der Produktionskapazit\u00e4ten f\u00fchren (in Abgrenzung von der Entwicklung der Kapazit\u00e4ten im Sinne von wirtschaftlichem Wachstum selbst) und wenn sie eine gewisse Regelm\u00e4\u00dfigkeit aufweisen (in Abgrenzung von einmaligen Sondereinfl\u00fcssen).\nDiese in Konjunkturzyklen wiederkehrende wellenf\u00f6rmige Ver\u00e4nderungsweise des wirtschaftlichen Aktivit\u00e4tsniveaus innerhalb einer Marktwirtschaft wird durch die Konjunkturtheorie untersucht und zu erkl\u00e4ren versucht. Dabei werden unterschiedliche Methoden angewandt, um aus den beobachteten Daten das regelm\u00e4\u00dfige Ablaufmuster eines Konjunkturzyklus zu gewinnen, insbesondere dessen oberen und unteren Umkehrpunkt.\nIm Unterschied dazu betrachtet die Wachstumstheorie den langfristigen Trend des Wachstums einer Volkswirtschaft im Gleichgewicht. Um den Konjunkturverlauf an und f\u00fcr sich zu betrachten, muss demzufolge von dem zugrunde liegenden Wachstumstrend abstrahiert werden. Die konjunkturtheoretische Analyse \u00fcberschneidet sich zum Teil mit der Besch\u00e4ftigungstheorie.\nAls einzelne Phasen eines Konjunkturzyklus werden h\u00e4ufig unterschieden:\n\nAufschwungphasen (Expansion, Prosperit\u00e4t),\nHochkonjunktur (Boom),\nAbschwungphasen (Rezession) und\nTiefphasen (Depression).Je nach zugrunde gelegter Theorie, verf\u00fcgbaren Indikatoren und den f\u00fcr die einzelnen Volkswirtschaften ma\u00dfgeblichen Gremien gibt es jedoch abweichende Definitionen dar\u00fcber, was etwa eine \u201eRezession\u201c darstellt und dementsprechend auch, wann diese eingetreten ist.\nVerbessert sich die Konjunktur in bestimmten Teilbereichen einer Volkswirtschaft aufgrund einer au\u00dferordentlichen Situation \u2013 zum Beispiel einer \u00c4nderung gesetzlicher Rahmenbedingungen \u2013 f\u00fcr einen begrenzten Zeitraum, so spricht man auch von einer Sonderkonjunktur.\nWirtschaftspolitische Ma\u00dfnahmen zur Abschw\u00e4chung konjunktureller Schwankungen werden als Konjunkturpolitik bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Konjunktur"
+    },
+    {
+        "title": "Deflation",
+        "content": "Unter Deflation versteht man in der Volkswirtschaftslehre einen allgemeinen, signifikanten und anhaltenden R\u00fcckgang des Preisniveaus f\u00fcr G\u00fcter und Dienstleistungen. Deflation entsteht, wenn die gesamtwirtschaftliche Nachfrage geringer ist als das gesamtwirtschaftliche Angebot (Absatzkrise). Deflation kann zusammen mit einer Depression auftreten. Es gab aber historisch auch Deflationsperioden, die mit einem ausk\u00f6mmlichen Wirtschaftswachstum einhergingen.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Deflation"
+    },
+    {
+        "title": "Rente (Wirtschaft)",
+        "content": "Die Rente ist in der Wirtschaft ein regelm\u00e4\u00dfiges Einkommen, das ohne unmittelbare Gegenleistung erzielt wird.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Rente_(Wirtschaft)"
+    },
+    {
+        "title": "Stock (Fessel)",
+        "content": "Ein Stock ist eine meist h\u00f6lzerne Fessel, mit der in fr\u00fcheren Zeiten (vor allem im Mittelalter) Gefangene an der Flucht gehindert wurden. Eine andere Bezeichnung f\u00fcr den Stock ist Fu\u00dfblock.\nEine verbreitete Form bestand aus zwei l\u00e4nglichen Holzbl\u00f6cken, die \u00fcbereinander gelegt und an der einen Seite mit einem Scharnier und auf der anderen Seite mit einem Verschlussmechanismus versehen wurden. Die Holzbl\u00f6cke erhielten jeweils halbkreisf\u00f6rmige Aussparungen, die im verschlossenen Zustand genau \u00fcbereinander lagen. So entstanden L\u00f6cher, welche die Fu\u00dfgelenke der gefesselten Person umschlossen und die so klein waren, dass die F\u00fc\u00dfe nicht hindurchgezogen werden konnten. Anstatt die Holzbl\u00f6cke mit Scharnier und Schloss miteinander zu verbinden, wurden diese manchmal auch miteinander verschraubt. \nMit einigen St\u00f6cken konnten zus\u00e4tzlich auch die H\u00e4nde gefesselt werden, sie verf\u00fcgten entweder \u00fcber vier L\u00f6cher oder \u00fcber U-f\u00f6rmige Eisenschellen, die auf dem oberen Block montiert wurden. Der untere Block wurde oftmals fest mit dem Boden verbunden.\nZum Anlegen der Fessel wurde der obere Block nach oben geklappt oder entfernt. Die zu fesselnde Person musste sich auf den Boden setzen und die Fu\u00df- und ggf. auch die Handgelenke in die daf\u00fcr vorgesehenen halbkreisf\u00f6rmigen Aussparungen legen. Daraufhin wurde der obere Block auf den unteren gelegt und mit diesem verbunden. Bei der Version mit vier L\u00f6chern wurden die Fu\u00dfgelenke in die beiden \u00e4u\u00dferen, die Handgelenke in die beiden inneren L\u00f6cher geschlossen. Dies hatte eine sehr unbequeme Sitzposition zur Folge: Der Oberk\u00f6rper musste weit nach vorne gebeugt werden, die Beine waren gespreizt.\nDer Stock war im Mittelalter zu Fesselung von Gefangenen im Kerker weit verbreitet. Weiterhin wurde der Stock f\u00fcr Ehrenstrafen verwendet. Der oder die zum \u201eSitzen im Stock\u201c Verurteilte wurde im Stock gefesselt der \u00d6ffentlichkeit pr\u00e4sentiert; der Stock \u00fcbernahm somit die Funktion des Prangers. Au\u00dferdem diente der Stock dazu, Gefangene daran zu hindern, sich der Anwendung von Folter zu entziehen.\n\nDie Fesselung mit Holzbl\u00f6cken bot sich im Mittelalter an, da diese Form der Fessel wesentlich einfacher herzustellen war als Ketten und Eisenschellen. Es handelt sich jedoch um eine der schmerzvollsten und rigidesten Fesselungsmethoden, da der gefesselten Person die Bewegungsfreiheit praktisch vollst\u00e4ndig entzogen wird. Heute wird der Stock nicht mehr im Strafvollzug verwendet, er findet jedoch im Bereich des BDSM Anwendung.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Stock_(Fessel)"
+    },
+    {
+        "title": "Aktienmarkt",
+        "content": "Der Aktienmarkt (englisch stock market) ist ein Marktsegment des Kapitalmarkts, das den b\u00f6rslichen und au\u00dferb\u00f6rslichen Handel mit Aktien umfasst. Komplement\u00e4rbegriff ist der Rentenmarkt.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Aktienmarkt"
+    },
+    {
+        "title": "Wall Street",
+        "content": "Die Wall Street (dt. Wallstra\u00dfe) ist eine Stra\u00dfe im New Yorker Stadtbezirk Manhattan, in der sich zahlreiche Kreditinstitute und die weltgr\u00f6\u00dfte Wertpapierb\u00f6rse, die New York Stock Exchange, befinden.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wall_Street"
+    },
+    {
+        "title": "Handel",
+        "content": "Als Handel wird die wirtschaftliche T\u00e4tigkeit des Austauschs von materiellen oder immateriellen G\u00fctern\nzwischen Wirtschaftssubjekten von der Produktion bis zum Konsum oder einer anderweitigen G\u00fcterverwendung bezeichnet.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Handel"
+    },
+    {
+        "title": "Wert (Wirtschaft)",
+        "content": "Der Wert (auch: \u00f6konomischer Wert, englisch value) ist in der Wirtschaftswissenschaft die sich aus Preisen ergebende, quantitativ messbare Bedeutung von Wirtschaftsobjekten (G\u00fcter, Forderungen und Dienstleistungen), die dem Tauschverh\u00e4ltnis eines Wirtschaftsobjekts zu einem anderen oder einem maximal akzeptablen Grenzpreis (Entscheidungswert) entspricht.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wert_(Wirtschaft)"
+    },
+    {
+        "title": "Treasury",
+        "content": "Der Anglizismus Treasury umfasst entweder \u2013 auf ein Unternehmen bezogen \u2013 die Organisationseinheiten, die sich mit der Steuerung von Zahlungsstr\u00f6men befassen (Finanzmanagement) oder das Schatzamt eines Staates.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Treasury"
+    },
+    {
+        "title": "Reichtum",
+        "content": "Reichtum bezeichnet den \u00dcberfluss an gegenst\u00e4ndlichen oder geistigen Werten. Es gibt jedoch keine allgemeing\u00fcltige Festlegung, da die Vorstellung von Reichtum von kulturell gepr\u00e4gten, subjektiven und zum Teil h\u00f6chst emotionalen bzw. normativen Wertvorstellungen abh\u00e4ngt. In den modernen Industriestaaten wird Reichtum h\u00e4ufig ausschlie\u00dflich quantitativ auf Wohlstand und Lebensstandard bezogen, obwohl er sich tats\u00e4chlich nicht auf materielle G\u00fcter reduzieren l\u00e4sst. Die Bedeutung geistigen Reichtums wird h\u00e4ufig untersch\u00e4tzt, u. a. weil er nur schwer messbar ist. Gesellschaftlich gesehen erfordert die Entstehung von Reichtum die allgemein akzeptierte \u00dcbereinkunft, dass Dinge, Land oder Geld jemandem geh\u00f6ren und dass dieses Eigentum gesch\u00fctzt wird. So ist (bzw. war) Reichtum in egalit\u00e4ren Gesellschaften unbekannt. Die kulturelle Unterschiedlichkeit des Begriffes ist zum Teil Gegenstand heftiger Debatten.\nDas Gegenteil von materiellem Reichtum bzw. wirtschaftlichem Verm\u00f6gen \u2013 sprich: der Mangel an G\u00fctern bzw. ein \u00fcberdurchschnittlich niedriger quantitativer Wohlstand \u2013 wird als Armut bezeichnet; auch hier gibt es die Unterscheidung zwischen materieller und geistiger Armut.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Reichtum"
+    },
+    {
+        "title": "Startkapital",
+        "content": "Das Startkapital wird f\u00fcr die Unternehmensgr\u00fcndung ben\u00f6tigt. Neben dem Eigenkapital kann es zum gr\u00f6\u00dferen Teil auch aus finanziellen Mitteln wie beispielsweise Risikokapital von Darlehensgebern und Investoren bestehen, also aus Fremdkapital. F\u00fcr das Eigenkapital eines StartUps besteht die M\u00f6glichkeit der Beteiligung in Form der Stillen Gesellschaft. Die H\u00f6he des Startkapitals und die Eigenkapitalquote sind Determinanten f\u00fcr die Bestandsf\u00e4higkeit eines Unternehmens. Unter anderem h\u00e4lt in Deutschland das Bundesministerium f\u00fcr Wirtschaft und Technologie eine Datenbank f\u00fcr Interessenten an einem Investment bereit. Als Voraussetzung f\u00fcr die Gewinnung von Investoren gelten gut ausgearbeitete Konzepte der Gesch\u00e4ftsidee.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Startkapital"
+    },
+    {
+        "title": "Internationaler W\u00e4hrungsfonds",
+        "content": "Der Internationale W\u00e4hrungsfonds (IWF; englisch International Monetary Fund, IMF; auch bekannt als Weltw\u00e4hrungsfonds) ist eine rechtlich, organisatorisch und finanziell selbst\u00e4ndige Sonderorganisation der Vereinten Nationen mit Sitz in Washington, D.C., USA.\nHauptaufgabe des IWF ist die Vergabe von Krediten an L\u00e4nder ohne ausreichende W\u00e4hrungsreserven, die in Zahlungsbilanzschwierigkeiten geraten sind. Weitere T\u00e4tigkeitsfelder sind die F\u00f6rderung der internationalen Zusammenarbeit in der W\u00e4hrungspolitik, Ausweitung des Welthandels, Stabilisierung von Wechselkursen, \u00dcberwachung der Geldpolitik und technische Hilfe.\nDer IWF und seine Schwesterorganisation Weltbank haben ihren Ursprung im 1944 geschaffenen Bretton-Woods-System fester Wechselkurse, das auf der damals mit Gold gedeckten Leitw\u00e4hrung US-Dollar beruhte. Sie waren als internationale Steuerungsinstrumente geplant, mit denen eine Wiederholung der W\u00e4hrungsturbulenzen der Zwischenkriegszeit und der Fehler des Goldstandards aus den 1920er Jahren verhindert werden sollte. Beide Organisationen werden daher als Bretton-Woods-Institution bezeichnet. Die Kreditvergabe des IWF ist an wirtschaftspolitische Auflagen gekn\u00fcpft, die die R\u00fcckzahlung der Kredite sichern sollen. Anders als der IWF vergibt die Weltbank auch Kredite f\u00fcr spezielle Projekte.\nDer IWF hat zurzeit (Stand April 2020) 189 Mitgliedstaaten, deren Stimmrecht sich an ihrem Kapitalanteil orientiert. Die Mitgliedstaaten mit den gr\u00f6\u00dften Stimmanteilen sind: USA 16,51 %, Japan 6,15 %, China 6,08 %, Deutschland 5,32 %, Frankreich 4,03 %, Vereinigtes K\u00f6nigreich 4,03 % und Italien 3,02 %. Von den deutschsprachigen L\u00e4ndern haben au\u00dferdem Luxemburg 0,29 %, \u00d6sterreich 0,81 %, die Schweiz 1,18 % und Belgien 1,3 % Stimmenanteile.Beschl\u00fcsse m\u00fcssen im IWF mit einer Mehrheit von 85 % getroffen werden. Dadurch verf\u00fcgen jeweils die USA allein und die EU-Staaten gemeinsam de facto \u00fcber eine Sperrminorit\u00e4t.",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Internationaler_W%C3%A4hrungsfonds"
+    }
+]

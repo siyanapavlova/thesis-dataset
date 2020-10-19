@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Animation",
+        "content": "Animation is a method in which figures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated imagery (CGI). Computer animation can be very detailed 3D animation, while 2D computer animation can be used for stylistic reasons, low bandwidth or faster real-time renderings. Other common animation methods apply a stop motion technique to two and three-dimensional objects like paper cutouts, puppets or clay figures.\nCommonly the effect of the animation is achieved by a rapid succession of sequential images that minimally differ from each other. The illusion\u2014as in motion pictures in general\u2014is thought to rely on the phi phenomenon and beta movement, but the exact causes are still uncertain.\nAnalog mechanical animation media that rely on the rapid display of sequential images include the ph\u00e9nakisticope, zoetrope, flip book, praxinoscope and film. Television and video are popular electronic animation media that originally were analog and now operate digitally. For display on the computer, techniques like animated GIF and Flash animation were developed.\nAnimation is more pervasive than many people realize. Apart from short films, feature films, television series, animated GIFs and other media dedicated to the display of moving images, animation is also prevalent in video games, motion graphics, user interfaces and visual effects.The physical movement of image parts through simple mechanics\u2014in for instance moving images in magic lantern shows\u2014can also be considered animation. The mechanical manipulation of three-dimensional puppets and objects to emulate living beings has a very long history in automata. Electronic automata were popularized by Disney as animatronics.\nAnimators are artists who specialize in creating animation.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Animation"
+    },
+    {
+        "title": "Art gallery",
+        "content": "An art gallery is a room or a building in which visual art is displayed. Among the reasons art may be displayed are aesthetic enjoyment, cultural enrichment, or for marketing purposes. While  \"gallery\" continues to be used in the name of institutions for the study, preservation, and restoration as well as the display of art, these additional functions identify the institution as an Art museum. The majority of art galleries open to the public are commercial enterprises for the sale of artwork, others may be part of art cooperatives or non-profit organizations.\nAs part of the art world, art galleries play an important role in maintaining the network of connections that define fine art.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Art_gallery"
+    },
+    {
+        "title": "Artist",
+        "content": "An artist is a person engaged in an activity related to creating art, practicing the arts, or demonstrating an art. The common usage in both everyday speech and academic discourse is a practitioner in the visual arts only. The term is often used in the entertainment business, especially in a business context, for musicians and other performers (less often for actors). \"Artiste\" (the French for artist) is a variant used in English only in this context; this use has become rare. Use of the term to describe writers, for example, is valid, but less common, and mostly restricted to contexts like criticism.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Artist"
+    },
+    {
+        "title": "Modern art",
+        "content": "Modern art includes artistic work produced during the period extending roughly from the 1860s to the 1970s, and denotes the styles and philosophies of the art produced during that era. The term is usually associated with art in which the traditions of the past have been thrown aside in a spirit of experimentation. Modern artists experimented with new ways of seeing and with fresh ideas about the nature of materials and functions of art. A tendency away from the narrative, which was characteristic for the traditional arts, toward abstraction is characteristic of much modern art. More recent artistic production is often called contemporary art or postmodern art.\nModern art begins with the heritage of painters like Vincent van Gogh, Paul C\u00e9zanne, Paul Gauguin, Georges Seurat and Henri de Toulouse-Lautrec all of whom were essential for the development of modern art. At the beginning of the 20th century Henri Matisse and several other young artists including the pre-cubists Georges Braque, Andr\u00e9 Derain, Raoul Dufy, Jean Metzinger and Maurice de Vlaminck revolutionized the Paris art world with \"wild\", multi-colored, expressive landscapes and figure paintings that the critics called Fauvism. Matisse's two versions of The Dance signified a key point in his career and in the development of modern painting. It reflected Matisse's incipient fascination with primitive art: the intense warm color of the figures against the cool blue-green background and the rhythmical succession of the dancing nudes convey the feelings of emotional liberation and hedonism.\nAt the start of 20th-century Western painting, and Initially influenced by Toulouse-Lautrec, Gauguin and other late-19th-century innovators, Pablo Picasso made his first cubist paintings based on C\u00e9zanne's idea that all depiction of nature can be reduced to three solids: cube, sphere and cone. With the painting Les Demoiselles d'Avignon (1907), Picasso dramatically created a new and radical picture depicting a raw and primitive brothel scene with five prostitutes, violently painted women, reminiscent of African tribal masks and his own new Cubist inventions. Analytic cubism was jointly developed by Picasso and Georges Braque, exemplified by Violin and Candlestick, Paris, from about 1908 through 1912. Analytic cubism, the first clear manifestation of cubism, was followed by Synthetic cubism, practiced by Braque, Picasso, Fernand L\u00e9ger, Juan Gris, Albert Gleizes, Marcel Duchamp and several other artists into the 1920s. Synthetic cubism is characterized by the introduction of different textures, surfaces, collage elements, papier coll\u00e9 and a large variety of merged subject matter.The notion of modern art is closely related to modernism.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Modern_art"
+    },
+    {
+        "title": "Brush",
+        "content": "A brush is a common tool with bristles, wire or other filaments. It generally consists of a handle or block to which filaments are affixed in either a parallel or perpendicular orientation, depending on the way the brush is to be gripped during use. The material of both the block and bristles or filaments is chosen to withstand hazards of its intended use, such as corrosive chemicals, heat or abrasion. It is used for cleaning, grooming hair, make up,   painting,  surface finishing and for many other purposes.   It is one of the most basic and versatile tools in use today, and the average household may contain several dozen varieties.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Brush"
+    },
+    {
+        "title": "Calligraphy",
+        "content": "Calligraphy (from Greek: \u03ba\u03b1\u03bb\u03bb\u03b9\u03b3\u03c1\u03b1\u03c6\u03af\u03b1) is a visual art related to writing. It is the design and execution of lettering with a broad-tipped instrument, brush, or other writing instrument. A contemporary calligraphic practice can be defined as \"the art of giving form to signs in an expressive, harmonious, and skillful manner\".Modern calligraphy ranges from functional inscriptions and designs to fine-art pieces where the letters may or may not be readable. Classical calligraphy differs from typography and non-classical hand-lettering, though a calligrapher may practice both.Calligraphy continues to flourish in the forms of wedding invitations and event invitations, font design and typography, original hand-lettered logo design, religious art, announcements, graphic design and commissioned calligraphic art, cut stone inscriptions, and memorial documents. It is also used for props and moving images for film and television, and also for testimonials, birth and death certificates, maps, and other written works.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Calligraphy"
+    },
+    {
+        "title": "Canvas",
+        "content": "Canvas is an extremely durable plain-woven fabric used for making sails, tents, marquees, backpacks, shelters, as a support for oil painting and for other items for which sturdiness is required, as well as in such fashion objects as handbags, electronic device cases, and shoes. It is also popularly used by artists as a painting surface, typically stretched across a wooden frame.  \nModern canvas is usually made of cotton or linen, along with polyvinyl chloride (PVC), although historically it was made from hemp. It differs from other heavy cotton fabrics, such as denim, in being plain weave rather than twill weave. Canvas comes in two basic types: plain and duck. The threads in duck canvas are more tightly woven. The term duck comes from the Dutch word for cloth, doek.  In the United States, canvas is classified in two ways: by weight (ounces per square yard) and by a graded number system. The numbers run in reverse of the weight so a number 10 canvas is lighter than number 4. Canvas has become the most common support medium for oil painting, replacing wooden panels. It was used from the 14th century in Italy, but only rarely. One of the earliest surviving oils on canvas is a French Madonna with angels from around 1410 in the Gem\u00e4ldegalerie, Berlin.\nThe word \"canvas\" is derived from the 13th century Anglo-French canevaz and the Old French canevas. Both may be derivatives of the Vulgar Latin cannapaceus for \"made of hemp\", originating from the Greek \u03ba\u03ac\u03bd\u03bd\u03b1\u03b2\u03b9\u03c2 (cannabis).",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Canvas"
+    },
+    {
+        "title": "Chisel",
+        "content": "A chisel is a tool with a characteristically shaped cutting edge (such that wood chisels have lent part of their name to a particular grind) of blade on its end, for carving or cutting a hard material such as wood, stone, or metal by hand, struck with a mallet, or  mechanical power. The handle and blade of some types of chisel are made of metal or of wood with a sharp edge in it.\nChiselling use involves forcing the blade into some material to cut it. The driving force may be applied by pushing by hand, or by using a mallet or hammer. In industrial use, a hydraulic ram or falling weight ('trip hammer') may be used to drive a chisel into the material.\nA  gouge (one type of chisel) serves to carve small pieces from the material, particularly in woodworking, woodturning and sculpture.  Gouges  most frequently produce concave surfaces.  A gouge typically has a 'U'-shaped cross-section.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Chisel"
+    },
+    {
+        "title": "Clay",
+        "content": "Clay is a type of fine-grained natural soil material that contains hydrous aluminium phyllosilicates (clay minerals) that develops plasticity when wet. Geologic clay deposits are mostly composed of phyllosilicate minerals containing variable amounts of water trapped in the mineral structure. Clays are plastic due to particle size and geometry as well as water content, and become hard, brittle and non\u2013plastic upon drying or firing. Depending on the soil's content in which it is found, clay can appear in various colours from white to dull grey or brown to deep orange-red.\n\nAlthough many naturally occurring deposits include both silts and clay, clays are distinguished from other fine-grained soils by differences in size and mineralogy. Silts, which are fine-grained soils that do not include clay minerals, tend to have larger particle sizes than clays. There is, however, some overlap in particle size and other physical properties.  The distinction between silt and clay varies by discipline. Geologists and soil scientists usually consider the separation to occur at a particle size of 2 \u03bcm (clays being finer than silts), sedimentologists often use 4\u20135 \u03bcm, and colloid chemists use 1 \u03bcm. Geotechnical engineers distinguish between silts and clays based on the plasticity properties of the soil, as measured by the soils' Atterberg limits. ISO 14688 grades clay particles as being smaller than 2 \u03bcm and silt particles as being larger. Mixtures of sand, silt and less than 40% clay are called loam.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Clay"
+    },
+    {
+        "title": "Cartoon",
+        "content": "A cartoon is a type of illustration, sometimes animated, typically in a non-realistic or semi-realistic style. The specific meaning has evolved over time, but the modern usage usually refers to either: an image or series of images intended for satire, caricature, or humor; or a motion picture that relies on a sequence of illustrations for its animation. Someone who creates cartoons in the first sense is called a cartoonist, and in the second sense they are usually called an animator.\nThe concept originated in the Middle Ages, and first described a preparatory drawing for a piece of art, such as a painting, fresco, tapestry, or stained glass window. In the 19th century, beginning in Punch magazine in 1843, cartoon came to refer \u2013 ironically at first \u2013 to humorous illustrations in magazines and newspapers. In the early 20th century, it began to refer to animated films which resembled print cartoons.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cartoon"
+    },
+    {
+        "title": "Ceramic",
+        "content": "A ceramic is any of the various hard, brittle, heat-resistant and corrosion-resistant materials made by shaping and then firing a nonmetallic mineral, such as clay, at a high temperature. Common examples are earthenware, porcelain, and brick.\nThe crystallinity of ceramic materials ranges from highly oriented to semi-crystalline, vitrified, and often completely amorphous (e.g., glasses). Most often, fired ceramics are either vitrified or semi-vitrified as is the case with earthenware, stoneware, and porcelain. Varying crystallinity and electron composition in the ionic and covalent bonds cause most ceramic materials to be good thermal and electrical insulators (extensively researched in ceramic engineering). With such a large range of possible options for the composition/structure of a ceramic (e.g. nearly all of the elements, nearly all types of bonding, and all levels of crystallinity), the breadth of the subject is vast, and identifiable attributes (e.g. hardness, toughness, electrical conductivity, etc.) are difficult to specify for the group as a whole. General properties such as high melting temperature, high hardness, poor conductivity, high moduli of elasticity, chemical resistance and low ductility are the norm,  with known exceptions to each of these rules (e.g. piezoelectric ceramics, glass transition temperature, superconductive ceramics, etc.). Many composites, such as fiberglass and carbon fiber, while containing ceramic materials, are not considered to be part of the ceramic family.The earliest ceramics made by humans were pottery objects (i.e. pots or vessels) or figurines made from clay, either by itself or mixed with other materials like silica, hardened and sintered in fire. Later ceramics were glazed and fired to create smooth, colored surfaces, decreasing porosity through the use of glassy, amorphous ceramic coatings on top of the crystalline ceramic substrates. Ceramics now include domestic, industrial and building products, as well as a wide range of ceramic art. In the 20th century, new ceramic materials were developed for use in advanced ceramic engineering, such as in semiconductors.\nThe word \"ceramic\" comes from the Greek word \u03ba\u03b5\u03c1\u03b1\u03bc\u03b9\u03ba\u03cc\u03c2 (keramikos), \"of pottery\" or \"for pottery\", from \u03ba\u03ad\u03c1\u03b1\u03bc\u03bf\u03c2 (keramos), \"potter's clay, tile, pottery\". The earliest known mention of the root \"ceram-\" is the Mycenaean Greek ke-ra-me-we, \"workers of ceramics\", written in Linear B syllabic script. The word \"ceramic\" may be used as an adjective to describe a material, product or process, or it may be used as a noun, either singular, or, more commonly, as the plural noun \"ceramics\".",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ceramic"
+    },
+    {
+        "title": "Charcoal",
+        "content": "Charcoal is a lightweight black carbon residue produced by strongly heating wood (or other  animal and plant materials) so as to drive off all water and other volatile constituents.  In the traditional version of this pyrolysis process, called charcoal burning, the heat is supplied by burning part of the starting material itself, with a limited supply of oxygen.  Charcoal can also be produced by heating the material in a closed retort.\nThis process also happens while burning wood, as in a fireplace or wood stove.  The visible flame in that case is actually due to combustion of the volatiles given off as the wood turns into charcoal. The soot and smoke commonly given off by wood fire result from incomplete combustion of those volatiles.  Charcoal itself burns at a higher temperature than wood, with hardly a visible flame, and gives off practically no smoke, soot, or unburnt volatiles.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Charcoal"
+    },
+    {
+        "title": "Color",
+        "content": "Color (American English), or colour (Commonwealth English), is the characteristic of visual perception described through color categories, with names such as red, orange, yellow, green, blue, or purple. This perception of color derives from the stimulation of photoreceptor cells (in particular cone cells in the human eye and other vertebrate eyes) by electromagnetic radiation (in the visible spectrum in the case of humans). Color categories and physical specifications of color are associated with objects through the wavelengths of the light that is reflected from them and their intensities. This reflection is governed by the object's physical properties such as light absorption, emission spectra, etc.\nBy defining a color space, colors can be identified numerically by coordinates, which in 1931 were also named in global agreement with internationally agreed color names like mentioned above (red, orange, etc.) by the International Commission on Illumination. The RGB color space for instance is a color space corresponding to human trichromacy and to the three cone cell types that respond to three bands of light: long wavelengths, peaking near 564\u2013580 nm (red); medium-wavelength, peaking near 534\u2013545 nm (green); and short-wavelength light, near 420\u2013440 nm (blue). There may also be more than three color dimensions in other color spaces, such as in the CMYK color model, wherein one of the dimensions relates to a color's colorfulness).\nThe photo-receptivity of the \"eyes\" of other species also varies considerably from that of humans and so results in correspondingly different color perceptions that cannot readily be compared to one another. Honey bees and bumblebees have trichromatic color vision sensitive to ultraviolet but insensitive to red. Papilio butterflies possess six types of photoreceptors and may have pentachromatic vision. The most complex color vision system in the animal kingdom has been found in stomatopods (such as the mantis shrimp) with up to 12 spectral receptor types thought to work as multiple dichromatic units.The science of color is sometimes called chromatics, colorimetry, or simply color science. It includes the study of the perception of color by the human eye and brain, the origin of color in materials, color theory in art, and the physics of electromagnetic radiation in the visible range (that is, what is commonly referred to simply as light).",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Color"
+    },
+    {
+        "title": "collage (art)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Colored pencil",
+        "content": "A colored pencil (American English), coloured pencil (Commonwealth English), pencil crayon, or coloured/colouring lead (Canadian English, Newfoundland English) is an art medium constructed of a narrow, pigmented core encased in a wooden cylindrical case. Unlike graphite and charcoal pencils, colored pencils' cores are wax- or oil-based and contain varying proportions of pigments, additives, and binding agents. Water-soluble (watercolor) pencils and pastel pencils are also manufactured as well as colored leads for mechanical pencils.\nColored pencils vary greatly in terms of quality and usability; concentration of pigments in the core, lightfastness of the pigments, durability of the colored pencil, and softness of the lead are some indicators of a brand\u2019s quality and, consequently, its market price. There is no general quality difference between wax/oil-based and water-soluble colored pencils, although some manufacturers rate their water-soluble pencils as less lightfast than their similar wax/oil-based pencils.\nThe rising popularity of colored pencils as an art medium sparked the beginning of the Colored Pencil Society of America (CPSA). According to its website, \u201c[CPSA] was founded in 1990 as a nonprofit organization dedicated to artists over 18 years of age working with colored pencil\u201d. The CPSA not only promotes colored pencil art as fine art, but also strives to set lightfastness standards for colored pencil manufacturers. Other countries such as the United Kingdom, United States, Canada, Australia and Mexico \u2013 among many others \u2013 have formed their own organizations and societies for colored pencil artists. Colored pencils are commonly stored in pencil cases to prevent damage.\nDespite colored pencils' existence for more than a century, the art world has greatly treated the medium with less admiration (and even disdain) compared to other art mediums. However, the discovery of new techniques and methods and the formation of authoritative organizations is better enabling colored pencils to compete with other mediums. Additionally, colored pencils are more affordable, cleaner, and simpler compared to other mediums.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Colored_pencil"
+    },
+    {
+        "title": "Crayon",
+        "content": "A crayon (or wax pastel) is a stick of pigmented wax used for writing or drawing. Wax crayons differ from pastels, in which the pigment is mixed with a dry binder such as gum arabic, and from oil pastels, where the binder is a mixture of wax and oil.\nCrayons are available at a range of prices and are easy to work with. They are less messy than most paints and markers, blunt (removing the risk of sharp points present when using a pencil or pen), typically non-toxic, and available in a wide variety of colors. These characteristics make them particularly good instruments for teaching small children to draw in addition to being used widely by student and professional artists.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Crayon"
+    },
+    {
+        "title": "Creativity",
+        "content": "Creativity is a phenomenon whereby something new and somehow valuable is formed. The created item may be intangible (such as an idea, a scientific theory, a musical composition, or a joke) or a physical object (such as an invention, a printed literary work, or a painting).\nCreativity is a combined power, and over the years individuals are able to expand internal reservoir of means as intelligence, wisdom, imagination and all the fragments of mind which have acquired from being conscious, alive and wakeful to the universe in an incredibly new manner.\nCreativity consists of four elements. These parts includes creative processes, creative individual, creative product and creative environment. In this century, creativity has always been at the core of corporations, schools and basically which is a key of successful life. However, creativity has always been the subject of researchers in fields ranging from anthropology to neuroscience.\nScholarly interest in creativity is found in a number of disciplines, primarily psychology, business studies, and cognitive science, but also education, the humanities, technology, engineering, philosophy (particularly philosophy of science), theology, sociology, linguistics, the arts, economics, and mathematics, covering  the relations between creativity and general intelligence, personality type, mental and neural processes, mental health, or artificial intelligence; the potential for fostering creativity through education and training; the fostering of creativity for national economic benefit, and the application of creative resources to improve the effectiveness of teaching and learning.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Creativity"
+    },
+    {
+        "title": "Critique",
+        "content": "Critique is a method of disciplined, systematic study of a written or oral discourse. Although critique is commonly understood as fault finding and negative judgment, it can also involve merit recognition, and in the philosophical tradition it also means a methodical practice of doubt. The contemporary sense of critique has been largely influenced by the Enlightenment critique of prejudice and authority, which championed the emancipation and autonomy from religious and political authorities.The term critique derives, via French, from Ancient Greek \u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae (kritik\u0113), meaning \"the faculty of judgment\", that is, discerning the value of persons or things. Critique is also known as major logic, as opposed to minor logic or dialectics.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Critique"
+    },
+    {
+        "title": "Decoupage",
+        "content": "Decoupage or d\u00e9coupage is the art of decorating an object by gluing colored paper cutouts onto it in combination with special paint effects, gold leaf and other decorative elements. Commonly, an object like a small box or an item of furniture is covered by cutouts from magazines or from purpose-manufactured papers. Each layer is sealed with varnishes (often multiple coats) until the \"stuck on\" appearance disappears and the result looks like painting or inlay work. The traditional technique used 30 to 40 layers of varnish which were then sanded to a polished finish.Three dimensional decoupage (sometimes also referred to simply as decoupage) is the art of creating a three-dimensional (3D) image by cutting out elements of varying sizes from a series of identical images and layering them on top of each other, usually with adhesive foam spacers between each layer to give the image more depth.\nPyramid decoupage (also called pyramage) is a process similar to 3D decoupage. In pyramid decoupage, a series of identical images are cut into progressively smaller, identical shapes which are layered and fixed with adhesive foam spacers to create a 3D \"pyramid\" effect.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Decoupage"
+    },
+    {
+        "title": "Drawing",
+        "content": "Drawing is a form of visual art in which one uses various drawing instruments to mark paper or another two-dimensional medium. Instruments include graphite pencils, pen and ink, various kinds of paints, inked brushes, colored pencils, crayons, charcoal, chalk, pastels, various kinds of erasers, markers, styluses, and various metals (such as silverpoint). Digital drawing is the act of using a computer to draw. Common methods of digital drawing include a stylus or finger on a touchscreen device, stylus- or finger-to-touchpad, or in some cases, a mouse. There are many digital art programs and devices.\nA drawing instrument releases a small amount of material onto a surface, leaving a visible mark. The most common support for drawing is paper, although other materials, such as cardboard, wood, plastic, leather, canvas, and board, may be used. Temporary drawings may be made on a blackboard or whiteboard or indeed almost anything. The medium has been a popular and fundamental means of public expression throughout human history. It is one of the simplest and most efficient means of communicating visual ideas. The wide availability of drawing instruments makes drawing one of the most common artistic activities.\nIn addition to its more artistic forms, drawing is frequently used in commercial illustration, animation, architecture, engineering and technical drawing. A quick, freehand drawing, usually not intended as a finished work, is sometimes called a sketch. An artist who practices or works in technical drawing may be called a drafter, draftsman or a draughtsman.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Drawing"
+    },
+    {
+        "title": "Easel",
+        "content": "An easel is an upright support used for displaying and/or fixing something resting upon it, at an angle of about 20\u00b0 to the vertical. In particular, easels are traditionally used by painters to support a painting while they work on it, normally standing up, and are also sometimes used to display finished paintings.  Artists' easels are still typically made of wood, in functional designs that have changed little for centuries, or even millennia, though new materials and designs are available. Easels are typically made from wood, aluminum or steel.\nEasel painting is a term in art history for the type of midsize painting that would have been painted on an easel, as opposed to a fresco wall painting, a large altarpiece or other piece that would have been painted resting on the floor, a small cabinet painting, or a miniature created sitting at a desk, though perhaps also on an angled support. It does not refer to the way the painting is meant to be displayed; most easel paintings are intended for display framed and hanging on a wall.\nIn a photographic darkroom, an easel is used to keep the photographic paper in a flat or upright (horizontal, big-size enlarging) position to the enlarger.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Easel"
+    },
+    {
+        "title": "Engraving",
+        "content": "Engraving is the practice of incising a design onto a hard, usually flat surface by cutting grooves into it with a burin. The result may be a decorated object in itself, as when silver, gold, steel, or glass are engraved, or may provide an intaglio printing plate, of copper or another metal, for printing images on paper as prints or illustrations; these images are also called \"engravings\". Engraving is one of the oldest and most important techniques in printmaking. Wood engraving is a form of relief printing and is not covered in this article.\nEngraving was a historically important method of producing images on paper in artistic printmaking, in mapmaking, and also for commercial reproductions and illustrations for books and magazines. It has long been replaced by various photographic processes in its commercial applications and, partly because of the difficulty of learning the technique, is much less common in printmaking, where it has been largely replaced by etching and other techniques.\n\"Engraving\" is also loosely but incorrectly used for any old black and white print; it requires a degree of expertise to distinguish engravings from prints using other techniques such as etching in particular, but also mezzotint and other techniques. Many old master prints also combine techniques on the same plate, further confusing matters.  Line engraving and steel engraving cover use for reproductive prints, illustrations in books and magazines, and similar uses, mostly in the 19th century, and often not actually using engraving.\nTraditional engraving, by burin or with the use of machines, continues to be practised by goldsmiths, glass engravers, gunsmiths and others, while modern industrial techniques such as photoengraving and laser engraving have many important applications. Engraved gems were an important art in the ancient world, revived at the Renaissance, although the term traditionally covers relief as well as intaglio carvings, and is essentially a branch of sculpture rather than engraving, as drills were the usual tools.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Engraving"
+    },
+    {
+        "title": "Exhibition",
+        "content": "An exhibition, in the most general sense, is an organized presentation and display of a selection of items. In practice, exhibitions usually occur within a cultural or educational setting such as a museum, art gallery, park, library, exhibition hall, or World's fairs.  Exhibitions can include many things such as art in both major museums and smaller galleries, interpretive exhibitions, natural history museums and history museums, and also varieties such as more commercially focused exhibitions and trade fairs.\nIn British English the word \"exhibition\" is used for a collection of items placed on display and the event as a whole, which in American English is usually an \"exhibit\". In both varieties of English each object being shown within an exhibition is an \"exhibit\". In common usage, \"exhibitions\" are considered temporary and usually scheduled to open and close on specific dates. While many exhibitions are shown in just one venue, some exhibitions are shown in multiple locations and are called travelling exhibitions, and some are online exhibitions.  Exhibitions featuring especially fragile or valuable objects, or live animals\u2014may be shown only during a formal presentation, under the close supervision of attendant or educator. Temporary exhibits that are transported from institution to institution are traveling exhibits.\nThough exhibitions are common events, the concept of an exhibition is quite wide and encompasses many variables. Exhibitions range from an extraordinarily large event such as a World's fair exposition to small one-artist solo shows or a display of just one item. Curators are sometimes involved as the people who select the items in an exhibition. Writers and editors are sometimes needed to write text, labels and accompanying printed material such as catalogs and books. Architects, exhibition designers, graphic designers and other designers may be needed to shape the exhibition space and give form to the editorial content. Organizing and holding exhibitions also requires effective event planning, management, and logistics.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Exhibition"
+    },
+    {
+        "title": "Film",
+        "content": "Film, also called movie, motion picture or moving picture, is a visual art-form used to simulate experiences that communicate ideas, stories, perceptions, feelings, beauty, or atmosphere through the use of moving images. These images are generally accompanied by sound, and more rarely, other sensory stimulations. The word \"cinema\", short for cinematography, is often used to refer to filmmaking and the film industry, and to the art form that is the result of it.\nThe moving images of a film are created by photographing actual scenes with a motion-picture camera, by photographing drawings or miniature models using traditional animation techniques, by means of CGI and computer animation, or by a combination of some or all of these techniques, and other visual effects.\nTraditionally, films were recorded onto celluloid film stock through a photochemical process and then shown through a movie projector onto a large screen. Contemporary films are often fully digital  through the entire process of production, distribution, and exhibition, while films recorded in a photochemical form traditionally included an analogous optical soundtrack (a graphic recording of the spoken words, music and other sounds that accompany the images which runs along a portion of the film exclusively reserved for it, and is not projected).\nFilms are cultural artifacts created by specific cultures. They reflect those cultures, and, in turn, affect them. Film is considered to be an important art form, a source of popular entertainment, and a powerful medium for educating\u2014or indoctrinating\u2014citizens. The visual basis of film gives it a universal power of communication. Some films have become popular worldwide attractions through the use of dubbing or subtitles to translate the dialog into other languages.\nThe individual images that make up a film are called frames. In the projection of traditional celluloid films, a rotating shutter causes intervals of darkness as each frame, in turn, is moved into position to be projected, but the viewer does not notice the interruptions because of an effect known as persistence of vision, whereby the eye retains a visual image for a fraction of a second after its source disappears. The perception of motion is partly due to a psychological effect called the phi phenomenon.\nThe name \"film\" originates from the fact that photographic film (also called film stock) has historically been the medium for recording and displaying motion pictures. Many other terms exist for an individual motion-picture, including picture, picture show, moving picture, photoplay, and flick. The most common term in the United States is movie, while in Europe film is preferred. Common terms for the field in general include the big screen, the silver screen, the movies, and cinema; the last of these is commonly used, as an overarching term, in scholarly texts and critical essays. In early years, the word sheet was sometimes used instead of screen.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Film"
+    },
+    {
+        "title": "Fresco",
+        "content": "Fresco (plural frescos or frescoes) is a technique of mural painting executed upon freshly laid (\"wet\") lime plaster. Water is used as the vehicle for the dry-powder pigment to merge with the plaster, and with the setting of the plaster, the painting becomes an integral part of the wall. The word fresco (Italian: affresco) is derived from the Italian adjective fresco meaning \"fresh\", and may thus be contrasted with fresco-secco or secco mural painting techniques, which are applied to dried plaster, to supplement painting in fresco. The fresco technique has been employed since antiquity and is closely associated with Italian Renaissance painting.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fresco"
+    },
+    {
+        "title": "Glass working",
+        "content": "Glass working refers collectively to a wide range of techniques and artistic styles that use glass as the primary medium. Some common forms of glass working are:\n\nGlassblowing, the creation of hollow objects such as bottles and vases by blowing air through molten glass\nGlass sculpture, works sculpted or molded from glass\nStained glass, glass colored by various means, usually in an artistic fashion",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Glass_working"
+    },
+    {
+        "title": "Graffiti",
+        "content": "Graffiti (both singular and plural; the singular graffito is very rare in English except in archeology) is writing or drawings made on a wall or other surface, usually without permission and within public view. Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times, with examples dating back to ancient Egypt, ancient Greece, and the Roman Empire.In modern times, spray paint and marker pens have become commonly used graffiti materials, and there are many different types and styles of graffiti; it is a rapidly developing art form.\nGraffiti is a controversial subject. In most countries, marking or painting property without permission is considered by property owners and civic authorities as defacement and vandalism, which is a punishable crime, citing the use of graffiti by street gangs to mark territory or to serve as an indicator of gang-related activities. Graffiti has become visualized as a growing urban \"problem\" for many cities in industrialized nations, spreading from the New York City subway system in the early 1970s to the rest of the United States and Europe and other world regions. On the other hand, graffiti artists, particularly marginalized artists with no access to mainstream media, resist this viewpoint to display their art or political views in public locations.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Graffiti"
+    },
+    {
+        "title": "Graphic design",
+        "content": "Graphic design is the process of visual communication and problem-solving through the use of typography, photography, iconography and illustration. The field is considered a subset of visual communication and communication design, but sometimes the term \"graphic design\" is used synonymously. Graphic designers create and combine symbols, images and text to form visual representations of ideas and messages.\nThey use typography, visual arts, and page layout techniques to create visual compositions. Common applications of graphic design include corporate design (logos and branding), editorial design (magazines, newspapers and books), wayfinding or environmental design, advertising, web design, communication design, product packaging, and signage.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Graphic_design"
+    },
+    {
+        "title": "Hue",
+        "content": "In color theory, hue is one of the main properties (called color appearance parameters) of a color, defined technically in the CIECAM02 model as \"the degree to which a stimulus can be described as similar to or different from stimuli that are described as red, orange, yellow, green, blue, purple,\" which in certain theories of color vision are called unique hues.\nHue can typically be represented quantitatively by a single number, often corresponding to an angular position around a central or neutral point or axis on a color space coordinate diagram (such as a chromaticity diagram) or color wheel, or by its dominant wavelength or that of its complementary color. The other color appearance parameters are colorfulness, saturation (also known as intensity or chroma), lightness, and brightness. Usually, colors with the same hue are distinguished with adjectives referring to their lightness or colorfulness, such as with \"light blue\", \"pastel blue\", \"vivid blue\", \"cobalt blue\". Exceptions include brown, which is a dark orange.In painting, a hue is a pure pigment\u2014one without tint or shade (added white or black pigment, respectively).Hues are first processed in the brain in areas in the extended V4 called globs.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Hue"
+    },
+    {
+        "title": "Illustration",
+        "content": "An illustration is a decoration, interpretation or visual explanation of a text, concept or process, designed for integration in published media, such as posters, flyers, magazines, books, teaching materials, animations, video games and films. An illustration is typically created by an illustrator. Illustration also means providing an example; either in writing or in picture form.\nThe origin of the word \u201cillustration\u201d is late Middle English (in the sense \u2018illumination; spiritual or intellectual enlightenment\u2019): via Old French from Latin illustratio(n-), from the verb illustrare.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Illustration"
+    },
+    {
+        "title": "Maquette",
+        "content": "A maquette (French word for scale model, sometimes referred to by the Italian names plastico or modello) is a scale model or rough draft of an unfinished sculpture. An equivalent term is bozzetto, from the Italian word for \"sketch\".\nA maquette is used to visualize and test forms and ideas without incurring the expense and effort of producing a full-scale piece. It is the analogue of the painter's cartoon, modello, oil sketch, or drawn sketch. For commissioned works, especially monumental public sculptures, a maquette may be used to show the client how the finished work will relate to its proposed site. The term may also refer to a prototype for a video game, film, or other media. Modello, unlike the other terms, is also used for sketches for two-dimensional works such as paintings. Like oil sketches, these models by highly regarded artists can become as desirable as their completed works, as they show the process of developing an idea. For example, eleven bozzetti by Gian Lorenzo Bernini, a Baroque sculptor who made his models from wax or baked terracotta, were displayed in an exhibition at the Art Institute of Chicago in 2004. Some museums, such as the Museo dei Bozzetti in Pietrasanta, Italy, specialize in collections of maquettes. Maquette is also used by animators when finalizing a character design and it can also act as reference for the animators. The style of Alberto Giacometti has been said to have a maquette-like quality.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Maquette"
+    },
+    {
+        "title": "Masterpiece",
+        "content": "Masterpiece, magnum opus (Latin, great work) or chef-d\u2019\u0153uvre (French, master of work, plural chefs-d\u2019\u0153uvre) in modern use is a creation that has been given much critical praise, especially one that is considered the greatest work of a person's career or to a work of outstanding creativity, skill, profundity, or workmanship. Historically, a \"masterpiece\" was a work of a very high standard produced to obtain membership of a guild or academy in various areas of the visual arts and crafts.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Masterpiece"
+    },
+    {
+        "title": "Museum",
+        "content": "A museum ( mew-ZEE-\u0259m; plural museums or, rarely, musea) is an institution that cares for (conserves) a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.  Many public museums make these items available for public viewing through exhibits that may be permanent or temporary. The largest museums are located in major cities throughout the world, while thousands of local museums exist in smaller cities, towns, and rural areas. Museums have varying aims, ranging from serving researchers and specialists to serving the general public. The goal of serving researchers is increasingly shifting to serving the general public.\nThere are many types of museums, including art museums, natural history museums, science museums, war museums, and children's museums. Amongst the world's largest and visited museums are the Louvre in Paris, the National Museum of China in Beijing, the Smithsonian Institution in Washington, D.C., the British Museum and National Gallery in London, the Metropolitan Museum of Art in New York City and Vatican Museums in Vatican City.  According to the International Council of Museums, there are more than 55,000 museums in 202 countries.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Museum"
+    },
+    {
+        "title": "Mural",
+        "content": "A mural is any piece of artwork painted or applied directly on a wall, ceiling or other permanent surfaces. A distinguishing characteristic of mural painting is that the architectural elements of the given space are harmoniously incorporated into the picture.\nSome wall paintings are painted on large canvases, which are then attached to the wall (e.g., with marouflage). This technique has been in common use since the late 19th century.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Mural"
+    },
+    {
+        "title": "Oil paint",
+        "content": "Oil paint is a type of slow-drying paint that consists of particles of pigment suspended in a drying oil, commonly linseed oil. The viscosity of the paint may be modified by the addition of a solvent such as turpentine or white spirit, and varnish may be added to increase the glossiness of the dried oil paint film. Oil paints have been used in Europe since the 12th century for simple decoration, but did not begin to be adopted as an artistic medium until the early 15th century. Common modern applications of oil paint are in finishing and protection of wood in buildings and exposed metal structures such as ships and bridges. Its hard-wearing properties and luminous colors make it desirable for both interior and exterior use on wood and metal. Due to its slow-drying properties, it has recently been used in paint-on-glass animation. Thickness of coat has considerable bearing on time required for drying: thin coats of oil paint dry relatively quickly.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Oil_paint"
+    },
+    {
+        "title": "Paintbrush",
+        "content": "A paintbrush is a brush used to apply paint or sometimes ink. A paintbrush is usually made by clamping the bristles to a handle with a ferrule. They are available in various sizes, shapes, and materials. Thicker ones are used for filling in, and thinner ones are used for details. They may be subdivided into decorators' brushes used for painting and decorating and artists' brushes use for visual art.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Paintbrush"
+    },
+    {
+        "title": "Painting",
+        "content": "Painting is the practice of applying paint, pigment, color or other medium to a solid surface (called the \"matrix\" or \"support\"). The medium is commonly applied to the base with a brush, but other implements, such as knives, sponges, and airbrushes, can be used.\nIn art, the term painting describes both the act and the result of the action (the final work is called \"a painting\"). The support for paintings includes such surfaces as walls, paper, canvas, wood, glass, lacquer, pottery, leaf, copper and concrete, and the painting may incorporate multiple other materials, including sand, clay, paper, plaster, gold leaf, and even whole objects.\nPainting is an important form in the visual arts, bringing in elements such as drawing, composition, gesture (as in gestural painting), narration (as in narrative art), and abstraction (as in abstract art). Paintings can be naturalistic and representational (as in still life and landscape painting), photographic, abstract, narrative, symbolistic (as in Symbolist art), emotive (as in Expressionism), and/or political in nature (as in Artivism).\nA portion of the history of painting in both Eastern and Western art is dominated by religious art. Examples of this kind of painting range from artwork depicting mythological figures on pottery, to Biblical scenes on the Sistine Chapel ceiling, to scenes from the life of Buddha (or other images of Eastern religious origin).",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Painting"
+    },
+    {
+        "title": "Palette (painting)",
+        "content": "A palette , in the original sense of the word, is a rigid, flat surface on which a painter arranges and mixes paints. A palette is usually made of wood, plastic, ceramic, or other hard, inert, nonporous material, and can vary greatly in size and shape. The most commonly known type of painter's palette is made of a thin wood board designed to be held in the artist's hand and rest on the artist's arm.\nWatercolor palettes are generally made of plastic or porcelain with rectangular or wheel format with built in wells and mixing areas for colors.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Palette_(painting)"
+    },
+    {
+        "title": "Pastel",
+        "content": "A pastel (UK: , US: ) is an art medium in the form of a stick, consisting of powdered pigment and a binder. The pigments used in pastels are similar to those used to produce some other colored visual arts media, such as oil paints; the binder is of a neutral hue and low saturation. The color effect of pastels is closer to the natural dry pigments than that of any other process.\nPastels have been used by artists since the Renaissance, and gained considerable popularity in the 18th century, when a number of notable artists made pastel their primary medium.\nAn artwork made using pastels is called a pastel (or a pastel drawing or pastel painting). Pastel used as a verb means to produce an artwork with pastels; as an adjective it means pale in color.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pastel"
+    },
+    {
+        "title": "photography (art)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Pigment",
+        "content": "A pigment is a colored material that is completely or nearly insoluble in water.  In contrast dyes are typically soluble, at least at some stage in their use.  Generally dyes are often organic compounds whereas pigments are often inorganic compounds.  Pigments of prehistoric and historic value include ocher, charcoal, and lapis lazuli.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pigment"
+    },
+    {
+        "title": "Pottery",
+        "content": "Pottery is the process and the products of forming vessels and other objects with clay and other ceramic materials, which are fired at high temperatures to give them a hard, durable form.   Major types include earthenware, stoneware and porcelain. The place where such wares are made by a potter is also called a pottery (plural \"potteries\").  The definition of pottery used by the American Society for Testing and Materials (ASTM), is \"all fired ceramic wares that contain clay when formed, except technical, structural, and refractory products.\" In archaeology, especially of ancient and prehistoric periods, \"pottery\" often means vessels only, and figures etc. Of\nthe same material are called \"terracottas\".  Clay as a part of the materials used is required by some definitions of pottery, but this is dubious.\n\nPottery is one of the oldest human inventions, originating before the Neolithic period, with ceramic objects like the Gravettian culture Venus of Doln\u00ed V\u011bstonice figurine discovered in the Czech Republic dating back to 29,000\u201325,000 BC, and pottery vessels that were discovered in Jiangxi, China, which date back to 18,000 BC.  Early Neolithic and pre-Neolithic pottery artifacts have been found, in J\u014dmon Japan (10,500 BC), the Russian Far East (14,000 BC), Sub-Saharan Africa (9,400 BC), South America (9,000s-7,000s BC), and the Middle East (7,000s-6,000s BC).\nPottery is made by forming a ceramic (often clay) body into objects of a desired shape and heating them to high temperatures (600-1600 \u00b0C) in a bonfire, pit or kiln and induces reactions that lead to permanent changes including increasing the strength and rigidity of the object.  Much pottery is purely utilitarian, but much can also be regarded as ceramic art.  A clay body can be decorated before or after firing.\n\nClay-based pottery can be divided into three main groups: earthenware, stoneware and porcelain.  These require increasingly more specific clay material, and increasingly higher firing temperatures. All three are made in glazed and unglazed varieties, for different purposes.  All may also be decorated by various techniques. In many examples the group a piece belongs to is immediately visually apparent, but this is not always the case.  The fritware of the Islamic world does not use clay, so technically falls outside these groups.  Historic pottery of all these types is often grouped as either \"fine\" wares, relatively expensive and well-made, and following the aesthetic taste of the culture concerned, or alternatively \"coarse\", \"popular\", \"folk\" or \"village\" wares, mostly undecorated, or simply so, and often less well-made.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pottery"
+    },
+    {
+        "title": "Primary color",
+        "content": "A set of primary colors is a set of colorants or colored lights that can be combined in varying amounts to produce a gamut of colors. This is the essential method used in applications that are intended to elicit the perception of diverse sets of color, e.g. electronic displays, color printing, and paintings. Perceptions associated with a given combination of primary colors are predicted by applying the appropriate mixing model (additive, subtractive, additive averaging, etc.) that embodies the underlying physics of how light interacts with the media and ultimately the retina.\nPrimary colors can be conceptual (not necessarily real colors), either as additive mathematical elements of a color space or as irreducible phenomenological categories in domains such as psychology and philosophy. Color-space primaries are precisely defined and empirically rooted in psychophysical color matching experiments which are foundational for understanding color vision.  Primaries of some color spaces are complete (that is, all visible colors are described in terms of their weighted sums with nonnegative weights) but necessarily imaginary (that is, there is no plausible way that those primary colors could be represented physically, or perceived). Phenomenological accounts of primary colors, such as the psychological primaries, have been used as the conceptual basis for practical color applications even though they are not a quantitative description in and of themselves.\nSets of color-space primaries are generally somewhat arbitrary, in the sense that there is no one set of primaries that can be considered the canonical set. Primary pigments or light sources selected for a given application on the basis of subjective preferences as well as practical factors such as cost, stability, availability, etc. \nElementary art education materials, dictionaries, and electronic search engines often define primary colors effectively as conceptual colors that can be used to mix \"all\" other colors, and often go further and suggest that these conceptual colors correspond to specific hues and precise wavelengths. Such sources do not present a coherent, consistent definition of primary colors since real primaries cannot be complete.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Primary_color"
+    },
+    {
+        "title": "Realism (arts)",
+        "content": "Realism, sometimes called naturalism, in the arts is generally the attempt to represent subject matter truthfully, without artificiality and avoiding speculative fiction and supernatural elements. Realism has been prevalent in the arts at many periods, and can be in large part a matter of technique and training, and the avoidance of stylization.\nIn the visual arts, illusionistic realism is the accurate depiction of lifeforms, perspective, and the details of light and colour. But realist or naturalist works of art may, as well or instead of illusionist realism, be \"realist\" in their subject matter, and emphasize the mundane, ugly or sordid.  This is typical of the 19th-century  Realist movement that began in France in the 1850s, after the 1848 Revolution, and also social realism, regionalism, or kitchen sink realism. The Realist painters rejected Romanticism, which had come to dominate French literature and art, with roots in the late 18th century.\nThere have been various movements invoking realism in the other arts, such as the opera style of verismo, literary realism, theatrical realism, and Italian neorealist cinema.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Realism_(arts)"
+    },
+    {
+        "title": "Impressionism",
+        "content": "Impressionism is a 19th-century art movement characterized by relatively small, thin, yet visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities (often accentuating the effects of the passage of time), ordinary subject matter, inclusion of movement as a crucial element of human perception and experience, and unusual visual angles. Impressionism originated with a group of Paris-based artists whose independent exhibitions brought them to prominence during the 1870s and 1880s.\nThe Impressionists faced harsh opposition from the conventional art community in France. The name of the style derives from the title of a Claude Monet work, Impression, soleil levant (Impression, Sunrise), which provoked the critic Louis Leroy to coin the term in a satirical review published in the Parisian newspaper Le Charivari.\nThe development of Impressionism in the visual arts was soon followed by analogous styles in other media that became known as impressionist music and impressionist literature.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Impressionism"
+    },
+    {
+        "title": "Pointillism",
+        "content": "Pointillism () is a technique of painting in which small, distinct dots of color are applied in patterns to form an image.\nGeorges Seurat and Paul Signac developed the technique in 1886, branching from Impressionism.  The term \"Pointillism\" was coined by art critics in the late 1880s to ridicule the works of these artists, but is now used without its earlier mocking connotation. The movement Seurat began with this technique is known as Neo-impressionism. The Divisionists used a similar technique of patterns to form images, though with larger cube-like brushstrokes.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pointillism"
+    },
+    {
+        "title": "Expressionism",
+        "content": "Expressionism is a modernist movement, initially in poetry and painting, originating in Germany at the beginning of the 20th century. Its typical trait is to present the world solely from a subjective perspective, distorting it radically for emotional effect in order to evoke moods or ideas. Expressionist artists have sought to express the meaning of emotional experience rather than physical reality.Expressionism developed as an avant-garde style before the First World War. It remained popular during the Weimar Republic, particularly in Berlin. The style extended to a wide range of the arts, including expressionist architecture, painting, literature, theatre, dance, film and music.The term is sometimes suggestive of angst. In a historical sense, much older painters such as Matthias Gr\u00fcnewald and El Greco are sometimes termed expressionist, though the term is applied mainly to 20th-century works. The Expressionist emphasis on individual and subjective perspective has been characterized as a reaction to positivism and other artistic styles such as Naturalism and Impressionism.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Expressionism"
+    },
+    {
+        "title": "Sculpture",
+        "content": "Sculpture is the branch of the visual arts that operates in three dimensions. It is one of the plastic arts. Durable sculptural processes originally used carving (the removal of material) and modelling (the addition of material, as clay), in stone, metal, ceramics, wood and other materials but, since Modernism, there has been an almost complete freedom of materials and process. A wide variety of materials may be worked by removal such as carving, assembled by welding or modelling, or moulded or cast.\nSculpture in stone survives far better than works of art in perishable materials, and often represents the majority of the surviving works (other than pottery) from ancient cultures, though conversely traditions of sculpture in wood may have vanished almost entirely. However, most ancient sculpture was brightly painted, and this has been lost.Sculpture has been central in religious devotion in many cultures, and until recent centuries large sculptures, too expensive for private individuals to create, were usually an expression of religion or politics. Those cultures whose sculptures have survived in quantities include the cultures of the ancient Mediterranean, India and China, as well as many in Central and South America and Africa.\nThe Western tradition of sculpture began in ancient Greece, and Greece is widely seen as producing great masterpieces in the classical period. During the Middle Ages, Gothic sculpture represented the agonies and passions of the Christian faith. The revival of classical models in the Renaissance produced famous sculptures such as Michelangelo's David. Modernist sculpture moved away from traditional processes and the emphasis on the depiction of the human body, with the making of constructed sculpture, and the presentation of found objects as finished art works.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sculpture"
+    },
+    {
+        "title": "Stained glass",
+        "content": "The term stained glass refers to coloured glass as a material and to works created from it. Throughout its thousand-year history, the term has been applied almost exclusively to the windows of churches and other significant religious buildings. Although traditionally made in flat panels and used as windows, the creations of modern stained glass artists also include three-dimensional structures and sculpture. Modern vernacular usage has often extended the term \"stained glass\" to include domestic lead light and objets d'art created from foil glasswork exemplified in the famous lamps of Louis Comfort Tiffany.\nAs a material stained glass is glass that has been coloured by adding metallic salts during its manufacture, and usually then further decorating it in various ways. The coloured glass is crafted into stained glass windows in which small pieces of glass are arranged to form patterns or pictures, held together (traditionally) by strips of lead and supported by a rigid frame. Painted details and yellow stain are often used to enhance the design. The term stained glass is also applied to windows in enamelled glass in which the colours have been painted onto the glass and then fused to the glass in a kiln; very often this technique is only applied to parts of a window.\n\nStained glass, as an art and a craft, requires the artistic skill to conceive an appropriate and workable design, and the engineering skills to assemble the piece. A window must fit snugly into the space for which it is made, must resist wind and rain, and also, especially in the larger windows, must support its own weight. Many large windows have withstood the test of time and remained substantially intact since the Late Middle Ages. In Western Europe, together with illuminated manuscripts, they constitute the major form of medieval pictorial art to have survived. In this context, the purpose of a stained glass window is not to allow those within a building to see the world outside or even primarily to admit light but rather to control it. For this reason stained glass windows have been described as \"illuminated wall decorations\".\nThe design of a window may be abstract or figurative; may incorporate narratives drawn from the Bible, history, or literature; may represent saints or patrons, or use symbolic motifs, in particular armorial. Windows within a building may be thematic, for example: within a church \u2013 episodes from the life of Christ; within a parliament building \u2013 shields of the constituencies; within a college hall \u2013 figures representing the arts and sciences; or within a home \u2013 flora, fauna, or landscape.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Stained_glass"
+    },
+    {
+        "title": "Stonemasonry",
+        "content": "Stonemasonry or stonecraft is the creation of buildings, structures, and sculpture using stone as the primary material.  It is one of the oldest activities and professions in human history. Many of the long-lasting, ancient shelters, temples, monuments, artifacts, fortifications, roads, bridges, and entire cities were built of stone. Famous works of stonemasonry include the Egyptian pyramids, the Taj Mahal, Cusco's Incan Wall, Easter Island's statues, Angkor Wat, Borobudur, Tihuanaco, Tenochtitlan, Persepolis, the Parthenon, Stonehenge, the Great Wall of China, Chartres Cathedral.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Stonemasonry"
+    },
+    {
+        "title": "Tempera",
+        "content": "Tempera (Italian: [\u02c8t\u025bmpera]), also known as egg tempera, is a permanent, fast-drying painting medium consisting of colored pigments mixed with a water-soluble binder medium, usually glutinous material such as egg yolk. Tempera also refers to the paintings done in this medium. Tempera paintings are very long-lasting, and examples from the first century AD still exist.  Egg tempera was a primary method of painting until after 1500 when it was superseded by the invention of oil painting.  A paint consisting of pigment and binder commonly used in the United States as poster paint is also often referred to as \"tempera paint\", although the binders in this paint are different from traditional tempera paint.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tempera"
+    },
+    {
+        "title": "Textile arts",
+        "content": "Textile arts are arts and crafts that use plant, animal, or synthetic fibers to construct practical or decorative objects.\nTextiles have been a fundamental part of human life since the beginning of civilization. The methods and materials used to make them have expanded enormously, while the functions of textiles have remained the same. The history of textile arts is also the history of international trade.  Tyrian purple dye was an important trade good in the ancient Mediterranean. The Silk Road brought Chinese silk to India, Africa, and Europe. Tastes for imported luxury fabrics led to sumptuary laws during the Middle Ages and Renaissance.  The Industrial Revolution was shaped largely by innovation in textiles technology: the cotton gin, the spinning jenny, and the power loom mechanized production and led to the Luddite rebellion.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Textile_arts"
+    },
+    {
+        "title": "watercolor (art)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Wood carving",
+        "content": "Wood carving is a form of woodworking by means of a cutting tool (knife) in one hand or a chisel by two hands or with one hand on a chisel and one hand on a mallet, resulting in a wooden figure or figurine, or in the sculptural ornamentation of a wooden object. The phrase may also refer to the finished product, from individual sculptures to hand-worked mouldings composing part of a tracery.\nThe making of sculpture in wood has been extremely widely practised, but survives much less well than the other main materials such as stone and bronze, as it is vulnerable to decay, insect damage, and fire.  It therefore forms an important hidden element in the art history of many cultures.   Outdoor wood sculptures do not last long in most parts of the world, so it is still unknown how the totem pole tradition developed.  Many of the most important sculptures of China and Japan, in particular, are in wood, and so are the great majority of African sculpture and that of Oceania and other regions.  Wood is light and can take very fine detail so it is highly suitable for masks and other sculpture intended to be worn or carried.  It is also much easier to work on than stone.Some of the finest extant examples of early European wood carving are from the Middle Ages in Germany, Russia, Italy and France, where the typical themes of that era were Christian iconography. In England, many complete examples remain from the 16th and 17th century, where oak was the preferred medium.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Wood_carving"
+    },
+    {
+        "title": "Michelangelo",
+        "content": "Michelangelo di Lodovico Buonarroti Simoni (Italian: [mike\u02c8land\u0292elo di lodo\u02c8vi\u02d0ko \u02ccbw\u0254nar\u02c8r\u0254\u02d0ti si\u02c8mo\u02d0ni]; 6 March 1475 \u2013 18 February 1564), known best as simply Michelangelo (English: ), was an Italian sculptor, painter, architect and poet of the High Renaissance born in the Republic of Florence, who exerted an unparalleled influence on the development of Western art. His artistic versatility was of such a high order that he is often considered a contender for the title of the archetypal Renaissance man, along with his rival, the fellow Florentine, Leonardo da Vinci. Several scholars have described Michelangelo as the greatest artist of his age and even as the greatest artist of all time.A number of Michelangelo's works of painting, sculpture and architecture rank among the most famous in existence. His output in these fields was prodigious; given the sheer volume of surviving correspondence, sketches and reminiscences, he is the best-documented artist of the 16th century. He sculpted two of his best-known works, the Piet\u00e0 and David, before the age of thirty. Despite holding a low opinion of painting, he also created two of the most influential frescoes in the history of Western art: the scenes from Genesis on the ceiling of the Sistine Chapel in Rome, and The Last Judgment on its altar wall. His design of the Laurentian Library pioneered Mannerist architecture. At the age of 74, he succeeded Antonio da Sangallo the Younger as the architect of St. Peter's Basilica. He transformed the plan so that the western end was finished to his design, as was the dome, with some modification, after his death.\nMichelangelo was the first Western artist whose biography was published while he was alive. In fact, two biographies were published during his lifetime. One of them, by Giorgio Vasari, proposed that Michelangelo's work transcended that of any artist living or dead, and was \"supreme in not one art alone but in all three\".In his lifetime, Michelangelo was often called Il Divino (\"the divine one\"). His contemporaries often admired his terribilit\u00e0\u2014his ability to instil a sense of awe. Attempts by subsequent artists to imitate Michelangelo's impassioned, highly personal style resulted in Mannerism, the next major movement in Western art after the High Renaissance.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Michelangelo"
+    },
+    {
+        "title": "Pablo Picasso",
+        "content": "Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Mar\u00eda de los Remedios Cipriano de la Sant\u00edsima Trinidad Ruiz y Picasso (UK: , US: , Spanish: [\u02c8pa\u03b2lo pi\u02c8kaso]; 25 October 1881 \u2013 8 April 1973) was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France. Regarded as one of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907), and Guernica (1937), a dramatic portrayal of the bombing of Guernica by German and Italian air forces during the Spanish Civil War.\nPicasso demonstrated extraordinary artistic talent in his early years, painting in a naturalistic manner through his childhood and adolescence. During the first decade of the 20th century, his style changed as he experimented with different theories, techniques, and ideas. After 1906, the Fauvist work of the slightly older artist Henri Matisse motivated Picasso to explore more radical styles, beginning a fruitful rivalry between the two artists, who subsequently were often paired by critics as the leaders of modern art.Picasso's work is often categorized into periods. While the names of many of his later periods are debated, the most commonly accepted periods in his work are the Blue Period (1901\u20131904), the Rose Period (1904\u20131906), the African-influenced Period (1907\u20131909), Analytic Cubism (1909\u20131912), and Synthetic Cubism (1912\u20131919), also referred to as the Crystal period. Much of Picasso's work of the late 1910s and early 1920s is in a neoclassical style, and his work in the mid-1920s often has characteristics of Surrealism. His later work often combines elements of his earlier styles.\nExceptionally prolific throughout the course of his long life, Picasso achieved universal renown and immense fortune for his revolutionary artistic accomplishments, and became one of the best-known figures in 20th-century art.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+    },
+    {
+        "title": "Vincent van Gogh",
+        "content": "Vincent Willem van Gogh (Dutch: [\u02c8v\u026ans\u0259nt \u02c8\u028b\u026al\u0259m v\u0251\u014b \u02c8\u0263\u0254x] (listen); 30 March 1853 \u2013 29 July 1890) was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness, depression and poverty.\nBorn into an upper-middle-class family, Van Gogh drew as a child and was serious, quiet, and thoughtful. As a young man he worked as an art dealer, often travelling, but became depressed after he was transferred to London. He turned to religion and spent time as a Protestant missionary in southern Belgium. He drifted in ill health and solitude before taking up painting in 1881, having moved back home with his parents. His younger brother Theo supported him financially, and the two kept a long correspondence by letter. His early works, mostly still lifes and depictions of peasant labourers, contain few signs of the vivid colour that distinguished his later work. In 1886, he moved to Paris, where he met members of the avant-garde, including \u00c9mile Bernard and Paul Gauguin, who were reacting against the Impressionist sensibility. As his work developed he created a new approach to still lifes and local landscapes. His paintings grew brighter in colour as he developed a style that became fully realised during his stay in Arles in the south of France in 1888. During this period he broadened his subject matter to include series of olive trees, wheat fields and sunflowers.\nVan Gogh suffered from psychotic episodes and delusions and though he worried about his mental stability, he often neglected his physical health, did not eat properly and drank heavily. His friendship with Gauguin ended after a confrontation with a razor when, in a rage, he severed part of his own left ear. He spent time in psychiatric hospitals, including a period at Saint-R\u00e9my. After he discharged himself and moved to the Auberge Ravoux in Auvers-sur-Oise near Paris, he came under the care of the homeopathic doctor Paul Gachet. His depression continued and on 27 July 1890, Van Gogh shot himself in the chest with a Lefaucheux revolver. He died from his injuries two days later.\nVan Gogh was unsuccessful during his lifetime, and he was considered a madman and a failure. He became famous after his suicide and exists in the public imagination as a misunderstood genius, the artist \"where discourses on madness and creativity converge\". His reputation began to grow in the early 20th century as elements of his painting style came to be incorporated by the Fauves and German Expressionists. He attained widespread critical, commercial and popular success over the ensuing decades, and he is remembered as an important but tragic painter, whose troubled personality typifies the romantic ideal of the tortured artist. Today, Van Gogh's works are among the world's most expensive paintings to have ever sold, and his legacy is honoured by a museum in his name, the Van Gogh Museum in Amsterdam, which holds the world's largest collection of his paintings and drawings.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    {
+        "title": "Raphael (artist)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Claude Monet",
+        "content": "Oscar-Claude Monet (UK: , US: , French: [klod m\u0254n\u025b]; 14 November 1840 \u2013 5 December 1926) was a French painter, a founder of French Impressionist painting and the most consistent and prolific practitioner of the movement's philosophy of expressing one's perceptions before nature, especially as applied to plein air landscape painting. The term \"Impressionism\" is derived from the title of his painting Impression, soleil levant (Impression, Sunrise), which was exhibited in 1874 in the first of the independent exhibitions mounted by Monet and his associates as an alternative to the Salon de Paris.Monet's ambition of documenting the French countryside led him to adopt a method of painting the same scene many times in order to capture the changing of light and the passing of the seasons. From 1883, Monet lived in Giverny, where he purchased a house and property and began a vast landscaping project which included lily ponds that would become the subjects of his best-known works. He began painting the water lilies in 1899, first in vertical views with a Japanese bridge as a central feature and later in the series of large-scale paintings that was to occupy him continuously for the next 20 years of his life.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Claude_Monet"
+    },
+    {
+        "title": "Piano",
+        "content": "The piano is an acoustic, stringed musical instrument invented in Italy by Bartolomeo Cristofori around the year 1700 (the exact year is uncertain), in which the strings are struck by wooden hammers that are coated with a softer material (modern hammers are covered with dense wool felt; some early pianos used leather). It is played using a keyboard, which is a row of keys (small levers) that the performer presses down or strikes with the fingers and thumbs of both hands to cause the hammers to strike the strings.\nThe word piano is a shortened form of pianoforte, the Italian term for the early 1700s versions of the instrument,  which in turn derives from gravicembalo col piano e forte(key cymbal with quieter and louder) and fortepiano. The Italian musical terms piano and forte indicate \"soft\" and \"loud\" respectively, in this context referring to the variations in volume (i.e., loudness) produced in response to a pianist's touch or pressure on the keys: the greater the velocity of a key press, the greater the force of the hammer hitting the strings, and the louder the sound of the note produced and the stronger the attack. The name was created as a contrast to harpsichord, a musical instrument that does not allow variation in volume; compared to the harpsichord, the first fortepianos in the 1700s had a quieter sound and smaller dynamic range.A piano usually has a protective wooden case surrounding the soundboard and metal strings, which are strung under great tension on a heavy metal frame. Pressing one or more keys on the piano's keyboard causes a wooden or plastic hammer (typically padded with firm felt) to strike the strings. The hammer rebounds from the strings, and the strings continue to vibrate at their resonant frequency. These vibrations are transmitted through a bridge to a soundboard that amplifies by more efficiently coupling the acoustic energy to the air. When the key is released, a damper stops the strings' vibration, ending the sound. Notes can be sustained, even when the keys are released by the fingers and thumbs, by the use of pedals at the base of the instrument. The sustain pedal enables pianists to play musical passages that would otherwise be impossible, such as sounding a 10-note chord in the lower register and then, while this chord is being continued with the sustain pedal, shifting both hands to the treble range to play a melody and arpeggios over the top of this sustained chord. Unlike the pipe organ and harpsichord, two major keyboard instruments widely used before the piano, the piano allows gradations of volume and tone according to how forcefully or softly a performer presses or strikes the keys.\nMost modern pianos have a row of 88 black and white keys, 52 white keys for the notes of the C major scale (C, D, E, F, G, A and B) and 36 shorter black keys, which are raised above the white keys, and set further back on the keyboard. This means that the piano can play 88 different pitches (or \"notes\"), going from the deepest bass range to the highest treble. The black keys are for the \"accidentals\" (F\u266f/G\u266d, G\u266f/A\u266d, A\u266f/B\u266d, C\u266f/D\u266d, and D\u266f/E\u266d), which are needed to play in all twelve keys. More rarely, some pianos have additional keys (which require additional strings). Most notes have three strings, except for the bass, which graduates from one to two. The strings are sounded when keys are pressed or struck, and silenced by dampers when the hands are lifted from the keyboard. Although an acoustic piano has strings, it is usually classified as a percussion instrument rather than as a stringed instrument, because the strings are struck rather than plucked (as with a harpsichord or spinet); in the Hornbostel\u2013Sachs system of instrument classification, pianos are considered chordophones. There are two main types of piano: the grand piano and the upright piano. The grand piano is used for Classical concerto solos, chamber music, and art song, and it is often used in jazz and pop concerts. The upright piano, which is more compact, is the most popular type, as it is a better size for use in private homes for domestic music-making and practice. Upright pianos are also widely used in elementary and secondary schools, music school practice rooms, and in smaller churches.\nDuring the 1800s, influenced by the musical trends of the Romantic music era, innovations such as the cast iron frame (which allowed much greater string tensions) and aliquot stringing gave grand pianos a more powerful sound, with a longer sustain and richer tone. In the nineteenth century, a family's piano played the same role that a radio or phonograph played in the twentieth century; when a nineteenth-century family wanted to hear a newly published musical piece or symphony, they could hear it by having a family member play a simplified version on the piano. During the nineteenth century, music publishers produced many types of musical works (symphonies, opera overtures, waltzes, etc.) in arrangements for piano, so that music lovers could play and hear the popular pieces of the day in their home. The piano is widely employed in classical, jazz, traditional and popular music for solo and ensemble performances, accompaniment, and for composing, songwriting and rehearsals. Although the piano is very heavy and thus not portable and is expensive (in comparison with other widely used accompaniment instruments, such as the acoustic guitar), its musical versatility (i.e., its wide pitch range, ability to play chords, louder or softer notes and two or more independent musical lines at the same time), the large number of musicians and amateurs trained in playing it, and its wide availability in performance venues, schools and rehearsal spaces have made it one of the Western world's most familiar musical instruments.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Piano"
+    },
+    {
+        "title": "Acoustic guitar",
+        "content": "An acoustic guitar is a musical instrument in the guitar family. Its strings vibrate a sound board on a resonant body to project a sound wave through the air. The original, general term for this stringed instrument is guitar, and the retronym 'acoustic guitar' distinguishes it from an electric guitar, which relies on electronic amplification. Typically, a guitar's body is a sound box, of which the top side serves as a sound board that enhances the vibration sounds of the strings. In standard tuning the guitar's six strings are tuned (low to high) E2 A2 D3 G3 B3 E4.\nGuitar strings may be plucked individually with a pick or fingertip, or strummed to play chords. Plucking a string causes it to vibrate at a fundamental pitch determined by the string's length, mass, and tension. (Overtones are also present, closely related to harmonics of the fundamental pitch.) The string causes the soundboard and the air enclosed by the sound box to vibrate. As these have their own resonances, they amplify some overtones more strongly than others, affecting the timbre of the resulting sound.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Acoustic_guitar"
+    },
+    {
+        "title": "Drum",
+        "content": "The drum is a member of the percussion group of musical instruments. In the Hornbostel-Sachs classification system, it is a membranophone. Drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with the player's hands, or with a percussion mallet, to produce sound. There is usually a resonance head on the underside of the drum, typically tuned to a slightly lower pitch than the top drumhead. Other techniques have been used to cause drums to make sound, such as the thumb roll. Drums are the world's oldest and most ubiquitous musical instruments, and the basic design has remained virtually unchanged for thousands of years.Drums may be played individually, with the player using a single drum, and some drums such as the djembe are almost always played in this way. Others are normally played in a set of two or more, all played by the one player, such as bongo drums and timpani. A number of different drums together with cymbals form the basic modern drum kit.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Drum"
+    },
+    {
+        "title": "Balalaika",
+        "content": "The balalaika (Russian: \u0431\u0430\u043b\u0430\u043b\u0430\u0301\u0439\u043a\u0430, pronounced [b\u0259\u026b\u0250\u02c8\u026bajk\u0259]) is a Russian stringed musical instrument with a characteristic triangular wooden, hollow body, fretted neck and three strings. Two strings are usually tuned to the same note and the third string is a perfect fourth higher. The higher-pitched balalaikas are used to play melodies and chords. The instrument generally has a short sustain, necessitating rapid strumming or plucking when it is used to play melodies. Balalaikas are often used for Russian folk music and dancing.\nThe balalaika family of instruments includes instruments of various sizes, from the highest-pitched to the lowest: the piccolo balalaika, prima balalaika, secunda balalaika, alto balalaika, bass balalaika, and contrabass balalaika. There are balalaika orchestras which consist solely of different balalaikas; these ensembles typically play Classical music that has been arranged for balalaikas. The prima balalaika is the most common; the piccolo is rare. There have also been descant and tenor balalaikas, but these are considered obsolete. All have three-sided bodies; spruce, evergreen, or fir tops; and backs made of three to nine wooden sections (usually maple).\nThe prima balalaika, secunda and alto are played either with the fingers or a plectrum (pick), depending on the music being played, and the bass and contrabass (equipped with extension legs that rest on the floor) are played with leather plectra. The rare piccolo instrument is usually played with a pick.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Balalaika"
+    },
+    {
+        "title": "Accordion",
+        "content": "Accordions (from 19th-century German Akkordeon, from Akkord\u2014\"musical chord, concord of sounds\") are a family of box-shaped musical instruments of the bellows-driven free-reed aerophone type, colloquially referred to as a squeezebox. A person who plays the accordion is called an accordionist.  The concertina and bandone\u00f3n are related. The harmonium and American reed organ are in the same family, but are typically larger than an accordion and sit on a surface or the floor.\nThe accordion is played by compressing or expanding the bellows while pressing buttons or keys, causing pallets to open, which allow air to flow across strips of brass or steel, called reeds. These vibrate to produce sound inside the body. Valves on opposing reeds of each note are used to make the instrument's reeds sound louder without air leaking from each reed block. The performer normally plays the melody on buttons or keys on the right-hand manual, and the accompaniment, consisting of bass and pre-set chord buttons, on the left-hand manual.\nThe accordion is widely spread across the world because of the waves of immigration from Europe to the Americas and other regions. In some countries (for example Brazil, Colombia, Dominican Republic, Mexico and Panama) it is used in popular music (for example Gaucho, Forr\u00f3 and Sertanejo in Brazil, Vallenato in Colombia, and norte\u00f1o in Mexico), whereas in other regions (such as Europe, North America and other countries in South America) it tends to be more used for dance-pop and folk music and is often used in folk music in Europe, North America and South America.\nIn Europe and North America, some popular music acts also make use of the instrument. Additionally, the accordion is used in cajun, zydeco, jazz music and in both solo and orchestral performances of classical music. The piano accordion is the official city instrument of San Francisco, California. Many conservatories in Europe have classical accordion departments.  The oldest name for this group of instruments is harmonika, from the Greek harmonikos, meaning \"harmonic, musical\". Today, native versions of the name accordion are more common. These names refer to the type of accordion patented by Cyrill Demian, which concerned \"automatically coupled chords on the bass side\".",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Accordion"
+    },
+    {
+        "title": "Song",
+        "content": "A song is a musical composition intended to be performed by the human voice. This is often done at distinct and fixed pitches (melodies) using patterns of sound and silence. Songs contain various forms, such as those including the repetition and variation of sections.\nWritten words created specifically for music or for which music is specifically created, are called lyrics. If a pre-existing poem is set to composed music in classical music it is an art song. Songs that are sung on repeated pitches without distinct contours and patterns that rise and fall are called chants. Songs composed in a simple style that are learned informally \"by ear\" are often referred to as folk songs. Songs that are composed for professional singers who sell their recordings or live shows to the mass market are called popular songs. These songs, which have broad appeal, are often composed by professional songwriters, composers, and lyricists. Art songs are composed by trained classical composers for concert or recital performances. Songs are performed live and recorded on audio or video (or, in some cases, a song may be performed live and simultaneously recorded). Songs may also appear in plays, musical theatre, stage shows of any form, and within operas, films, and TV shows.\nA song may be for a solo singer, a lead singer supported by background singers, a duet, trio, or larger ensemble involving more voices singing in harmony, although the term is generally not used for large classical music vocal forms including opera and oratorio, which use terms such as aria and recitative instead. A song can be sung without accompaniment by instrumentalists (a cappella) or accompanied by instruments. In popular music, a singer may perform with an acoustic guitarist, pianist, organist, accordionist, or a backing band. In jazz, a singer may perform with a single pianist, a small combo (such as a trio or quartet), or with a big band. A Classical singer may perform with a single pianist, a small ensemble, or an orchestra. In jazz and blues, singers often learn songs \"by ear\" and they may improvise some melody lines. In Classical music, melodies are written by composers in sheet music format, so singers learn to read music.\nSongs with more than one voice to a part singing in polyphony or harmony are considered choral works. Songs can be broadly divided into many different forms and types, depending on the criteria used. Through semantic widening, a broader sense of the word \"song\" may refer to instrumentals, such as Mendelssohn's 19th century Songs Without Words pieces for solo piano.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Song"
+    },
+    {
+        "title": "Brass instrument",
+        "content": "A brass instrument is a musical instrument that produces sound by sympathetic vibration of air in a tubular resonator in sympathy with the vibration of the player's lips. Brass instruments are also called labrosones or labrophones, from Latin and Greek elements meaning 'lip' and 'sound'.\nThere are several factors involved in producing different pitches on a brass instrument. Slides, valves, crooks (though they are rarely used today), or keys are used to change vibratory length of tubing, thus changing the available harmonic series, while the player's embouchure, lip tension and air flow serve to select the specific harmonic produced from the available series.\nThe view of most scholars (see organology) is that the term \"brass instrument\" should be defined by the way the sound is made, as above, and not by whether the instrument is actually made of brass. Thus one finds brass instruments made of wood, like the alphorn, the cornett, the serpent and the didgeridoo, while some woodwind instruments are made of brass, like the saxophone.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Brass_instrument"
+    },
+    {
+        "title": "Clarinet",
+        "content": "The clarinet is a family of woodwind instruments. It has a single-reed mouthpiece, a straight, cylindrical tube with an almost cylindrical bore, and a flared bell. A person who plays a clarinet is called a clarinetist (sometimes spelled clarinettist).\nWhile the similarity in sound between the earliest clarinets and the trumpet may hold a clue to its name,  other factors may have been involved. During the Late Baroque era, composers such as Bach and Handel were making new demands on the skills of their trumpeters, who were often required to play difficult melodic passages in the high, or as it came to be called, clarion register. Since the trumpets of this time had no valves or pistons, melodic passages would often require the use of the highest part of the trumpet's range, where the harmonics were close enough together to produce scales of adjacent notes as opposed to the gapped scales or arpeggios of the lower register. The trumpet parts that required this specialty were known by the term clarino and this in turn came to apply to the musicians themselves. It is probable that the term clarinet may stem from the diminutive version of the 'clarion' or 'clarino' and it has been suggested that clarino players may have helped themselves out by playing particularly difficult passages on these newly developed \"mock trumpets\".Johann Christoph Denner is generally believed to have invented the clarinet in Germany around the year 1700 by adding a register key to the earlier chalumeau, usually in the key of C. Over time, additional keywork and airtight pads were added to improve the tone and playability.In modern times, the most common clarinet is the B\u266d clarinet. However, the clarinet in A, just a semitone lower, is regularly used in orchestral, chamber and solo music. An orchestral clarinetist must own both a clarinet in A and B\u266d since the repertoire is divided fairly evenly between the two. Since the middle of the 19th century, the bass clarinet (nowadays invariably in B\u266d but with extra keys to extend the register down to low written C3) has become an essential addition to the orchestra. The clarinet family ranges from the (extremely rare) BBB\u266d octo-contrabass to the A\u266d piccolo clarinet. The clarinet has proved to be an exceptionally flexible instrument, used in the classical repertoire as in concert bands, military bands, marching bands, klezmer, jazz, and other styles.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Clarinet"
+    },
+    {
+        "title": "Violin",
+        "content": "The violin, sometimes known as a fiddle, is a wooden chordophone (string instrument) in the violin family. Most violins have a hollow wooden body. It is the smallest and thus highest-pitched instrument (soprano) in the family in regular use. The violin typically has four strings, usually tuned in perfect fifths with notes G3, D4, A4, E5, and is most commonly played by drawing a bow across its strings. It can also be played by plucking the strings with the fingers (pizzicato) and, in specialized cases, by striking the strings with the wooden side of the bow (col legno).\nViolins are important instruments in a wide variety of musical genres. They are most prominent in the Western classical tradition, both in ensembles (from chamber music to orchestras) and as solo instruments. Violins are also important in many varieties of folk music, including country music, bluegrass music and in jazz. Electric violins with solid bodies and piezoelectric pickups are used in some forms of rock music and jazz fusion, with the pickups plugged into instrument amplifiers and speakers to produce sound. The violin has come to be incorporated in many non-Western music cultures, including Indian music and Iranian music. The name fiddle is often used regardless of the type of music played on it.\nThe violin was first known in 16th-century Italy, with some further modifications occurring in the 18th and 19th centuries to give the instrument a more powerful sound and projection. In Europe, it served as the basis for the development of other stringed instruments used in Western classical music, such as the viola.Violinists and collectors particularly prize the fine historical instruments made by the Stradivari, Guarneri, Guadagnini and Amati families from the 16th to the 18th century in Brescia and Cremona (Italy) and by Jacob Stainer in Austria. According to their reputation, the quality of their sound has defied attempts to explain or equal it, though this belief is disputed. Great numbers of instruments have come from the hands of less famous makers, as well as still greater numbers of mass-produced commercial \"trade violins\" coming from cottage industries in places such as Saxony, Bohemia, and Mirecourt. Many of these trade instruments were formerly sold by Sears, Roebuck and Co. and other mass merchandisers.\nThe components of a violin are usually made from different types of wood. Violins can be strung with gut, Perlon or other synthetic, or steel strings. A person who makes or repairs violins is called a luthier or violinmaker. One who makes or repairs bows is called an archetier or bowmaker.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Violin"
+    },
+    {
+        "title": "Castanets",
+        "content": "Castanets, also known as clackers or palillos, are a percussion instrument (idiophone), used in Spanish, Kalo, Moorish, Ottoman, Italian,  Sephardic, Swiss, and Portuguese music. In ancient Greece and ancient Rome there was a similar instrument called crotalum.\nThe instrument consists of a pair of concave shells joined on one edge by a string. They are held in the hand and used to produce clicks for rhythmic accents or a ripping or rattling sound consisting of a rapid series of clicks. They are traditionally made of hardwood (chestnut; Spanish: casta\u00f1o), although fibreglass is becoming increasingly popular.\nIn practice, a player usually uses two pairs of castanets. One pair is held in each hand, with the string hooked over the thumb and the castanets resting on the palm with the fingers bent over to support the other side. Each pair will make a sound of a slightly different pitch.\nThe origins of the instrument are not known. The practice of clicking hand-held sticks together to accompany dancing is ancient, and was practiced by both the Greeks and the Egyptians. In more modern times, the bones and spoons used in Minstrel show and jug band music can also be considered forms of the castanet.\nDuring the baroque period, castanets were featured prominently in dances. Composers like Jean-Baptiste Lully scored them for the music of dances which included Spaniards (Ballet des Nations), Egyptians (Pers\u00e9e, Pha\u00ebton), Ethiopians (Pers\u00e9e, Pha\u00ebton), and Korybantes (Atys). In addition, they are often scored for dances involving less pleasant characters such as demons (Alceste) and nightmares (Atys). Their association with African dances is even stated in the ballet Flore (1669) by Lully, \"\u2026 les Africains inventeurs des danses de Castagnettes entrent d'un air plus gai \u2026\"\nA rare occasion where the normally accompanying instrument is given concertant solo status is Leonardo Balada's Concertino for Castanets and Orchestra Three Anecdotes (1977). The \"Conciertino f\u00fcr Kastagnetten und Orchester\" by the German composer Helmut M. Timpelan, in cooperation with the castanet virtuoso, Jos\u00e9 de Udaeta, is another solo work for the instrument. See also the Toccata Festiva for castanets by Allan Stephenson. Sonia Amelio has also performed her castanet arrangements as a concert soloist.\nIn the late Ottoman Empire, k\u00f6\u00e7eks not only danced but played percussion instruments, especially a type of castanet known as the \u00e7arpare, which in later times were replaced by metal cymbals called zills.\nCastanets are also sometimes referred to as clackers in the United States.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Castanets"
+    },
+    {
+        "title": "Electric guitar",
+        "content": "An electric guitar is a guitar that requires external amplification in order to be heard at typical performance volumes. It uses one or more pickups to convert the vibration of its strings into electrical signals, which ultimately are reproduced as sound by loudspeakers. The sound can be shaped or electronically altered to achieve different timbres or tonal qualities, making it quite different than an acoustic guitar. Often, this is done through the use of effects such as reverb, distortion and \"overdrive\"; the latter is considered to be a key element of electric blues guitar music and rock guitar playing.\nInvented in 1932, the electric guitar was adopted by jazz guitar players, who wanted to play single-note guitar solos in large big band ensembles. Early proponents of the electric guitar on record include Les Paul, Lonnie Johnson, Sister Rosetta Tharpe, T-Bone Walker, and Charlie Christian. During the 1950s and 1960s, the electric guitar became the most important instrument in popular music. It has evolved into an instrument that is capable of a multitude of sounds and styles in genres ranging from pop and rock to country music, blues and jazz. It served as a major component in the development of electric blues, rock and roll, rock music, heavy metal music and many other genres of music.\nElectric guitar design and construction varies greatly in the shape of the body and the configuration of the neck, bridge, and pickups. Guitars may have a fixed bridge or a spring-loaded hinged bridge, which lets players \"bend\" the pitch of notes or chords up or down, or perform vibrato effects. The sound of an electric guitar can be modified by new playing techniques such as string bending, tapping, and hammering-on, using audio feedback, or slide guitar playing. \nThere are several types of electric guitar, including: the solid-body guitar; various types of hollow-body guitars; the six-string guitar (the most common type), which is usually tuned E, B, G, D, A, E, from highest to lowest strings; the seven-string guitar, which typically adds a low B string below the low E; the eight-string guitar, which typically adds a low E or F# string below the low B; and the twelve-string guitar, which has six pairs of strings.\nIn pop and rock music, the electric guitar is often used in two roles: as a rhythm guitar, which plays the chord sequences or progressions, and riffs, and sets the beat (as part of a rhythm section); and as a lead guitar, which provides instrumental melody lines, melodic instrumental fill passages, and solos. In a small group, such as a power trio, one guitarist switches between both roles. In large rock and metal bands, there is often a rhythm guitarist and a lead guitarist.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Electric_guitar"
+    },
+    {
+        "title": "Harmonica",
+        "content": "The harmonica, also known as a French harp or mouth organ, is a free reed wind instrument used worldwide in many musical genres, notably in blues, American folk music, classical music, jazz, country, and rock. The many types of harmonica include diatonic, chromatic, tremolo, octave, orchestral, and bass versions. A harmonica is played by using the mouth (lips and tongue) to direct air into or out of one (or more) holes along a mouthpiece. Behind each hole is a chamber containing at least one reed. A harmonica reed is a flat, elongated spring typically made of brass, stainless steel, or bronze, which is secured at one end over a slot that serves as an airway. When the free end is made to vibrate by the player's air, it alternately blocks and unblocks the airway to produce sound.\nReeds are tuned to individual pitches. Tuning may involve changing a reed\u2019s length, the weight near its free end, or the stiffness near its fixed end. Longer, heavier, and springier reeds produce deeper, lower sounds; shorter, lighter, and stiffer reeds make higher-pitched sounds. If, as on most modern harmonicas, a reed is affixed above or below its slot rather than in the plane of the slot, it responds more easily to air flowing in the direction that initially would push it into the slot, i.e., as a closing reed. This difference in response to air direction makes it possible to include both a blow reed and a draw reed in the same air chamber and to play them separately without relying on flaps of plastic or leather (valves, wind-savers) to block the nonplaying reed.\nAn important technique in performance is bending, causing a drop in pitch by making embouchure adjustments.  Bending isolated reeds is possible, as on chromatic and other harmonica models with wind-savers, but also to both lower, and raise (overbend, overblow, overdraw) the pitch produced by pairs of reeds in the same chamber, as on a diatonic or other unvalved harmonica. Such two-reed pitch changes actually involve sound production by the normally silent reed, the opening reed (for instance, the blow reed while the player is drawing).",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Harmonica"
+    },
+    {
+        "title": "mandolin (instrument)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Maraca",
+        "content": "A maraca (pronunciation ), sometimes called rumba shaker or chac-chac, is a rattle which appears in many genres of Caribbean and Latin music. It is shaken by a handle and usually played as part of a pair.\nMaracas (from Guaran\u00ed mbarac\u00e1s), also known as tamaracas, were rattles of divination, an oracle of the Brazilian Tupinamba Indians, found also with other Indian tribes (Garifuna, Guarani) and on the Orinoco and in Florida. Rattles made from Lagenaria gourds are being shaken by the natural grip, while the round Crescentia calabash fruits are fitted to a handle. Human hair is sometimes fastened on the top, and a slit is cut in it to represent a mouth, through which their shamans (payes) made it utter its responses. A few pebbles are inserted to make it rattle and it is crowned with the red feathers of the guar\u00e1s (scarlet ibis). Every man had his maraca. It was used at their dances and to heal the sick. Andean curanderos (healers) use maracas in their healing rites.Modern maraca balls are also made of leather, wood or plastic.A maraca player in Spanish is a maraquero.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Maraca"
+    },
+    {
+        "title": "Organ (music)",
+        "content": "In music, the organ is a keyboard instrument of one or more pipe divisions or other means for producing tones, each played with its own keyboard, played either with the hands on a keyboard or with the feet using pedals.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Organ_(music)"
+    },
+    {
+        "title": "Ocarina",
+        "content": "The ocarina is an ancient wind musical instrument\u2014a type of vessel flute. Variations exist, but a typical ocarina is an enclosed space with four to twelve finger holes and a mouthpiece that projects from the body. It is traditionally made from clay or ceramic, but other materials are also used\u2014such as plastic, wood, glass, metal, or bone.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ocarina"
+    },
+    {
+        "title": "Saxophone",
+        "content": "The saxophone (referred to colloquially as the sax) is a family of woodwind instruments usually made of brass and played with a single-reed mouthpiece. Although most saxophones are made from brass, they are categorized as woodwind instruments, because sound is produced by an oscillating reed (traditionally made out of woody cane) rather than lips vibrating in a mouthpiece cup as with the brass instrument family. As with the other woodwind instruments, the pitch of the note being played is controlled by covering holes in the body tube to control the resonant frequency of the air column by changing the effective length of the tube.\nThe player covers or uncovers the holes by pressing keys.\nThe saxophone is used in classical music (such as concert bands, chamber music, solo repertoire, and, occasionally, orchestras), military bands, marching bands, jazz (such as big bands and jazz combos), and contemporary music. The saxophone is also used as a solo and melody instrument or as a member of a horn section in some styles of rock and roll and popular music. Saxophone players are called saxophonists.Since the first saxophone was invented by the Belgian instrument maker Adolphe Sax in the early 1840s, saxophones have been produced in a variety of series distinguished by transpositions within instrument sets and tuning standard. Sax patented the saxophone on 28 June 1846, in two groups of seven instruments each. Each series consisted of instruments ranked by pitch, in alternating transposition. The series pitched in B\u266d and E\u266d soon became dominant and most saxophones encountered today are from this series. Instruments from the series pitched in C and F never gained a foothold and constituted only a small percentage of instruments made by Sax. High Pitch (also marked \"H\" or \"HP\") saxophones tuned sharper than the (concert) A = 440 Hz standard were produced into the early twentieth century for sonic qualities suited for outdoor uses, but are not playable to modern tuning and are considered obsolete. Low Pitch (also marked \"L\" or \"LP\") saxophones are equivalent in tuning to modern instruments. C soprano and C melody saxophones were produced for the casual market as parlor instruments during the early twentieth century. Saxophones in F were introduced during the late 1920s but never gained acceptance. The modern saxophone family consists entirely of instruments in the B\u266d \u2013 E\u266d series, historical and experimental instruments notwithstanding.  The saxophones with widest use and availability are the soprano, alto, tenor, and baritone saxophones.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Saxophone"
+    },
+    {
+        "title": "Tambourine",
+        "content": "The tambourine is a musical instrument in the percussion family consisting of a frame, often of wood or plastic, with pairs of small metal jingles, called \"zills\". Classically the term tambourine denotes an instrument with a drumhead, though some variants may not have a head at all. Tambourines are often used with regular percussion sets. They can be mounted, for example on a stand as part of a drum kit (and played with drum sticks), or they can be held in the hand and played by tapping or hitting the instrument.\nTambourines come in many shapes with the most common being circular. It is found in many forms of music: Turkish folk music, Greek folk music, Italian folk music, classical music, Persian music, samba, gospel music, pop music, country music, and rock music.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tambourine"
+    },
+    {
+        "title": "Trumpet",
+        "content": "The trumpet is a brass instrument commonly used in classical and jazz ensembles. The trumpet group ranges from the piccolo trumpet with the highest register in the brass family, to the bass trumpet, which is pitched one octave below the standard B\u266d or C Trumpet.\nTrumpet-like instruments have historically been used as signalling devices in battle or hunting, with examples dating back to at least 1500 BCE. They began to be used as musical instruments only in the late 14th or early 15th century. Trumpets are used in art music styles, for instance in orchestras, concert bands, and jazz ensembles, as well as in popular music. They are played by blowing air through nearly-closed lips (called the player's embouchure), producing a \"buzzing\" sound that starts a standing wave vibration in the air column inside the instrument. Since the late 15th century, trumpets have primarily been constructed of brass tubing, usually bent twice into a rounded rectangular shape.There are many distinct types of trumpet, with the most common being pitched in B\u266d (a transposing instrument), having a tubing length of about 1.48 m (4 ft 10 in). Early trumpets did not provide means to change the length of tubing, whereas modern instruments generally have three (or sometimes four) valves in order to change their pitch. There are eight combinations of three valves, making seven different tubing lengths, with the third valve sometimes used as an alternate fingering equivalent to the 1\u20132 combination. Most trumpets have valves of the piston type, while some have the rotary type. The use of rotary-valved trumpets is more common in orchestral settings (especially in German and German-style orchestras), although this practice varies by country. Each valve, when engaged, increases the length of tubing, lowering the pitch of the instrument. A musician who plays the trumpet is called a trumpet player or trumpeter.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Trumpet"
+    },
+    {
+        "title": "Ukulele",
+        "content": "The ukulele ( YOO-k\u0259-LAY-lee; from Hawaiian: \u02bbukulele [\u02c8\u0294uku\u02c8l\u025bl\u025b], approximately OO-koo-LEH-leh)  is a member of the lute family of instruments. It generally employs four nylon strings.The ukulele originated in the 19th century as a Hawaiian adaptation of the Portuguese machete (cavaquinho),  a small guitar-like instrument, which was introduced to Hawaii by Portuguese immigrants, mainly from Madeira and the Azores. It gained great popularity elsewhere in the United States during the early 20th century and from there spread internationally.\nThe tone and volume of the instrument vary with size and construction. Ukuleles commonly come in four sizes: soprano, concert, tenor, and baritone.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ukulele"
+    },
+    {
+        "title": "Tempo",
+        "content": "In musical terminology, tempo (Italian for \"time\"; plural tempos, or tempi from the Italian plural) is the speed or pace of a given piece. In classical music, tempo is typically indicated with an instruction at the start of a piece (often using conventional Italian terms) and is usually measured in beats per minute (or bpm). In modern classical compositions, a \"metronome mark\" in beats per minute may supplement or replace the normal tempo marking, while in modern genres like electronic dance music, tempo will typically simply be stated in bpm.\nTempo may be separated from articulation and meter, or these aspects may be indicated along with tempo, all contributing to the overall texture. While the ability to hold a steady tempo is a vital skill for a musical performer, tempo is changeable. Depending on the genre of a piece of music and the performers' interpretation, a piece may be played with slight tempo rubato or drastic variances. In ensembles, the tempo is often indicated by a conductor or by one of the instrumentalists, for instance the drummer.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tempo"
+    },
+    {
+        "title": "Jazz",
+        "content": "Jazz is a music genre that originated in the African-American communities of New Orleans, United States in the late 19th and early 20th centuries, with its roots in blues and ragtime. Since the 1920s Jazz Age, it has been recognized as a major form of musical expression in traditional and popular music, linked by the common bonds of African-American and European-American musical parentage. Jazz is characterized by swing and blue notes, call and response vocals, polyrhythms and improvisation. Jazz has roots in West African cultural and musical expression, and in African-American music traditions.As jazz spread around the world, it drew on national, regional, and local musical cultures, which gave rise to different styles. New Orleans jazz began in the early 1910s, combining earlier brass-band marches, French quadrilles, biguine, ragtime and blues with collective polyphonic improvisation. In the 1930s, heavily arranged dance-oriented swing big bands, Kansas City jazz, a hard-swinging, bluesy, improvisational style and Gypsy jazz (a style that emphasized musette waltzes) were the prominent styles. Bebop emerged in the 1940s, shifting jazz from danceable popular music toward a more challenging \"musician's music\" which was played at faster tempos and used more chord-based improvisation. Cool jazz developed near the end of the 1940s, introducing calmer, smoother sounds and long, linear melodic lines.\nThe mid-1950s saw the emergence of hard bop, which introduced influences from rhythm and blues, gospel, and blues, especially in the saxophone and piano playing. Modal jazz developed in the late 1950s, using the mode, or musical scale, as the basis of musical structure and improvisation, as did free jazz, which explored playing without regular meter, beat and formal structures. Jazz-rock fusion appeared in the late 1960s and early 1970s, combining jazz improvisation with rock music's rhythms, electric instruments, and highly amplified stage sound. In the early 1980s, a commercial form of jazz fusion called smooth jazz became successful, garnering significant radio airplay. Other styles and genres abound in the 2000s, such as Latin and Afro-Cuban jazz.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Jazz"
+    },
+    {
+        "title": "Classical music",
+        "content": "Classical music is art music produced or rooted in the traditions of Western culture, including both liturgical (religious) and secular music. While a more precise term is also used to refer to the period from 1750 to 1820 (the Classical period), this article is about the broad span of time from before the 6th century AD to the present day, which includes the Classical period and various other periods. The central norms of this tradition became codified between 1650 and 1900, which is known as the common-practice period.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Classical_music"
+    },
+    {
+        "title": "Melody",
+        "content": "A melody (from Greek \u03bc\u03b5\u03bb\u1ff3\u03b4\u03af\u03b1, mel\u014did\u00eda, \"singing, chanting\"), also tune, voice or line, is a linear succession of musical tones that the listener perceives as a single entity. In its most literal sense, a melody is a combination of pitch and rhythm, while more figuratively, the term can include successions of other musical elements such as tonal color. It may be considered the foreground to the background accompaniment. A line or part need not be a foreground melody.\nMelodies often consist of one or more musical phrases or motifs, and are usually repeated throughout a composition in various forms. Melodies may also be described by their melodic motion or the pitches or the intervals between pitches (predominantly conjunct or disjunct or with further restrictions), pitch range, tension and release, continuity and coherence, cadence, and shape.\n\nThe true goal of music\u2014its proper enterprise\u2014is melody. All the parts of harmony have as their ultimate purpose only beautiful melody. Therefore, the question of which is the more significant, melody or harmony, is futile. Beyond doubt, the means is subordinate to the end.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Melody"
+    },
+    {
+        "title": "Rhythm",
+        "content": "Rhythm (from Greek \u1fe5\u03c5\u03b8\u03bc\u03cc\u03c2, rhythmos, \"any regular recurring motion, symmetry\"\u2014Liddell and Scott 1996) generally means a \"movement marked by the regulated succession of strong and weak elements, or of opposite or different conditions\" (Anon. 1971, 2537). This general meaning of regular recurrence or pattern in time can apply to a wide variety of cyclical natural phenomena having a periodicity or frequency of anything from microseconds to several seconds (as with the riff in a rock music song); to several minutes or hours, or, at the most extreme, even over many years.\nRhythm is related to and distinguished from pulse, meter, and beats: \n\nRhythm may be defined as the way in which one or more unaccented beats are grouped in relation to an accented one. ... A rhythmic group can be apprehended only when its elements are distinguished from one another, rhythm...always involves an interrelationship between a single, accented (strong) beat and either one or two unaccented (weak) beats. (Cooper and Meyer 1960, 6)\nIn the performance arts, rhythm is the timing of events on a human scale; of musical sounds and silences that occur over time, of the steps of a dance, or the meter of spoken language and poetry. In some performing arts, such as hip hop music, the rhythmic delivery of the lyrics is one of the most important elements of the style. Rhythm may also refer to visual presentation, as \"timed movement through space\" (Jirousek 1995) and a common language of pattern unites rhythm with geometry. For example, architects often speak of the rhythm of a building, referring to patterns in the spacing of windows, columns, and other elements of the facade. In recent years, rhythm and meter have become an important area of research among music scholars. Recent work in these areas includes books by Maury Yeston (1976), Fred Lerdahl and Ray Jackendoff (Lerdahl and Jackendoff 1983), Jonathan Kramer, Christopher Hasty (1997), Godfried Toussaint (2005), William Rothstein (1989), Joel Lester (Lester 1986), and Guerino Mazzola.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Rhythm"
+    },
+    {
+        "title": "Music",
+        "content": "Music is an art form, and cultural activity, whose medium is sound. General definitions of music include common elements such as pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics (loudness and softness), and the sonic qualities of timbre and texture (which are sometimes termed the \"color\" of a musical sound). Different styles or types of music may emphasize, de-emphasize or omit some of these elements. Music is performed with a vast range of instruments and vocal techniques ranging from singing to rapping; there are solely instrumental pieces, solely vocal pieces (such as songs without instrumental accompaniment) and pieces that combine singing and instruments. The word derives from Greek \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae (mousike; \"art of the Muses\").\nSee glossary of musical terminology.\nIn its most general form, the activities describing music as an art form or cultural activity include the creation of works of music (songs, tunes, symphonies, and so on), the criticism of music, the study of the history of music, and the aesthetic examination of music. Ancient Greek and Indian philosophers defined music in two parts: melodies, as tones ordered horizontally, and harmonies as tones ordered vertically. Common sayings such as \"the harmony of the spheres\" and \"it is music to my ears\" point to the notion that music is often ordered and pleasant to listen to. However, 20th-century composer John Cage thought that any sound can be music, saying, for example, \"There is no noise, only sound.\"The creation, performance, significance, and even the definition of music vary according to culture and social context. Indeed, throughout history, some new forms or styles of music have been criticized as \"not being music\", including Beethoven's Grosse Fuge string quartet in 1825, early jazz in the beginning of the 1900s and hardcore punk in the 1980s. There are many types of music, including popular music, traditional music, art music, music written for religious ceremonies and work songs such as chanteys. Music ranges from strictly organized compositions\u2014such as Classical music symphonies from the 1700s and 1800s\u2014through to spontaneously played improvisational music such as jazz, and avant-garde styles of chance-based contemporary music from the 20th and 21st centuries.\nMusic can be divided into genres (e.g., country music) and genres can be further divided into subgenres (e.g., country blues and pop country are two of the many country subgenres), although the dividing lines and relationships between music genres are often subtle, sometimes open to personal interpretation, and occasionally controversial. For example, it can be hard to draw the line between some early 1980s hard rock and heavy metal. Within the arts, music may be classified as a performing art, a fine art or as an auditory art. Music may be played or sung and heard live at a rock concert or orchestra performance, heard live as part of a dramatic work (a music theater show or opera), or it may be recorded and listened to on a radio, MP3 player, CD player, smartphone or as film score or TV show.\nIn many cultures, music is an important part of people's way of life, as it plays a key role in  religious rituals, rite of passage ceremonies (e.g., graduation and marriage), social activities (e.g., dancing) and cultural activities ranging from amateur karaoke singing to playing in an amateur funk band or singing in a community choir. People may make music as a hobby, like a teen playing cello in a youth orchestra, or work as a professional musician or singer. The music industry includes the individuals who create new songs and musical pieces (such as songwriters and composers), individuals who perform music (which include orchestra, jazz band and rock band musicians, singers and conductors), individuals who record music (music producers and sound engineers), individuals who organize concert tours, and individuals who sell recordings, sheet music, and scores to customers. Even once a song or piece has been performed, music critics, music journalists, and music scholars may assess and evaluate the piece and its performance.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Music"
+    },
+    {
+        "title": "Arts and Culture",
+        "content": "Art is a diverse range of human activities involving the creation of visual, auditory or performing artifacts (artworks), which express the creator's imagination, conceptual ideas, or technical skill, intended to be appreciated primarily for their beauty or emotional power. Other activities related to the production of works of art include art criticism and the history of art.\nThe three classical branches of visual art are painting, sculpture and architecture. Music, theatre, film, dance, and other performing arts, as well as literature and other media such as interactive media, are included in a broader definition of the arts. Until the 17th century, art referred to any skill or mastery and was not differentiated from crafts or sciences. In modern usage after the 17th century, where aesthetic considerations are paramount, the fine arts are separated and distinguished from acquired skills in general, such as the decorative or applied arts.\nThough there is no generally agreed definition of what constitutes art, and ideas have changed over time, general descriptions mention an idea of imaginative or technical skill stemming from human agency and creation. The nature of art and related concepts, such as creativity and interpretation, are explored in a branch of philosophy known as aesthetics.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Art"
+    },
+    {
+        "title": "Film",
+        "content": "Film, also called movie, motion picture or moving picture, is a visual art-form used to simulate experiences that communicate ideas, stories, perceptions, feelings, beauty, or atmosphere through the use of moving images. These images are generally accompanied by sound, and more rarely, other sensory stimulations. The word \"cinema\", short for cinematography, is often used to refer to filmmaking and the film industry, and to the art form that is the result of it.\nThe moving images of a film are created by photographing actual scenes with a motion-picture camera, by photographing drawings or miniature models using traditional animation techniques, by means of CGI and computer animation, or by a combination of some or all of these techniques, and other visual effects.\nTraditionally, films were recorded onto celluloid film stock through a photochemical process and then shown through a movie projector onto a large screen. Contemporary films are often fully digital  through the entire process of production, distribution, and exhibition, while films recorded in a photochemical form traditionally included an analogous optical soundtrack (a graphic recording of the spoken words, music and other sounds that accompany the images which runs along a portion of the film exclusively reserved for it, and is not projected).\nFilms are cultural artifacts created by specific cultures. They reflect those cultures, and, in turn, affect them. Film is considered to be an important art form, a source of popular entertainment, and a powerful medium for educating\u2014or indoctrinating\u2014citizens. The visual basis of film gives it a universal power of communication. Some films have become popular worldwide attractions through the use of dubbing or subtitles to translate the dialog into other languages.\nThe individual images that make up a film are called frames. In the projection of traditional celluloid films, a rotating shutter causes intervals of darkness as each frame, in turn, is moved into position to be projected, but the viewer does not notice the interruptions because of an effect known as persistence of vision, whereby the eye retains a visual image for a fraction of a second after its source disappears. The perception of motion is partly due to a psychological effect called the phi phenomenon.\nThe name \"film\" originates from the fact that photographic film (also called film stock) has historically been the medium for recording and displaying motion pictures. Many other terms exist for an individual motion-picture, including picture, picture show, moving picture, photoplay, and flick. The most common term in the United States is movie, while in Europe film is preferred. Common terms for the field in general include the big screen, the silver screen, the movies, and cinema; the last of these is commonly used, as an overarching term, in scholarly texts and critical essays. In early years, the word sheet was sometimes used instead of screen.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Film"
+    },
+    {
+        "title": "Festival",
+        "content": "A festival is an event ordinarily celebrated by a community and centering on some characteristic aspect of that community and its religion or cultures. It is often marked as a local or national holiday, mela, or eid. A festival constitutes typical cases of glocalization, as well as the high culture-low culture interrelationship. Next to religion and folklore, a significant origin is agricultural. Food is such a vital resource that many festivals are associated with harvest time. Religious commemoration and thanksgiving for good harvests are blended in events that take place in autumn, such as Halloween in the northern hemisphere and Easter in the southern.\nFestivals often serve to fulfill specific communal purposes, especially in regard to commemoration or thanking to the gods and goddesses. They may also provide entertainment, which was particularly important to local communities before the advent of mass-produced entertainment. Festivals that focus on cultural or ethnic topics also seek to inform community members of their traditions; the involvement of elders sharing stories and experience provides a means for unity among families.\nIn Ancient Greece and Rome, festivals such as the Saturnalia were closely associated with social organisation and political processes as well as religion. In modern times, festivals may be attended by strangers such as tourists, who are attracted to some of the more eccentric or historical ones. The Philippines is one example of a modern society with many festivals, as each day of the year has at least one specific celebration. There are more than 42,000 known major and minor festivals in the country, most of which are specific to the barangay (village) level.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Festival"
+    },
+    {
+        "title": "Opera",
+        "content": "Opera  is a form of theatre in which music has a leading role and the parts are taken by singers, but is distinct from musical theatre. Such a \"work\" (the literal translation of the Italian word \"opera\") is typically a collaboration between a composer and a librettist and incorporates a number of the performing arts, such as acting, scenery, costume, and sometimes dance or ballet. The performance is typically given in an opera house, accompanied by an orchestra or smaller musical ensemble, which since the early 19th century has been led by a conductor.\nOpera is a key part of the Western classical music tradition. Originally understood as an entirely sung piece, in contrast to a play with songs, opera has come to include numerous genres, including some that include spoken dialogue such as musical theatre, Singspiel and Op\u00e9ra comique. In traditional number opera, singers employ two styles of singing: recitative, a speech-inflected style, and self-contained arias. The 19th century saw the rise of the continuous music drama.\nOpera originated in Italy at the end of the 16th century (with Jacopo Peri's mostly lost Dafne, produced in Florence in 1598) especially from works by Claudio Monteverdi, notably L'Orfeo, and soon spread through the rest of Europe: Heinrich Sch\u00fctz in Germany, Jean-Baptiste Lully in France, and Henry Purcell in England all helped to establish their national traditions in the 17th century. In the 18th century, Italian opera continued to dominate most of Europe (except France), attracting foreign composers such as George Frideric Handel. Opera seria was the most prestigious form of Italian opera, until Christoph Willibald Gluck reacted against its artificiality with his \"reform\" operas in the 1760s. The most renowned figure of late 18th-century opera is Wolfgang Amadeus Mozart, who began with opera seria but is most famous for his Italian comic operas, especially The Marriage of Figaro (Le nozze di Figaro), Don Giovanni, and Cos\u00ec fan tutte, as well as Die Entf\u00fchrung aus dem Serail (The Abduction from the Seraglio), and The Magic Flute (Die Zauberfl\u00f6te), landmarks in the German tradition.\nThe first third of the 19th century saw the high point of the bel canto style, with Gioachino Rossini, Gaetano Donizetti and Vincenzo Bellini all creating works that are still performed. It also saw the advent of Grand Opera typified by the works of Auber and Meyerbeer. The mid-to-late 19th century was a golden age of opera, led and dominated by Giuseppe Verdi in Italy and Richard Wagner in Germany. The popularity of opera continued through the verismo era in Italy and contemporary French opera through to Giacomo Puccini and Richard Strauss in the early 20th century. During the 19th century, parallel operatic traditions emerged in central and eastern Europe, particularly in Russia and Bohemia. The 20th century saw many experiments with modern styles, such as atonality and serialism (Arnold Schoenberg and Alban Berg), Neoclassicism (Igor Stravinsky), and Minimalism (Philip Glass and John Adams). With the rise of recording technology, singers such as Enrico Caruso and Maria Callas became known to much wider audiences that went beyond the circle of opera fans. Since the invention of radio and television, operas were also performed on (and written for) these media. Beginning in 2006, a number of major opera houses began to present live high-definition video transmissions of their performances in cinemas all over the world. Since 2009, complete performances can be downloaded and are live streamed.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Opera"
+    },
+    {
+        "title": "Theatre",
+        "content": "Theatre or theater is a collaborative form of performing art that uses live performers, usually actors or actresses, to present the experience of a real or imagined event before a live audience in a specific place, often a stage. The performers may communicate this experience to the audience through combinations of gesture, speech, song, music, and dance. Elements of art, such as painted scenery and stagecraft such as lighting are used to enhance the physicality, presence and immediacy of the experience. The specific place of the performance is also named by the word \"theatre\" as derived from the Ancient Greek \u03b8\u03ad\u03b1\u03c4\u03c1\u03bf\u03bd (th\u00e9atron, \"a place for viewing\"), itself from \u03b8\u03b5\u03ac\u03bf\u03bc\u03b1\u03b9 (the\u00e1omai, \"to see\", \"to watch\", \"to observe\").\nModern Western theatre comes, in large measure, from the theatre of ancient Greece, from which it borrows technical terminology, classification into genres, and many of its themes, stock characters, and plot elements. Theatre artist Patrice Pavis defines theatricality, theatrical language, stage writing and the specificity of theatre as synonymous expressions that differentiate theatre from the other performing arts, literature and the arts in general.Modern theatre includes performances of plays and musical theatre. The art forms of ballet and opera are also theatre and use many conventions such as acting, costumes and staging. They were influential to the development of musical theatre; see those articles for more information.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Theatre"
+    },
+    {
+        "title": "Music theory",
+        "content": "Music theory is the study of the practices and possibilities of music. The Oxford Companion to Music describes three interrelated uses of the term \"music theory\". The first is the \"rudiments\", that are needed to understand music notation (key signatures, time signatures, and rhythmic notation); the second is learning scholars views on music from antiquity to the present; the third a sub-topic of musicology that \"seeks to define processes and general principles in music\". The musicological approach to theory differs from music analysis \"in that it takes as its starting-point not the individual work or performance but the fundamental materials from which it is built.\"Music theory is frequently concerned with describing how musicians and composers make music, including tuning systems and composition methods among other topics. Because of the ever-expanding conception of what constitutes music (see Definition of music), a more inclusive definition could be that music theory is the consideration of any sonic phenomena, including silence, as they relate to music. This is not an absolute guideline; for example, the study of \"music\" in the Quadrivium liberal arts university curriculum that was common in medieval Europe was an abstract system of proportions that was carefully studied at a distance from actual musical practice. However, this medieval discipline became the basis for tuning systems in later centuries, and it is generally included in modern scholarship on the history of music theory.Music theory as a practical discipline encompasses the methods and concepts composers and other musicians use in creating music. The development, preservation, and transmission of music theory in this sense may be found in oral and written music-making traditions, musical instruments, and other artifacts. For example, ancient instruments from Mesopotamia, China, and prehistoric sites around the world reveal details about the music they produced and potentially something of the musical theory that might have been used by their makers (see History of music and Musical instrument). In ancient and living cultures around the world, the deep and long roots of music theory are clearly visible in instruments, oral traditions, and current music making. Many cultures, at least as far back as ancient Mesopotamia and ancient China, have also considered music theory in more formal ways such as written treatises and music notation. Practical and scholarly traditions overlap, as many practical treatises about music place themselves within a tradition of other treatises, which are cited regularly just as scholarly writing cites earlier research.\nIn modern academia, music theory is a subfield of musicology, the wider study of musical cultures and history. Etymologically, music theory is an act of contemplation of music, from the Greek \u03b8\u03b5\u03c9\u03c1\u03af\u03b1, a looking at, viewing, contemplation, speculation, theory, also a sight, a spectacle. As such, it is often concerned with abstract musical aspects such as tuning and tonal systems, scales, consonance and dissonance, and rhythmic relationships, but there is also a body of theory concerning practical aspects, such as the creation or the performance of music, orchestration, ornamentation, improvisation, and electronic sound production. A person who researches, teaches, or writes articles about music theory is a music theorist. University study, typically to the MA or PhD level, is required to teach as a tenure-track music theorist in a US or Canadian university. Methods of analysis include mathematics, graphic analysis, and especially analysis enabled by Western music notation. Comparative, descriptive, statistical, and other methods are also used. Music theory textbooks, especially in the United States of America, often include elements of musical acoustics, considerations of musical notation, and techniques of tonal composition (harmony and counterpoint), among other topics.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Music_theory"
+    },
+    {
+        "title": "Cinematography",
+        "content": "Cinematography (from ancient Greek \u03ba\u03af\u03bd\u03b7\u03bc\u03b1, k\u00ecnema  \"movement\" and \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9\u03bd, gr\u00e0phein \"to write\") is the art of motion-picture photography and filming either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as film stock.Cinematographers use a lens to focus reflected light from objects into a real image that is transferred to some image sensor or light-sensitive material inside a movie camera. These exposures are created sequentially and preserved for later processing and viewing as a motion picture. Capturing images with an electronic image sensor produces an electrical charge for each pixel in the image, which is electronically processed and stored in a video file for subsequent processing or display. Images captured with photographic emulsion result in a series of invisible latent images on the film stock, which are chemically \"developed\" into a visible image. The images on the film stock are projected for viewing the motion picture.\nCinematography finds uses in many fields of science and business as well as for entertainment purposes and mass communication.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cinematography"
+    },
+    {
+        "title": "Actor",
+        "content": "An actor is a person who portrays a character in a performance (also actress; see below). The actor performs \"in the flesh\" in the traditional medium of the theatre or in modern media such as film, radio, and television. The analogous Greek term is \u1f51\u03c0\u03bf\u03ba\u03c1\u03b9\u03c4\u03ae\u03c2 (hupokrit\u1e17s), literally \"one who answers\". The actor's interpretation of their role\u2014the art of acting\u2014pertains to the role played, whether based on a real person or fictional character.  This can also be considered an \"actor's role,\" which was called this due to scrolls being used in the theaters. Interpretation occurs even when the actor is \"playing themselves\", as in some forms of experimental performance art.\nFormerly,  in ancient Greece and Rome, the medieval world, and the time of William Shakespeare, only men could become actors, and women's roles were generally played by men or boys.  While Ancient Rome did allow female stage performers, only a small minority of them were given speaking parts. The commedia dell\u2019arte of Italy, however, allowed professional women to perform early on: Lucrezia Di Siena, whose name is on a contract of actors from 10 October 1564, has been referred to as the first Italian actress known by name, with Vincenza Armani and Barbara Flaminia as the first primadonna's and the first well documented actresses in Italy (and Europe).    After the English Restoration of 1660, women began to appear on stage in England. In modern times, particularly in pantomime and some operas, women occasionally play the roles of boys or young men.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Actor"
+    },
+    {
+        "title": "Musical theatre",
+        "content": "Musical theatre is a form of theatrical performance that combines songs, spoken dialogue, acting and dance. The story and emotional content of a musical \u2013 humor, pathos, love, anger \u2013 are communicated through words, music, movement and technical aspects of the entertainment as an integrated whole. Although musical theatre overlaps with other theatrical forms like opera and dance, it may be distinguished by the equal importance given to the music as compared with the dialogue, movement and other elements. Since the early 20th century, musical theatre stage works have generally been called, simply, musicals.\nAlthough music has been a part of dramatic presentations since ancient times, modern Western musical theatre emerged during the 19th century, with many structural elements established by the works of Gilbert and Sullivan in Britain and those of Harrigan and Hart in America. These were followed by the numerous Edwardian musical comedies and the musical theatre works of American creators like George M. Cohan at the turn of the 20th century. The Princess Theatre musicals (1915\u20131918) and other smart shows like Of Thee I Sing (1931) were artistic steps forward beyond revues and other frothy entertainments of the early 20th century and led to such groundbreaking works as Show Boat (1927) and Oklahoma! (1943).  Some of the most famous musicals through the decades that followed include\nWest Side Story (1957), The Fantasticks (1960), Hair (1967), A Chorus Line (1975), Les Mis\u00e9rables (1985), The Phantom of the Opera (1986), Rent (1996), The Producers (2001), Wicked (2003) and Hamilton (2015).\nMusicals are performed around the world. They may be presented in large venues, such as big-budget Broadway or West End productions in New York City or London. Alternatively, musicals may be staged in smaller venues, such as fringe theatre, Off-Broadway, Off-Off-Broadway, regional theatre, or community theatre productions, or on tour. Musicals are often presented by amateur and school groups in churches, schools and other performance spaces. In addition to the United States and Britain, there are vibrant musical theatre scenes in continental Europe, Asia, Australasia, Canada and Latin America.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Musical_theatre"
+    },
+    {
+        "title": "Dance",
+        "content": "Dance is a performing art form consisting of purposefully selected sequences of human movement. This movement has aesthetic and symbolic value, and is acknowledged as dance by performers and observers within a particular culture. Dance can be categorized and described by its choreography, by its repertoire of movements, or by its historical period or place of origin.An important distinction is to be drawn between the contexts of theatrical and participatory dance, although these two categories are not always completely separate; both may have special functions, whether social, ceremonial, competitive, erotic, martial, or sacred/liturgical. Other forms of human movement are sometimes said to have a dance-like quality, including martial arts, gymnastics, cheerleading, figure skating, synchronised swimming, marching bands, and many other forms of athletics.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Dance"
+    },
+    {
+        "title": "Ballet",
+        "content": "Ballet (French: [bal\u025b]) is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. It has since become a widespread, highly technical form of dance with its own vocabulary based on French terminology. It has been globally influential and has defined the foundational techniques used in many other dance genres and cultures. Ballet has been taught in various schools around the world, which have historically incorporated their own cultures and as a result, the art has evolved in a number of distinct ways. See glossary of ballet.\nA ballet, a work, consists of the choreography and music for a ballet production. Ballets are choreographed and performed by trained ballet dancers. Traditional classical ballets are usually performed with classical music accompaniment and use elaborate costumes and staging, whereas modern ballets, such as the neoclassical works of American choreographer George Balanchine, are often performed in simple costumes (e.g., leotards and tights) and without the use of elaborate sets or scenery.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+        "title": "Tango",
+        "content": "Tango is a partner dance, and social dance that originated in the 1880s along the R\u00edo de la Plata, the natural border between Argentina and Uruguay.  It was born in the impoverished port areas of these countries, in neighborhoods which had predominantly African descendants. The tango is the result of a combination of Rioplatense Candombe celebrations, Spanish-Cuban Habanera, and Argentinean Milonga. The tango was frequently practiced in the brothels and bars of ports, where business owners employed bands to entertain their patrons with music. The tango then spread to the rest of the world. Many variations of this dance currently exist around the world.\nOn August 31, 2009, UNESCO approved a joint proposal by Argentina and Uruguay to include the tango in the UNESCO Intangible Cultural Heritage Lists.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+        "title": "Waltz",
+        "content": "The waltz (from German  Walzer [\u02c8valt\u0361s\u0250\u032f]) is a ballroom and folk dance, normally in triple time, performed primarily in closed position.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+        "title": "Wolfgang Amadeus Mozart",
+        "content": "Wolfgang Amadeus Mozart (27 January 1756 \u2013 5 December 1791), baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical period.\nBorn in Salzburg, in the Holy Roman Empire, Mozart showed prodigious ability from his earliest childhood. Already competent on keyboard and violin, he composed from the age of five and performed before European royalty. At 17, Mozart was engaged as a musician at the Salzburg court but grew restless and travelled in search of a better position. While visiting Vienna in 1781, he was dismissed from his Salzburg position. He chose to stay in Vienna, where he achieved fame but little financial security. During his final years in Vienna, he composed many of his best-known symphonies, concertos, and operas, and portions of the Requiem, which was largely unfinished at the time of his early death at the age of 35. The circumstances of his death have been much mythologized.\nHe composed more than 600 works, many of which are acknowledged as pinnacles of symphonic, concertante, chamber, operatic, and choral music. He is considered among the greatest classical composers of all time, and his influence on Western music is profound. Ludwig van Beethoven composed his early works in the shadow of Mozart, and Joseph Haydn wrote: \"posterity will not see such a talent again in 100 years\".",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+        "title": "Antonio Vivaldi",
+        "content": "Antonio Lucio Vivaldi (UK: , US: ; Italian: [an\u02c8t\u0254\u02d0njo \u02c8lu\u02d0t\u0283o vi\u02c8valdi] (listen); 4 March 1678 \u2013 28 July 1741) was an Italian Baroque composer, virtuoso violinist, teacher, impresario, and Roman Catholic priest. Born in Venice, the capital of the Venetian Republic, he is regarded as one of the greatest Baroque composers, and his influence during his lifetime was widespread across Europe. He composed many instrumental concertos, for the violin and a variety of other musical instruments, as well as sacred choral works and more than forty operas. His best-known work is a series of violin concertos known as the Four Seasons.\nMany of his compositions were written for the all-female music ensemble of the Ospedale della Piet\u00e0, a home for abandoned children. Vivaldi had worked there as a Catholic priest for 1 1/2 years and was employed there from 1703 to 1715 and from 1723 to 1740. Vivaldi also had some success with expensive stagings of his operas in Venice, Mantua and Vienna. After meeting the Emperor Charles VI, Vivaldi moved to Vienna, hoping for royal support. However, the Emperor died soon after Vivaldi's arrival, and Vivaldi himself died in poverty less than a year later.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Antonio_Vivaldi"
+    }
+]

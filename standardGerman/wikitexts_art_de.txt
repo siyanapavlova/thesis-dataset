@@ -1,0 +1,981 @@
+[
+    {
+        "title": "Animation",
+        "content": "Animation (von lateinisch animare \u201azum Leben erwecken\u2018; anima \u201aGeist\u2018, \u201aSeele\u2018, \u201aLeben(skraft)\u2018, \u201aAtem\u2018) ist jede Technik, bei der durch das Erstellen und Anzeigen von Einzelbildern f\u00fcr den Betrachter ein bewegtes Bild geschaffen wird. Die Einzelbilder k\u00f6nnen gezeichnet, vom Computer berechnet oder fotografische Aufnahmen sein. Bei der Wiedergabe einer solchen Sequenz mit ca. 24 Bildern pro Sekunde entsteht beim Betrachter die Illusion einer ann\u00e4hernd fl\u00fcssigen Bewegung. Dies hat aber auch zur Folge, dass ein 90 Minuten langer Film aus 129.600 Einzelbildern besteht und dementsprechend der Aufwand f\u00fcr die Erstellung hoch ist.\nDie Animation analysiert die in der Natur gefundenen Bewegungen, setzt sie aber nicht nur 1:1 in der Synthese um, sondern bietet auch die M\u00f6glichkeit, diese verzerrt oder mit ver\u00e4ndertem Timing darzustellen, um dramatische oder komische Effekte zu erzielen.\nDer gr\u00f6\u00dfte Teil der weltweiten Animation wird f\u00fcr den Trickfilmbereich produziert, f\u00fcr Kino oder Fernsehen, zur Unterhaltung oder f\u00fcr die Werbung. Daneben existiert der Bereich der bewegten Visualisierung in Naturwissenschaft, Architektur, Design oder Lehre.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Animation"
+    },
+    {
+        "title": "Galerie (Kunst)",
+        "content": "Eine Galerie ist ein Ort, der f\u00fcr die Ausstellung und den Verkauf von Bildender Kunst oder neuer zeitgen\u00f6ssischer Kunst genutzt wird. Es gibt Galerien z. B. f\u00fcr Malerei, Zeichnungen, Editionen, Fotografie oder auch Skulptur, sie wird auch als Bildergalerie oder Selbsthilfegalerie bezeichnet. Meist ist das Galerieprogramm aber nicht materialspezifisch strukturiert, sondern folgt inhaltlich programmatischen Tendenzen.\nW\u00e4hrend die Prim\u00e4rmarkt-Galerie haupts\u00e4chlich \u201eatelierfrische\u201c Arbeiten von neuen, jungen K\u00fcnstlern verkauft, lebt die Sekund\u00e4rmarkt-Galerie (Kunsthandel) im Gegensatz dazu ausschlie\u00dflich vom Wiederverkauf schon etablierter Kunst. H\u00e4ufig \u00fcbernehmen ebenso Prim\u00e4rmarkt-Galerien den R\u00fcck- und Wiederverkauf von Arbeiten der von ihnen vertretenen K\u00fcnstler.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Galerie_(Kunst)"
+    },
+    {
+        "title": "K\u00fcnstler",
+        "content": "Als K\u00fcnstler werden heute in der Bildenden Kunst, der Angewandten Kunst, der Darstellenden Kunst sowie der Literatur (Autoren), und der Musik kreativ t\u00e4tige Menschen (Komponisten und Interpreten) bezeichnet, die als Arbeiten oder Kunstwerke bezeichnete Erzeugnisse k\u00fcnstlerischen Schaffens hervorbringen. Die Summe aller Arbeiten eines K\u00fcnstlers wird als sein Werk bezeichnet.\nIm Kontext der deutschen Geistesgeschichte ist dagegen das K\u00fcnstlertum nicht nur ein Beruf, sondern eine menschliche Daseinsform. F\u00fcr Goethe und Schiller war der K\u00fcnstler der Inbegriff eines gebildeten Menschen. Diese philosophische Auffassung zieht sich als roter Faden von der Klassik \u00fcber Wilhelm von Humboldt, zu Thomas Mann und vielen weiteren. Die allgemein-gesellschaftliche Reduzierung des umfassenden Begriffs des K\u00fcnstlers als kreatives, gebildetes Individuum der Lebenskunst zur alleinigen Berufsbezeichnung fand erst im letzten Jahrhundert statt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/K%C3%BCnstler"
+    },
+    {
+        "title": "Moderne Kunst",
+        "content": "Moderne Kunst ist ein relativ unscharfer, aber umgangssprachlich allgemein \u00fcblicher Begriff f\u00fcr die avantgardistische Kunst des 20. Jahrhunderts, doch wurde dieser Ausdruck schon seit dem sp\u00e4ten 18. Jahrhundert verwendet.In der Fachsprache wird heute eher von Kunst der Moderne gesprochen, um den Begriff klarer vom Begriff Zeitgen\u00f6ssische Kunst abzugrenzen. Als Oberbegriff steht Moderne hier meist f\u00fcr alle k\u00fcnstlerischen Entwicklungen seit zirka 1870.Seit der sich in den 1970er Jahren verst\u00e4rkenden Moderne-Postmoderne-Diskussion gibt es unterschiedliche Auffassungen dar\u00fcber, ob die Zeitgen\u00f6ssische Kunst noch der Moderne angeh\u00f6rt oder nicht, oder ob einzelne zeitgen\u00f6ssische Str\u00f6mungen der Moderne zuzurechnen sind, andere der Postmoderne. Das h\u00e4ngt auch stark damit zusammen, wie jeweils der Begriff Moderne definiert wird, d. h. welches Konzept der Moderne zugeschrieben wird.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Moderne_Kunst"
+    },
+    {
+        "title": "B\u00fcrste",
+        "content": "Eine B\u00fcrste besteht aus einem Grundk\u00f6rper aus Holz, Metall oder Kunststoff, dessen Oberseite den B\u00fcrstenr\u00fccken bildet, einem B\u00fcrstenbesatz aus Naturfasern, Kunstfasern oder Draht und einem Griff beziehungsweise einer Einspannvorrichtung. W\u00e4hrend Pinsel ihren Besatz parallel zum Stiel haben, ist bei B\u00fcrsten der Besatz rechtwinklig zum K\u00f6rper angeordnet.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/B%C3%BCrste"
+    },
+    {
+        "title": "Kalligrafie",
+        "content": "Kalligrafie, auch Kalligraphie geschrieben  (griechisch \u03ba\u03b1\u03bb\u03bb\u03b9\u03b3\u03c1\u03b1\u03c6\u03af\u03b1 kalligraph\u00eda, von \u03ba\u03ac\u03bb\u03bb\u03bf\u03c2 k\u00e1llos, deutsch \u201aSch\u00f6nheit\u2018, und -grafie) ist die Kunst des \u201eSch\u00f6nschreibens\u201c von Hand (Chirografie) mit Federkiel, Pinsel, Filzstift oder anderen Schreibwerkzeugen. Die Kalligrafie steht im Gegensatz zur Typografie, dem Setzen mit vorgefertigten Formen. Im Schulfach Sch\u00f6nschreiben wird jedoch nicht Kalligrafieren unterrichtet, sondern leserliches Schreiben.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kalligrafie"
+    },
+    {
+        "title": "Canvas (Gewebe)",
+        "content": "Canvas, auch Duck, wird ein aus starkem Garn dicht und fest gewebter Stoff genannt. Die Bezeichnung stammt aus dem Englischen und bezieht sich auf historisches Segeltuch.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Canvas_(Gewebe)"
+    },
+    {
+        "title": "Mei\u00dfel",
+        "content": "Der Mei\u00dfel (von mittelhochdeutsch meizel) ist ein Werkzeug, das zum Trennen oder Bearbeiten unterschiedlicher Stoffe (im Wesentlichen Stein, Metall oder auch Knochen) verwendet wird. Hierbei handelt es sich um ein Werkzeug aus Stahl, das eine geh\u00e4rtete keilartige Schneide sowie eine ungeh\u00e4rtete Schlagfl\u00e4che aufweist.\nMei\u00dfel werden mit Hilfe eines Hammers dazu eingesetzt, Bearbeitungsgegenst\u00e4nde zu teilen oder von diesen Teile abzutrennen. Zu den g\u00e4ngigen Typen, die in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen existieren, geh\u00f6ren Flachmei\u00dfel, Nutenmei\u00dfel, Aushaumei\u00dfel, Stegmei\u00dfel (Trennstemmer) und Kreuzmei\u00dfel. Sonderformen sind das Scharrier-, Bossier-, Schlag-, Zahn- und Sprengeisen usw. (Mei\u00dfel werden von Steinmetzen als Eisen bezeichnet). Zum Hammer sagen die Steinmetze F\u00e4ustel. F\u00e4ustel und Eisen sowie weitere von Hand gef\u00fchrte metallene Werkzeuge werden von den Stein-Fachleuten als Geschirr bezeichnet und geh\u00f6ren zur Grundausr\u00fcstung bei der Steinbearbeitung.\nMei\u00dfel werden in der Metallbearbeitung durch Schmiede/Kunstschmiede und Metallbauer, in der Steinbearbeitung von Steinmetzen oder auch in der Medizin zur Durchtrennung von Knochen (Osteotomie/Stomatologie) eingesetzt. Daneben gibt es auch motorgetriebene Mei\u00dfel an Abbruchh\u00e4mmern, Drucklufth\u00e4mmern, Abbauh\u00e4mmern und Bohrh\u00e4mmern.\nVon Laien werden die Begriffe Stemmeisen und Mei\u00dfel entgegen der Fachsprache auch austauschbar verwendet.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Mei%C3%9Fel"
+    },
+    {
+        "title": "Ton (Bodenart)",
+        "content": "Ton ist ein nat\u00fcrlich vorkommendes Material, das haupts\u00e4chlich aus Tonmineralteilchen besteht, bei ausreichenden Wassergehalten generell plastisch verformbar ist und spr\u00f6de wird, wenn es getrocknet oder gebrannt wird. Obwohl Ton in der Regel Schichtsilikate enth\u00e4lt, kann er andere Materialien enthalten, die ihm Plastizit\u00e4t verleihen und aush\u00e4rten, wenn sie getrocknet oder gebrannt werden. Als assoziierte Phasen kann Ton Materialien enthalten, die ihm keine Plastizit\u00e4t verleihen, z. B. Quarz, Calcit, Dolomit, Feldspat sowie organische Stoffe.Anders als fr\u00fchere Definitionen legt diese Definition der AIPEA (Association Internationale Pour L\u2019Etudes Des Argiles) und der CMS (Clay Minerals Society) keine exakte Korngr\u00f6\u00dfe der Tonbestandteile fest, da verschiedene Disziplinen hier eigene Festlegungen getroffen haben. Als Tonpartikel gelten in den Geowissenschaften, entsprechend der Norm EN ISO 14688, Partikel < 2 \u00b5m (teilweise auch < 4 \u00b5m) und in der Kolloidchemie < 1 \u00b5m.Nicht zu den Tonen z\u00e4hlen k\u00fcnstlich hergestellte Materialien mit Toneigenschaften sowie Materialien mit vorwiegend organischen Bestandteilen wie Torf, und einige B\u00f6den, auch wenn diese ebenso wie Ton plastische Eigenschaften aufweisen und nat\u00fcrlichen Ursprungs sind.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ton_(Bodenart)"
+    },
+    {
+        "title": "Cartoon",
+        "content": "Ein Cartoon ist eine Grafik, die eine komische und/oder satirische Geschichte in einem Bild \u2013 meistens mit einer Pointe \u2013 erz\u00e4hlt. Urspr\u00fcnglich wurden f\u00fcr den Bildwitz keine Worte verwendet. Ernsthaft gezeichnete Kommentare zum politischen Tagesgeschehen mit kritischer Absicht werden als Karikatur bezeichnet. Der \u00dcbergang ist jedoch flie\u00dfend. Bildgeschichten \u00fcber mehrere Panels nennt man Comic. Cartoons erscheinen vorwiegend in Tageszeitungen und Zeitschriften.\nIm Englischen bezeichnet (animated) cartoon auch Zeichentrickfilme.\nDer Begriff Cartoon stammt vom franz\u00f6sischen carton = Pappe und bezeichnete urspr\u00fcnglich auf Karton gezeichnete Entw\u00fcrfe f\u00fcr Fresken und Tapisserien.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Cartoon"
+    },
+    {
+        "title": "Keramik",
+        "content": "Der Begriff Keramik, auch keramische Massen, bezeichnet in der Fachsprache eine Vielzahl anorganischer nichtmetallischer Werkstoffe, die grob in die Typen Irdengut, Steingut, Steinzeug, Porzellan und Sondermassen unterteilt werden k\u00f6nnen (siehe auch Klassifikation keramischer Massen). Allgemeinsprachlich dient Keramik auch als Oberbegriff f\u00fcr die geformten und gebrannten Produkte, die als Gebrauchs- und Ziergegenst\u00e4nde, Bauteile oder Werkzeuge verwendet werden. Au\u00dferdem k\u00f6nnen die Herstellungstechnik, das Handwerk (bzw. Kunsthandwerk) und die keramische Produktion damit gemeint sein.Man unterscheidet unter anderem Tonkeramik und Glaskeramik. In der Gegenwart spielt die technische Keramik eine bedeutende Rolle, zu der auch die Verbundkeramik z\u00e4hlt. In kulturhistorischen und arch\u00e4ologischen Studien wird vor allem nach der Verwendung im Alltag unterschieden: Gef\u00e4\u00dfkeramik (Tischgeschirr, Trinkgeschirr, Kochgeschirr, Sonderformen), Baukeramik (Dachziegel, Backsteine, Bodenfliesen und Wandfliesen), Ofenkeramik (Ofenkacheln, Kachelofenf\u00fc\u00dfe, Abdeckplatten) und Sanit\u00e4rkeramik (Waschbecken, WC-Sch\u00fcsseln, Badewannen).\n\nDas Wort Keramik stammt aus dem Altgriechischen: \u03ba\u03ad\u03c1\u03b1\u03bc\u03bf\u03c2 keramos war die Bezeichnung f\u00fcr Tonminerale und die aus ihm durch Brennen hergestellten formbest\u00e4ndigen Erzeugnisse, wie sie etwa im antiken Athener Bezirk Kerameikos produziert wurden. Das T\u00f6pferhandwerk wurde als \u03ba\u03b5\u03c1\u03b1\u03bc\u03b9\u03ba\u1f74 (\u03c4\u03ad\u03c7\u03bd\u03b7) keramik\u1e17 (t\u00e9chn\u0113) bezeichnet; sp\u00e4ter ging die Bezeichnung auch auf die Produkte \u00fcber.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Keramik"
+    },
+    {
+        "title": "Holzkohle",
+        "content": "Holzkohle (medizinisch (DAB): Carbo pulveratur, Carbo medicinalis) ist ein fester Brennstoff und entsteht, wenn lufttrockenes Holz (auf 13 % bis 18 % Wasser getrocknet) unter Luftabschluss und ohne Sauerstoffzufuhr auf 275 \u00b0C erhitzt wird (Pyrolyse). Die Temperatur steigt dabei von selbst auf 350 \u00b0C bis 400 \u00b0C an (Holzverkohlung, \u00e4hnlich der Verkokung von Kohle). Dabei verbrennen die leichtfl\u00fcchtigen Bestandteile des Holzes. Als R\u00fcckstand erh\u00e4lt man neben gasf\u00f6rmigen Zersetzungsprodukten (siehe Methanol) etwa 35 % Holzkohle.\nMit der gleichen Technologie kann man auch Torf zu Torfkohle und allgemein pflanzliche Ausgangsstoffe in Pflanzenkohle umwandeln. Torfkohle, die \u00e4hnliche Eigenschaften hat wie Holzkohle, war im 18. und fr\u00fchen 19. Jahrhundert aufgrund von Holzknappheit recht verbreitet, ist heute aber kaum noch anzutreffen. Biokohle wird ein Potential als Mittel zur Kompensation der Kohlendioxid-Emissionen in Anbetracht der globalen Erw\u00e4rmung zugeschrieben, ihre Herstellung wurde in den vergangenen Jahren intensiviert.Die Holzkohle unterscheidet sich in vielen Eigenschaften von anderen Pyrokohlen, Hydrokohle oder Faserkohle (Fusit).",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Holzkohle"
+    },
+    {
+        "title": "Farbe",
+        "content": "Eine Farbe ist ein durch das Auge und Gehirn vermittelter Sinneseindruck, der durch Licht hervorgerufen wird, genauer durch die Wahrnehmung elektromagnetischer Strahlung der Wellenl\u00e4nge zwischen 380 und 760 Nanometer. Es ist der Sinneseindruck, durch den sich zwei aneinandergrenzende, strukturlose Teile des Gesichtsfeldes bei ein\u00e4ugiger Beobachtung mit unbewegtem Auge allein unterscheiden lassen.In der Alltagssprache werden Farbmittel (farbgebende Substanzen) ebenfalls als Farbe bezeichnet, also stoffliche Mittel, mit denen die Farbe von Gegenst\u00e4nden ver\u00e4ndert werden kann, so bei Malerfarben.Die Farbwahrnehmung ist eine subjektive Empfindung, welche nicht nur durch die Art der einfallenden Lichtstrahlung, sondern auch durch die Beschaffenheit der Augen, Empfindlichkeit der Rezeptoren und den Wahrnehmungsapparat bestimmt wird. Andere optische Wahrnehmungsph\u00e4nomene wie Struktur (Licht-Schatten-Wirkungen), Glanz oder Rauheit sowie psychische Effekte, wie Umstimmung oder Adaptation, sind vom Farbbegriff zu unterscheiden.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Farbe"
+    },
+    {
+        "title": "Buntstift",
+        "content": "Ein Buntstift, auch Farbstift genannt, ist ein Schreib- oder Zeichenger\u00e4t mit einer farbigen Mine (Farbminen-Stift). Als H\u00fclle der Mine wird h\u00e4ufig lackiertes Holz wie bei Kopier- oder Bleistiften verwendet.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Buntstift"
+    },
+    {
+        "title": "Wachsmalstift",
+        "content": "Ein Wachsmalstift (auch Wachsmalkreide, Wachskreide, Wachsstift, Fettstift oder Fettkreide) ist ein Schreib- und Malwerkzeug aus weichen Wachsverbindungen. Beim Malen bleibt ein sichtbarer Wachsfilm auf dem Untergrund zur\u00fcck. Die starke Deckkraft von Wachsmalstiften sorgt f\u00fcr leuchtende Farben. Die Zeichnungen sind weitgehend licht- und wasserfest.\nAls Erfinder gilt der Amerikaner Edwin Binney (1866\u20131934), der sie zuerst 1903 zusammen mit C. Harold Smith herstellte. Die von ihm gegr\u00fcndete Firma Crayola (fr\u00fcher Binney & Smith Inc) ist heute der weltgr\u00f6\u00dfte Hersteller von Wachsmalstiften.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wachsmalstift"
+    },
+    {
+        "title": "Kreativit\u00e4t",
+        "content": "Kreativit\u00e4t ist die F\u00e4higkeit, etwas zu erschaffen, was neu oder originell und dabei n\u00fctzlich oder brauchbar ist. Dar\u00fcber hinaus gibt es verschiedene Ans\u00e4tze, was Kreativit\u00e4t im Einzelnen auszeichnet und wie sie entsteht.\nDas Wort Kreativit\u00e4t bezeichnet im allgemeinen Sprachgebrauch vor allem die Eigenschaft eines Menschen, sch\u00f6pferisch oder gestalterisch t\u00e4tig zu sein. Falsch ist jedoch die verbreitete Vorstellung, dass Kreativit\u00e4t nur mit Berufen oder T\u00e4tigkeiten aus den Bereichen der bildenden Kunst und der darstellenden Kunst verbunden sei (art bias).Es wird zwischen allt\u00e4glicher (small c) und au\u00dfergew\u00f6hnlicher (Big C) Kreativit\u00e4t unterschieden. Au\u00dfergew\u00f6hnliche Kreativit\u00e4t ist die herausragende (meist objektive) Kreativit\u00e4t wie auf der Ebene der Genies. Allt\u00e4gliche Kreativit\u00e4t ist die (meist subjektive) Kreativit\u00e4t, die sich bei den meisten Menschen beobachten l\u00e4sst, wie das Umgestalten eines Gartens oder das Improvisieren beim Kochen. Dabei existieren viele \u00dcberg\u00e4nge von allt\u00e4glicher und au\u00dfergew\u00f6hnlicher Kreativit\u00e4t. Beide entwickeln sich in einem Zusammenspiel von Begabungen, Wissen, K\u00f6nnen, intrinsischer Motivation, Pers\u00f6nlichkeitseigenschaften und unterst\u00fctzenden Umgebungsbedingungen.Andere Autoren unterscheiden zwischen probleml\u00f6sender Kreativit\u00e4t, die zur L\u00f6sung einer vorgegebenen Aufgabe erforderlich ist, und sch\u00f6pferischer Kreativit\u00e4t, die der Erkundung k\u00fcnftiger M\u00f6glichkeiten dient. Winkelhofer nennt diese beiden Formen \u201enormative\u201c bzw. \u201eerforschende\u201c Kreativit\u00e4t.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kreativit%C3%A4t"
+    },
+    {
+        "title": "Decoupage",
+        "content": "Decoupage oder D\u00e9coupage ist die Kunst, ein Objekt zu dekorieren, indem farbige Papierausschnitte in Kombination mit speziellen Farbeffekten, Blattgold und anderen dekorativen Elementen darauf geklebt werden. \u00dcblicherweise wird ein Gegenstand wie eine kleine Schachtel oder ein M\u00f6belst\u00fcck durch Ausschnitte aus Zeitschriften oder aus speziell angefertigten Papieren abgedeckt. Jede Schicht wird mit Lacken (oft mehrere Schichten) versiegelt, bis das \u201eaufgeklebte\u201c Erscheinungsbild verschwindet und das Ergebnis wie Malen oder Einlegen aussieht. Bei der traditionellen Technik wurden 30 bis 40 Lackschichten verwendet, die dann zu einem polierten Finish geschliffen wurden.Dreidimensionales Decoupage (manchmal auch einfach als Decoupage bezeichnet) ist die Kunst, ein dreidimensionales (3D) Bild zu erstellen, indem Elemente unterschiedlicher Gr\u00f6\u00dfe aus einer Reihe identischer Bilder ausgeschnitten und \u00fcbereinander geschichtet werden, normalerweise mit Abstandhaltern zwischen jeder Schicht, um dem Bild mehr Tiefe zu verleihen.\nPyramiden-Decoupage (auch Pyramide genannt) ist ein Prozess, der der 3D-Decoupage \u00e4hnelt. Bei der Pyramiden-Decoupage wird eine Reihe identischer Bilder in immer kleinere, identische Formen geschnitten, die \u00fcbereinandergelegt und mit selbstklebenden Schaumstoffabstandshaltern fixiert, um einen 3D-Pyramideneffekt zu erzielen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Decoupage"
+    },
+    {
+        "title": "Zeichnung (Kunst)",
+        "content": "Eine Zeichnung ist ein (Ab-)Bild, das ein Motiv (Sujet) in vereinfachender Weise mit Linien und Strichen darstellt. Dies unterscheidet Zeichnungen von der Malerei, welche ein Motiv durch den fl\u00e4chenhaften Einsatz von Farben und Tonwerten darstellt.\nSeit dem 19. Jahrhundert hat sich als Fachausdruck f\u00fcr alle nichtmalerischen zweidimensionalen Darstellungen der Ausdruck Grafik etabliert, der auch verdeutlicht, dass \u201ezeichnen\u201c begriffsgeschichtlich mit \u201eZeichen\u201c verwandt ist. Zu den Grafiken z\u00e4hlen neben der Zeichnung auch Drucke, Mosaike und Sgraffito.\nNach der klassischen Auffassung betont eine Zeichnung im engeren Sinne die Umrisslinien eines Motivs. Diese Linien k\u00f6nnen mit Hilfe von weiteren Strichen (Schraffuren) erg\u00e4nzt werden, um einen r\u00e4umlichen Eindruck zu erzeugen. Die Darstellung ist dabei entweder monochrom oder verwendet vorgegebene Farben, die vor dem Auftragen nicht zusammengemischt werden. Heute kommen in der k\u00fcnstlerischen Zeichnung allerdings zahlreiche Mischtechniken zum Einsatz, durch die in der Praxis die akademische Grenze zur Malerei nicht immer eindeutig zu ziehen ist. Bereits die Pinselzeichnung setzt neben Linien und Strichen die Lavierung als Darstellungsmittel ein.\nIn der Regel ist die k\u00fcnstlerische Zeichnung eine Handzeichnung (auch Freihandzeichnung). Zeichnungen k\u00f6nnen aber auch mit Hilfsmitteln (Linealen, Schablonen) gestaltet werden; oft ist dies bei technischen Zeichnungen der Fall.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Zeichnung_(Kunst)"
+    },
+    {
+        "title": "Staffelei",
+        "content": "Eine Staffelei (auch Staffel) ist ein Gestell, meist aus Holz oder Metall, dessen sich der Maler beim Anfertigen seiner Bilder zur Befestigung mittels Aufstellen derselben bedient. Ein derart angefertigtes Gem\u00e4lde wird auch im Gegensatz zur Wand- und Deckenmalerei als Staffeleibild bezeichnet. Das Wort kommt von der veralteten Bezeichnung Staffel f\u00fcr eine Leitersprosse, wie auch teilweise in manchen Gegenden des deutschsprachigen Raumes die Leiter noch vielfach als Staffelei bezeichnet wird. Im k\u00fcnstlerischen Bereich allerdings ist die Staffelei daf\u00fcr da, den Malgrund in einer erh\u00f6hten und f\u00fcr das Arbeiten idealen Position zu halten.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Staffelei"
+    },
+    {
+        "title": "Ausstellung",
+        "content": "Eine Ausstellung (auch Exposition) ist eine dauerhafte oder tempor\u00e4re \u00f6ffentliche Pr\u00e4sentation, bei der Ausstellungsobjekte (Exponate) einem Publikum gezeigt werden. Man unterscheidet einerseits Kunstausstellungen und wissenschaftlich orientierte Ausstellungen, die mittels der Exponate Wissen vermitteln, andererseits kommerziell orientierte Ausstellungen der Wirtschaft, bei denen Produkte und Dienstleistungen vorgestellt werden, um den Handel mit diesen Angeboten anzukurbeln.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ausstellung"
+    },
+    {
+        "title": "Film",
+        "content": "Der Film ist eine Kunstform, die ihren Ausdruck in der Produktion bewegter Bilder mittels Foto-, Kamera- und Tontechnik findet, bei Stummfilmen war der Ton untergeordnet oder wurde durch unterschiedliche M\u00f6glichkeiten versucht. In der Regel werden die Bilder mit einem Filmprojektor im Dunkeln auf eine Bildwand projiziert oder auf einem Bildschirm erzeugt. Heutzutage handelt es sich bei den Filmen des Kinos und des Fernsehens meist um farbige Bilder, die vertont und musikalisch untermalt sind. Der Film ist unter anderem Gegenstand der Filmwissenschaft und der Filmtheorie. Die technische, kulturelle und k\u00fcnstlerische Entwicklung dieses optischen Mediums seit den Anf\u00e4ngen um 1900 ist unter Filmgeschichte ausf\u00fchrlich dargestellt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Film"
+    },
+    {
+        "title": "Fresko",
+        "content": "Die Fresko- oder Frischmalerei (italienisch a fresco, affresco, al fresco; deutsch \u201eins Frische\u201c) ist eine Technik der Wandmalerei, bei der die zuvor in Wasser eingesumpften Pigmente auf den frischen Kalkputz aufgetragen werden. Bei der Carbonatisierung des Kalkes werden die Pigmente stabil in den Putz eingebunden. Fachleute nennen diesen Vorgang auch Einsinterung. Das fertige Wand- oder Deckenbild wird das Fresko oder seltener die Freske genannt. Der ausf\u00fchrende K\u00fcnstler wird als Freskenmaler oder Freskant bezeichnet.\nDie Bezeichnung Fresko hat sich umgangssprachlich f\u00fcr Wandmalereien jeder Art eingeb\u00fcrgert. Sie wird deshalb nicht nur f\u00fcr die feuchte Ausf\u00fchrungsweise (fresco) verwendet, sondern auch f\u00fcr Malereien, die trocken (secco) ausgef\u00fchrt werden (mit Tempera-, Kasein- oder Acrylatfarben). Selbst an Wandfl\u00e4chen applizierte Leinwandmalereien werden f\u00e4lschlich als Fresken bezeichnet, gelegentlich sogar in der Fachliteratur.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Fresko"
+    },
+    {
+        "title": "Graffiti",
+        "content": "Graffiti, italienisch Singular Graffito, steht als Sammelbegriff f\u00fcr thematisch und gestalterisch unterschiedliche sichtbare Elemente, zum Beispiel Bilder, Schriftz\u00fcge oder Zeichen, die mit verschiedenen Techniken auf Oberfl\u00e4chen oder durch deren Ver\u00e4nderung im privaten und \u00f6ffentlichen Raum erstellt wurden. Die Graffiti werden zumeist unter Pseudonym und illegal gefertigt.\nErsteller von Graffiti, insbesondere wenn sie Spr\u00fchdosen verwenden, werden oft Sprayer (englisch f\u00fcr Spr\u00fcher) genannt.\nDie Akzeptanz und Definition von Graffiti ist unterschiedlich gepr\u00e4gt. Werden nicht genehmigte Graffiti in der \u00f6ffentlichen Wahrnehmung, insbesondere in der westlichen Welt meist als Form des Vandalismus betrachtet, werden sie von anderer Seite auch als Form der Kunst anerkannt. Beides schlie\u00dft sich jedoch nicht aus.\n\u00d6ffentliche Einrichtungen treffen vielschichtige Ma\u00dfnahmen, um das illegale Anbringen von Graffiti zu verhindern. Viele Gemeinden geben spezielle Fl\u00e4chen frei. Die gesetzliche Ahndung reicht bis zum Besitzverbot entsprechender Werkzeuge. Der Zentralverband der Deutschen Haus- und Grundeigent\u00fcmer teilte 2005 mit, dass die Entfernung unerlaubter Graffiti von Geb\u00e4uden und \u00f6ffentlichen Verkehrsmitteln pro Jahr rund 500 Millionen Euro koste. Die Deutsche Bahn beziffert ihre Sch\u00e4den im Jahr 2012 auf 33 Millionen Euro, von 30.000 Vandalismustaten seien 14.000 Graffiti-F\u00e4lle.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Graffiti"
+    },
+    {
+        "title": "Grafikdesign",
+        "content": "Grafikdesign ist eine T\u00e4tigkeit, Sprache,  Gedanken und gr\u00f6\u00dfere gedankliche Zusammenh\u00e4nge mittels Typographie, Bild, Farbe und Material visuell darzustellen bzw. augenscheinlich vermittelbar zu machen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Grafikdesign"
+    },
+    {
+        "title": "Farbton",
+        "content": "Der Farbton (auch Buntart, Buntton, Farbrichtung, englisch hue) ist ein Farbmerkmal. Neben der Helligkeit und der Farbs\u00e4ttigung geh\u00f6rt der Farbton zu den drei vom Menschen als grundlegend empfundenen Merkmalen bzw. Eigenschaften einer Farbe.\nDer Farbton bezeichnet in der Farbenlehre die Eigenschaft, nach der man Farbempfindungen nach beispielsweise Rot, Gelb oder Gr\u00fcn unterscheidet. Eine Farbe desselben Farbtons kann entweder in der Farbs\u00e4ttigung variieren, wie Graublau gegen\u00fcber Blau, oder in der Helligkeit, beispielsweise Rosa gegen\u00fcber Rot.\nEine Farbe kann durch Angabe dieser drei Eigenschaften eindeutig beschrieben werden; sie spannen einen dreidimensionalen Raum auf, den sogenannten HSV-Farbraum, andere Koordinaten werden f\u00fcr weitere Farbr\u00e4ume genutzt. Durch die grunds\u00e4tzliche Existenz eines Farbtons unterscheidet man die bunten Farben von den unbunten Farben: Der dem Farbton zugeordnete Farbwert wird daher auch Buntton genannt, und typischerweise als Bunttonwinkel angegeben.\nDurch die Wellenl\u00e4nge des monochromatischen Lichts eines Farbtons kann der Farbton nur n\u00e4herungsweise beschrieben werden, f\u00fcr Farben der Purpurlinie wird h\u00e4ufig die komplement\u00e4re Wellenl\u00e4nge im Farbkreis gegen\u00fcber angegeben. F\u00fcr die Farbvalenz wesentlich ist nur das Verh\u00e4ltnis der Reizung der einzelnen Farbrezeptoren im Auge, die unter anderem auch durch eine Anpassung an die Lichtverh\u00e4ltnisse in der Umgebung und durch die Summe der benachbarten Farbreize im Blickfeld des Betrachters ver\u00e4nderlich ist.\nFarben k\u00f6nnen auch \u00fcber die Bestandteile gewisser Grundfarben exakt definiert werden. Bei der additiven Farbmischung sind dies Rot, Gr\u00fcn und Blau (RGB), bei der subtraktiven Farbmischung Cyan, Magenta und Gelb (Cyan, Magenta, Yellow = CMY). F\u00fcr Anwendungen der Farbmetrik sind dies die theoretischen Farben X, Y und Z.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Farbton"
+    },
+    {
+        "title": "Illustration",
+        "content": "Illustration (v. lat. illustrare \u201eerleuchten, erkl\u00e4ren, preisen\u201c; Pl. Illustrationen) bedeutet \u201edas einem Text erl\u00e4uternd beigegebene Bild\u201c, unabh\u00e4ngig von dessen Form oder spezifischer Funktion.\nMit Illustration wird metaphorisch aber auch der Vorgang der sprachlichen Erl\u00e4uterung, also das Veranschaulichen und Verst\u00e4ndlichmachen eines Sachverhalts, bezeichnet.\nEinfach gesagt  Illustrationen sind Bilder in B\u00fcchern oder zu verschiedenen Texten. Sie ermitteln oder zeigen an was der Autor sich vorgestellt hat.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Illustration"
+    },
+    {
+        "title": "Bozzetto",
+        "content": "Ein Bozzetto (italienisch f\u00fcr Skizze, Entwurf) ist ein erstes, skizzenhaftes Modell f\u00fcr eine Figur oder eine Plastik. \nBozzetti bestehen aus leicht zu bearbeitendem Material, gew\u00f6hnlich aus Ton, Gips oder Wachs, seltener aus Holz. Der Bozzetto war aufgrund der schwierig zu bearbeitenden Materialien des endg\u00fcltigen Werks eine wichtige Vorstufe, um \u00c4nderungen und Arbeitsschritte zu erproben. Er diente aber auch dazu, dem Auftraggeber Gelegenheit zu geben, \u00c4nderungsw\u00fcnsche geltend zu machen. Oft l\u00e4sst ein Bozzetto aufgrund von \u00c4nderungsw\u00fcnschen des Auftraggebers mehr von der urspr\u00fcnglichen Intention des K\u00fcnstlers erkennen als das danach gefertigte Kunstobjekt.\nBozzetti wurden vor allem als Entw\u00fcrfe in der Bildhauerkunst verwendet. Aber auch italienische Maler nutzten dreidimensionale Modelle, um Lichteinfall und Schattenwurf zu erproben oder die Anordnung der Figuren in einem geplanten Gem\u00e4lde zu untersuchen.\n\u00d6lskizzen, beispielsweise als Entw\u00fcrfe f\u00fcr barocke Deckenfresken, werden im Italienischen ebenfalls als bozzetto bezeichnet. Im Deutschen verwendet man daf\u00fcr die Bezeichnungen Skizze, Entwurf oder Studie.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bozzetto"
+    },
+    {
+        "title": "Meisterwerk",
+        "content": "Als Meisterwerk bezeichnet man im heutigen Sprachgebrauch ein besonders gelungenes, von der Kritik gelobtes Werk sowie das beste Werk eines K\u00fcnstlers w\u00e4hrend seiner Schaffensphase. Aber auch andere herausragende Leistungen, z. B. technischer oder wissenschaftlicher Art (z. B. spektakul\u00e4re Ingenieurbauwerke oder wissenschaftliche Arbeiten) werden als Meisterwerke oder Meisterleistungen bezeichnet.\nUrspr\u00fcnglich wird eine zur Erlangung des Meistertitels angefertigte Abschlussarbeit, die qualitativ besonders hervorragt, als Meisterwerk bezeichnet. Im Handwerk, und nur dort, wird sie auch als Meisterst\u00fcck bezeichnet. \nDas Verst\u00e4ndnis des Begriffs ist eng mit der Entwicklung der bildenden Kunst, der Architektur, Literatur und Musik verbunden und auch durch den Kulturkreis bestimmt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Meisterwerk"
+    },
+    {
+        "title": "Museum",
+        "content": "Ein Museum (altgriechisch \u03bc\u03bf\u03c5\u03c3\u03b5\u1fd6\u03bf\u03bd mouse\u00eeon urspr\u00fcnglich ein Heiligtum der Musen) ist \u201eeine gemeinn\u00fctzige, auf Dauer angelegte, der \u00d6ffentlichkeit zug\u00e4ngliche Einrichtung im Dienste der Gesellschaft und ihrer Entwicklung, die zum Zwecke des Studiums, der Bildung und des Erlebens materielle und immaterielle Zeugnisse von Menschen und ihrer Umwelt beschafft, bewahrt, erforscht, bekannt macht und ausstellt.\u201c",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Museum"
+    },
+    {
+        "title": "Wandmalerei",
+        "content": "Wandmalerei ist eine Form der Malkunst, bei der das Bild nicht, wie bei einer Tafelmalerei, auf eine Holztafel oder Leinwand aufgetragen wird und zum mobilen Einsatz bestimmt ist, sondern auf eine Wand oder Decke so appliziert wird, dass sie fest mit dem Untergrund verbunden ist. Die Wandmalerei ist neben der Bildhauerei die \u00e4lteste \u00fcberlieferte Kulturleistung der Menschheit.\nBei einer Wandmalerei versucht der K\u00fcnstler, das charakteristisch Fl\u00e4chige der Wand zu wahren (strenge Wandmalerei) oder den Eindruck von Dreidimensionalit\u00e4t zu erzeugen (illusionistische Wandmalerei).",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wandmalerei"
+    },
+    {
+        "title": "\u00d6lfarbe",
+        "content": "\u00d6lfarben sind Malfarben (farbgebende Beschichtungsstoffe), die aus trocknenden \u00d6len als Bindemitteln und Pigmenten bestehen. Trocknende \u00d6le h\u00e4rten durch Oxidation und Polymerisation und bilden zusammen mit den Pigmenten die gew\u00fcnschte Farbschicht. In der europ\u00e4ischen Tafelmalerei wurden vorwiegend Lein\u00f6l, Walnuss\u00f6l und Mohn\u00f6l mit und ohne Zusatzstoffe wie Sikkative oder Stand\u00f6l verwendet.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/%C3%96lfarbe"
+    },
+    {
+        "title": "Pinsel",
+        "content": "Ein Pinsel ist ein Werkzeug zum Auftragen von Fl\u00fcssigkeiten, beispielsweise Tinte oder Farbe. In der digitalen Bildbearbeitung (z. B. beim digitalen Malen bzw. bei Photoshop, GIMP etc.) spricht man ebenfalls von Pinseln, mit denen man auf dem Bildschirm zeichnet. Pinsel werden auch zur Haarpflege und in der Kosmetik eingesetzt. Glasfaserpinsel und einige andere Arten von Pinseln verwendet man zum Reinigen von Oberfl\u00e4chen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pinsel"
+    },
+    {
+        "title": "Malerei",
+        "content": "Die Malerei z\u00e4hlt neben der Architektur, der Bildhauerei, der Grafik und der Zeichnung zu den klassischen Gattungen der bildenden Kunst. W\u00e4hrend Bildhauerei und Architektur dreidimensionale Werke hervorbringen, geht es in Malerei sowie in Grafik und Zeichnung in der Regel um fl\u00e4chige Werke. Ausf\u00fchrende der Malerei werden als Maler oder Kunstmaler bezeichnet. Im Gegensatz zur Zeichnung geschieht dies durch das Aufbringen von feuchten Farben mittels Pinsel, Spachtel oder anderer Werkzeuge auf einen Malgrund. Diese Techniken werden unter dem Begriff Maltechniken zusammengefasst. Nicht zu den Maltechniken gerechnet werden in der Regel Drucktechniken, auch wenn dabei mit feuchter Farbe gearbeitet wird.\nNeben der Tafel- und Wandmalerei unterscheidet man ferner die Glas- und Buchmalerei sowie die Malerei auf Ton, Keramik (z. B. die griechische Vasenmalerei) oder sonstigen Untergr\u00fcnden (Papier, Kunststoff).",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Malerei"
+    },
+    {
+        "title": "Palette (Malkunst)",
+        "content": "Als Palette bezeichnet man in der Malerei eine mit einem Daumenloch versehene Tafel aus heute meist poliertem Holz, seltener aus Porzellan oder Metall, zum Mischen der Farben beim Malen. Maler verwenden Paletten haupts\u00e4chlich bei der Malerei mit \u00d6lfarben.\nDie Palette wird gelegentlich genauer als Malerpalette, Farbenpalette, Farbpalette oder Mischpalette bezeichnet. Der Ausdruck Palette stammt \u00fcber franz\u00f6sisch palette \u201ekleines rundes Brett\u201c von lateinisch pala ab, was so viel wie \u201eSpaten\u201c oder \u201eSchaufel\u201c bedeutet.\nAls \u00e4ltester Nachweis der Palette gelten die Wiedergaben des noch handspiegelf\u00f6rmigen Ger\u00e4tes in den Miniaturen einer Bilderhandschrift der Biographiensammlung De mulieribus claris von Giovanni Boccaccio aus dem Jahr 1374. Ein Handbuch von 1795 beschreibt die Handhabung der Palette so: Der Maler f\u00fchret also auf diesem Brette die Farben, die er gebraucht, bey sich. Oben stehen die einfachen, unten die gemischten Farben\". Paletten einiger ber\u00fchmter Maler werden in Museen aufbewahrt.Die Palette in ihrer charakteristisch asymmetrischen Form wird oft als Symbol oder Attribut verwendet, sie steht dann als Sinnbild der Malerei oder als Kennzeichnung der \"pictura\", der Personifikation der Malerei.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Palette_(Malkunst)"
+    },
+    {
+        "title": "Pastellmalerei",
+        "content": "Pastellmalerei ist eine Technik, bei der Pigmente auf einen Malgrund (Papier, Pappe, Leinwand) aufgetragen werden. Bei der Pastellmalerei mischen sich die M\u00f6glichkeiten des Zeichnens mit denen der Malerei. Es k\u00f6nnen reine Pigmente verwendet werden, h\u00e4ufiger werden die runden oder eckigen Kreiden oder Pastellstifte genutzt.\nMit Pastell wird sowohl das Material als auch das damit hergestellte Bild bezeichnet. Der Begriff Pastell leitet sich aus dem italienischen pasta \u201eTeig\u201c ab.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pastellmalerei"
+    },
+    {
+        "title": "Pigmente",
+        "content": "Pigmente (lateinisch pigmentum f\u00fcr \u201eFarbe\u201c, \u201eSchminke\u201c) sind Farbmittel, also farbgebende Substanzen. Im Gegensatz zu Farbstoffen bestehen sie aus Teilchen und sind im Anwendungsmedium praktisch unl\u00f6slich. Anwendungsmedium ist der Stoff, in den das Pigment eingearbeitet wird, beispielsweise in Bindemittel wie \u00d6le oder Kunststoffe. In der Biologie bezeichnet der Begriff Pigment alle in einem lebenden Organismus farbgebenden Substanzen.\nManche Farbstoffe lassen sich durch Zugabe von F\u00e4llungsmitteln in unl\u00f6sliche Pigmente umwandeln, siehe Verlackung.\nPigmente k\u00f6nnen nach ihrer chemischen Struktur (anorganisch oder organisch), nach ihren optischen Eigenschaften (wei\u00df, bunt, schwarz, Effekte) und nach ihren technischen Eigenschaften (Korrosionsschutz, Magnetismus) unterschieden werden. Der Farbreiz entsteht durch Absorption und Remission (Streuung oder Reflexion) bestimmter Frequenzanteile des sichtbaren Lichts. Ma\u00dfgeblich f\u00fcr die Eigenschaften der Pigmente sind Festk\u00f6rpereigenschaften wie Kristallstruktur, Kristallmodifikation, Teilchengr\u00f6\u00dfe und Teilchengr\u00f6\u00dfenverteilung, letztere durch die spezifische Oberfl\u00e4che.\nPigmente werden z. B. in \u00d6lfarben, Lacken, Dispersionsfarben, Druckfarben und Buntstiften verwendet, als Streichpigment (Wei\u00dfpigmente) und F\u00fcllstoff bei der Papierherstellung sowie bei der Einf\u00e4rbung von Textilien, Kunststoffen, Kosmetika und Kerzen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pigmente"
+    },
+    {
+        "title": "T\u00f6pferei",
+        "content": "Als T\u00f6pferei wird heute eine Technik zur Herstellung von Keramik genannt, bei der Gegenst\u00e4nde aus Ton/Lehm geformt, getrocknet, dekoriert und gebrannt werden, wodurch die Endprodukte hart und teilweise wasserundurchl\u00e4ssig werden. Der Wortstamm Topf belegt, dass diese Technik zur Herstellung von Rotationsk\u00f6rpern im Gegensatz zu heute urspr\u00fcnglich ausschlie\u00dflich f\u00fcr die Herstellung von topff\u00f6rmiger Gef\u00e4\u00dfkeramik verwendet wurde.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/T%C3%B6pferei"
+    },
+    {
+        "title": "Grundfarbe",
+        "content": "Grundfarben sind im engeren Sinne die theoretisch in einem gew\u00e4hlten Farbraum als Bezugswert zugrunde gelegten Farbvalenzen. Im weiteren Sinn sind es die zum Mischen nutzbaren Farbmittel, um eine bestimmte Farbwahrnehmung zu erreichen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Grundfarbe"
+    },
+    {
+        "title": "Realismus (Kunst)",
+        "content": "Realismus (von lateinisch realis \u201adie Sache betreffend\u2018; res: \u201eSache, Ding\u201c) bezeichnet in der Kunstgeschichte eine Mitte des 19. Jahrhunderts in Europa einsetzende neue Kunstauffassung, die sich gegen Darstellungen des Klassizismus und der Romantik wandte.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Realismus_(Kunst)"
+    },
+    {
+        "title": "Impressionismus",
+        "content": "Impressionismus (von lateinisch impressio \u201aEindruck\u2018; \u00fcber das franz\u00f6sische impressionnisme) ist eine Stilrichtung in der Kunstgeschichte, die durch die stimmungsvolle Darstellung von fl\u00fcchtigen Momentaufnahmen einer Szenerie gekennzeichnet ist. Sie entstand aus einer Bewegung innerhalb der Malerei in Frankreich in der zweiten H\u00e4lfte des 19. Jahrhunderts. Der Begriff Impressionismus wurde auch auf bestimmte Stilrichtungen in der Musik, in der Literatur, im Film und in der Fotografie \u00fcbertragen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Impressionismus"
+    },
+    {
+        "title": "Pointillismus",
+        "content": "Pointillismus bezeichnet eine Stilrichtung in der Malerei. Sie hatte in den Jahren zwischen 1889 und 1910 ihre Bl\u00fctezeit. Der Pointillismus wird dem Post-Impressionismus zugeordnet.\nBedeutende K\u00fcnstler des Pointillismus sind Georges Seurat, Gustave Cariot, Paul Signac, Henri Edmond Cross, Giovanni Segantini, der Belgier Th\u00e9o van Rysselberghe und einige Jahre lang auch Camille Pissarro. Auf deutscher Seite gilt Paul Baum als Hauptvertreter des Pointillismus.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pointillismus"
+    },
+    {
+        "title": "Expressionismus",
+        "content": "Der Expressionismus (von lateinisch expressio \u201aAusdruck\u2018) ist eine Stilrichtung in der Kunst. Ihre Anf\u00e4nge und Vorl\u00e4ufer finden sich im ausgehenden 19. Jahrhundert. Wie der Impressionismus, der Symbolismus und der Fauvismus ist der Expressionismus eine Bewegung gegen die Tendenzen des Naturalismus. Im Expressionismus \u00fcberwiegt die expressive Ebene gegen\u00fcber der \u00e4sthetischen, appellativen und sachlichen Ebene. Der K\u00fcnstler m\u00f6chte sein Erlebnis f\u00fcr den Betrachter darstellen.\nAls Ausdrucksmittel dienten den bildenden K\u00fcnstlern wie auch den Literaten und Musikern des Expressionismus u. a.\n\ndie Wendung zur breiten \u00d6ffentlichkeit, die durch das plakative, superlativische, erregt-exklamatorische Element und den Pamphletstil der Literatur unterstrichen wurde;\ndie \u201eaggressive Deformation\u201c von Formen, Figuren, W\u00f6rtern, Harmonien und Tempi, das Unkultivierte, Archaische und \u201eWilde\u201c;\ndie Travestie, die Parodie des \u201eErhabenen\u201c bei gleichzeitiger Heroisierung des Banalen;\neine forcierte Simultaneit\u00e4t, die z. B. durch extreme Zeitraffung in der Literatur oder durch Wiedergabe zeitlich oder r\u00e4umlich nicht \u00fcbereinstimmender Ereignisse auf demselben Bild erreicht wird;\nder Hang zum Konstruierten, zur Typisierung, Metaphorisierung, Entindividualisierung und Depersonalisierung, der sich der einf\u00fchlenden Identifikation versperrt.Darin wird ein Destruktionswille erkennbar, der sich gegen ein dekadent-erschlafftes und wohlanst\u00e4ndiges B\u00fcrgertum der Wilhelminischen Epoche wie auch gegen die Genuss\u00e4sthetik des Impressionismus und Jugendstils wendet, wobei das Ziel der Stimulation oft unklar bleibt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Expressionismus"
+    },
+    {
+        "title": "Bildhauerkunst",
+        "content": "Bildhauerkunst bezeichnet die Gattung der bildenden Kunst, in der aus festen Stoffen bestehende, dreidimensionale Bildwerke geschaffen wurden und werden.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Bildhauerkunst"
+    },
+    {
+        "title": "Glasmalerei",
+        "content": "Unter Glasmalerei versteht man heute in erster Linie die Herstellung farbiger Fenster mit bildlichen Darstellungen. Im Hochmittelalter wurden die Klosterfenster der Zisterzienserabteien auch in Grisaille-Technik (grau und wei\u00df) ausgef\u00fchrt. Die Wirkung entsteht durch das durchscheinende Licht. Die Glasmalerei hat einen besonderen Stellenwert in der Malerei, denn keine andere Malart kann eine so hohe Farbleuchtkraft und so gro\u00dfe Helligkeitsunterschiede zeigen wie ein durchsichtiges Glasbild. Kontrastumfang und Farbbrillanz sind noch st\u00e4rker als beim Diapositiv im Vergleich zum Papierfoto. Die Farbenpracht erzeugt eine mystische bis feierliche Stimmung und wird deshalb \u00fcberwiegend im sakralen Bereich verwendet. Als Teil gro\u00dfer Gesamtwerke steht die Glasmalerei im Dienste der Architektur.\nEine v\u00f6llig andere Art ist die Hinterglasmalerei, die nur in der Aufsicht betrachtet wird.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Glasmalerei"
+    },
+    {
+        "title": "Steinmetz",
+        "content": "Der Steinmetz (Plural: Steinmetze oder Steinmetzen; lateinisch aciscularius bzw. lapicida, lapidarius) \u00fcbt einen der \u00e4ltesten handwerklichen Berufe aus. Sein urspr\u00fcnglicher Werkstoff war Naturwerkstein. Heute bearbeitet er ebenfalls Betonwerkstein bzw. Kunststein und verwendet neben althergebrachten Hand-Werkzeugen auch Maschinen. In seinen oft auch nach fremden Entw\u00fcrfen erstellten Objekten dominieren geometrische Formen, Profile, Ornamente, Schrift- und andere Zeichen. Dabei handelt es sich zum Beispiel um Grabsteine oder Bauelemente. Im Unterschied zum Steinmetz arbeitet der Steinbildhauer, der in Deutschland die ersten beiden Ausbildungsjahre gemeinsam mit den Steinmetzen absolviert, st\u00e4rker gestaltend.\nEine verbreitete historische Bezeichnung f\u00fcr Steinbildhauer und Steinmetze war Steinhauer, unter dem man heute nur noch den Arbeiter im Steinbruch versteht, der dort die Rohlinge abbaut und f\u00fcr den Steinmetz oder den Steinbildhauer zurichtet. Weil diese Arbeit heute meistens maschinell und industriell-automatisiert geschieht, ist der Beruf des Steinhauers in vielen Gebieten der Welt nicht mehr zu finden. Davon ausgenommen sind einige weniger industrialisierte L\u00e4nder, in denen zudem aufgrund der Traditionsverbundenheit und der religi\u00f6sen Einbindung sehr viel ornamentale und bildnerische Arbeit f\u00fcr Steinmetze und Steinbildhauer anf\u00e4llt. Ein Beispiel daf\u00fcr ist Indonesien, insbesondere Bali.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Steinmetz"
+    },
+    {
+        "title": "Tempera",
+        "content": "Tempera (von lateinisch temperare \u201e[richtig] mischen\u201c) steht als Kurzwort sowohl f\u00fcr Temperafarbe als auch f\u00fcr die Technik der Malerei mit Temperafarben (Temperamalerei). Unter Temperamalerei versteht man im engeren Sinne das Malen mit Farbaufstrichen, deren Bindemittel aus einer Mischung von w\u00e4ssrigen und nicht w\u00e4ssrigen Substanzen besteht, die durch einen Emulgator zusammengehalten werden, im weiteren Sinne alle Formen der Malerei, die ein \u00fcberwiegend w\u00e4ssriges Bindemittel besitzen.\nEchte Temperafarben sind als fertige Tubenfarben selten im Handel, da sie sehr leicht verderben und nur unter starkem Einsatz von Konservierungsmitteln begrenzt haltbar gemacht werden k\u00f6nnen; das gilt besonders f\u00fcr Kasein-Tempera. Im Normalfall stellt man sich deshalb die Farben aus Pigmenten und einer Emulsion selbst her.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tempera"
+    },
+    {
+        "title": "Textilkunst",
+        "content": "Textilkunst ist die Sammelbezeichnung f\u00fcr k\u00fcnstlerische Gestaltungen von und mit textilem Material. Zu ihren Hauptaufgaben geh\u00f6ren Bekleidung sowie schm\u00fcckende und w\u00e4rmende Raumtextilien.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Textilkunst"
+    },
+    {
+        "title": "Michelangelo",
+        "content": "Michelangelo Buonarroti [mike\u02c8lan\u02a4elo buonar\u02c8r\u0254\u02d0ti], oft nur Michelangelo (vollst\u00e4ndiger Name Michelangelo di Lodovico Buonarroti Simoni; * 6. M\u00e4rz 1475 in Caprese, Toskana; \u2020 18. Februar 1564 in Rom), war ein italienischer Maler, Bildhauer, Baumeister (Architekt) und Dichter. Er gilt als einer der bedeutendsten K\u00fcnstler der italienischen Hochrenaissance und weit dar\u00fcber hinaus.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Michelangelo"
+    },
+    {
+        "title": "Pablo Picasso",
+        "content": "Pablo Ruiz Picasso (* 25. Oktober 1881 in M\u00e1laga, Spanien; \u2020 8. April 1973 in Mougins, Frankreich, voller Name Pablo Diego Jos\u00e9 Francisco de Paula Juan Nepomuceno Mar\u00eda de los Remedios Cipriano de la Sant\u00edsima Trinidad Ruiz y Picasso) war ein spanischer Maler, Grafiker und Bildhauer.\nSein umfangreiches Gesamtwerk umfasst Gem\u00e4lde, Zeichnungen, Grafiken, Collagen, Plastiken und Keramiken, deren Gesamtzahl auf 50.000 gesch\u00e4tzt wird. Es ist gepr\u00e4gt durch eine gro\u00dfe Vielfalt k\u00fcnstlerischer Ausdrucksformen und Techniken.\nDie Werke aus seiner Blauen und Rosa Periode und die Begr\u00fcndung des Kubismus zusammen mit Georges Braque bilden den Beginn seiner au\u00dferordentlichen K\u00fcnstlerlaufbahn.\nZu den bekanntesten Werken Picassos geh\u00f6rt das Gem\u00e4lde Les Demoiselles d\u2019Avignon (1907). Es avancierte zum Schl\u00fcsselbild der Klassischen Moderne. Mit Ausnahme des monumentalen Gem\u00e4ldes Guernica (1937), einer k\u00fcnstlerischen Umsetzung der Schrecken des Spanischen B\u00fcrgerkriegs, hat kein anderes Kunstwerk des 20. Jahrhunderts die Forschung so herausgefordert wie die Demoiselles. Das Motiv der Taube auf dem Plakat, das er im Jahr 1949 f\u00fcr den Pariser Weltfriedenskongress entwarf, wurde weltweit zum Friedenssymbol.\nUmfassende Sammlungen von Picasso werden in Museen in Paris, Barcelona und Madrid gezeigt. Er ist mit Werken in vielen bedeutenden Kunstmuseen der Welt, die die Kunst des 20. Jahrhunderts ausstellen, prominent vertreten. Das Museu Picasso in Barcelona und das Mus\u00e9e Picasso in Antibes entstanden bereits zu Lebzeiten.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Pablo_Picasso"
+    },
+    {
+        "title": "Vincent van Gogh",
+        "content": "Vincent Willem van Gogh [\u0261\u0254x, niederl\u00e4ndisch \u0263\u0254x] (* 30. M\u00e4rz 1853 in Groot-Zundert; \u2020 29. Juli 1890 in Auvers-sur-Oise) war ein niederl\u00e4ndischer Maler und Zeichner. Er gilt als einer der Begr\u00fcnder der modernen Malerei. Nach gegenw\u00e4rtigem Wissensstand hinterlie\u00df er 864 Gem\u00e4lde und \u00fcber 1000 Zeichnungen, die allesamt in den letzten zehn Jahren seines Lebens entstanden sind. Vincent van Gogh f\u00fchrte einen umfangreichen Briefwechsel, der eine F\u00fclle von Hinweisen auf sein malerisches Werk enth\u00e4lt und selbst von literarischem Rang ist. \nSein Hauptwerk, das stilistisch dem Post-Impressionismus zugeordnet wird, \u00fcbte starken Einfluss auf nachfolgende K\u00fcnstler aus, vor allem auf die Fauves und die Expressionisten. W\u00e4hrend er zu Lebzeiten nur wenige Bilder verkaufen konnte, erzielen seine Werke seit den 1980er Jahren bei Auktionen Rekordpreise.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    {
+        "title": "Claude Monet",
+        "content": "Claude Monet [klod m\u0254n\u025b] (* 14. November 1840 in Paris; \u2020 5. Dezember 1926 in Giverny, geboren als Oscar-Claude Monet) war ein bedeutender franz\u00f6sischer Maler, dessen mittlere Schaffensperiode der Stilrichtung des Impressionismus zugeordnet wird.\nDas Fr\u00fchwerk bis zur Mitte der 1860er Jahre umfasst realistische Bilder, von denen Monet einige im Pariser Salon ausstellen durfte. Ende der 1860er Jahre begann Claude Monet, impressionistische Bilder zu malen. Ein Beispiel seiner Bilder dieser Schaffensphase ist Impression, Sonnenaufgang, eine Hafenansicht von Le Havre, welche der gesamten Bewegung den Namen gab. So entfernte er sich vom durch die traditionellen Kunstakademien gepr\u00e4gten Zeitgeschmack, was seine finanzielle Situation verschlechterte.\nIn den 1870er Jahren beteiligte sich Monet an einigen der Impressionisten-Ausstellungen, an denen auch K\u00fcnstler wie Pierre-Auguste Renoir oder Edgar Degas teilnahmen, und wurde vor allem vom Kunsth\u00e4ndler Paul Durand-Ruel gef\u00f6rdert.\nMonets finanzielle Situation blieb bis in die 1890er Jahre angespannt. In dieser Zeit entwickelte Monet das Konzept der Serie, nach dem er ein Motiv in verschiedenen Lichtstimmungen malte. Daneben begann er in Giverny seinen ber\u00fchmten Garten anzulegen, den er in der Folge auch als Motiv seiner Bilder nutzte.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Claude_Monet"
+    },
+    {
+        "title": "Klavier",
+        "content": "Klavier (von lateinisch clavis \u201eSchl\u00fcssel\u201c; mittellateinisch clavis \u201eTaste\u201c) bezeichnet heute das moderne, weiterentwickelte Hammerklavier, also ein Musikinstrument, bei dem auf Tastendruck \u00fcber eine spezielle Mechanik H\u00e4mmerchen gegen Saiten geschlagen werden. Die ebenfalls \u00fcbliche Bezeichnung Pianoforte oder verk\u00fcrzt Piano entstand, weil das Hammerklavier erstmals die M\u00f6glichkeit bot, die Lautst\u00e4rke jederzeit stufenlos zwischen leise (piano) und laut (forte) zu ver\u00e4ndern, anders als beispielsweise das Cembalo. Die heutigen Hauptformen des Klaviers sind der Fl\u00fcgel (englisch grand piano) und das Pianino (englisch upright piano). Letzteres wird heute fast immer als Klavier bezeichnet und oft mit diesem Begriff gleichgesetzt.\nHistorisch bezeichnete Klavier, bis ins 19. Jahrhundert in der Schreibung Clavier oder Clavir, allgemein irgendein Tasteninstrument, gelegentlich auch nur eine Klaviatur, also einen Teil eines Instruments.\nDas heutige Klavier ist bei der Bedienung ein Tasteninstrument, ein Schlaginstrument in seiner Erregungsart und wegen des schwingenden Mediums ein Saiteninstrument.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Klavier"
+    },
+    {
+        "title": "Akustische Gitarre",
+        "content": "Eine akustische Gitarre (Akustikgitarre) ist eine Gitarre, bei der die Tonerzeugung und prim\u00e4re Tonverst\u00e4rkung ohne Elektronik, also rein mechanisch erfolgt.\nBei Gitarren entstehen die T\u00f6ne durch Zupfen oder Schlagen der Saiten. Bei akustischen Gitarren verst\u00e4rkt der Korpus der Gitarre den von den Saiten \u00fcber den Steg auf die Decke \u00fcbertragenen Ton. Von besonderer Bedeutung f\u00fcr ihren Klang ist das Material und die Qualit\u00e4t der Decke (Holzplatte, die den Saiten zugewandt ist). Diese wird \u00fcberwiegend aus Red Cedar (einer Thuja-Art) oder Fichtenholz hergestellt. Sehr preisg\u00fcnstige Gitarren sind auch aus einfachem Sperrholz gefertigt.\n\nEs gibt auch so genannte elektroakustische Gitarren (oder halbakustische Gitarren). Dabei handelt es sich um akustische Gitarren mit eingebautem Tonabnehmer, bei denen der Ton wie bei der elektrischen Gitarre \u00fcber einen Verst\u00e4rker ausgegeben werden kann.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Akustische_Gitarre"
+    },
+    {
+        "title": "Trommel",
+        "content": "Als Trommel (von mhd.: trume [lautm.]) bezeichnet man in der Musikwissenschaft ein Musikinstrument, bei dem der Klang mit einer aufgespannten Schwingungsmembran, dem sogenannten Fell, erzeugt wird. Der Fachbegriff hierf\u00fcr lautet Membranophon. Umgangssprachlich werden in der Regel Instrumente, deren Fell direkt mit Schl\u00e4geln oder H\u00e4nden angespielt wird, als Trommel bezeichnet. Gelegentlich weitet sich die Bezeichnung in diesem Zusammenhang auch auf weitere Schlaginstrumente aus, seltener auch auf andere Instrumente. Trommeln werden auf der ganzen Welt in vielf\u00e4ltiger Form als Rhythmus-, Effekt- oder Signalinstrumente verwendet und z\u00e4hlen zu den \u00e4ltesten Musikinstrumenten der Menschheit. Oftmals spielt man sie kombiniert mit anderen Schlag- oder Perkussionsinstrumenten, so beispielsweise beim Schlagwerk des klassischen Orchesters oder beim zeitgen\u00f6ssischen Schlagzeug.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Trommel"
+    },
+    {
+        "title": "Balalaika",
+        "content": "Die Balalaika (russisch \u0431\u0430\u043b\u0430\u043b\u0430\u0439\u043a\u0430, Pl. Balalaiken oder Balalaikas) ist eine Schalenlanghalslaute, die vor allem in Russland gespielt wird. Das Zupfinstrument hat drei Saiten, seltener drei Doppelsaiten, und einen dreieckigen Resonanzk\u00f6rper mit sehr kleinem Schallloch. Im Westen ist die Balalaika vor allem als charakteristisches Instrument der russischen Volksmusik bekannt. In Russland gilt sie dar\u00fcber hinaus als vollwertiges Instrument der E-Musik, das \u00e4hnlich wie die Gitarre auch an Hochschulen studiert werden kann.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Balalaika"
+    },
+    {
+        "title": "Akkordeon",
+        "content": "Das Akkordeon (von franz\u00f6sisch accord\u00e9on) ist ein Handzuginstrument (Handharmonika), bei dem der Ton durch freischwingende, durchschlagende Zungen erzeugt wird und das nicht nur Einzelt\u00f6ne hervorbringt, sondern auch (mechanisch voreingestellte) Akkorde, wovon der Name abgeleitet ist.\nEs z\u00e4hlt somit zu den selbstklingenden Unterbrechungs-Aerophonen. Alle Handzuginstrumente, die auf der rechten Seite, dem Diskant (Diskantteil, Melodieseite), die Tastatur (Klaviatur oder Kn\u00f6pfe) in einer abgewinkelten Form angebracht haben, werden zu den diversen Akkordeonarten gez\u00e4hlt. Diese Anordnung der Tastatur geht auf die ersten Wiener oder die ersten franz\u00f6sischen Instrumente zur\u00fcck.\nDie verschiedenen Typen der Konzertina, wie das Bandoneon, weisen im Gegensatz zum Akkordeon keine abgewinkelte Tastatur und keine voreingestellten Akkorde auf.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Akkordeon"
+    },
+    {
+        "title": "Lied",
+        "content": "Lied (aus mhd. liet, \u201eStrophe\u201c) ist der Sammelbegriff f\u00fcr kleinere, knapp gegliederte gesungene Kompositionen aus Musik und  Liedtext. Diese Kurzform gibt es in allen Kulturen. Ein typischer Aufbau von Liedern ist, dass sie aus mehreren Strophen, die sich textlich unterscheiden, und einem Kehrvers, der mehrmals im Lied wiederholt wird, bestehen.\nIm Vordergrund steht die singbare, im Tonumfang meist begrenzte, rhythmisch-metrisch meist dem Sprachfluss des Textes folgende Melodik.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Lied"
+    },
+    {
+        "title": "Blechblasinstrument",
+        "content": "Ein Blechblasinstrument ist ein Blasinstrument, bei dem die T\u00f6ne mit einem Kessel- oder Trichtermundst\u00fcck nach dem Prinzip der Polsterpfeife angeblasen werden. Die schwingenden Lippen des Musikers erzeugen den Ton durch Ankopplung an eine konisch-zylindrische R\u00f6hre, deren Lufts\u00e4ule als Resonator dient. Terminologisch korrekter ist der Begriff \u201eLippentoninstrument\u201c, welches entsprechend der Hornbostel-Sachs-Systematik zur Klasse der eigentlichen Blasinstrumente in der Gruppe der Aerophone z\u00e4hlt. Bekannte Blechblasinstrumente im europ\u00e4ischen Kulturkreis sind unter anderem Horn (Waldhorn), Jagdhorn, Trompete, Posaune, Kornett, Fl\u00fcgelhorn, Althorn, Tenorhorn, Baritonhorn und Tuba.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Blechblasinstrument"
+    },
+    {
+        "title": "Klarinette",
+        "content": "Die Klarinette ist ein Holzblasinstrument mit teils zylindrischer und teils konischer Bohrung. Ihr Mundst\u00fcck ist wie beim Saxophon mit einem einfachen Rohrblatt ausgestattet. Der Name des Instruments (von italienisch clarinetto: \u201ekleines Clarino\u201c) wird darauf zur\u00fcckgef\u00fchrt, dass sie im hohen Register \u00e4hnlich klingt wie die hohe Clarin-Trompete, deren Funktion sie im 18. Jahrhundert teilweise \u00fcbernahm.\nHinsichtlich der Notation ist die Klarinette (in B bzw. A) ein transponierendes Instrument, denn es wird eine gro\u00dfe Sekunde bzw. eine kleine Terz h\u00f6her notiert als es klingt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Klarinette"
+    },
+    {
+        "title": "Violine",
+        "content": "Die Violine oder Geige ist ein zu den Kastenhalslauten geh\u00f6rendes Streichinstrument. Ihre vier Saiten (g \u2013 d1 \u2013 a1 \u2013 e2) werden haupts\u00e4chlich mit den Haaren eines Bogen gestrichen (coll\u2019arco), selten mit der Stange desselben (col legno) oder den Bogenhaaren geschlagen battuto oder auch mit den Fingern gezupft (pizzicato). In der Tradition der klassischen europ\u00e4ischen Musik spielt dieses Instrument eine herausragende Rolle. In allen Epochen der Musikgeschichte seit Erscheinen der Violine wurden bedeutende Werke f\u00fcr sie geschrieben. Violinen werden von Geigenbauern hergestellt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Violine"
+    },
+    {
+        "title": "Kastagnetten",
+        "content": "Kastagnetten ([kasta\u02c8\u0272\u025btn\u0329], nach dem franz\u00f6sischen castagnettes; spanisch: casta\u00f1uelas) sind paarweise zu spielende muschelf\u00f6rmige, meist h\u00f6lzerne Klappern von etwa f\u00fcnf Zentimetern Durchmesser, die zur rhythmischen Begleitung geeignet sind.\nDas Perkussionsinstrument besteht aus zwei schalenf\u00f6rmig ausgeh\u00f6hlten Muscheln (conchas), die normalerweise aus Hartholz gefertigt sind, heute aber oft auch aus glasfaserverst\u00e4rktem Kunststoff hergestellt werden. Mit dem an einem Ende angebrachten Band, das die beiden Kastagnettenbl\u00e4tter lose miteinander verbindet, werden die Muscheln an einem Finger (in der Regel am Daumen, fr\u00fcher und bei bestimmten regionalen T\u00e4nzen auch heute noch am Mittelfinger) befestigt. Mithilfe der anderen Finger l\u00e4sst man die Schalen schnell und rhythmisch gegeneinanderschlagen, was einen tremolierenden Klang erzeugt. Wenn der Spieler in beiden H\u00e4nden Kastagnetten h\u00e4lt, k\u00f6nnen auch die beiden Schalenpaare gegeneinandergeschlagen werden. Kastagnettenpaare bestehen aus einer tieferen Halbschale, dem macho (M\u00e4nnchen), und einer h\u00f6heren, der hembra (Weibchen). Durch eine geschickte Spieltechnik k\u00f6nnen verschiedene Klangfarben des durch Gegenschlagen hervorgerufenen charakteristischen Ger\u00e4usches erzeugt werden. \nEine vereinfachte Variante sind die mit einem Holzstiel versehenen Stielkastagnetten, die wesentlich einfacher zu spielen sind, jedoch nur eine einzige Art von Klang hervorbringen. Sie werden im Orchester eingesetzt. \nDie Kastagnetten stammen vermutlich aus dem Orient, das Wort kann auf die arabische Bezeichnung f\u00fcr Handklapper kas, auch k\u0101s\u0101t, zur\u00fcckgef\u00fchrt werden. Sie waren schon in Mesopotamien, bei den \u00c4gyptern und Griechen bekannt. In Spanien sind sie seit dem 1. Jahrhundert v. Chr. belegt. Nach einer anderen Etymologie erhielten sie dort den Namen casta\u00f1uelas wegen ihrer \u00c4hnlichkeit mit Kastanien (spanisch casta\u00f1a). In Andalusien werden sie auch palillos (\u201eSt\u00f6ckchen\u201c) genannt. \nDie Verwendung von Kastagnetten ist in der s\u00fcdspanischen Tanzmusik (Flamenco, Sevillana) seit dem 17. Jahrhundert weit verbreitet, aber auch in S\u00fcditalien (Neapel) bekannt. In der klassischen Musik werden sie meist in Werken mit spanischen Ankl\u00e4ngen eingesetzt, etwa in der Oper Carmen von Georges Bizet (1875), in der Oper Le Cid von Jules Massenet (1885) und in der Rhapsodie Espa\u00f1a von Emmanuel Chabrier (1883).\nEine \u00e4hnliche Funktion hatte das Krotalon in der Musik der Antike und haben die Ch\u00e1caras auf den Kanarischen Inseln.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kastagnetten"
+    },
+    {
+        "title": "E-Gitarre",
+        "content": "Eine elektrische Gitarre (auch Elektro-Gitarre, E-Gitarre oder Stromgitarre genannt) ist eine f\u00fcr elektrische Tonabnahme entwickelte Gitarre. Sie setzt im Gegensatz zur akustischen Gitarre nicht prim\u00e4r auf einen akustischen Klangk\u00f6rper zur Verst\u00e4rkung der Saitenschwingungen. Dadurch k\u00f6nnen andere Bauformen erreicht werden, die vielen E-Gitarren unter anderem eine besonders leichte Bespielbarkeit verleihen. Ein weiterer Vorteil ist die Vielfalt an erzeugbaren Kl\u00e4ngen, die mittels Gitarrenverst\u00e4rkern und Effektger\u00e4ten erzeugt werden k\u00f6nnen.\nDie Entwicklung der E-Gitarre wurde von dem Wunsch getrieben, dem Instrument eine gr\u00f6\u00dfere Lautst\u00e4rke zu verschaffen. Das wurde notwendig, da sich die Gitarristen im Jazz mit rein akustischen Instrumenten nur schlecht gegen Bl\u00e4ser oder auch nur ein einzelnes Klavier durchsetzen konnten. So entwickelte sich die E-Gitarre stufenweise aus der bekannten akustischen Gitarre. Deshalb wird unter dem Begriff E-Gitarre im weiteren Sinne die gesamte Bandbreite von akustischen (Jazz-)Gitarren mit angebautem Tonabnehmer auf der einen Seite und Gitarren ohne Resonanzk\u00f6rper auf der anderen Seite verstanden. Zwischen diesen beiden Extremen gibt es zahlreiche Mischformen, die sich bis heute gehalten haben und die meistens als \u201ehalbakustische\u201c E-Gitarren oder Halbresonanzgitarren bezeichnet werden (z. B. Gibson ES-335).",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/E-Gitarre"
+    },
+    {
+        "title": "Mundharmonika",
+        "content": "Die Mundharmonika ist ein Musikinstrument aus der Gruppe der Harmonikainstrumente mit Durchschlagzungen aus Metall in parallel angeordneten Luftkan\u00e4len. Die Luftkan\u00e4le werden direkt mit dem Mund angeblasen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Mundharmonika"
+    },
+    {
+        "title": "Maracas",
+        "content": "Maracas (genannt auch Rumbakugeln und Rumba-Rasseln, umgangssprachlich zu \u201eRasseln\u201c verk\u00fcrzt) sind s\u00fcd- und mittelamerikanische Gef\u00e4\u00dfrasseln, die zur Gruppe der Idiophone geh\u00f6ren.\nDas Perkussionsinstrument besteht aus einem hohlen Korpus mit einer k\u00f6rnigen F\u00fcllung; am Korpus ist ein Handgriff bzw. Stiel befestigt. Wurden urspr\u00fcnglich getrocknete K\u00fcrbisse als Korpusmaterial verwendet, sind es heute v. a. Holz, Kunststoff oder Leder. Als F\u00fcllung dienen getrocknete Pflanzensamen, Schrot oder kleine Kieselsteine.\nMaracas werden fast immer paarweise gespielt. Sie werden vom Spieler an den Handgriffen gefasst, in verschiedenen Varianten rhythmisch gesch\u00fcttelt oder mit den Fingerspitzen geschlagen. So entsteht das charakteristische prasselnde Klangbild des Instruments. Eine seltene Spielvariante ist, nur eine Rassel in der rechten Hand (bei Linksh\u00e4ndern in der linken) zu halten und in die Handfl\u00e4che der anderen Hand zu schlagen.\nJe nach Bauart und verwendeten Materialien ist der Klang von Maracas mehr oder weniger laut und durchdringend. Maracas mit feiner F\u00fcllung erm\u00f6glichen ein schnelles und exaktes Spiel, wobei die Lautst\u00e4rke allerdings nicht hoch ist Klangbeispiel. Instrumente mit grober F\u00fcllung sind nicht so akzentuiert zu spielen, haben daf\u00fcr aber einen raumf\u00fcllenden und wesentlich lauteren Klang und eignen sich besonders f\u00fcr \u201etreibende\u201c Rhythmen (Klangbeispiel weiter unten).\nSofern die beiden Rasseln unterschiedlich klingen, wird die tiefer und kr\u00e4ftiger klingende in der rechten und die h\u00f6here in der linken Hand gespielt (bei Linksh\u00e4ndern andersherum).\nEinsatzgebiet von Maracas sind haupts\u00e4chlich lateinamerikanische Musikstile wie Son, Salsa, Bolero, Samba oder Bossa Nova. Sie lassen sich aber auch in Pop, Rock, Hausmusik und als Spielzeuginstrumente verwenden.\n\nBeim Samba und bei der Verwendung als Spielzeuginstrument werden die Maracas mitunter um eine Samba-Pfeife oder eine gew\u00f6hnliche Trillerpfeife erg\u00e4nzt. Hierbei besteht allerdings die Gefahr, dass die Pfeife zu \u201eaufgesetzt\u201c klingt und die Rasseln \u00fcbert\u00f6nt. F\u00fcr die Kombination mit einer Trillerpfeife wird daher ein m\u00f6glichst lautes Maracas-Modell ben\u00f6tigt, welches etwa gleich laut wie die Pfeife erklingt.\nEin verwandtes Instrument ist der Eggshaker oder Chicken Shake, der kleiner ist und daher eine Alternative z. B. f\u00fcr unterwegs darstellt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Maracas"
+    },
+    {
+        "title": "Okarina",
+        "content": "Die Okarina (aus ital. ocarina, w\u00f6rtlich \u201ekleine Gans\u201c), instrumentenkundlich Gef\u00e4\u00dffl\u00f6te, auch Kugelfl\u00f6te, ist ein kleines einteiliges Blasinstrument mit einer runden Form, das nach der Art der Tonerzeugung den Fl\u00f6ten ohne ausgebildeten Schnabel oder den Fl\u00f6ten mit vorhandenem Kernspalt, also den Kernspaltfl\u00f6ten, zugeteilt wird. Okarinas bestehen aus gebranntem und glasiertem Ton, luftgetrocknetem Ton, Porzellan, Holz oder aus einer Kalebasse. F\u00fcr besondere Anforderungen werden jedoch auch andere Materialien verwendet, wie z. B. Kunststoff (preisg\u00fcnstig und robuster als Ton, daher oft von Kindern genutzt) oder auch Metall (sehr robust).",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Okarina"
+    },
+    {
+        "title": "Saxophon",
+        "content": "Das Saxophon oder Saxofon ist ein Musikinstrument aus der Gruppe der Einfachrohrblattinstrumente. Der Korpus dieses Blasinstruments ist ein relativ weites (weitmensuriertes), stark konisches (sich zum Ende hin deutlich weitendes) Schallrohr von 64 bis 293 cm L\u00e4nge. Damit unterscheiden sich alle Bauweisen des Saxophons etwa von der zylindrischen Klarinette. Das Klappensystem entspricht dem der Oboe. Das Saxophon geh\u00f6rt der Definition nach, anders als sein metallischer Korpus (meist aus versilbertem, vergoldetem oder lackiertem Messing) vermuten l\u00e4sst, zur Familie der Holzblasinstrumente, da sein Ton mit Hilfe eines aufschlagenden Rohrblatts am Mundst\u00fcck erzeugt wird.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Saxophon"
+    },
+    {
+        "title": "Tamburin",
+        "content": "Das Tamburin (Eindeutschung des im Sp\u00e4tmittelalter ins Deutsche entlehnten franz\u00f6sischen maskulinen Diminutivs tambourin von tambour, \u201eTrommel\u201c, von arabisch \u1e6damb\u016br) ist eine einfellige Rahmentrommel mit Schellen. Tamburine bestehen aus einer einseitig unter Verwendung von N\u00e4geln mit Tierhaut (Kalb-, Ziegenfell) oder mit Kunststoff bespannten niedrigen zylindrischem Zarge (Reif) aus Metall oder h\u00e4ufiger Holz, die mit Schellen, \u00fcberwiegend in Form von paarweise angeordneten, gew\u00f6lbten Metallpl\u00e4ttchen (Schellenpaare, Zimbeln), besetzt sind. Die Schellentrommel wird weltweit vielfach vor allem in Tanz und Folklore verwendet, kommt aber auch als Orchesterinstrument zum Einsatz.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tamburin"
+    },
+    {
+        "title": "Trompete",
+        "content": "Die Trompete ist ein hohes Blechblasinstrument mit drei, seltener vier, Ventilen, das als Aerophon mit einem Kesselmundst\u00fcck nach dem Prinzip der Polsterpfeife angeblasen wird. Die Mensur ist relativ eng. Ein gro\u00dfer Teil des in B\u00fcgelform gewundenen, meist aus Messing hergestellten Rohres ist zylindrisch, bevor es konisch in den ausladenden Schalltrichter ausl\u00e4uft. Die Rohrl\u00e4nge der B-Trompete, die am h\u00e4ufigsten vorkommt, betr\u00e4gt etwa 134 cm.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Trompete"
+    },
+    {
+        "title": "Ukulele",
+        "content": "Die Ukulele (hawaiisch \u02bbUkulele) ist eine gitarren\u00e4hnliche viersaitige Kastenhalslaute, deren Saiten teilweise oder insgesamt doppelch\u00f6rig sein k\u00f6nnen. Das Zupfinstrument ist bei gitarren\u00e4hnlichen Proportionen meist etwa 60 cm lang und 20 cm breit.\nDie vierte (oberste) Saite ist oft, im Gegensatz zur Gitarre, oktaviert und damit h\u00f6her als die mittleren Saiten gestimmt. Das verleiht ihr den unverwechselbaren, exotisch wirkenden Klang.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ukulele"
+    },
+    {
+        "title": "Tempo (Musik)",
+        "content": "Das Tempo (italienisch \u201eZeit\u201c, \u201eZeitma\u00df\u201c; Plural: Tempi /'t\u200b\u025b\u200bmpi/; von lateinisch tempus), auch Zeitma\u00df, gibt in der Musik an, wie schnell ein St\u00fcck zu spielen ist, bestimmt also die absolute Dauer der Notenwerte. Da die Notenwerte der heutigen Notenschrift nur relative rhythmische Wertverh\u00e4ltnisse darstellen, bedarf es zur Bestimmung ihrer Dauer zus\u00e4tzlich einer Tempobezeichnung. Die hierf\u00fcr seit dem 17. Jahrhundert verwendeten, vorwiegend italienischen Bezeichnungen lassen jedoch dem Ausf\u00fchrenden weiten Spielraum. Deshalb wird oft zur Pr\u00e4zisierung der Tempobezeichnung eine Metronomangabe hinzugef\u00fcgt.\nViele Tempobezeichnungen sind zugleich Ausdrucksbezeichnungen, geben also auch \u00fcber den beabsichtigten Charakter eines Musikst\u00fccks Auskunft.\nDer tats\u00e4chliche Tempoeindruck eines Musikst\u00fccks ist indes ein Ph\u00e4nomen, das \u00fcber die reine Schlagzahl pro Zeiteinheit hinausweist und von anderen musikalischen und au\u00dfermusikalischen Parametern mitbestimmt wird, insbesondere von den vorkommenden Rhythmen, der Dichte des musikalischen Satzes, aber auch von den gegebenen R\u00e4umlichkeiten sowie der Tagesform von Musikern und Zuh\u00f6rern.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tempo_(Musik)"
+    },
+    {
+        "title": "Jazz",
+        "content": "Jazz (Aussprache [d\u0361\u0292\u00e6z] oder [jat\u0361s]) ist eine ungef\u00e4hr um 1900 in den S\u00fcdstaaten der USA entstandene, urspr\u00fcnglich \u00fcberwiegend von Afroamerikanern hervorgebrachte Musikrichtung, die in vielf\u00e4ltiger Weise weiterentwickelt wurde, h\u00e4ufig im Crossover mit anderen Musiktraditionen und Genres. Mittlerweile werden auch Musikformen zum Jazz gez\u00e4hlt, die oft nur lose oder kaum noch mit der afroamerikanischen Tradition verbunden sind.\nDer Jazz wird im Hinblick auf seine k\u00fcnstlerische Bedeutung h\u00e4ufig als amerikanisches Pendant zur klassischen europ\u00e4ischen Musik verstanden. Dar\u00fcber hinaus hat er nahezu allen anderen Sparten der Musik, von Pop bis Folk, neue M\u00f6glichkeiten er\u00f6ffnet.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Jazz"
+    },
+    {
+        "title": "Klassische Musik",
+        "content": "Die Bezeichnungen Klassik oder klassische Musik k\u00f6nnen je nach Kontext unterschiedliche Bedeutungen haben. In einem engen musikwissenschaftlichen Sinn werden unter Klassik im deutschen Sprachraum die vorherrschenden europ\u00e4ischen Stile der Kunstmusik von etwa 1730 bis 1830 verstanden. In einem weiteren, umgangssprachlichen Sinn werden Klassik oder klassische Musik als Bezeichnungen f\u00fcr die gesamte Tradition der europ\u00e4ischen Kunstmusik gebraucht. In Zusammensetzungen kann klassische Musik auch weitere, wie etwa au\u00dfereurop\u00e4ische oder popul\u00e4re, Musiktraditionen bezeichnen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Klassische_Musik"
+    },
+    {
+        "title": "Melodie",
+        "content": "Eine Melodie (griechisch \u03bc\u03b5\u03bb\u1ff3\u03b4\u03af\u03b1 mel\u014dd\u00eda, deutsch \u201aSangesweise, Melodie\u2018, aus \u03bc\u03ad\u03bb\u03bf\u03c2 m\u00e9los, deutsch \u201aWeise, Lied\u2018, und \u1fa0\u03b4\u03ae \u014dd\u1e17, deutsch \u201aGesang\u2018) ist in der Musik eine charakteristisch geordnete zeitliche (horizontale, sequentielle) Folge als Gestalt aus T\u00f6nen (Tonfolge). Sie ist durch die auftretenden Intervalle, die Richtung von deren Tonh\u00f6hen (fallend, steigend) und ihren Rhythmus bestimmt. Meist ist sie in sich geschlossen (vgl. Periode), in verschiedene Abschnitte gegliedert (Motive) und in der Vokalmusik von einem Text unterlegt. Kennzeichnend f\u00fcr eine Melodie ist, dass sie als selbst\u00e4ndige erinnerliche und ausdrucksvolle Gestalt wahrgenommen wird.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Melodie"
+    },
+    {
+        "title": "Rhythmus (Musik)",
+        "content": "In der Musik bezeichnet der Begriff Rhythmus (altgriechisch \u1fe5\u03c5\u03b8\u03bc\u03cc\u03c2) eine der beiden horizontalen (zeitlichen, temporalen, sequentiellen) Dauerstrukturen von Einzel-Schallereignissen (Eins\u00e4tze oder ggf. Endungen von T\u00f6nen/Ger\u00e4uschen, grafisch durch Notenzeichen repr\u00e4sentiert) und Dauern der Stille (grafisch: Pausenzeichen), bzw. die Dauerstrukturen unver\u00e4nderlich-zusammenh\u00e4ngend interpretierter musikalischer Konzepte/Perzepte (z. B. Rhythmus der Fundamentt\u00f6ne, Rhythmus der Tonh\u00f6hen (unabh\u00e4ngig vom Rhythmus der Anschl\u00e4ge/Endungen), Rhythmen von wiederkehrenden Tonh\u00f6hen in scheinpolyphoner Melodik, uva.).Repr\u00e4sentiert man eine musikalische Struktur als ein zweidimensionales Diagramm mit der Zeit auf der X-Achse und der Tonh\u00f6he auf der Y-Achse (vergleichbar mit der Notenschrift), bezeichnet Rhythmus neben der Melodie eine der beiden horizontalen Strukturen. Die dazu senkrechte vertikale Komponente entspricht in diesem Bild der Tonh\u00f6he. Beides ist grunds\u00e4tzlich unabh\u00e4ngig voneinander ver\u00e4nderlich, allerdings vermittelt auch die Dimension der Tonh\u00f6he Rhythmen.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Rhythmus_(Musik)"
+    },
+    {
+        "title": "Musik",
+        "content": "Musik ist eine Kunstgattung, deren Werke aus organisierten Schallereignissen bestehen. Zu ihrer Erzeugung wird akustisches Material, wie T\u00f6ne, Kl\u00e4nge und Ger\u00e4usche, innerhalb des f\u00fcr Menschen h\u00f6rbaren Bereichs, geordnet. Aus dem Vorrat eines Tonsystems werden Skalen gebildet. Deren T\u00f6ne k\u00f6nnen in unterschiedlicher Lautst\u00e4rke bzw. Intensit\u00e4t (Dynamik), Klangfarbe, Tonh\u00f6he und Tondauer erscheinen. Melodien entstehen aus der Abfolge von T\u00f6nen sowie gegebenenfalls Pausen in einem zeitlich festgelegten Rahmen (Rhythmus, Metrum und Tempo, ggf. eingebettet in Takte). Aus dem Zusammenklang (der Harmonie) mehrerer T\u00f6ne (Akkorde) von jeweils anderer Tonh\u00f6he erw\u00e4chst Mehrstimmigkeit, aus den Beziehungen der T\u00f6ne untereinander entsteht Harmonik. Die begriffliche Erfassung, systematische Darstellung der Zusammenh\u00e4nge und deren Deutung leistet die Musiktheorie, mit dem Lehren und Lernen von Musik befasst sich die Musikp\u00e4dagogik, mit Fragen nach der musikalischen Gestaltung haupts\u00e4chlich die Musik\u00e4sthetik. Musik ist ein Kulturgut und Gegenstand der Musikwissenschaft.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Musik"
+    },
+    {
+        "title": "Kunst",
+        "content": "Das Wort Kunst (lateinisch ars, griechisch t\u00e9chne) bezeichnet im weitesten Sinne jede entwickelte T\u00e4tigkeit von Menschen, die auf Wissen, \u00dcbung, Wahrnehmung, Vorstellung und Intuition gegr\u00fcndet ist (Heilkunst, Kunst der freien Rede). Im engeren Sinne werden damit Ergebnisse gezielter menschlicher T\u00e4tigkeit benannt, die nicht eindeutig durch Funktionen festgelegt sind. Nach Tasos Zembylas unterliegt der Formationsprozess des Kunstbegriffs einem st\u00e4ndigen Wandel, der sich entlang von dynamischen Diskursen, Praktiken und institutionellen Instanzen entfalte.Kunst ist ein menschliches Kulturprodukt, das Ergebnis eines kreativen Prozesses. Das Kunstwerk steht meist am Ende dieses Prozesses, kann aber auch der Prozess bzw. das Verfahren selbst sein. Aus\u00fcbende der Kunst im engeren Sinne werden K\u00fcnstler genannt.\nDie urspr\u00fcngliche Bedeutung des Begriffs Kunst, die sich als Gegensatz zur Natur auf alle Produkte menschlicher Arbeit beziehen konnte, hat sich zwar erhalten (wie z. B. in Kunststoff). Jedoch versteht man seit der Aufkl\u00e4rung unter Kunst vor allem die Ausdrucksformen der sch\u00f6nen K\u00fcnste:\nbildende Kunst mit den klassischen Gattungen Malerei und Grafik, Bildhauerei, Architektur und etlichen Kleinformen sowie seit dem 19. Jahrhundert dem Kunstgewerbe, Gebrauchskunst oder angewandte Kunst genannten Grenzbereich zum Kunsthandwerk\nMusik mit den Hauptsparten Komposition und Interpretation in Vokal- und Instrumentalmusik\nLiteratur mit den Hauptgattungen Epik, Dramatik, Lyrik und Essayistik\ndarstellende Kunst mit den Hauptsparten Theater, Tanz und FilmAusdrucksformen und Techniken der Kunst haben sich seit Beginn der Moderne stark erweitert, so mit der Fotografie in der bildenden Kunst oder mit der Etablierung des Comics als Verbindung bildender Kunst mit der Narrativit\u00e4t der Literatur. Bei den darstellenden K\u00fcnsten, Musik und Literatur lassen sich heute auch Ausdrucksformen der Neuen Medien wie H\u00f6rfunk, Fernsehen, Werbung und Internet hinzuz\u00e4hlen. Die klassische Einteilung verliert sp\u00e4testens seit den letzten Jahrzehnten des 20. Jahrhunderts an Bedeutung. Kunstgattungen wie die Installation oder der Bereich der Medienkunst kennen die klassische Grundeinteilung nicht mehr.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kunst"
+    },
+    {
+        "title": "Film",
+        "content": "Der Film ist eine Kunstform, die ihren Ausdruck in der Produktion bewegter Bilder mittels Foto-, Kamera- und Tontechnik findet, bei Stummfilmen war der Ton untergeordnet oder wurde durch unterschiedliche M\u00f6glichkeiten versucht. In der Regel werden die Bilder mit einem Filmprojektor im Dunkeln auf eine Bildwand projiziert oder auf einem Bildschirm erzeugt. Heutzutage handelt es sich bei den Filmen des Kinos und des Fernsehens meist um farbige Bilder, die vertont und musikalisch untermalt sind. Der Film ist unter anderem Gegenstand der Filmwissenschaft und der Filmtheorie. Die technische, kulturelle und k\u00fcnstlerische Entwicklung dieses optischen Mediums seit den Anf\u00e4ngen um 1900 ist unter Filmgeschichte ausf\u00fchrlich dargestellt.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Film"
+    },
+    {
+        "title": "Festival",
+        "content": "Mit Festival (von lateinisch festivus  \u201afestlich, feierlich oder heiter\u2018) bezeichnet man zumeist eine mehrt\u00e4gige Veranstaltung, bei der K\u00fcnstler auftreten und Kunstproduktionen vorstellen. Im deutschsprachigen Raum hei\u00dfen solche Veranstaltungen im Bereich der Hochkultur, insbesondere bei klassischer Musik und Theater, auch Festspiele.\nFestivals k\u00f6nnen mit k\u00fcnstlerischen Wettbewerben ihres Genres verbunden sein oder selbst Wettbewerbscharakter tragen.\nBesonders bei Musikfestivals benennt man die Zusammenstellung aller auftretenden Musiker bzw. Musikgruppen zu einem Gesamtprogramm oft mit den Anglizismus Line-up.\nM\u00f6gliche Festivalarten sind:\n\nComicfestival\nErz\u00e4hlkunstfestival\nFilmfestival bzw. Kurzfilmfestival\nFoodfestival\nH\u00f6rspielfestival\nJazzfestival\nKabarettfestival\nKulturfestival\nKunstfestival\nLiteraturfestival\nMedienfestival bzw. Jugendmedienfestival\nMusikfestival (siehe auch \u2192Liste von Musikfestivals)\nOpernfestival\nSchlagerfestival\nSommerfestival\nSportfestival\nTanzfestival\nTheaterfestival\nWinterfestival",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Festival"
+    },
+    {
+        "title": "Oper",
+        "content": "Als Oper (von ital. opera in musica, \u201emusikalisches Werk\u201c) bezeichnet man seit 1639 eine musikalische Gattung des Theaters. Ferner werden auch das Opernhaus (die Auff\u00fchrungsst\u00e4tte oder produzierende Institution) oder die auff\u00fchrende Kompagnie als Oper bezeichnet.\nEine Oper besteht aus der Vertonung einer dramatischen Dichtung, die von einem S\u00e4ngerensemble, einem begleitenden Orchester sowie manchmal von einem Chor und einem Ballettensemble ausgef\u00fchrt wird. Neben dem Gesang f\u00fchren die Darsteller Schauspiel und Tanz auf einer Theaterb\u00fchne aus, die mit den Mitteln von Malerei, Architektur, Requisite, Beleuchtung und B\u00fchnentechnik gestaltet ist. Die Rollen der Darsteller werden durch Maske und Kost\u00fcme optisch verdeutlicht. Als k\u00fcnstlerische Leitung bet\u00e4tigen sich der Dirigent f\u00fcr das Musikalische, der Regisseur f\u00fcr die Personenf\u00fchrung und der B\u00fchnenbildner f\u00fcr die Ausstattung. Im Hintergrund unterst\u00fctzt sie die Dramaturgie.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Oper"
+    },
+    {
+        "title": "Theater",
+        "content": "Theater (von altgriechisch \u03c4\u1f78 \u03b8\u03ad\u03b1\u03c4\u03c1\u03bf\u03bd th\u00e9atron \u201aSchaust\u00e4tte\u2018, \u201aTheater\u2018; von \u03b8\u03b5\u1fb6\u03c3\u03b8\u03b1\u03b9 theasthai \u201aanschauen\u2018) ist die Bezeichnung f\u00fcr eine szenische Darstellung eines inneren und \u00e4u\u00dferen Geschehens als k\u00fcnstlerische Kommunikation zwischen Akteuren (Darstellern) und dem Publikum. Mit dem Wort Theater kann das Geb\u00e4ude gemeint sein, in dem Theater gespielt wird (siehe Theaterarchitektur), oder der Prozess des Theater-Spielens oder auch allgemein eine Gruppe von Menschen, die Theater machen, also eine Theatergruppe.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Theater"
+    },
+    {
+        "title": "Musiktheorie",
+        "content": "Musiktheorie ist sowohl ein Teilgebiet der Musikwissenschaft als auch eine eigenst\u00e4ndige k\u00fcnstlerisch-wissenschaftliche Disziplin, die sich unter anderem mit Harmonielehre, Kontrapunkt, Formenlehre und der musikalischen Analyse befasst.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Musiktheorie"
+    },
+    {
+        "title": "Kinematographie",
+        "content": "Kinematographie (griech. von \u03f0\u03af\u03bd\u03b7\u03bc\u03b1 k\u00edn\u0113ma, \u201eBewegung\u201c, auch \u201eErsch\u00fctterung\u201c, \u201eVer\u00e4nderung\u201c und \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9\u03bd gr\u00e1phein, \u201e(be-)schreiben\u201c) umfasst die gesamte Apparatetechnik zur Aufzeichnung und Wiedergabe von fotografischen Bewegtbildern und wird bis heute vor allem in der Fachsprache der Filmtechnik verwendet. Daneben stand Kinematographie fr\u00fcher auch f\u00fcr den Vorgang der Aufzeichnung selbst sowie f\u00fcr die Filmkunst.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Kinematographie"
+    },
+    {
+        "title": "Schauspieler",
+        "content": "Als Schauspieler (genannt auch Mime)  wird ein Akteur bestimmter k\u00fcnstlerischer und kultureller Praktiken bezeichnet, der mit Sprache, Mimik und Gestik eine Rolle verk\u00f6rpert oder als (Kunst-)Figur mit dem Publikum interagiert. Schauspieler sind Personen, die beruflich oder als Laie in Theater (Theaterschauspieler, B\u00fchnenschauspieler), Film (Filmschauspieler) oder Fernsehen (Fernsehschauspieler) unter Anweisungen (Drehbuch, Regieanweisung) oder improvisierend in ihrer spezifischen Form der darstellenden Kunst t\u00e4tig sind.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Schauspieler"
+    },
+    {
+        "title": "Musical",
+        "content": "Das Musical [\u02c8mju:zik\u0259l] ist eine in der Regel in zwei Akten aufgef\u00fchrte Form popul\u00e4ren Musiktheaters, die Gesang, Tanz, Schauspiel/Dialog und Musik in einem durchg\u00e4ngigen Handlungsrahmen verbindet. Die Geschichte des modernen Musicals begann im New York der 1920er Jahre, fand jedoch neben dem New Yorker Broadway auch rasch Verbreitung im Londoner West End, die noch heute beide als Metropolen des Musicals gelten. Ausgehend von diesen Zentren, hat das Musical weltweite Verbreitung gefunden. Neben der tempor\u00e4ren Aufnahme in Spielpl\u00e4ne zahlreicher gro\u00dfer wie kleiner Theater haben sich auch au\u00dferhalb New Yorks und Londons in vielen St\u00e4dten reine Musical-Theater etabliert, die ausschlie\u00dflich Musicals als meist l\u00e4ngere und aufwendig gestaltete Produktionen (sog. En-suite-Produktionen) zeigen. Auch Tournee-Produktionen diverser Musicals sind h\u00e4ufig zu finden. Trotz der weltweiten Verbreitung dominieren noch heute Musicals US-amerikanischen oder britischen Ursprungs, wobei es jedoch auch erfolgreiche Musicals anderer Herkunft gibt. Aufgrund des gro\u00dfen Erfolgs sind viele Musicals auch verfilmt worden.\nThematisch wird eine breite F\u00fclle von tragischen als auch humorvollen Stoffen behandelt, die zu unterschiedlichsten Zeiten und an unterschiedlichsten Orten spielen. Auch f\u00fcr gesellschaftlich oder politisch sensible Themen hat sich das Musical stets offen gezeigt. Viele Musicals basieren dabei auf literarischen Vorlagen verschiedener Gattungen und Epochen. Auch musikalisch ist ein breites Spektrum stilistischer Einfl\u00fcsse erkennbar: von Popmusik, Tanz- und Unterhaltungsmusik bis zu Jazz, Swing, Soul und Rock \u2019n\u2019 Roll, um nur einige zu nennen. Gattungsgeschichtlich haben Elemente des Dramas, der Kom\u00f6die, der Revue, der Operette, des Variet\u00e9s und der Oper Einfluss auf die Entwicklung des Musicals genommen. Das Musical ist ein Gesamtkunstwerk und ist sowohl eine literarische als auch eine musiktheatralische Gattung.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Musical"
+    },
+    {
+        "title": "Tanz",
+        "content": "Tanz (um 1200 wie englisch dance entlehnt von altfranz\u00f6sisch danse, dessen weitere Herkunft umstritten ist. In alten deutschsprachigen Publikationen auch \u201eTantz\u201c und \u201eDantz\u201c; im Spanischen und somit auch im Flamenco baile) ist die Umsetzung von Inspiration (meist Musik und/oder Rhythmus) in Bewegung. Tanzen ist ein Ritual, ein Brauch, eine darstellende Kunstgattung, eine Berufst\u00e4tigkeit, eine Sportart, eine Therapieform, eine Form sozialer Interaktion oder schlicht ein Gef\u00fchlsausdruck.\nWeitere international gebr\u00e4uchliche Bezeichnungen f\u00fcr Tanztitel sind Danza und Danca.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Tanz"
+    },
+    {
+        "title": "Ballett",
+        "content": "Als Ballett (von italienisch balletto, Diminutiv von ballo; deutsch Tanz, franz\u00f6sisch und englisch ballet) wird meist der von Musik begleitete klassische k\u00fcnstlerische B\u00fchnentanz (klassischer Tanz) bezeichnet, der oft vom Zeitgen\u00f6ssischen Tanz, Modern Dance oder Tanztheater unterschieden wird. Im Besonderen kann der Begriff auch folgende Bedeutungen haben:\n\neine Tanzvorstellung auf einer B\u00fchne zu Musikbegleitung, wobei die Darbietung haupts\u00e4chlich aus Tanz besteht oder Teil eines gr\u00f6\u00dferen Werkes (Oper, Operette, Musical) sein kann.\neine Kunstform/Sparte am Theater neben Oper, Schauspiel und Konzert.\nein B\u00fchnenwerk, bei dem der Tanz im Mittelpunkt steht.\nMusik, die als Begleitung f\u00fcr (B\u00fchnen-)Tanz geschrieben wurde.\nein T\u00e4nzer-Ensemble am Theater (Corps de ballet).Traditionellerweise versteht man unter einem klassischen Ballett ein Handlungsballett. Auf Grundlage eines Librettos werden eine Musikkomposition und eine Choreografie erschaffen. Hinzu kommen B\u00fchnenbild, Requisiten und Kost\u00fcme. Der Tanz selbst besteht aus K\u00f6rperbewegungen im Raum, Gestik und Mimik.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Ballett"
+    },
+    {
+        "title": "Walzer (Tanz)",
+        "content": "Der Walzer ist ein Paartanz im 3/4-Takt. Er wird in geschlossener Haltung in schnellen Drehungen und mit einem festen Schrittmuster getanzt.\nWalzer ist eine Variante des paarweisen Tanzens mit drei Schritten pro Takt; andere Varianten sind etwa das Mazurek-Tanzen oder das f\u00fcr die Entwicklung des Walzers einflussreiche historische \u201eschw\u00e4bisch Tanzen\u201c.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Walzer_(Tanz)"
+    },
+    {
+        "title": "Wolfgang Amadeus Mozart",
+        "content": "Wolfgang Amadeus Mozart, der \u00fcberwiegend mit Wolfgang Amad\u00e9 Mozart unterschrieb (* 27. J\u00e4nner 1756 in Salzburg, F\u00fcrsterzbistum Salzburg, HRR; \u2020 5. Dezember 1791 in Wien, Erzherzogtum \u00d6sterreich, HRR), war ein Salzburger Musiker und Komponist der Wiener Klassik. Sein umfangreiches Werk genie\u00dft weltweite Popularit\u00e4t und geh\u00f6rt zum Bedeutendsten im Repertoire klassischer Musik.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+        "title": "Antonio Vivaldi",
+        "content": "Antonio Lucio Vivaldi (* 4. M\u00e4rz 1678 in Venedig; \u2020 28. Juli 1741 in Wien) war ein venezianischer Komponist, Violinist des Barocks und r\u00f6misch-katholischer Priester.",
+        "language": "German",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "image": "default.jpg",
+        "difficulty": 1,
+        "source": "https://de.wikipedia.org/wiki/Antonio_Vivaldi"
+    }
+]

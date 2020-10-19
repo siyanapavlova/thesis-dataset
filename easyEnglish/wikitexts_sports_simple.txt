@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Aerobics",
+        "content": "Aerobics or rhythmic fitness is a physical exercise performed under a rhythmic music. It includes running, jumping, stretching and strength training routines. It may be practiced in a group setting led by an instructor, although it can be done solo and without musical accompaniment. \nAerobics classes may allow participants to select their level of participation according to their fitness level. Many gyms offer a wide variety of aerobic classes for participants to take. Each class is designed for a certain level of experience and taught by a certified instructor with a specialty area related to their particular class.\nJogging and cycling similarly promote aerobic fitness, but they are not usually done in classes led by instructors or with music, hence are not \"aerobics\".",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Aerobics"
+    },
+    {
+        "title": "Archery",
+        "content": "Archery is the practice of using a bow to shoot arrows. Archery has historically been used in hunting and combat and has become a precision sport. A person practicing archery is called an archer, and one who enjoys or is an expert at archery is sometimes called an toxophilite.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Archery"
+    },
+    {
+        "title": "Athletics (sport)",
+        "content": "See also: Athletics (disambiguation)Athletics is an exclusive collection of sporting events that include competitive running, jumping, throwing, and walking. The most common types of athletics competitions are track and field, road running, cross country running, and race walking.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Athletics_(sport)"
+    },
+    {
+        "title": "Badminton",
+        "content": "Badminton is a sport for two or four( \"singles\" or \"doubles\") people. The game is either one player against one player or a team of two players against another team of two players. Players use rackets to hit a shuttlecock over a net but if it goes too far it will be an out.\nThe aim of the game is to hit the shuttlecock over the net in a way that the other player or pair cannot hit it back properly before it hits the floor. Every time this is done, the player or pair gets one point. They also get to serve. The first player or pair to reach 21 points wins a game. \nThe winner of the match is the first to win 2 sets.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Badminton"
+    },
+    {
+        "title": "Baseball",
+        "content": "Baseball is a sport played on a field by two teams against each other. In baseball, a player on one team throws a small round ball at a player on the other team, who tries to hit it with a bat. Then the player who hits the ball has to run around the field. Players get points by running around in a full circle around three points on the ground called bases, to back where they started, which is called home plate. They have to do this without getting caught by the players on the other team.\nBaseball started in the United States in the 1700s and 1800s, The game was made by Abner Doubleday. Many people in North America, South America, and East Asia play baseball, but the sport is most known in the United States and Japan. In the U.S., baseball is called the national pastime, because so many people in the United States used to spend a lot of time playing or watching baseball games. Today, though, most Americans follow football more than baseball, especially when it comes time for the Super Bowl.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Baseball"
+    },
+    {
+        "title": "Basketball",
+        "content": "Basketball is a team sport where two teams, usually consisting of five players on each team, play against each other on a rectangular court. The objective is to get the ball through a hoop mounted high on a backboard on the opponent's side of the court, while preventing the opponent from shooting it into your team's hoop. It is a very popular sport worldwide, played with a round and usually orange(orange-brown) ball that bounces. Basketball players mainly use skills such as dribbling, shooting, running, and jumping. Each made basket is worth two points, while a basket made from beyond the three-point line is worth three points. If a player gets into too much physical contact, they may be given free throws which are worth one point each. The game typically lasts for four-quarters and the team with the most points at the end of the four-quarters win the game. If the score is tied at the end of the game, there will be something called overtime, which is additional play time to allow one team to win the match.\nThe game is played between men's teams or between women's teams. Basketball has been played in the Summer Olympic Games since 1936. The shot clock rule started in 1954. The first basketball game took place in 1892, where the court was half the size of what it is today.In 1891 the game was invented by James Naismith.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Basketball"
+    },
+    {
+        "title": "Bicycle",
+        "content": "A bicycle (or bike) is a small, human powered land vehicle with a seat, two wheels, two pedals, and a metal chain connected to cogs on the pedals and rear wheel. A frame gives the bike strength, and the other parts are attached to the frame. The name comes from these two words - the prefix \"bi-\" meaning two, and the suffix \"-cycle\" meaning wheel. It is powered by a person riding on top, who pushes the pedals around with his or her feet.\nRiding bicycles, which is also called cycling, is an important way to travel in several parts of the world. The most popular type of cycling is Utility cycling.  It is also a common recreation, a good form of low-impact exercise, and a popular sport. Road bicycle racing is the second most popular spectator sport in the world.\nBicycling uses less energy per mile than any other human transport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bicycle"
+    },
+    {
+        "title": "Bicycle",
+        "content": "A bicycle (or bike) is a small, human powered land vehicle with a seat, two wheels, two pedals, and a metal chain connected to cogs on the pedals and rear wheel. A frame gives the bike strength, and the other parts are attached to the frame. The name comes from these two words - the prefix \"bi-\" meaning two, and the suffix \"-cycle\" meaning wheel. It is powered by a person riding on top, who pushes the pedals around with his or her feet.\nRiding bicycles, which is also called cycling, is an important way to travel in several parts of the world. The most popular type of cycling is Utility cycling.  It is also a common recreation, a good form of low-impact exercise, and a popular sport. Road bicycle racing is the second most popular spectator sport in the world.\nBicycling uses less energy per mile than any other human transport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bicycle"
+    },
+    {
+        "title": "Bicycle",
+        "content": "A bicycle (or bike) is a small, human powered land vehicle with a seat, two wheels, two pedals, and a metal chain connected to cogs on the pedals and rear wheel. A frame gives the bike strength, and the other parts are attached to the frame. The name comes from these two words - the prefix \"bi-\" meaning two, and the suffix \"-cycle\" meaning wheel. It is powered by a person riding on top, who pushes the pedals around with his or her feet.\nRiding bicycles, which is also called cycling, is an important way to travel in several parts of the world. The most popular type of cycling is Utility cycling.  It is also a common recreation, a good form of low-impact exercise, and a popular sport. Road bicycle racing is the second most popular spectator sport in the world.\nBicycling uses less energy per mile than any other human transport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bicycle"
+    },
+    {
+        "title": "Bobsleigh",
+        "content": "Bobsled or bobsleigh is a sport played during the Winter Olympic Games. It is played by riding on iced tracks with a sled. Modern tracks are made of concrete, coated with ice. Artificial bobsleigh tracks are also available.\nInternational bobsled competitions are governed by the F\u00e9d\u00e9ration Internationale de Bobsleigh et de Tobogganing (FIBT).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bobsleigh"
+    },
+    {
+        "title": "Boxing",
+        "content": "Boxing is one of the world's oldest combat sports. It is held in a ring and two boxers (people who fight in boxing fights) wear padded gloves and try to hit one another.\nThere are a few different ways to win in boxing. One is by a way of a knockout, which is when a fighter is punched and falls to the ground and cannot get back up within ten seconds.  Another way is by a technical knockout, which is when the fighter can not continue fighting thus the referee stops the fight. Technical knockout wins and losses are also knockout wins or losses for a boxer. Another possibility is winning on points, which a boxer gets by outboxing his or her opponent by hitting the opponent more often, harder, and more accurately. There are also draws in boxing. What in other sports are called \"tie\" in boxing it's called \"draw\". A referee can announce a technical draw due to an accidental cut or an accidental wound like a headbutt. Generally, it is considered a \"no contest\" (NC)-in which case, the fight is considered as not having taken place at all and not counting as a fight. However, after the fourth round, if the score cards for both fighters are equal, the fight could be called a draw. It is a way to defeat your enemy by brute physical force. Each round lasts 3 minutes for men, 2 minutes for women.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Boxing"
+    },
+    {
+        "title": "Boxing",
+        "content": "Boxing is one of the world's oldest combat sports. It is held in a ring and two boxers (people who fight in boxing fights) wear padded gloves and try to hit one another.\nThere are a few different ways to win in boxing. One is by a way of a knockout, which is when a fighter is punched and falls to the ground and cannot get back up within ten seconds.  Another way is by a technical knockout, which is when the fighter can not continue fighting thus the referee stops the fight. Technical knockout wins and losses are also knockout wins or losses for a boxer. Another possibility is winning on points, which a boxer gets by outboxing his or her opponent by hitting the opponent more often, harder, and more accurately. There are also draws in boxing. What in other sports are called \"tie\" in boxing it's called \"draw\". A referee can announce a technical draw due to an accidental cut or an accidental wound like a headbutt. Generally, it is considered a \"no contest\" (NC)-in which case, the fight is considered as not having taken place at all and not counting as a fight. However, after the fourth round, if the score cards for both fighters are equal, the fight could be called a draw. It is a way to defeat your enemy by brute physical force. Each round lasts 3 minutes for men, 2 minutes for women.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Boxing"
+    },
+    {
+        "title": "Canoe",
+        "content": "A canoe is a small boat, that is often driven by manpower or womanpower, but also commonly sailed. Canoes are pointed at both ends and usually open on top, but can be covered. Canoes are known as \"Paddle boats\" in some small towns in the south of Australia. The use of a paddle or \"salvatore\" is used to propel the vehicle. The most famous of rowers include the Szwedo of Luke in which he was the first man to complete 4 laps the woodend river in less than 3 days, beating the record of 4 laps in 4 days.\nThe canoe is propelled by the use of paddles, with the number of paddlers depending on the size of the canoe (most commonly 2). Paddlers face in the direction of travel, either seated or kneeling. In this way paddling a canoe can be contrasted with rowing, where the rowers face away from the direction of travel. Paddles may be single-bladed or double-bladed.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Canoe"
+    },
+    {
+        "title": "Canoe",
+        "content": "A canoe is a small boat, that is often driven by manpower or womanpower, but also commonly sailed. Canoes are pointed at both ends and usually open on top, but can be covered. Canoes are known as \"Paddle boats\" in some small towns in the south of Australia. The use of a paddle or \"salvatore\" is used to propel the vehicle. The most famous of rowers include the Szwedo of Luke in which he was the first man to complete 4 laps the woodend river in less than 3 days, beating the record of 4 laps in 4 days.\nThe canoe is propelled by the use of paddles, with the number of paddlers depending on the size of the canoe (most commonly 2). Paddlers face in the direction of travel, either seated or kneeling. In this way paddling a canoe can be contrasted with rowing, where the rowers face away from the direction of travel. Paddles may be single-bladed or double-bladed.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Canoe"
+    },
+    {
+        "title": "Catcher",
+        "content": "A catcher is a position in baseball.  The catcher crouches behind the home plate and catches the ball thrown by the pitcher.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Catcher"
+    },
+    {
+        "title": "Championship",
+        "content": "In sport, a championship is a competition to determine which individual or team is the champion. Different forms of competition can be called a championship. It is usually the final competition in a tournament (a series of competitions). For example, the FIFA World Cup is a tournament held every four years. The winner of the final competition of each tournament becomes that tournament's champion. In a league system, the championship is the final competition of a regular season. In some league systems, a series of playoffs is used to determine the champion of a season. There is one champion for each season. In combat sports, such as wrestling and boxing, a competitor must challenge the current champion to win the championship.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Championship"
+    },
+    {
+        "title": "Coach (sport)",
+        "content": "In sports, a coach or manager is a person who directs and trains a sports team or sportsperson. If there is a difference between coach and manager, it is this:\n\nthe coach will train the players\nthe manager will deal with the business aspectsThe borderline areas are selecting the team, and buying new players.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Coach_(sport)"
+    },
+    {
+        "title": "Competition",
+        "content": "A competition or contest is an event where people get together to see who is the best at something.  Someone who takes part in a competition (\"enters for a competition\") is called a competitor.  The competitors compete against one another.  The person who wins may get a prize.  The prize might be a trophy or money.\nCompetitions can be for lots of different things, for example, sport, writing, music, dancing, science, or chess.\n\nSome competitions need a referee.  The referee will make sure that the game is played fairly and that the competitors obey the rules.  In events like music competitions there will often be an adjudicator who will decide which person they think is the best.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Competition"
+    },
+    {
+        "title": "Cricket",
+        "content": "Cricket is a sport which is played between two teams of eleven players each who score runs (points). This is done by hitting the ball across the boundary, or by one team's players running between two objects called wickets as many times as possible before the other team gets the ball to either wicket to stop them from scoring runs. \nThe wickets are sets of three small, wooden posts that are at each end of a rectangle of short grass called 'the pitch', which is 22 yards long. The pitch is inside a much larger oval of grass called the 'area of play'. The area of play is a 30 yard circle inside the cricket ground or stadium.The game started in England in the 16th century. The earliest definite reference to the sport is in a court case of 1598. The court in Guildford heard a coroner, John Derrick, that when he was a scholar at the \"Free School at Guildford\", fifty years earlier, \"he and diverse of his fellows did run and play [on the common land] at cricket and other players\". Later, the game spread to countries of the British Empire in the 19th and 20th centuries.\nToday, it is a popular sport in England, Australia, India, Pakistan, Sri Lanka, Bangladesh, South Africa, New Zealand, the West Indies and several other countries such as Afghanistan, Ireland, Kenya, Scotland, the Netherlands, and Zimbabwe.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cricket"
+    },
+    {
+        "title": "Cricket",
+        "content": "Cricket is a sport which is played between two teams of eleven players each who score runs (points). This is done by hitting the ball across the boundary, or by one team's players running between two objects called wickets as many times as possible before the other team gets the ball to either wicket to stop them from scoring runs. \nThe wickets are sets of three small, wooden posts that are at each end of a rectangle of short grass called 'the pitch', which is 22 yards long. The pitch is inside a much larger oval of grass called the 'area of play'. The area of play is a 30 yard circle inside the cricket ground or stadium.The game started in England in the 16th century. The earliest definite reference to the sport is in a court case of 1598. The court in Guildford heard a coroner, John Derrick, that when he was a scholar at the \"Free School at Guildford\", fifty years earlier, \"he and diverse of his fellows did run and play [on the common land] at cricket and other players\". Later, the game spread to countries of the British Empire in the 19th and 20th centuries.\nToday, it is a popular sport in England, Australia, India, Pakistan, Sri Lanka, Bangladesh, South Africa, New Zealand, the West Indies and several other countries such as Afghanistan, Ireland, Kenya, Scotland, the Netherlands, and Zimbabwe.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cricket"
+    },
+    {
+        "title": "Curling",
+        "content": "Curling is a sport played on ice. Players slide curling stones on the ice towards a target, called the house. There are two teams with four players on each team. Each team slides eight stones, this is called an end. After an end the team with the stone closest to the centre of the house (target) scores points. The game is over after eight or ten ends. The team with the most points is the winner.\nThe player sliding the stone can make it turn or curl slowly. Two other players on the team sweep the ice in front of the stone with brooms. This is to make the stone stop in the right place.\nCurling is played at the Winter Olympics.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Curling"
+    },
+    {
+        "title": "Darts",
+        "content": "Darts is a type of throwing game where darts are thrown towards a circular target held on a wall. The circular target is called the dartboard. Darts is most liked in the United Kingdom (which was the first country to call darts a sport), mainly in England, and is a pub game. Darts was first played around the 1870s. Until 1930s all dart boards were made out of wood that had to be soaked in water day before.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Darts"
+    },
+    {
+        "title": "Darts",
+        "content": "Darts is a type of throwing game where darts are thrown towards a circular target held on a wall. The circular target is called the dartboard. Darts is most liked in the United Kingdom (which was the first country to call darts a sport), mainly in England, and is a pub game. Darts was first played around the 1870s. Until 1930s all dart boards were made out of wood that had to be soaked in water day before.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Darts"
+    },
+    {
+        "title": "Decathlon",
+        "content": "A decathalon is a sporting event. It has ten track and field events. It consists of 4 runs, 3 jumps and 3 throws\nThe word decathalon comes from the Greek language. It has two parts; \u03b4\u03ad\u03ba\u03b1 (d\u00e9ka, meaning \"ten\") and \u1f04\u03b8\u03bb\u03bf\u03c2 (\u00e1thlos, or \u1f04\u03b8\u03bb\u03bf\u03bd, \u00e1thlon, meaning \"feat\").",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Decathlon"
+    },
+    {
+        "title": "Diving",
+        "content": "Diving is a form of movement downwards, either from air to ground or to water. Diving is also a sport. Diving is often done from a springboard or an elevated platform. \nUnderwater diving includes Scuba diving. Scuba diving, however, is typically not considered a sport. Dives used for scuba diving are relatively simplistic. An example of this is a giant stride entry, also known as a stride dive.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Diving"
+    },
+    {
+        "title": "Diving",
+        "content": "Diving is a form of movement downwards, either from air to ground or to water. Diving is also a sport. Diving is often done from a springboard or an elevated platform. \nUnderwater diving includes Scuba diving. Scuba diving, however, is typically not considered a sport. Dives used for scuba diving are relatively simplistic. An example of this is a giant stride entry, also known as a stride dive.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Diving"
+    },
+    {
+        "title": "Fencing",
+        "content": "This is about the sport. You may be wanting to read about a fence.\nFencing is a sport that includes two people with swords. The aim is to score hits. There is also a referee.\nIn the olden times when two people argued they fenced the first one to draw blood was wrong and the person would be dead, so the person that won would claim the dead person's house and belongings.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fencing"
+    },
+    {
+        "title": "Physical fitness",
+        "content": "Physical fitness is the ability to be physically active, to move and respond to the environment. People can take various tests to measure their physical performance. Such tests are necessary for some occupations, such as soldiers and firefighters. \nPhysical fitness has two components: general fitness (a state of health and well-being) and specific fitness (the ability to perform specific aspects of sports or occupations).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+        "title": "Figure skating",
+        "content": "Figure skating is both an art and a sport, in which people skate around on ice, doing jumps and spins. It is done at the Winter Olympics, and it has its own world championships. The name means to make figures or patterns on the ice. People skate with music.\nIn figure skating, sometimes women or men skate alone, or they skate in couples. Couples dancing includes pairs and ice dancing. Pairs skating has jumps, and sometimes the man lifts the woman in the air. These things are not done in ice dancing. In ice dancing, the woman must be held in the man's arms. Another kind of figure skating is synchronized skating done in groups.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Figure_skating"
+    },
+    {
+        "title": "Flying disc",
+        "content": "A flying disc is a flat round object with a thick rim.  The rim make the disc easier to grip and throw, and also keeps the disc from turning over as it flies.  Detailed throwing instructions are below, but the basic goal is to throw the disc while also making the disc spin. \nAlso mentioned below is a flying ring, made under the brand name Aerobie. Although these designs are very different, they both use air resistance in the same way to fly.\nUnlike the Aerobie, flying discs are used in both Ultimate Frisbee and Disc Golf.  The Frisbee brand of flying disc is rarely used in official competition in either game, which is why the team sport of Ultimate Frisbee is officially called simply \"Ultimate.\" Still, as \"Kleenex\" was once a word used to mean \"facial tissue,\" \"Frisbee\" is still broadly used as a synonym for a flying disc.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Flying_disc"
+    },
+    {
+        "title": "Geocaching",
+        "content": "Geocaching is an outdoor sport activity based on GPS (Global Positioning System). Players use a receiver or mobile device and other navigational techniques to hide or look for containers, called \"geocaches\" or \"caches\".\n\nOne of the main ideas of geocaching is putting caches in places that are interesting, but not often visited by tourists. In the listing of the cache, information about the places is given.\nAfter 19 years of activity there are over 3,000,000 active geocaches. There are over 5 million geocachers worldwide.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Geocaching"
+    },
+    {
+        "title": "Goalkeeper",
+        "content": "A goalkeeper is someone who protects a team's goal. There are goalkeepers in sports like football (soccer) and ice hockey, for example. The goalkeeper's mission is to prevent the opposing team from scoring a goal. Goalkeepers normally wear more protective gear than other players on the team but this is not always true.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Goalkeeper"
+    },
+    {
+        "title": "Goalkeeper",
+        "content": "A goalkeeper is someone who protects a team's goal. There are goalkeepers in sports like football (soccer) and ice hockey, for example. The goalkeeper's mission is to prevent the opposing team from scoring a goal. Goalkeepers normally wear more protective gear than other players on the team but this is not always true.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Goalkeeper"
+    },
+    {
+        "title": "Golf",
+        "content": "Golf is a game played in an open field where the golfer plays his golf ball into a hole by using different types of clubs (golf instruments). The book Rules of Golf reads \"The Game of Golf consists in playing a ball from the teeing ground into the hole by a stroke or successive strokes in accordance with the Rules.\"",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Golf"
+    },
+    {
+        "title": "Gymnasium",
+        "content": "A gymnasium (often called a gym) is a place used for physical activity. The word \u03b3\u03c5\u03bc\u03bd\u03ac\u03c3\u03b9\u03bf\u03bd (gymnasion) was used in Ancient Greece. It meant a place for both physical and intellectual education of young men (see gymnasium (ancient Greece)). \nThe intellectual education meaning persisted in German and other languages to mean a certain type of school providing secondary education, the Gymnasium, whereas in English the meaning of physical education was pertained in the word gym. However, the word \"gymnasium\" is not used very often in English nowadays. The term favoured in English is  \"sports centre\", which perhaps seems more natural.\nSome gyms offer memberships where people can train and improve their physical appearance. Commercial gyms offer sometimes help from qualified trainer. Again, another term is more used today: \"fitness centre\".\nSports such as basketball and volleyball are often played in gymnasia.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gymnasium"
+    },
+    {
+        "title": "Gymnastics",
+        "content": "Gymnastics is a sport which involves doing exercises which need strength, flexibility, balance and control. This may include running, jumping, tumbling, somersaulting, flipping and balancing.  \nIn women's gymnastics, there are four activities: floor, uneven bars, balance beam, and vault.  In men's gymnastics, there are six activities: floor exercise, parallel bars, high bar, pommel horse, vault, and rings.\nGymnastics is a Summer Olympic sport.\nGymnastics is not just for girls, it can also be for boys as well.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gymnastics"
+    },
+    {
+        "title": "Handball",
+        "content": "(For the different sport of the same name played with two, three or four players, see.)\nHandball (also known as team handball, field handball or Olympic handball) is a team sport similar to football (soccer). Two teams of 7 players each (six players and a goalkeeper) pass and bounce a ball using the hands, trying to throw it into the goal of the other team. Games are an hour of playing time, divided into 30-minute halves, with 15 minutes break at halftime. The size of the court is a little bigger than a basketball court, 40 meters by 20 meters, which is the same court as indoor soccer. It has a six-meter line which no one but the goalie is allowed to have possession of the ball and touching the ground. If this happens, a foul is called and the player committing the foul gets ejected, (sitting out of the game for two minutes, five minutes, or the rest of the game). There are seven players total on a handball team, six players and a goalie. Most historians agree that handball predates soccer, (football) but that is not for certain",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Handball"
+    },
+    {
+        "title": "Batting (baseball)",
+        "content": "In baseball, batting is the act of going against the other team's pitcher and trying to hit the baseball ball. A batter or hitter is the player who swings his bat to try to hit the ball. In Major League Baseball, pitchers usually do not bat unless they are playing in the National League where batters have to bat even if they are pitchers. In the American League, pitchers do not bat, and only pitch.\nBatting the primary method by which Baseball teams play offense and score runs. A Batter bats by standing in the Batter's Box at Home Plate and either swinging or not swinging at the pitches the Pitcher throws. This activity collectively is known as an At Bat. The goal of the batter is get to get a hit, while the pitcher wants to get an out.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Batting_(baseball)"
+    },
+    {
+        "title": "Batting (baseball)",
+        "content": "In baseball, batting is the act of going against the other team's pitcher and trying to hit the baseball ball. A batter or hitter is the player who swings his bat to try to hit the ball. In Major League Baseball, pitchers usually do not bat unless they are playing in the National League where batters have to bat even if they are pitchers. In the American League, pitchers do not bat, and only pitch.\nBatting the primary method by which Baseball teams play offense and score runs. A Batter bats by standing in the Batter's Box at Home Plate and either swinging or not swinging at the pitches the Pitcher throws. This activity collectively is known as an At Bat. The goal of the batter is get to get a hit, while the pitcher wants to get an out.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Batting_(baseball)"
+    },
+    {
+        "title": "Batting (baseball)",
+        "content": "In baseball, batting is the act of going against the other team's pitcher and trying to hit the baseball ball. A batter or hitter is the player who swings his bat to try to hit the ball. In Major League Baseball, pitchers usually do not bat unless they are playing in the National League where batters have to bat even if they are pitchers. In the American League, pitchers do not bat, and only pitch.\nBatting the primary method by which Baseball teams play offense and score runs. A Batter bats by standing in the Batter's Box at Home Plate and either swinging or not swinging at the pitches the Pitcher throws. This activity collectively is known as an At Bat. The goal of the batter is get to get a hit, while the pitcher wants to get an out.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Batting_(baseball)"
+    },
+    {
+        "title": "Ice hockey",
+        "content": "Ice hockey is a sport that is played by two teams on ice. The players wear ice skates on their feet and can skate across the ice at very high speeds.  They hold hockey sticks, which they use to push, shoot or pass a puck around the ice.  The players score by shooting the puck into a net; the goaltenders try to stop them.  Six players on each team play at once, but a whole team has over 20 players. Each team has 2 defenders, 3 forwards, and a goalie on the ice at a time. When a player breaks a rule, a referee calls a penalty, and the player has to sit in a penalty box for 2-4 minutes. While the player sits in the penalty box, his team has to play without him, and will have fewer players on the ice until the penalty is over.\nIce hockey is very well-known and well-liked in Canada, Russia, Sweden, Finland, the Czech Republic, the United States, Latvia and Slovakia.  Most of the best players in the world play in the National Hockey League (NHL), which has 31 teams in the United States and Canada. These teams are divided 2 conferences and 4 divisions. In the regular season, they play 82 games. Each team faces each other about 3 times. They try to win the Stanley Cup at the end of the year.  Another popular hockey league is the Kontinental Hockey League (KHL), which has teams in Russia, Kazakhstan, Latvia, Belarus, Slovakia, China and  Croatia. In North America, women play in the Canadian Women's Hockey League and the Western Women's Hockey League.  In North America and Europe, men's hockey is much more popular than women's hockey.  Hockey is played by both men and women at the Olympic games, and at world championships. Ice hockey began in Canada in the 19th century. There are two types of penalty: The major and the minor. The minor is the main one the referee will call during a game and the players have to go in the penalty box for two minutes. The major is when players fight with each other or when someone did something very dangerous. Most of time players are kicked out of the games but in a fight they only get 5 minutes in the penalty box. In the National Hockey League (NHL) there are four referees. Two lineman and two head referee. Only head referees can call the penalty. They can be recognized by the orange armband on their arm. In the major league, the game is separated into three periods of 20 minutes.  For the minor league, the time can be different for each category. Each period starts after the face-off. A face-off is when two teams are in position around the face-off circle.  Then, the referee drops the puck between the players who play center. There are 6 different positions: center, right wing, left wing, right defense, left defense and goalie. The play is over after a whistle of any referee.  After a whistle-blow, the time stops running. Each team can have a maximum of 20 players, including two goaltenders who have a zone to defend. Each team has one captain and two or three assistant captains. The ice is separated into three zones. Each zone is marked by lines. The center zone is between two blue lines and team zones are between one blue line and the end of the ice. The lineman can whistle for two reasons: icing and offside. An icing is when a player throws the puck into the zone before he crosses the red line (center line) and an offside is when a player enters the zone before the one who has the puck enters with it.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ice_hockey"
+    },
+    {
+        "title": "Rink",
+        "content": "Rinks are places for sports. There are several types of rinks:\n\n\"Ice rinks\" are also called ice skating rinks. Ice rinks have ice on the floor if they are inside, and on the ground if they are outside. Ice rinks are places for people to play ice hockey and to go ice skating.\"Curling rinks\" also have ice on the floor if they are inside, and on the ground if they are outside. A sport called \"curling\" is played at curling rinks. Teams of people slide heavy stones with handles down the ice toward targets under the ice.\"Roller rinks\" are also called Roller Skating Rinks. Roller rinks usually have wood on the floor if they are inside, and on the ground if they are outside. People go roller skating at roller rinks.\"Challenge rinks\" are a lesser-known variant of curling rinks. They can usually be found around or on areas with an elevation of at least 510 meters above sea level.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Rink"
+    },
+    {
+        "title": "Ice skating",
+        "content": "Ice skating is skating on ice as a sport, entertainment or pastime. Ice skates, a special type of boot with metal blades on the bottom, are worn to skate on ice. Figure skating and speed skating are the sport forms of ice skating. Hockey is also played on ice, with players wearing ice skates. The International Skating Union (ISU) is the international governing body for figure skating and speed skating.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ice_skating"
+    },
+    {
+        "title": "Jogging",
+        "content": "Jogging is running at a slow speed. Many people go for a jog in order to keep fit and healthy.  People go jogging for exercise, not for competitions.\nJogging is a very cheap way of keeping fit, because all that is needed is a good pair of running shoes.  One can jog anywhere, although it is good to stay away from main roads where the air is full of traffic fumes.  It is also good to avoid too much jogging on hard pavements (sidewalks). A softer surface such as grass is better for jogging because there is less hard jolting for the knees.\nJogging is a kind of aerobic exercise which helps people breathe better.  It can keep the heart rate at a high-speed level for a long time (depends on how long people spend). A goal of aerobic exercise is to train the different types of muscles so people can keep fit by increasing the muscle mass. Since people increase the muscle mass, they can be successful to increase the lean level and decrease the body fat. In this way, people can keep fit and be healthy.\nJogging and running have very popular in the late 20th century.  People of all ages jog.  It promotes strength and good condition  and is useful to people who want to control their weight.  Like other aerobic exercise, it releases endorphin in many people.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Jogging"
+    },
+    {
+        "title": "Jogging",
+        "content": "Jogging is running at a slow speed. Many people go for a jog in order to keep fit and healthy.  People go jogging for exercise, not for competitions.\nJogging is a very cheap way of keeping fit, because all that is needed is a good pair of running shoes.  One can jog anywhere, although it is good to stay away from main roads where the air is full of traffic fumes.  It is also good to avoid too much jogging on hard pavements (sidewalks). A softer surface such as grass is better for jogging because there is less hard jolting for the knees.\nJogging is a kind of aerobic exercise which helps people breathe better.  It can keep the heart rate at a high-speed level for a long time (depends on how long people spend). A goal of aerobic exercise is to train the different types of muscles so people can keep fit by increasing the muscle mass. Since people increase the muscle mass, they can be successful to increase the lean level and decrease the body fat. In this way, people can keep fit and be healthy.\nJogging and running have very popular in the late 20th century.  People of all ages jog.  It promotes strength and good condition  and is useful to people who want to control their weight.  Like other aerobic exercise, it releases endorphin in many people.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Jogging"
+    },
+    {
+        "title": "Karate",
+        "content": "Karate (\u7a7a\u624b) is a Japanese martial art.  It was developed in the former Ry\u016bky\u016b Kingdom in what is now Okinawa Prefecture.\nKarate uses all parts of the human body as a weapon such as the hand, fist, elbow, leg and knee. \nKarate training has three main sections:\n\nkihon (\u57fa\u672c, \u304d\u307b\u3093) is learning the basic techniques or fundamentals;\nkata (\u5f62\uff08\u578b\uff09)\u3000is the training of form, the specific order and way of using techniques;\nkumite (\u7d44\u624b) is to learn how to fight using those techniques.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Karate"
+    },
+    {
+        "title": "Karate",
+        "content": "Karate (\u7a7a\u624b) is a Japanese martial art.  It was developed in the former Ry\u016bky\u016b Kingdom in what is now Okinawa Prefecture.\nKarate uses all parts of the human body as a weapon such as the hand, fist, elbow, leg and knee. \nKarate training has three main sections:\n\nkihon (\u57fa\u672c, \u304d\u307b\u3093) is learning the basic techniques or fundamentals;\nkata (\u5f62\uff08\u578b\uff09)\u3000is the training of form, the specific order and way of using techniques;\nkumite (\u7d44\u624b) is to learn how to fight using those techniques.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Karate"
+    },
+    {
+        "title": "Kayak",
+        "content": "A kayak is a small boat that is driven by manpower.  It typically has a covered deck, and a cockpit covered by a spraydeck.  It is propelled by a double-bladed paddle by a sitting paddler.  The kayak was used by the native Ainu, Inuit,  Aleut and Eskimo hunters in sub-Arctic regions of northeastern Asia, North America and Greenland.  Modern kayaks come in a wide variety of designs and materials for specialized purposes.\nKayaks typically are built for one, two or occasionally three paddlers who sit facing forward in one or more cockpits below the deck of the boat.  The spray skirt or similar waterproof garment attaches securely to the edges of the cockpit, so that no water from waves or spray may enter the boat. Therefore, in most styles the boat can roll upright again without it filling with water or ejecting the paddler.\nKayaks differ distinctly in design and history from canoes, which are craft propelled by single-bladed paddles by a kneeling paddler, although some modern canoes may be difficult for a non-expert to distinguish from a kayak.  Kayaks are often called canoes in Great Britain and Ireland.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Kayak"
+    },
+    {
+        "title": "Chinese martial arts",
+        "content": "Chinese martial arts, also known by the Mandarin Chinese term wushu. It is popularly known as kung-fu. It includes a number of fighting styles  that have developed over the centuries in China. \nThese fighting styles are often classified according to common features, identified as \"families\" (ji\u0101), \"sects\" (p\u00e0i) or \"schools\" (m\u00e9n) of martial arts. Examples of such features include physical exercises that copy certain animals, or training methods inspired by Taoism, and legends. Styles focusing on qi are called \"internal\" (n\u00e8iji\u0101qu\u00e1n), while others concentrate on improving muscle and heart fitness, and are called \"external\" (w\u00e0iji\u0101qu\u00e1n). They are also often classed according to region, that is \"northern\" (b\u011biqu\u00e1n) and \"southern\" (n\u00e1nqu\u00e1n).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chinese_martial_arts"
+    },
+    {
+        "title": "Lacrosse",
+        "content": "Lacrosse, invented by the Native Americans, is a popular team sport in North America and a national summer sport for Canada. It involves the use of nets, or \"heads\" as they are called, which consist of a wooden or metal shaft with a net on the end. Hockey is a game based on this sport. \nThere are about three different forms of lacrosse based on the different Native American tribes or places of how they played it. One of the ways still played today is called double stick; you play by using a two and a half foot stick in each hand and tossing a deer skin ball in between the two sticks.\nThe name \u201clacrosse\u201d was named by the French settlers; with \u201cCrosse\u201d meaning curved stick it is called the curved stick. Lacrosse played a more serious role in Native American culture than anywhere else. It was often used to settle tribal disagreements. Lacrosse was not a very well-known sport until the late nineteenth century.  Now more than half a million people are playing.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Lacrosse"
+    },
+    {
+        "title": "Martial arts",
+        "content": "A martial art is any form of fighting and an art that has a set way of practice. There are many martial arts that come from certain countries. They are practiced for many reasons: fighting, self-defense, sport, self-expression, discipline, confidence, fitness, relaxing, meditation. A martial art is a style of combat, in many instances directed towards the self-defence. In the common usage, the word applies to the systems of combat developed in all the world.\nA person who does martial arts is called a martial artist.\nOne common method is particularly in the Asian martial arts, it is the form or kata.\nMartial arts may be used for self-defense, combat and fitness.\nThe idea of \"martial art\" appeared first time in English language in the 1920 Takenobu's Japanese-English Dictionary as a translation of the word bu-gei or bu-jutsu what means \"art or solution of the military matters\".",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Martial_arts"
+    },
+    {
+        "title": "Nordic skiing",
+        "content": "Nordic skiing is a sport in the Winter Olympics.  It is called that because it comes from the Nordic countries.  It includes cross-country skiing, which involves skiing over very long distances.  It also involves ski jumping.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Nordic_skiing"
+    },
+    {
+        "title": "Olympic Games",
+        "content": "The Olympic Games (French: Jeux olympiques) is an important international event featuring summer and winter sports. Summer Olympic Games and Winter Olympic Games are held every four years. Originally, the ancient Olympic Games were held in Ancient Greece at Olympia. The first games were in 776 BC. They were held every four years until the 6th century AD. The first \"modern\" Olympics happened in 1896 in Athens, Greece. Athletes participate in the Olympics Games to represent their country.\nOver time the Olympics have become bigger. In old times, women were not allowed, but now there are women's events. The Winter Games were created for ice and snow sports. The Paralympic Games were created for athletes with physical disabilities. As well, the Olympics became bigger with the addition of the Youth Olympic Games for teenage athletes. World War I and World War II led to the cancellation of the 1916, 1940, and 1944 Games. As the decision-making body, the International Olympic Committee (IOC) is responsible for choosing the host city for each Olympic Games. The IOC is also responsible for choosing what sports are in the games.The creator of modern Olympics is Baron Pierre Coubertin. The Frenchman is the father of modern Olympics.\nThe celebration of the Games includes many rituals and symbols, such as Olympic flag and torch, as well as the opening and closing ceremonies. The first, second, and third-place finishers in each event receive, respectively, gold, silver, and bronze medals.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Olympic_Games"
+    },
+    {
+        "title": "Olympic Games",
+        "content": "The Olympic Games (French: Jeux olympiques) is an important international event featuring summer and winter sports. Summer Olympic Games and Winter Olympic Games are held every four years. Originally, the ancient Olympic Games were held in Ancient Greece at Olympia. The first games were in 776 BC. They were held every four years until the 6th century AD. The first \"modern\" Olympics happened in 1896 in Athens, Greece. Athletes participate in the Olympics Games to represent their country.\nOver time the Olympics have become bigger. In old times, women were not allowed, but now there are women's events. The Winter Games were created for ice and snow sports. The Paralympic Games were created for athletes with physical disabilities. As well, the Olympics became bigger with the addition of the Youth Olympic Games for teenage athletes. World War I and World War II led to the cancellation of the 1916, 1940, and 1944 Games. As the decision-making body, the International Olympic Committee (IOC) is responsible for choosing the host city for each Olympic Games. The IOC is also responsible for choosing what sports are in the games.The creator of modern Olympics is Baron Pierre Coubertin. The Frenchman is the father of modern Olympics.\nThe celebration of the Games includes many rituals and symbols, such as Olympic flag and torch, as well as the opening and closing ceremonies. The first, second, and third-place finishers in each event receive, respectively, gold, silver, and bronze medals.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Olympic_Games"
+    },
+    {
+        "title": "Paintball",
+        "content": "Paintball is a sport in which players try to eliminate opponents by shooting each other with balls of coloured dye. The players can compete either in teams or individually. The balls of dye (called \"paintballs\") are shot through a device called a paintball marker (or paintball gun). When the paintballs hit, they release the dye. When they hit a player, the dye marks that player as eliminated. The game is often played as an organised competitive sport, involving leagues, tournaments, and professional teams.Paintball can be played indoors or outdoors, on fields specifically made for the game. The field is scattered with natural or artificial obstacles and terrain, which players use to hide behind. The objective can vary according to the type of game being played. Players may have to capture a flag held by the opposing team, defend or capture a particular point on the field, or simply eliminate all other players on the field until they are the only player or team remaining. Depending on the variant played, games can last from seconds to hours.\nIn many countries, paintball is regulated by specific laws. Players are usually required to wear protective gear (such as masks), and game rules are strictly enforced. Paintball is also used by military forces and law enforcement for training recruits.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Paintball"
+    },
+    {
+        "title": "Paintball",
+        "content": "Paintball is a sport in which players try to eliminate opponents by shooting each other with balls of coloured dye. The players can compete either in teams or individually. The balls of dye (called \"paintballs\") are shot through a device called a paintball marker (or paintball gun). When the paintballs hit, they release the dye. When they hit a player, the dye marks that player as eliminated. The game is often played as an organised competitive sport, involving leagues, tournaments, and professional teams.Paintball can be played indoors or outdoors, on fields specifically made for the game. The field is scattered with natural or artificial obstacles and terrain, which players use to hide behind. The objective can vary according to the type of game being played. Players may have to capture a flag held by the opposing team, defend or capture a particular point on the field, or simply eliminate all other players on the field until they are the only player or team remaining. Depending on the variant played, games can last from seconds to hours.\nIn many countries, paintball is regulated by specific laws. Players are usually required to wear protective gear (such as masks), and game rules are strictly enforced. Paintball is also used by military forces and law enforcement for training recruits.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Paintball"
+    },
+    {
+        "title": "Silver medal",
+        "content": "A silver medal is a medal given to the second place finisher of contests (usually sports competitions) such as the Olympic Games or Commonwealth Games.  First and third place finishers usually receive a gold medal and bronze medal, respectively.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Silver_medal"
+    },
+    {
+        "title": "Swimming pool",
+        "content": "A swimming pool is a tank or large basin that is filled with water and intended for recreational or competitive swimming or diving. Pools are also used for other bathing activities, such as playing, wading, water exercising, floating on inner tubes, or cooling off on hot days. The chemical chlorine is usually used to killing germs and algae. Sometimes sea water is also used to maintain pool algae free. The filtration system is used to keep algae and other hazardous contaminants at bay. Pump and Filter are two main components of a swimming pool filtration system.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Swimming_pool"
+    },
+    {
+        "title": "Quidditch",
+        "content": "Quidditch is a fictional sport in the Harry Potter books written by J. K. Rowling. Quidditch is a team game played by witches and wizards. It is played on flying brooms. There are seven players per team (three Chasers, two Beaters, a Keeper, and a Seeker). The game has many rules. Chasers shoot the Quaffle (the ball) into the other team's goal to score points. The Keeper tries to stop the Quaffle from getting through the goal. Players dodge Bludgers, balls that are charmed to hit players. Players called Beaters hit Bludgers away with bats. The game ends when the Seeker player catches a winged ball called the Snitch. The team of the Seeker who caught the Snitch gets 150 points. In 2005 a real sport called muggle quidditch was started at Middlebury College.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Quidditch"
+    },
+    {
+        "title": "Rafting",
+        "content": "Rafting is an outdoor sport in which a person uses an inflatable raft to navigate a river or other body of water. This is often done on rough water. This usually requires teamwork. Rafting is a dangerous sport. People can die while rafting. Rafting is also a competitive sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Rafting"
+    },
+    {
+        "title": "Rafting",
+        "content": "Rafting is an outdoor sport in which a person uses an inflatable raft to navigate a river or other body of water. This is often done on rough water. This usually requires teamwork. Rafting is a dangerous sport. People can die while rafting. Rafting is also a competitive sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Rafting"
+    },
+    {
+        "title": "Rafting",
+        "content": "Rafting is an outdoor sport in which a person uses an inflatable raft to navigate a river or other body of water. This is often done on rough water. This usually requires teamwork. Rafting is a dangerous sport. People can die while rafting. Rafting is also a competitive sport.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Rafting"
+    },
+    {
+        "title": "Roller skating",
+        "content": "Roller skating is a physical activity on roller skates. Roller skating is also a sport when the skaters form a team and compete in events such as roller hockey or roller derby. Roller skating is also performed with certain styles of music and dance steps such as Jam Skating.\nThe wheels on roller skates are laid out similar to a skateboard, containing a set of trucks and cushions to allow for turning.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Roller_skating"
+    },
+    {
+        "title": "Roller skating",
+        "content": "Roller skating is a physical activity on roller skates. Roller skating is also a sport when the skaters form a team and compete in events such as roller hockey or roller derby. Roller skating is also performed with certain styles of music and dance steps such as Jam Skating.\nThe wheels on roller skates are laid out similar to a skateboard, containing a set of trucks and cushions to allow for turning.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Roller_skating"
+    },
+    {
+        "title": "Running",
+        "content": "Running is the way in which people or animals travel quickly on their feet. It is a method of travelling on land. It is different to walking in that both feet are regularly off the ground at the same time. Different terms are used to refer to running according to the speed: jogging is slow, and sprinting is running fast.\nRunning is a popular form of exercise. It is also one of the oldest forms of sport. The exercise is known to be good for health; it helps breathing and heartbeat, and burns any spare calories. Running keeps a person fit and active. It also relieves stress. Running makes a person thirsty, so it is important to drink water when running.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Running"
+    },
+    {
+        "title": "Sailing",
+        "content": "Sailing is the craft of controlling a boat that uses the force of the wind as a source of movement. Sailing boats were very important to move cargo and people. Starting at the end of the 19th century they were gradually replaced by the boats that used steam to generate motion. Today, sailing is a hobby some people have. In some regions of the world, sailing vessels still keep their importance. \n\nMany military forces also have sailing vessels for the purpose of training. \nSailing is also a competitive sport. It is one of the sports in the Olympic Games.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sailing"
+    },
+    {
+        "title": "Scuba diving",
+        "content": "Scuba diving is an activity where people (called \"scuba divers\", or simply \"divers\") can swim underwater for a long time, using a tank filled with compressed air. The tank is a large metal cylinder made of steel or aluminum.\nThe word scuba is an acronym from Self-Contained Underwater Breathing  Apparatus.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Scuba_diving"
+    },
+    {
+        "title": "Skiing",
+        "content": "Skiing is either sportive or recreational activity using skis for sliding over snow. Skis are used with special boots connected to them with a binding. There are two different types of skiing: downhill skiing and cross country skiing.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Skiing"
+    },
+    {
+        "title": "Ski-orienteering",
+        "content": "Ski orienteering (Ski O) is a winter sport. It combines the events of cross-country skiing and orienteering.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ski-orienteering"
+    },
+    {
+        "title": "Slalom skiing",
+        "content": "Slalom skiing is a special event in the sport of Alpine skiing.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Slalom_skiing"
+    },
+    {
+        "title": "Slalom skiing",
+        "content": "Slalom skiing is a special event in the sport of Alpine skiing.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Slalom_skiing"
+    },
+    {
+        "title": "Football",
+        "content": "Football is a word which could mean one of several sports. The best-known type of football is association football. This is called \"soccer\" in North America, South Africa, and Australia to avoid confusion with other types of football that are commonly played there.\nThe name football comes from the two words 'foot' and 'ball'. It is named football because the players of the game walk and often run (on their feet) while playing, as opposed to (for example) polo where the players ride horses. Football is played using a ball, also called a 'football', that is usually shaped like a sphere or an ellipsoid. The ball is often kicked with the foot, but depending on the game, it can also be hit using other parts of the body (in association football) and handling the ball is a part of some other sports known as 'football'.\nSome elements of football have been seen in many countries, dating back to the second and third century AD in China. The modern games of both rugby football and association football comes from 19th-century England. Kicking a ball goes back to the Middle Ages. Association football spread to many other parts of Europe, and was brought to the rest of the world with colonization. Today, it is the most popular sport in the world and many people watch it on television, especially the FIFA World Cup that happens every four years.\nEvery year there is a Football Club Competition called as Champions League. All the qualified big teams take part. At the end, we have one winner who takes the prestigious UEFA trophy. All big players play for their own teams. Some big players who take part every year are Mbappe, Ronaldo, Messi, Dybala, Neymar and many more",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Football"
+    },
+    {
+        "title": "Stadium",
+        "content": "A stadium is a building in which lots of people may watch an event. They are often used for football and athletics. Some stadiums are paid to add a company name to the name of their stadium. For example, Comerica Park in Detroit, Michigan, or the ALLTEL Stadium in Jacksonville, Florida. When people do this the company has the naming rights to the stadium. The name of a stadium can change when another company buys the naming rights to that stadium. \nAn arena is a small indoor stadium. Arenas are often used for many different types of events. These include sports and music.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Stadium"
+    },
+    {
+        "title": "Sport",
+        "content": "A sport is commonly defined as an athletic activity that involves a degree of competition, such as netball or basketball.  Some games and many kinds of racing are called sports. A professional at a sport is called an athlete. Many people play sports with their friends.  They need coaches to teach or train teams or individuals how to do better.  Sports can be played indoors or outdoors and by individuals or teams.\nFor children, sports play an extremely important part in their lives by providing all round development of the child, physically, mentally and emotionally. It also helps them to be fit and keep them healthy.\nSome people like to watch other people play sports. Those who watch others playing sports are called fans. While some fans watch sports on television, others actually go to stadiums or other places where people pay to watch them in person. These fans are called spectators.\n\nPeople engage in many kinds of sports, for example:\n the greatest sport is free fire",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sport"
+    },
+    {
+        "title": "Sumo",
+        "content": "Sumo (\u76f8\u64b2, sum\u014d) is a Japanese full-contact sport.In sumo, a wrestler (rikishi) attempts to force another wrestler out of a circular ring (dohy\u014d) 4.55 metres in diameter. Also, the rikishi try to use their skill to force an opponent to touch the ground with anything other than the soles of his feet.\nSumo tournaments (basho) take place in Tokyo, Osaka, Nagoya and Fukuoka. There are a total of 6 major professional tournaments (known as honbasho) per year, in January, March, May, July, September and November.\nA tournament normally lasts for 15 days and features matches from different divisions. The top 5 ranks are known as the \"Top division\", also called the Makuuchi (\u5e55\u5185) or Makunouchi (\u5e55\u306e\u5185). It is fixed in size and always contains 42 rikishi.\nThe ranks included in the top division are yokozuna, ozeki, sekiwake, komusubi and maegashira.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sumo"
+    },
+    {
+        "title": "Surfing",
+        "content": "Surfing is a water sport done in the ocean or sea. The surfer uses their surfboard to catch a wave and ride in towards the shore.\nSurfing was invented by the Polynesians at least 4000 years ago. It has become a popular sport among both men and women of all ages. With lifestyles and regimens freer than those of most sports, surfers comprise a unique culture. Though surfing is practiced in many other Pacific nations, its center remains Hawaii, where many rounds of the international surfing championships (the ASP) are held annually. Surfing is popular in Australia, the US, and Northern Europe.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Surfing"
+    },
+    {
+        "title": "Swimming",
+        "content": "Swimming is the movement of the body through water using arms and legs.  Most of the time equipment is not used.  People swim for exercise, for fun, and as a sport. People can swim in the sea, swimming pools, rivers and lakes. There are several styles of swimming, known as \"strokes\", including: breaststroke, freestyle, butterfly,  and backstroke are some of them. Many schools use swimming as a physical training exercise. \nSwimming works all the muscles simultaneously. It is impact free. It also builds up stamina. The goal of competitive swimming is to improve speed, and to beat other competitors in events. Some professional swimmers, who do not hold a national or world ranking, are considered the best because of their technical skills. An athlete goes through several stages of training. At the beginning, the body is overloaded with work. The workload becomes less closer to the date of the competition. This final stage is often referred to as \"shave and taper\"; the swimmer tapering downs his or her workload to be able to perform at their optimal level. At the end of this stage, before competition, the swimmer shaves off all exposed hair and dead skin. Often confused within shaving, swimmers shave to rid the skin of dead skin cells to expose sensitive skin to the water. The effect of shaving is a decrease in drag from hair and an increase in the sensation of \"feeling\" the water. Women who are menstruating may also use tampons rather than pads.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Swimming"
+    },
+    {
+        "title": "Synchronized swimming",
+        "content": "Synchronized swimming is a sport that is practiced in the water. It is a routine performed with music, like dancing. This sport is demanding because it needs  cardio and muscular power. It also requires a good capacity of location in three dimensions in the water while the athletes are performing.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Synchronized_swimming"
+    },
+    {
+        "title": "Table tennis",
+        "content": "Table tennis, also known as Ping Pong (a trademarked name), is one of the most popular sports in the world, with players in many countries. It is played by two or four people on a table. To play this game, people use bats and small celluloid balls. You need also a net and a table. Table tennis was invented in England in 1880.\nThe International Table Tennis Federation (ITTF), the worldwide organization, was founded in 1926. Table tennis has been an Olympic sport since 1988.\nMany of the best players in the world today come from China.\n\n\u4e52\u4e53\u7403 (Ping Pang Qiu) is the official name for the sport in China, Hong Kong and Taiwan.\n\u5353\u7403 (Takkyu) is the official name for the sport in Japan.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Table_tennis"
+    },
+    {
+        "title": "Table tennis",
+        "content": "Table tennis, also known as Ping Pong (a trademarked name), is one of the most popular sports in the world, with players in many countries. It is played by two or four people on a table. To play this game, people use bats and small celluloid balls. You need also a net and a table. Table tennis was invented in England in 1880.\nThe International Table Tennis Federation (ITTF), the worldwide organization, was founded in 1926. Table tennis has been an Olympic sport since 1988.\nMany of the best players in the world today come from China.\n\n\u4e52\u4e53\u7403 (Ping Pang Qiu) is the official name for the sport in China, Hong Kong and Taiwan.\n\u5353\u7403 (Takkyu) is the official name for the sport in Japan.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Table_tennis"
+    },
+    {
+        "title": "Rugby football",
+        "content": "Rugby football is a sport people play in many countries. It is usually called rugby or rugger.\nRugby football is named after Rugby School, the public school in England where it was developed. Legend has it that one day in 1823, a senior boy called William Webb Ellis elected to run with the ball rather than retiring to kick it as was the normal mode of play in Rugby School football matches. \"Running in\" was not considered quite the done thing then but was later formalised in the laws of Rugby Football (first published in 1846).  \nIts rival, Association football (soccer), came later. It was not formalised until 1863. Even then handling of the ball was allowed, but not catching it and running with it. In the mid 1860s an attempt was made to provide one set of laws for all football but there were irreconcilable differences, mainly concerning \"hacking\" (kicking an opponent in the shins). The \"hackers\" went on to eventually play rugby football even though hacking was barred a few years later. The \"anti-hackers\" went on to form Association Football, eventually banning any handling.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Rugby_football"
+    },
+    {
+        "title": "Track and field athletics",
+        "content": "Track and field is part of the sport of athletics. Athletics is a collection of sport events that includes running, jumping and throwing. Track and field events take place in a sports stadium, either on the running track, or on the field inside the running track. Other athletics events that are not track and field, include cross country running, road running, marathon running, and race-walking - these events take place outside a sports stadium.\nAthletics is a very common sporting event over the world. Athletics is a combination of different sports, generally running, jumping and throwing events. Running events include marathons, hurdle races, long distance and short distance events. Some jumping events are high jump, long jump, triple jump and pole vault. Throwing events involve javelin throw, discus throw, hammer throw and shot put.\n\n\t\t\n\t\t\n\t\t\nThere are also events that combine parts of running, jumping, and throwing.  One of these is the decathlon, which includes two short-distance races, a mile run, a hurdles race, javelin, discus, shot-put, high jump and pole vault.\nAll participants are timed or have a distance measured and this is their end result. Participants train hard for an event and always aim to better their results.\nAthletics is a sport that people take part in all over the world. It is a sport that is most common between young children up to younger adults. Athletics can be played for enjoyment, but it can also be a competitive sport. Athletics is also an event in the Olympic games.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Track_and_field_athletics"
+    },
+    {
+        "title": "Triathlon",
+        "content": "A triathlon is a sport that consists of three different events one after another without resting in between.  Usually, they are swimming, cycling, and running.  Triathlon has been in the Olympic Games since 2000.  One of the hardest and most famous triathlons is the Ironman Triathlon, which involves swimming two miles, biking a hundred miles, and then running a marathon.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Triathlon"
+    },
+    {
+        "title": "Marathon",
+        "content": "A marathon is a long distance running sport event where an athlete must run 42.195 kilometres (26 miles and 385 yards).  There are many marathons held all over the world each year.  It is a very difficult event and runners are advised to run many miles before they compete. This event was named after a battle of the Greco-Persian wars.   \n\nThe famous battle of Marathon was fought in 490 B.C.  An army from Persia came to fight the army of Athens.  The army from Athens was not expected to win, but they did.  After the victory, they sent their best runner, a man named Pheidippides back to Athens to tell everyone the good news.  He ran about 25 miles and died of exhaustion when he arrived.  \nIn 1896 the first modern Olympics was held. There was a race called the Marathon there.  It was only about 25 miles then.\n\n\n== Notes ==",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Marathon"
+    },
+    {
+        "title": "Ultramarathon",
+        "content": "An ultramarathon is a running race that is longer than a 26.2 mile marathon race.  The most common distances for ultramarathons are:\n\n50 Kilometers (31 miles)\n50 Miles (80.5 kilometers)\n100 Kilometers (62 miles)\n100 Miles (161 kilometers)The most famous ultramarathon run in the United States is the Western States 100 Mile Race.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ultramarathon"
+    },
+    {
+        "title": "Unicycle",
+        "content": "A unicycle (or simply cycle) is a pedal vehicle. It is like a bicycle, but it has only one wheel. It has a seat and pedals, but no chain or gears. There is no handlebar, it is steered by gripping the seat with the legs and twisting the body.  A rider keeps their balance by moving their arms, and controlling their speed. It is usually used for acting and performing. A unicycle is more expensive than a cheap bicycle, because unicycles are far less common.\nThere are two kinds of unicycles; giraffe unicycles and traditional unicycles. Giraffe unicycles are much taller than traditional unicycles, and use a chain so that the performer's legs do not have to stretch very far. Giraffe unicycles are mostly used by performers in circuses.  \nUnicycles are often used while the performer is simultaneously juggling or plate spinning. To do this, performers usually rock back and forth on the unicycle. This is called \"idling\". It lets the performer pay attention to what they are doing in their hands, instead of to the ground in front of them. To \"idle\" a unicycle, performers usually press one foot down, anchoring it in the bottom position of the wheel. This foot both provides support and completes the rocking motion that is necessary to keep the unicycle balanced.\nMany other tricks can be done when riding a unicycle.  This includes going backwards, riding up and down steps, pedaling with only one foot, hopping in place, wheel-walking (putting the feet on the tire instead of on the pedals) and riding over obstacles.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Unicycle"
+    },
+    {
+        "title": "Volleyball",
+        "content": "Volleyball is a team sport. The teams are separated by a large net.  It has six players on each side of the net. Each team is allowed twelve substitution players. The game starts when the captain from each team decides which side of the court they will play on, by the toss of a coin, which also determines who will serve (hit) the ball first. The point of the game is to keep the ball in the air. The ball can be played with any part of the body, with a maximum of three strokes a team. If at any point the ball hits the floor, the side that the ball landed on it is a point for the other team.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Volleyball"
+    },
+    {
+        "title": "Road (sports)",
+        "content": "Road game (short for on the road), better known as an away game, is a reference to all cities and stadia/arenas/fields/venues where an athletic team plays games for which they are not the host.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Road_(sports)"
+    },
+    {
+        "title": "Water polo",
+        "content": "Water polo is a sport played in water with a ball. It has similarities to basketball and soccer, although players are in the pool. Players try to get the ball into the goal more times than the opposing team, without using goggles.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Water_polo"
+    },
+    {
+        "title": "Water polo",
+        "content": "Water polo is a sport played in water with a ball. It has similarities to basketball and soccer, although players are in the pool. Players try to get the ball into the goal more times than the opposing team, without using goggles.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Water_polo"
+    },
+    {
+        "title": "Water polo",
+        "content": "Water polo is a sport played in water with a ball. It has similarities to basketball and soccer, although players are in the pool. Players try to get the ball into the goal more times than the opposing team, without using goggles.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Water_polo"
+    },
+    {
+        "title": "Windsurfing",
+        "content": "Windsurfing is a water sport invented in the U.K. by Peter Chilvers in 1958 on Hayling Island, Hampshire. It is performed on a board with a sail. The sail both empowers  the board and helps the board change directions. The sport is a combination of surfing and sailing. Windsurfers can travel on either flat or rough water, as long as there is wind. Windsurfing is done mostly in the summer and spring.\nWindsurfing competitions can be freestyle or racing around buoys and it features in the Olympics.\n\nWindsurfing sails come in many different sizes. The larger the sails are, the more human strength is needed to control them, but the more power is given to go faster. The different sizes of board affect the speed. Again, the thinner the board, the faster you will go. The range of thickness depends on the materials used. \nAnother sport similar to windsurfing is kite surfing.  All these sports have boards that range in size and price, but all need much practice to be done well. There are many sporting places around the world that people travel to just to go surfing. Some of the best places are in the west coast of the United States, Hawaii, Australia, and Indonesia.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Windsurfing"
+    },
+    {
+        "title": "Kite surfing",
+        "content": "Kite surfing or Kite boarding is a kind of water sports that uses the wind to pull a rider on the water surface on a small surfboard or a kiteboard. There are a number of different styles of kiteboarding.\nA kitesurfer or kiteboarder uses a board with or without foot-straps or bindings, combined with the power of a large controllable kite to propel the rider and the board across the water. In 2006, the number of kitesurfers has been estimated at around 150,000 to 210,000, with 114,465 inflatable kites sold that same year.  Various surfing styles have appeared to suit both kitesurfers and conditions, such as waveriding, freestyle, freeride, jumping, and cruising.\n\n\n== Notes ==",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Kite_surfing"
+    },
+    {
+        "title": "Kite surfing",
+        "content": "Kite surfing or Kite boarding is a kind of water sports that uses the wind to pull a rider on the water surface on a small surfboard or a kiteboard. There are a number of different styles of kiteboarding.\nA kitesurfer or kiteboarder uses a board with or without foot-straps or bindings, combined with the power of a large controllable kite to propel the rider and the board across the water. In 2006, the number of kitesurfers has been estimated at around 150,000 to 210,000, with 114,465 inflatable kites sold that same year.  Various surfing styles have appeared to suit both kitesurfers and conditions, such as waveriding, freestyle, freeride, jumping, and cruising.\n\n\n== Notes ==",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Kite_surfing"
+    },
+    {
+        "title": "Wrestling",
+        "content": "Wrestling is a competition in which two people try to pin the other person to the ground during matches. The people who wrestle are called wrestlers. Striking is not allowed in wrestling. Wrestlers use throws, takedowns, and trips to get their opponents down to the ground. On the ground, they use holds and pins to control their opponent. Wrestling is a popular and effective base for fighters in mixed martial arts competitions.\nWestern styles of wrestling:\n\nFreestyle\nGreco-Roman (French wrestling)\nCollegiate (folk style) (USA)International folk wrestling styles:\n\nKuresh ( Central Asia)\nGuresh (Turkey)\nSumo (Japan)\nSsireum (Korea)\nBekh (Mongolia)\nChidaoba (Georgia)\nKushti  (India)",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Wrestling"
+    },
+    {
+        "title": "Chess",
+        "content": "Chess is a board game for two players. It is played in a square board, made of 64 smaller squares, with eight squares on each side. Each player starts with sixteen pieces: eight pawns, two knights, two bishops, two rooks, one queen and one king. The goal of the game is for each player to try and checkmate the king of the opponent. Checkmate is a threat ('check') to the opposing king which no move can stop. It ends the game.During the game the two opponents take turns to move one of their pieces to a different square of the board. One player ('White') has pieces of a light color; the other player ('Black') has pieces of a dark color. There are rules about how pieces move, and about taking the opponent's pieces off the board. The player with white pieces always makes the first move. Because of this, White has a small advantage, and wins more often than Black in tournament games.Chess is popular and is often played in competitions called chess tournaments. It is enjoyed in many countries, and is a national hobby in Russia.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chess"
+    },
+    {
+        "title": "Paralympic Games",
+        "content": "The Paralympic Games are a major international sports event. People with physical disabilities compete in these games. They are called Paralympians. They include people with disabilities that affect movement, amputations, blindness, and cerebral palsy.\nThere are Winter and Summer Paralympic Games. They are held just after the Olympic Games. All Paralympic Games are governed by the International Paralympic Committee (IPC).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Paralympic_Games"
+    },
+    {
+        "title": "Motor sports",
+        "content": "Motor sports are sports where the people taking part use a motor vehicle. The usual vehicles are a car, motorcycle or boat. Some motor sports use aircraft or snowmobiles.\nMotor sports can be based either on speed (the first one to reach the finish line wins) or on skill (the one with the least amount of penalty points wins). Speed-based motor sports are often called races. Motor sports based on skill are often called trials.\nWell known motor sports are rally, Formula 1 and Nascar.",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Motor_sports"
+    },
+    {
+        "title": "Winter sport",
+        "content": "Winter sports are sports played during winter.  They often must be played on ice or snow.  The International Olympic Comittee has the Winter Olympics, which are every four years. In the Winter Olympics, people try to win at winter sports for their country. Cold countries, for example Russia, Canada and Norway, are good at winter sports.\nWinter sports include:\n\nIce skating\nSkiing\nSnowboarding\nSleighing\nBobsleighing\nIce Hockey\nBandy\nCurling\nSnowmobile",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Winter_sport"
+    },
+    {
+        "title": "Paralympic Games",
+        "content": "The Paralympic Games are a major international sports event. People with physical disabilities compete in these games. They are called Paralympians. They include people with disabilities that affect movement, amputations, blindness, and cerebral palsy.\nThere are Winter and Summer Paralympic Games. They are held just after the Olympic Games. All Paralympic Games are governed by the International Paralympic Committee (IPC).",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Paralympic_Games"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Europ\u00e4ische Union",
+        "content": "Die Europ\u00e4ische Union ist eine Gruppe vieler L\u00e4nder in Europa.\nDas kurze Wort f\u00fcr Europ\u00e4ische Union ist EU.\n\nIn der EU macht man Politik f\u00fcr die Menschen in diesen L\u00e4ndern. \nDadurch sollen alle Menschen in Europa gleich leben.\nInsgesamt leben \u00fcber 500 Millionen Menschen in der EU. \n27 L\u00e4nder geh\u00f6ren zur EU. \n\n\n\nDie EU gibt es seit dem 1. November 1993. \nGegr\u00fcndet wurde die EU von 6 L\u00e4ndern. \nAm Anfang waren 12 Staaten in der EU.\nHeute geh\u00f6ren 27 Staaten zu der EU.\nDas sind die Staaten in der EU:\nBelgien, Bulgarien, D\u00e4nemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, \u00d6sterreich, Polen, Portugal, Rum\u00e4nien, Schweden, Slowakische Republik, Slowenien, Spanien, Tschechische Republik, Ungarn, Zypern (der griechische Teil davon).\n\nJedes Land in Europa kann Mitglied in der EU werden.\nStaaten die Mitglied werden wollen,\nm\u00fcssen verschiedene Sachen haben.\nZum Beispiel:\nsie m\u00fcssen eine Demokratie haben, sie m\u00fcssen eine stabile Wirtschaft haben.\n\nManche Staaten in der EU haben das gleiche Geld.\nManche sagen dazu W\u00e4hrung.\nDie W\u00e4hrung hei\u00dft Euro.\n\nDie EU hat ein eigenes politisches System. \nGesetze die von der EU gemacht werden, \ngelten f\u00fcr alle L\u00e4nder der EU.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Europ%C3%A4ische_Union"
+    },
+    {
+        "title": "Regierung",
+        "content": "Eine Regierung leitet einen Staat. \nDie Regierung ist eine Gruppe von Personen. \nDas sind die Politiker. Diese Politiker sind Minister.\n\nDie Chefin der Gruppe hei\u00dft Bundeskanzlerin oder Ministerpr\u00e4sidentin.\n\n\n\nDie Politiker der Regierung treffen sich regelm\u00e4\u00dfig in Sitzungen\nIn diesen Sitzungen sprechen sie \u00fcber Innenpolitik und Aussenpolitik. \n\nDer Bundeskanzler und seine Minister sind die Regierung von Deutschland. \n\nDie Regierung in einem Land hei\u00dft Landes-Regierung.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Regierung"
+    },
+    {
+        "title": "Landesregierung",
+        "content": "",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Landesregierung"
+    },
+    {
+        "title": "Innenpolitik",
+        "content": "Innenpolitik ist eine bestimmte Art von Politik. \nBei der Innenpolitik geht es um Dinge die im eigenen Land passieren. \nPolitiker treffen f\u00fcr das eigene Land Entscheidungen.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Innenpolitik"
+    },
+    {
+        "title": "Au\u00dfenpolitik",
+        "content": "Au\u00dfenpolitik ist eine bestimmte Art von Politik. \nBei der Au\u00dfenpolitik geht es um die Beziehung zwischen dem eigenen Land und anderen L\u00e4ndern.\nZum Beispiel geht es bei der Au\u00dfenpolitik um Themen zwischen Deutschland und Frankreich. \nDie Politiker in der Politik m\u00fcssen sich um viele Dinge k\u00fcmmern. \nAu\u00dfenpolitik ist wichtig, damit Absprachen mit anderen L\u00e4ndern getroffen werden. \n\nDer Au\u00dfenminister der Bundesregierung ist f\u00fcr Au\u00dfenpolitik zust\u00e4ndig. \nDer Au\u00dfenminister hei\u00dft Heiko Maas. \n\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Au%C3%9Fenpolitik"
+    },
+    {
+        "title": "Demokratie",
+        "content": "Das Wort Demokratie ist griechisch.\nEs hei\u00dft auf deutsch: \"Herrschaft des Volkes\"\n\nDemokratie ist eine Staats\u00b7ordnung.\nEine Ordnung die sagt, wer in einem Staat bestimmen darf.\nZum Beispiel sagt die Ordnung wer Gesetze machen darf.\nIn einer Demokratie bestimmt das Volk.\n\nDas Volk w\u00e4hlt Vertreter.\n\nMeistens gibt es in einer Demokratie Parteien.\nDie Menschen, die gew\u00e4hlt werden sind meistens in einer Partei.\n\nIn Deutschland gibt es viele verschiedene Parteien.\nDie gr\u00f6\u00dften Parteien in Deutschland sind zum Beispiel:\ndie CDU,, die SPD,, Die Gr\u00fcnen,, die AFD,, Die Linke, FDP., die \u00d6DP.\n\nDie Parteien sagen vor der Wahl, was sie machen wollen.\nEs gibt auch andere Staats\u00b7formen.\nZum Beispiel:\nDiktatur, Monarchie.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Demokratie"
+    },
+    {
+        "title": "Vereinte Nationen",
+        "content": "Die Vereinte Nationen sind 193 L\u00e4nder. \nAlle L\u00e4nder arbeiten zusammen. \n\nDer Zusammen\u00b7arbeit hat diese 3 wichtigen Haupt\u00b7ziele:\nes soll Welt\u00b7frieden geben, alle Menschen sollen die gleichen Rechte haben, alle Menschen sollen gerecht und fair behandelt werden.\n\n\n\nViele Menschen und L\u00e4nder haben Streit. \nManchmal ist der Streit sehr gro\u00df und es gibt deswegen Krieg. \n\nDie Vereinten Nationen sollen helfen das es kein Krieg gibt. \nUnd das Streit zwischen L\u00e4ndern und Menschen friedlich gel\u00f6st wird. \n\nZu den Vereinten Nationen geh\u00f6ren 193 L\u00e4nder. \nDie Vereinten Nationen gibt es seit dem 26. Juni 1945.  \nDie Zentrale der Vereinten Nationen ist in New York, USA.\n\nDas kurze Wort f\u00fcr die Vereinten nationen ist: UNO.\nDas ist die englische Abk\u00fcrzung f\u00fcr: United Nations Organization\n\nDie UNO hat viele Unter\u00b7organisationen. \nZum Beispiel:\ndie General\u00b7versammlung, der Sicherheits\u00b7rat, die UNICEF, die UNESCO, die UNDRO.\n\nEin Land kann Vertreter zu Versammlung schicken. \nBei den Versammlungen darf jeder seine Meinung sagen.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Vereinte_Nationen"
+    },
+    {
+        "title": "Politische Partei",
+        "content": "Wenn viele Leute politisch dieselbe Meinung haben, \ntun sie sich zusammen. \nSie gr\u00fcnden eine Politische Partei.\n\nDas kurze Wort f\u00fcr Politische Partei ist: Partei. \nDie meisten Menschen benutzen nur das kurze Wort: Partei. \n\nViele Politiker geh\u00f6ren zu einer Partei. \nEine Partei hat gemeinsame Ziele. \nDie Menschen von einer Partei arbeiten gemeinsam an einer Sache.\nDie Politiker versuchen die Meinungen von der Partei zu erkl\u00e4ren und zu vertreten. \n\n\n\nPartei-Mitglieder arbeiten gemeinsam, \num ihre Ziele zu erreichen.\nWer auch so denkt, \nkann die Partei w\u00e4hlen.\nOder in die Partei eintreten und Mitglied von einer Partei werden.\nWer eine Partei gr\u00fcnden m\u00f6chte,\nmuss Regeln einhalten. \n\nEine Partei schreibt ihre Ziele und ihre Ideen auf. \nSie machen daraus ein Partei\u00b7programm. \nDurch den Text vom Partei\u00b7programm \nkann man Informationen \u00fcber eine Partei bekommen. \nMan kann nach\u00b7lesen was die Partei will. \nUnd gegen was die Partei ist. \nUnd welche Sachen die Partei falsch findet. \nMit dem Partei\u00b7programm kann man herausfinden, \nob die Partei die gleichen Ziele und Meinungen wie man selber hat. \n\nIn Deutschland gibt es viele Parteien. \nSie haben verschiedene Meinungen.\nUnd verschiedene Ziele. \nDie gr\u00f6\u00dften Parteien von Deutschland sind:\nCDU, FDP, Die Linke, SPD, Piraten Partei, Die Gr\u00fcnen, AFD.\n\nEine Partei kann man zum Beispiel bei der Bundes\u00b7tags\u00b7wahl oder Land\u00b7tags\u00b7wahl w\u00e4hlen.\nManchmal m\u00fcssen die Parteien zusammen arbeiten. \nZum Beispiel nach einer Wahl. \nWeil mehrere Parteien viele Stimmen bekommen haben.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Politische_Partei"
+    },
+    {
+        "title": "Parteigr\u00fcndung",
+        "content": "Eine Parteigr\u00fcndung ist der Anfang von einer Partei. \nMenschen mit gleichen Meinungen zur Politik kommen zusammen.\nSie m\u00f6chte zusammen in der Politik arbeiten. \nDaf\u00fcr machen sie eine Partei\u00b7gr\u00fcndung. \n\n\n\nUm eine eigene Partei zu gr\u00fcnden muss man sich an Gesetze halten. \nEs gibt unterschiedliche Gesetze in verschiedenen L\u00e4ndern. \nIn Deutschland steht alles wichtige zur Partei\u00b7gr\u00fcndung im Parteien\u00b7gesetz. \n\nJeder darf eine Partei gr\u00fcnden wenn: \ndie meisten Mitglieder eine Deutsche Staats\u00b7angeh\u00f6rigkeit haben, die Mitglieder m\u00fcssen im Bundes\u00b7tag oder im Land\u00b7tag mit\u00b7machen wollen, die Mitglieder m\u00f6chten politische Arbeit machen, es m\u00fcssen mindestens 600 Mitglieder bei der Partei mit\u00b7machen, die Mitglieder m\u00fcssen aus ganz Deutschland kommen (sie d\u00fcrfen nicht nur aus einem Dorf oder einer Stadt kommen).\n\nDer Chef von einer Partei muss dem Bundes\u00b7wahl\u00b7leiter diese Sachen schicken:\ndie Satzung der Partei, das Programm der Partei, die Namen der Chefs, das Protokoll der Partei\u00b7gr\u00fcndung (wie die Partei gew\u00e4hlt wurde).\n\nDer Bundes\u00b7wahl\u00b7leiter pr\u00fcft ob alles richtig ist. \nSeit dem 2. Oktober 2015 ist Dieter Sarreither Bundes\u00b7wahl\u00b7leiter. \n\nWenn alles stimmt und richtig ist, \ndarf die Partei an Wahlen mit\u00b7machen. \nDabei m\u00fcssen sie das Bundes\u00b7wahl\u00b7gesetz\u00a0einhalten. \nDie Partei die \u00fcber lange Zeit nicht an Wahlen mit\u00b7macht,\ndarf keine Partei mehr sein.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Parteigr%C3%BCndung"
+    },
+    {
+        "title": "Wahl",
+        "content": "Eine Wahl ist eine Entscheidung in der Politik. \nWir alle entscheiden durch Wahlen mit. \nDabei w\u00e4hlen wir die Vertreter. \nWelche Politiker sollen f\u00fcr uns arbeiten.\n\n\n\nIn der Politik gibt es viele Wahlen. \nBeispiele:\nLandtagswahl, Bundestagswahl, Kommunalwahl, B\u00fcrgermeisterwahl.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Wahl"
+    },
+    {
+        "title": "Politiker",
+        "content": "Ein Politiker oder eine Politikerin ist jemand, der oder die in der Politik arbeitet.\nPolitiker vertreten die B\u00fcrger.\nDie B\u00fcrger w\u00e4hlen die Politiker.\n\nPolitiker sollen die Meinung vieler Menschen vertreten.\nPolitiker entscheiden viele wichtige Dinge.\nSie machen zum Beispiel Gesetze.\n\nPolitiker die eine gleiche Meinungen haben, schlie\u00dfen sich zusammen.\nDas nennt man eine Partei.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Politiker"
+    },
+    {
+        "title": "Ronald Reagan",
+        "content": "Ronald Reagan war ein Schauspieler.\nUnd er war ein Politiker.\nEr war der Pr\u00e4sident der Vereinigten Staaten.\nDas war vom Jahr 1981 bis zum Jahr 1989.\nReagan war Mitglied der Demokratischen Partei.\nIm Jahr 1962 wechselte er in der Republikanischen Partei.\n\n\n\nRonald Reagan wurde am 6. Februar 1911 geboren.\nEr wurde in Tampico, USA geboren.\nEr starb am 5. Juni 2004.\nEr starb in seinem Haus in Bel Air, Los Angeles, Kalifornien.\nEr war 94 Jahre alt.\n\nIn der High School nahm er Schauspiel\u00b7unterricht.\nReagan war sportlich.\nEr wurde ein Rettungs\u00b7schwimmer.\nEr rettete 77 Leben.\n\nIm Jahr 1932 hat er seinen Abschluss am College gemacht.\n\nRonald Reagan wurde Schauspieler.\nIm Jahr 1937 war er in seinem ersten Film.\nSeitdem war er in \u00fcber 80 Filmen.\n\nm Jahr 1941 wurde er der Pr\u00e4sident der Schauspieler Gewerkschaft.\nW\u00e4hrend dieser Zeit war er auch ein geheimer FBI Spion.\nEr hat dem FBI Namen von Schauspielern gegeben.\nVon denen er glaubte, dass sie Kommunisten sind.\n\nAb dem Jahr 1967 bis zum Jahr 1975 war er der Gouverneur von Kalifornien.\nAb dem Jahr 1981 bis zum Jahr 1989 war er der Pr\u00e4sident der Vereinigten Staaten.\n\nIm Jahr 1994 haben \u00c4rzte gesagt:\nRonald Reagan hat die Alzheimer Krankheit.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Ronald_Reagan"
+    },
+    {
+        "title": "Gewerkschaft",
+        "content": "Eine Gewerkschaft ist eine Art Verein.\nDie Gewerkschaft redet mit Firmenchefs.\nZum Beispiel \u00fcber den Lohn.\nOft wird gesagt: Die Gewerkschaft vertritt die Interessen der Arbeitnehmerinnen.\n\nGewerkschaften gibt es seit ungef\u00e4hr 130 Jahren.\nBevor es Gewerkschaften gab, ging es den Arbeiterinnen und Arbeitern schlecht.\n\nZum Beispiel:\n- Arbeiterinnen und Arbeiter konnte der Chef ohne Grund k\u00fcndigen.\n- Der Chef konnte jedem Arbeiter soviel oder so wenig Geld geben wie er wollte\n- Die Arbeiterinnen mussten sehr lange arbeiten.\n- Oft gab es keine Pausen.\n- Viele Arbeiten waren sehr gef\u00e4hrlich. Viele Menschen sind bei der Arbeit verungl\u00fcckt.\n- Wer krank wurde, bekam kein Geld.\n- Auch Kinder und Schwangere mussten arbeiten.\n\nDie Arbeiterinnen und Arbeiter haben sich zusammen getan.\nSie konnten dann den Chefs mit Streik drohen.\nDas hei\u00dft: Niemand kommt zur Arbeit.\n\nDie Gewerkschaften sprechen mit den Chefs \n\u00fcber die Arbeitsbedingungen.\n\nZum Beispiel:\n- \u00fcber die Arbeitszeit. Wie lange soll gearbeitet werden.\n- \u00fcber den Urlaub\n- wie viel die Arbeiterinnen und Arbeiter in der Firma mitbestimmen d\u00fcrfen\n- f\u00fcr gleiche Arbeit soll es gleiches Geld geben\n\nF\u00fcr verschiedenen Berufe, gibt es verschiedene Gewerkschaften.\n\nZum Beispiel:\nF\u00fcr Arbeiterinnen die mit Metall arbeiten,\ngibt es die IG Metall.\n\nF\u00fcr Arbeiterinnen die eine Dienstleistung machen,\ngibt es ver.di.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Gewerkschaft"
+    },
+    {
+        "title": "Chef",
+        "content": "Ein Chef ist im Betrieb der Vorgesetzte oder Verantwortliche.\n\nMeistens ist der Chef der Besitzer und steht im Betrieb in der Rangfolge\n\u00fcber einem. \nIn gro\u00dfen Firmen ist der Chef nicht unbedingt der Besitzer.\nEr kontrolliert die Arbeit. \nWenn man etwas falsch gemacht hat bei der Arbeit,\nmuss man zum Chef.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Chef"
+    },
+    {
+        "title": "Streik",
+        "content": "Wenn viele Arbeiter aus Protest nicht mehr arbeiten,\nsagt man dazu: Streik\n\nDas Wort Streik kommt aus der englischen Sprache.\nDas englische Wort hei\u00dft: strike\nAuf deutsch hei\u00dft das: Schlag oder Streich\n\nJeder Arbeiter darf streiken.\nNicht mehr arbeiten, weil man zum Beispiel\nkeine Lust dazu hat,\nist kein Streik.\n\nEine Gewerkschaft organisiert einen Streik.\nDie Chefs einer Firma sprechen mit der Gewerkschaft.\nWieviel Geld sollen die Arbeiter bekommen.\nDas schreiben sie dann in einen Tarifvertrag\n\nGibt es keine Einigung zwischen den Chefs und der Gewerkschaft,\nsagt die Gewerkschaft: Wir streiken jetzt.\n\nHaupst\u00e4chlich sagt man das Wort Streik\nwenn man von Arbeit redet.\n\nManchmal wird das Wort Streik auch f\u00fcr andere Themen benutzt.\nZum Beispiel gibt es auch\nSitzstreik, Hungerstreik.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Streik"
+    },
+    {
+        "title": "Euro",
+        "content": "Der Euro ist eine W\u00e4hrung. \nW\u00e4hrung ist Geld das man in einem Land benutzt um zu bezahlen. \nEs gibt M\u00fcnzen und Geld\u00b7scheine. \n\nDas ist das Zeichen f\u00fcr Euro: \u20ac\n\nVom Euro gibt es 8 verschiedenen M\u00fcnzen und 7 verschiedenen Geld\u00b7scheine. \n\nDer Euro ist eine der wichtigsten W\u00e4hrungen in der Welt. \n\nEuro gibt es in der Europ\u00e4ischen Union.\nGenauer:\nEuro gibt es in 15 L\u00e4ndern. \nDas ist die Eurozone. \n\nDie W\u00e4hrung Euro gibt es seit dem 1. Januar 1999.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Euro"
+    },
+    {
+        "title": "W\u00e4hrung",
+        "content": "Das Geld eines Landes hei\u00dft W\u00e4hrung.\nVerschiedene L\u00e4nder haben verschiedene W\u00e4hrungen.\nViele L\u00e4nder in Europa haben den Euro.\n\n\n\nDas Geld in vielen L\u00e4ndern in Europa hei\u00dft Euro.\nDiese L\u00e4nder hei\u00dfen Euro-L\u00e4nder.\nDas sind zum Beispiel:\nDeutschland, Spanien, \u00d6sterreich, Tschechien, Frankreich.\n\nIn diesen Euro-L\u00e4ndern kann man mit dem gleichen Geld bezahlen.\nIn manchen L\u00e4ndern gibt es anderes Geld.\nIn Ungarn zahlen die Menschen mit dem Forint.\nIn der Schweiz zahlen die Menschen mit dem Franken.\nIn Amerika zahlen die Menschen mit dem US-Dollar.\n\nZum Beispiel: Man kann in Ungarn nicht mit Euro bezahlen.\nMan muss das Geld umtauschen.\nManche sagen dazu auch wechseln.\nMan muss das Geld umrechnen.\nDaf\u00fcr gibt es den Wechsel\u00b7kurs.\n\nDenn mit einem ungarischen Forint kann man nicht so viel kaufen wie mit einem Euro.\nDeswegen ist eine gemeinsame W\u00e4hrung sehr praktisch.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/W%C3%A4hrung"
+    },
+    {
+        "title": "US-Dollar",
+        "content": "Der US-Dollar ist eine W\u00e4hrung.\nW\u00e4hrung ist Geld, das man in einem Land benutzt um zu bezahlen.\nEs gibt M\u00fcnzen und Geld\u00b7scheine. \nUS-Dollar ist die W\u00e4hrung in den USA.\n\n\nDas ist das Zeichen f\u00fcr Dollar: $\nAlle Dollar-Scheine sind gleich gro\u00df.\nAlle Dollar-Scheine haben die gleiche Farbe.\nMan kann die Scheine leicht verwechseln.\n\nDiese Dollar-Scheine gibt es:\n1-Dollar-Scheine, 2-Dollar-Scheine, 5-Dollar-Scheine, 10-Dollar-Scheine, 20-Dollar-Scheine, 50-Dollar-Scheine, 100-Dollar-Scheine.\nDen 2-$-Schein gibt es nur sehr selten.\n\nSeit M\u00e4rz 2006 gibt es einen neuen 10-Dollar-Schein.\nUnd seit 2003 bzw. 2004 neue 20- und 50-Dollar-Noten.\nDie neuen Scheine sind schwer zu f\u00e4lschen.\n\nSeit dem Jahr 1775 gibt es Geld\u00b7scheine in den USA.\nIm Jahr 1775 gab es auch die Unabh\u00e4ngigkeits\u00b7erkl\u00e4rung. \n\nAuf den Scheinen ist vorne ein Bild.\nDas Bild ist von einer ber\u00fchmten Person.\nAuf der R\u00fcck\u00b7seite sind Symbole oder Geb\u00e4ude.\n\nDer bekannteste Schein ist der Ein Dollar.\nGeorge Washington ist darauf abgebildet.\nEr war der erste Pr\u00e4sident der USA.\n\nEs gibt auch M\u00fcnzen.\nDiese M\u00fcnzen gibt es:\n1 Cent \u2013 Amerikaner sagen dazu: Penny, 5 Cent \u2013 Amerikaner sagen dazu: Nickel, 10 Cent \u2013 Amerikaner sagen dazu: Dime, 25 Cent \u2013 Amerikaner sagen dazu: Quarter, 50 Cent \u2013 Amerikaner sagen dazu: Half Dollar, 1 Dollar \u2013 Amerikaner sagen dazu: Dollar.\n\nDie Quarter verwendet man meistens f\u00fcr Telefon\u00b7zellen.\n\n[[Kategorie:Geld]\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/US-Dollar"
+    },
+    {
+        "title": "Geld",
+        "content": "Geld gibt es als M\u00fcnzen.\nUnd Geld gibt es als Scheine.\nUnd Geld gibt es auf dem Bank\u00b7konto.\nGeld benutzt man um etwas zu kaufen oder etwas zu bezahlen. \n\nEs gibt M\u00fcnz\u00b7geld und Papier\u00b7geld. \nDazu sagt man M\u00fcnzen und Geld\u00b7scheine. \n\nBuchgeld ist Geld, das auf einem Bankkonto ist. \n\nEs gibt auch noch Elektronisches Geld. \nZum Beispiel wenn man mit einer Geld\u00b7karte etwas kauft.  \n\nDie meisten L\u00e4nder haben ihr eigenes Geld. \nDas ist die W\u00e4hrung von einem Land.\n\nDer Staat hat die Aufgabe sich um das Geld zu k\u00fcmmern. \nMeistens gibt der Staat diese Aufgabe an eine Zentralbank weiter.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Geld"
+    },
+    {
+        "title": "Bankkonto",
+        "content": "Auf einem Bank\u00b7konto ist Geld. \nDie Bank k\u00fcmmert sich um das Bank\u00b7konto. \nDas macht sie f\u00fcr die Kunden.\n\nEs gibt verschiedene Arten von Bank\u00b7konten.\nZum Beispiel:\nGiro\u00b7konto, Spar\u00b7konto, Tages\u00b7geld\u00b7konto.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Bankkonto"
+    },
+    {
+        "title": "Bank (Geld)",
+        "content": "Eine Bank ist eine Firma.\nEine Bank arbeitet mit Geld.\nDie Bank arbeitet f\u00fcr ihre Kunden. \nDie Kunden k\u00f6nnen ihr Geld bei der Bank haben.\nDie Kunden k\u00f6nnen ein Konto bei der Bank haben.\n\n\nDie Bank macht verschiedene Sachen f\u00fcr die Kunden.\nZum Beispiel:\nein Konto f\u00fchren, \u00dcberweisungen auf ein anderes Konto, \u00dcberweisungen empfangen, Dauer\u00b7auftr\u00e4ge, Kredite vergeben, Geld auszahlen.\nF\u00fcr die Sachen, will die Bank Geld.\nDie Bank sagt dazu: Geb\u00fchren.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Bank_(Geld)"
+    },
+    {
+        "title": "Bankgeb\u00fchren",
+        "content": "Eine Bank\u00b7geb\u00fchr ist Geld.\nDas Geld muss der Kunde an die Bank zahlen.\nImmer wenn die Bank was f\u00fcr den Kunden macht.\nZum Beispiel f\u00fcr eine \u00dcberweisung.\n\n\nEine Bank arbeitet f\u00fcr den Kunden.\nF\u00fcr manche Sachen will die Bank Geld.\nDas ist die Bank\u00b7geb\u00fchr.\nManche Sachen macht die Bank auch kostenlos.\nDas ist bei jeder Bank anders.\n\nBeispiele f\u00fcr Bank\u00b7geb\u00fchren:\nZum Beispiel:\nKonto\u00b7f\u00fchrungs\u00b7geb\u00fchr, f\u00fcr \u00dcberweisungen, f\u00fcr einen Dauer\u00b7auftrag, wenn man Geld vom Geld\u00b7automat holt.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Bankgeb%C3%BChren"
+    },
+    {
+        "title": "Bankautomat",
+        "content": "Ein Bankautomat ist eine Maschine. \nAn dieser Maschine kann man mit seiner Plastikkarte Geld bekommen.  \nDazu sagt man Geld \"abheben\", weil das Geld dann vom Bankkonto abgezogen wird.\nWenn man mit mit einer EC-Karte Geld am Bankautomat abhebt bekommt man Geldscheine.     \n\n\n\nUm Geld zu bekommen muss man seine Plastikkarte in den Bankautomat stecken. \nDann muss man seine Geheimzahl eingeben. \nDanach kann man sich aussuchen wieviel Geld man haben m\u00f6chte. \nDann kommt das Geld und die Plastikkarte aus dem Bankautomat. \nWenn man m\u00f6chte bekommt man eine Quittung. \nDas ganze nennt man Transaktion. \n\nAn einem Bankautomat kann man sehr viel machen. \nMan kann seinen Kontostand sehen. \nAn bestimmten Bankautomaten kann man auch seine SIM-Karte vom Handy aufladen. \nEs gibt auch Bankautomaten an denen man Geld einzahlen kann. \nDiese nennt man Geldeinzahlungsautomat. \n\nBankautomaten stehen in sehr vielen L\u00e4ndern.   \nIn \u00d6sterreich heisst der Bankautomat \"Bankomat\". \nIn der Schweiz nennt man ihn \"Bancomat\". \nIn den USA heisst der Bankautomat \"ATM\". \nDas ist die Abk\u00fcrzung f\u00fcr \"Automated Teller Machine\". \n\n\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Bankautomat"
+    },
+    {
+        "title": "Geheimzahl",
+        "content": "Eine Kontokarte hat eine Geheimzahl.\nDie Geheimzahl hat vier Nummern. \nEs ist wichtig, sie von der Kontokarte getrennt zu haben. Das ist so, weil sonst jeder, der die Geldb\u00f6rse findet das Konto ganz leicht leer r\u00e4umen kann.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Geheimzahl"
+    },
+    {
+        "title": "Apple",
+        "content": "Apple ist der Name einer Computer-Firma.\nDie Firma verkauft Hardware und Software.\n\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Apple"
+    },
+    {
+        "title": "Girokonto",
+        "content": "Ein Giro\u00b7konto ist eine bestimmt Art von Bank\u00b7konto.\nMit dem Giro\u00b7konto kann man verschiedene Sachen machen.\nZum Beispiel:\nden Arbeits\u00b7lohn bekommen, die Miete bezahlen, Geld vom Bank\u00b7automaten holen.\n\nJedes Konto hat 2 Nummern.\nDie Nummern hei\u00dfen IBAN und BIC.\n\nDie IBAN ist die Konto\u00b7nummer.\nJeder Kunde hat eine eigene IBAN.\nDie IBAN braucht man f\u00fcr \u00dcberweisungen.\n\nDie BIC ist die Bank\u00b7leit\u00b7zahl.\nJede Bank hat eine eigene BIC.\n\nDie IBAN und die BIC stehen auf der R\u00fcck\u00b7seite von der Giro\u00b7karte.\nManche sagen zu der Giro\u00b7karte auch EC-Karte.\n\nDie IBAN und die BIC stehen auch auf dem Konto\u00b7auszug.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Girokonto"
+    },
+    {
+        "title": "Geldkarte",
+        "content": "Eine Geldkarte ist eine kleine Karte aus Plastik. \nSie sieht so \u00e4hnlich aus wie eine EC-Karte. \nMit einer Geldkarte kann man Sachen kaufen. \nZum Beispiel Briefmarken bei der Post. \nMan braucht zum bezahlen dann keine Geldscheinen und M\u00fcnzen. \nMan sagt dazu auch Bargeldloses bezahlen.   \n\nMan kauft mit der Geldkarte meist kleine Sachen ein, die zwischen 0,10 Euro und 3,00 Euro kosten. \n\nWenn man etwas mit der Geldkarte bezahlen m\u00f6chte, schiebt man die Geldkarte in den Verkaufsautomaten des Verk\u00e4ufers rein. \nSo einen Verkausautomat nennt man Kartenleseger\u00e4t.\nIn diesem Automat wird das Geld dann elektronisch von der Geldkarte abgezogen und auf das Konto des Verk\u00e4ufers geladen. \n\nMan muss die Geldkarte immer wieder aufladen. \nDas heisst, man muss Geldscheine und M\u00fcnzen darauf speichern. \nAufladen kann man die Geldkarte an einem Geldautomaten. \nDas Geld wird dann von dem eigenen Bankkonto abgezogen.\nMan kann die Geldkarte auch an einem Bankschalter aufladen. \nDas macht man dann mit Geldscheinen oder M\u00fcnzen. \n200 Euro kann man h\u00f6chstens auf eine Geldkarte machen.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Geldkarte"
+    },
+    {
+        "title": "Pr\u00e4sident",
+        "content": "Pr\u00e4sident gibt es in verschiedenen Bedeutungen.\n\n\n\nDas Wort Pr\u00e4sident kommt aus dem Lateinischen.\nEs bedeutet Vorsitzender\n\nEs gibt viele Arten von Pr\u00e4sidenten\nZum Beispiel:\nEin Pr\u00e4sident, der ein Land regiert..\nIn Deutschland nennt man ihn Bundespr\u00e4sident\nGerichtspr\u00e4sidenten, Polizeipr\u00e4sidenten, Bundestagspr\u00e4sidenten..\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Pr%C3%A4sident"
+    },
+    {
+        "title": "Kon\u00adkla\u00adve",
+        "content": "Das Kon\u00adkla\u00adve ist der Name einer Versammlung.\nBei dieser Versammlung,\nkommen Kardin\u00e4le zusammen.\nDiese Kardin\u00e4le w\u00e4hlen den Papst.\n\n\nDie Konklave gibt es, wenn:\nDer Papst stirbt oder\nder Papst von seinem Amt zur\u00fccktritt.\nDann treffen sich die Kardin\u00e4le.\nSie machen eine Wahlversammlung um einen neuen Papst zu w\u00e4hlen.\nDiese Versammlung hei\u00dft: Konklave.\n\nKonklave hei\u00dft auch der Ort der Wahlversammlung.\nDie Versammlung ist in der Sixtinischen Kapelle in der Vatikanstadt.\nDie Kardin\u00e4le schlie\u00dfen sich dort ein.\n\nDas Wort Konklave kommt aus der lateinischen Sprache.\nFrei \u00fcbersetzt hei\u00dft das Wort: verschlie\u00dfbares Gemach.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kon%C2%ADkla%C2%ADve"
+    },
+    {
+        "title": "Amnesty International",
+        "content": "Amnesty International ist eine Organisation. \nDie Leute von Amnesty International helfen Menschen auf der ganzen Welt. \n\nAmnesty International setzt sich f\u00fcr Menschenrechte ein. \nSie helfen Menschen, die sich selber nicht helfen k\u00f6nnen. \nZum Beispiel wenn Menschen ins Gef\u00e4ngnis kommen, weil sie an eine bestimmte Religion glauben.  \n\nAmnesty International m\u00f6chte, dass es keine Todesstrafe mehr gibt. \n\nJedes Jahr gibt es einen Bericht. \nIn diesem Bericht steht wo auf der Welt Menschenrechte nicht beachtet werden. \n\nPeter Benenson hat Amnesty International gegr\u00fcndet.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Amnesty_International"
+    },
+    {
+        "title": "Opposition",
+        "content": "Das Wort Opposition kommt aus der lateinischen Sprache.\nAuf deutsch hei\u00dft Opposition: im Gegensatz zu etwas stehen.\nWenn viele einer Meinung sind und \nein paar weniger einer anderen Meinung haben,\ndann ist die kleinere Gruppe die Opposition \n\nBeispiel:\nIm Bundestag sitzen die Mitglieder von verschiedenen Parteien.\nIm Bundestag sind auch die Mitglieder Regierungs-partei.\nDie anderen Parteien sind die Opposition.\n\nDie Opposition kontrolliert die Regierung.\nDie Opposition sagt der Regierung ihre Meinung.\nZu dieser Art von Opposition sagt man: \nParlamentarische Opposition.\n\nEs gibt auch eine au\u00dferparlamentarische Opposition.\nDamit sind B\u00fcrger gemeint,\ndie eine andere Meinung haben als die Regierung.\nDiese B\u00fcrger sagen ihre Meinung \u00f6ffentlich.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Opposition"
+    },
+    {
+        "title": "Black Friday",
+        "content": "Black Friday ist ein Einkaufs\u00b7tag. \nEr ist jedes Jahr im November. \nImmer an einem Freitag. \nUnd immer nach Thanks\u00b7giving.\n\n\nBlack Friday ist ein Einkaufs\u00b7tag. \nMan bekommt am Black Friday alles billiger. \nMan kann f\u00fcr wenig Geld mehr ein\u00b7kaufen. \n\nDie Weihnachts\u00b7einkaufs\u00b7tage fangen mit Black Friday an. \nViele Menschen machen am Black Friday einen Fenster\u00b7tag. \nDamit sie Zeit zum Einkaufen haben. \n\nDie Gesch\u00e4fte verdienen am Black Friday mehr Geld. \nWeil mehr Leute Sachen einkaufen. \n\nBlack Friday sind englische W\u00f6rter. \nBlack Friday hei\u00dft auf Deutsch Schwarzer Freitag.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Black_Friday"
+    },
+    {
+        "title": "Petition",
+        "content": "Petition ist ein anderes Wort f\u00fcr Bitte oder Beschwerde.  \nJeder in Deutschland darf sich \u00fcber etwas beschweren oder um etwas bitten. \nWenn man sich \u00fcber etwas beschweren oder um etwas bitten m\u00f6chte, muss man das schriftlich machen.\nDie Bitte oder die Beschwerde schreibt man dann zum Beispiel an eine Beh\u00f6rde oder die Bundesregierung. \n\n\n\nDie meisten die eine Petition schreiben m\u00f6chten das ein Gesetz neu gemacht oder ge\u00e4ndert wird.  \nJeder in Deutschland hat das Recht eine Petition zu schreiben. Das steht im Artikel 17 des Grundgesetzes. \nDerjenige, der die Petition bekommt, zum Beispiel die Bundesregierung oder eine Beh\u00f6rde, muss sie anschauen und beantworten. \nDie Bundesregierung oder die Beh\u00f6rden m\u00fcssen die Bitte oder die Beschwerde, die in der Petition steht, aber nicht erf\u00fcllen. \nIm Bundestag gibt es Petitionsaussch\u00fcsse. \nDer Petitionsausschuss schaut sich die Petitionen genau an und antworten darauf.  \nMan kann eine Petition auch im Internet schreiben. Dazu sagt man Online-Petition. \nWenn ein anderer eine Petition von jemand gut findet, kann er diese unterst\u00fctzen und dar\u00fcber sprechen. \nMan kann mithelfen. Dazu muss man seinen Namen und seine Adresse mit auf die Petition schreiben. \nPetition ist lateinischen und heisst \"das Ersuchen\".\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Petition"
+    },
+    {
+        "title": "Gesetz (Politik)",
+        "content": "Ein Gesetz ist eine Regel oder eine Vorschrift. \nIn den Gesetzen stehen Regeln f\u00fcr das Zusammen\u00b7leben. \nDiese Regeln und Vorschriften macht der deutsche Staat. \n\nGesetze stehen in einem Gesetzbuch. \nAn diese Gesetze soll man sich halten, \ndamit alle Menschen friedlich zusammenleben k\u00f6nnen. \n\nDie Gesetze in Deutschland macht die Bundesregierung, der Bundestag und der Bundesrat.  \nDie Politiker sagen zu den Regeln und Vorschriften, die in den Gesetzb\u00fcchern stehen, Verbot und Gebot.\n\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Gesetz_(Politik)"
+    },
+    {
+        "title": "Politik",
+        "content": "Politik ist:\nWenn sich Menschen treffen und \nsagen wie sie zusammen leben wollen.\nOder\nPolitik ist alles was das Zusammenleben der Menschen regelt.\n\nDas Wort Politik kommt aus der griechischen Sprache.\nZu St\u00e4dten, die sich selber verwalteten,\nsagte man im antiken Griechenland: polis.\n\nEs gibt verschiedene Arten von Politik.\nWenn es zum Beispiel um ein bestimmtes Thema geht:\nAgrarpolitik, Au\u00dfenpolitik, Bildungspolitik, Familienpolitik, Gesundheitspolitik, Innenpolitik, Netzpolitik, Sozialpolitik, Umweltpolitik, Weltpolitik, Wirtschaftspolitik.\n\nManche sagen das Wort Politik auch bei anderen Sachen.\nZum Beispiel:\nEine Firma hat bestimmte Regeln.\nDie Firma sagt: \nWir stellen nur Menschen ein,\ndie einen F\u00fchrerschein haben.\nDann ist das die Politk der Firma.\nOder:\ndie Firmenpolitik, die Personalpolitik.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Politik"
+    },
+    {
+        "title": "Crowdfunding",
+        "content": "Crowdfunding hei\u00dft:\nViele Leute geben Geld.\nGeld f\u00fcr ein Projekt oder ein Produkt.\nMit dem Geld soll dann das Produkt gemacht werden.\n\n\n\nBeispiel:\nPeter hat eine Idee.\nEr will eine K\u00fcchen\u00b7waage aus Metall bauen.\nEr will viele hundert St\u00fcck bauen.\nUnd die K\u00fcchen\u00b7waagen dann verkaufen.\nPeter braucht Geld.\nUm die K\u00fcchen\u00b7waagen zu bauen.\nEr macht ein Crowdfunding Projekt.\nPeter erz\u00e4hlt dort anderen von seiner Idee.\nManchen gef\u00e4llt die Idee.\nSie geben Peter Geld.\nWenn Peter genug Geld gesammelt hat,\nkann er die K\u00fcchen\u00b7waagen bauen.\nAlle die Peter Geld gegeben haben,\nbekommen als Belohnung eine K\u00fcchen\u00b7waage.\n\nF\u00fcr Crowdfunding gibt es verschiedene Internet\u00b7seiten.\nBekannte Internet\u00b7seiten sind:\nKickstarter, Indiegogo.\n\nCrowdfunding kommt aus der englischen Sprache.\nIm Wort sind 2 W\u00f6rter.\nCrowd und Funding.\nCrowd hei\u00dft: Menschen\u00b7menge\nFunding hei\u00dft: Finanzierung\n\nCrowdfunding sagt man so: Kraut\u00b7fanding\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Crowdfunding"
+    },
+    {
+        "title": "Europ\u00e4isches Parlament",
+        "content": "Das Europ\u00e4ische Parlament ist ein Parlament.\nEin Parlament f\u00fcr die Europ\u00e4ische Union.\n\nDas Parlament hat 705 Mitglieder.\nUnd es hat einen Pr\u00e4sidenten.\nEr hei\u00dft David Sassoli.\n\nDie Mitglieder machen gemeinsam Gesetze.\nUnd sie entscheiden \u00fcber Geld.\nWie viel Geld man ausgeben kann. \nIn der Europ\u00e4ischen Union. \nSie entscheiden zusammen mit dem Rat.  \n\nDie Mitglieder treffen sich in Br\u00fcssel.\nUnd sie treffen sich in Stra\u00dfburg. \n\nDie Mitglieder die mit\u00b7machen werden alle 5 Jahr ge\u00b7w\u00e4hlt.\nVon den B\u00fcrgern der Europ\u00e4ischen Union. \nBei der Europa\u00b7wahl entscheiden sie welche Partei sie gut finden. \n\nDie Mitglieder vom Europ\u00e4ischen Parlament kommen aus Europa. \nSie kommen aus verschiedenen L\u00e4ndern. \nEin gro\u00dfes Land hat viele Mitglieder im Europ\u00e4ischen Parlament.\nEin kleines Land hat wenige. \n\nDie Mitglieder kommen aus 27 L\u00e4ndern.\nSie arbeiten zusammen in Gruppen. \nDie Gruppen sind Fraktionen. \nSie haben gemeinsame Ideen. \nUnd gemeinsame Meinungen. \n\nSie \u00e4ndern Gesetze. \nGesetze die sie in der Gruppe gut finden. \nUnd die sie f\u00fcr die Europ\u00e4ische Union gut finden. \n\nWenn sie ein neues Gesetz machen wollen,\nfragen sie die Euro\u00b7p\u00e4ische Kommission.\n\nDas europ\u00e4ische Parlament gibt es seit dem Jahr 1952. \nDie Mitglieder sprechen verschiedene Sprachen. \nSie sprechen \u00fcber 23 verschiedene Sprachen. \nDamit sich alle verstehen brauchen sie viele Dolmetscher.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Europ%C3%A4isches_Parlament"
+    },
+    {
+        "title": "Soziale Sicherheit",
+        "content": "Soziale Sicherheit ist ein Schutz. \nWenn man in Not ist bekommt man Hilfe. \n\nMan bekommt Hilfe vom Staat. \nZum Beispiel Geld. \nDamit man zum Arzt gehen kann. \n\nIn Deutschland gibt es soziale Sicherheit.\nDer Staat sorgt f\u00fcr Sicherheit. \nMenschen in Not sollen Hilfe bekommen.\nZum Beispiel wenn etwas Schlimmes passiert. \nSo schlimm, dass man sich nicht selbst helfen kann. \nZum Beispiel:\nman bekommt eine Krank\u00b7heit, oder man wird Arbeits\u00b7los, oder hat einen Arbeits\u00b7unfall.\n\nGeld bekommt der Staat von der Sozial\u00b7versicherung. \nAlle Menschen bezahlen Geld in die Sozial\u00b7versicherung ein. \nUnd der Staat verteilt das Geld.\nDas Geld ist Sozial\u00b7hilfe.  \nSoziale Sicherung ist wichtig. \nDamit alle Menschen gut leben k\u00f6nnen.\nUnd sich sicher f\u00fchlen.\nUnd damit sie Schutz haben.\n\nPolitiker sprechen viel \u00fcber soziale Sicherheit. \nUnd sie haben viele Ideen. \nMit Sozial\u00b7politik m\u00f6chten Politiker soziale Sicherheit verbessern. \nOder ver\u00e4ndern.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Soziale_Sicherheit"
+    },
+    {
+        "title": "Sozialismus",
+        "content": "Sozialismus ist eine politische Idee. \nEine Idee wie Menschen zusammen\u00b7leben k\u00f6nnen. \n\nGeld geh\u00f6rt allen Menschen die im Sozialis\u00b7mus leben. \nEs wird in der Gesell\u00b7schaft verteilt. \n\nAlles Geld das die Gesellschaft bei Arbeit verdient, \nwird gleich\u00b7m\u00e4\u00dfig verteilt. \nJeder Mensch in der Gesell\u00b7schaft hat gleich viel Geld. \n\n\n\nBeim Sozialis\u00b7mus verteilt die Regierung vom Land das Geld. \nOder die Arbeiter in einer Gruppe. \n\nMenschen die den Sozialis\u00b7mus gut finden nennt man Sozia\u00b7listen. \nEin sehr bekannter Sozia\u00b7list ist Robert Owen. \n\nSozia\u00b7listen glauben das es im Sozialis\u00b7mus nach einer Zeit auch ohne Geld funktionieren kann. \nUnd ohne eine Regierung im Land. \nUnd es soll keine unterschiedlichen Gruppen geben.  \nUnd alle Menschen sollen beim Sozialis\u00b7mus mit\u00b7bestimmen k\u00f6nnen. \n\nIm Sozialis\u00b7mus geh\u00f6ren die Dinge allen Menschen. \nZum Beispiel Werk\u00b7zeuge und Maschinen. \nJeder darf sie ohne zu bezahlen benutzen.\n\nEs gibt diese Arten von Sozialis\u00b7mus:\nNationaler Sozialismus, Neue Linke, Neue sozialistische Parteien, Anarchismus, Religi\u00f6ser Sozialismus, Marxistischer Sozialismus, Realsozialismus.\n\nEines ist bei allen Arten gleich. \nAlles was man zum Arbeiten braucht, \ngeh\u00f6rt den Arbeitern.\n\nArbeiter die in einer Firma arbeiten soll die Firma geh\u00f6ren. \nArbeiter sollen das Geld das die Firma verdient unter\u00b7einander auf\u00b7teilen. \n\nJemand der an den Sozialis\u00b7mus glaubt,\nist sozialistisch.\nEine Frau die an den Sozialis\u00b7mus glaubt,\nist eine Sozialistin.\nEin Mann der an den Sozialis\u00b7mus glaubt,\nist eine Sozialist.\nDas Gegen\u00b7teil von Sozialis\u00b7mus ist Kapitalis\u00b7mus.\n\nSozialis\u00b7mus gibt es in vielen L\u00e4ndern.\nHeute gibt es Sozialis\u00b7mus noch in diesen L\u00e4ndern: \nJemen, China, Vietnam, Nordkorea, Laos.\n\nF\u00fcr den Sozialis\u00b7mus gibt es verschiedene Zeichen.\nZum Beispiel:\nHammer und Sichel, Roter Stern, Rote Flagge, Sojombo-Symbol.\n\nDas Wort Sozialis\u00b7mus ist ein Substantiv.\nEs kommt von der lateinischen Sprache.  \nSocialis hei\u00dft auf Deutsch kamerad\u00b7schaft\u00b7lich.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sozialismus"
+    },
+    {
+        "title": "Fair Trade",
+        "content": "Fair Trade ist englisch. \nDas Wort wird \"F\u00e4r Dreet\" ausgesprochen. \nAuf deutsch hei\u00dft Fair Trade:\nGerechter Handel\n\nDie W\u00f6rter Fair Trade stehen auf manchen Lebensmitteln. \nZum Beispiel auf Bananen oder Orangensaft. \n\n\n\nDiese Lebensmittel kommen oft aus Entwicklungsl\u00e4ndern. \n\nLebensmittel auf denen Fair Trade steht, \nwerden gerecht gehandelt. \nDas bedeutet, \ndass alle Arbeiter gut behandelt werden \nund gen\u00fcgend Geld von ihrem Chef bekommen (Beispiel: Bananenplantagen). \n\nDie Arbeiter m\u00fcssen so viel Geld bekommen, \ndass sie davon leben k\u00f6nnen. \nDas heisst, \ndass sie zum Beispiel Essen und Medikamente kaufen k\u00f6nnen.\n\nOft sind deshalb Lebensmittel, \nauf denen Fair Trade steht, \netwas teurer.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Fair_Trade"
+    },
+    {
+        "title": "Teleshopping",
+        "content": "Beim Teleshopping kauft man Sachen von zu Hause ein. \nZum Beispiel Schuhe. \n\nDie Sachen werden im Fernsehen gezeigt. \n\n\n\nDas Einkaufen funktioniert \u00fcber das Telefon oder das Internet. \nDas hei\u00dft: \nman ruft an und bestellt die Sachen\n\nBekannte Fernseh-Sender:\nHSE24, QVC.\n\nTeleshopping ist ein englisches Wort. \nEs hei\u00dft auf deutsch:\nFerneinkaufen\n\nErfunden wurde Teleshopping in den USA.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Teleshopping"
+    },
+    {
+        "title": "Globalisierung",
+        "content": "Globalisierung hei\u00dft: die L\u00e4nder und die Menschen auf der Welt verbinden sich immer mehr miteinander. \nSie sind heute eng miteinander verbunden, enger als fr\u00fcher.\n\nDurch die Globalisierung k\u00f6nnen Menschen und L\u00e4nder Sachen besser und schneller austauschen, \nzum Beispiel Nachrichten oder Essen. \n\n\nGlobalisierung hei\u00dft: die L\u00e4nder und die Menschen auf der Welt sind immer st\u00e4rker miteinander verbunden.\n\nEssen und Trinken, Sprachen, Wissen, Nachrichten, Kultur.\nMan kann Sachen schneller austauschen, weil\nes neue Entwicklungen in der Technik gab z. B. Flugzeuge f\u00fcr einen einfacheren und schnelleren Transport oder das Internet f\u00fcr eine einfachere und schnellere Kommunikation, sich in der Politik die Au\u00dfenwirtschaft ver\u00e4ndert hat (freier Handel), es immer mehr Menschen auf der Welt gibt.\n\ndie Preise niedrig sind (zum Beispiel f\u00fcr Essen oder Ger\u00e4te), , , .\n\ndas Geld ungerecht verteilt ist (manche Menschen verdienen sehr viel Geld - manche Menschen verdienen sehr wenig Geld), , , .\n\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Globalisierung"
+    },
+    {
+        "title": "Imperialismus",
+        "content": "Imperialismus ist eine Politik\u00b7art. \nWenn ein Land mehr Macht bekommen will. \nDas hei\u00dft,\nwenn es in anderen L\u00e4ndern mehr kontrollieren will. \nUnd wenn es sehr viel mit\u00b7bestimmen will. \nDas Land m\u00f6chte immer mehr haben. \nZum Beispiel ein Welt\u00b7reich. \n\n\nWer Imperialismus macht, \nm\u00f6chte ein Imperium bekommen. \nDas hei\u00df,\ndas Land m\u00f6chte fremde L\u00e4nder dazu\u00b7bekommen. \nEs m\u00f6chte immer mehr haben. \nEs m\u00f6chte die Rohstoffe vom anderen Land. \nUnd es m\u00f6chte eigene Sachen dort ver\u00b7kaufen. \nUnd es m\u00f6chten das die Menschen im fremden Land an ihre Ideen glauben.\nDas Land m\u00f6chten \u00fcber die Menschen im anderen Land bestimmen. \n\nDamit ein Land alles bekommt benutzen sie Gewalt. \nZum Beispiel milit\u00e4rischer Gewalt. \n\nOder sie benutzen Druck. \nZum Beispiel wenn sie sich in die Wirtschaft ein\u00b7mischen. \nUnd eigene Sachen sehr teuer verkaufen. \nDamit die Menschen im anderen Land sehr viel Geld ausgeben m\u00fcssen. \n\nWer ein Imperium hat,\nist ein Imperialist. \nEr hat sehr viel Land. \nUnd sehr viel Geld.\nUnd sehr viel Macht. \n\nEin Imperialist kann \u00fcber viele Sachen bestimmen. \nZum Beispiel wie Menschen in einem Land leben sollen. \nOder was Menschen kaufen d\u00fcrfen. \nOder was Menschen arbeiten m\u00fcssen. \nUnd wie viel Geld sie f\u00fcr Arbeit bekommen. \n\nIm 18. Jahr\u00b7hundert hat es sehr viel Imperialismus gegeben. \nFrankreich hat sehr viel Imperialismus in Afrika gemacht. \n\nDas Wort Imperialismus kommt aus dem Lateinischen.\nEs bedeutet herrschen und Welt\u00b7reich.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Imperialismus"
+    },
+    {
+        "title": "Wirtschaft",
+        "content": "Wirtschaft ist alles was Menschen mit Geld machen. \nDamit es den Menschen gut geht.\n\nMan tauscht Geld gegen Sachen. \nMan kauft sich Sachen. \nUnd man verkauft Sachen. \n\n\n\nAlle Menschen die etwas verkaufen geh\u00f6ren zur Wirtschaft. \nUnd alle Menschen die etwas kaufen geh\u00f6ren zur Wirtschaft. \n\nEs gibt Wirtschaft in einem Land. \nOder an einem Ort. \nOder es gibt Wirt\u00b7schaft auf der ganzen Welt. \nDiese Wirt\u00b7schaft nennt man Welt\u00b7wirtschaft. \n\nWenn man etwas verkauft,\nnennt man das Angebot.\nWenn man etwas haben m\u00f6chte,\nnennt man das Nach\u00b7frage. \nWenn die Wirt\u00b7schaft gut funktioniert,\ngibt es viele Angebote. \nUnd es gibt viele Nach\u00b7fragen. \n\nExperten untersuchen Wirtschaft in der Wirtschafts\u00b7wissen\u00b7schaft.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Wirtschaft"
+    },
+    {
+        "title": "Industrie",
+        "content": "Mit Industrie meint man:\nAlle Fabriken in einem Gebiet.\nZum Beispiel alle Fabriken in der Stadt. \nOder alle Fabriken in Deutschland.\n\n\n\nIm Handwerk werden Einzel\u00b7st\u00fccke gemacht.\nUnd die Sachen werden von Hand gemacht.\n\nIn der Industrie wird Massen\u00b7produktion gemacht.\nDas hei\u00dft:\nEs werden sehr viele St\u00fccke von einer Sache.\nIn der Industrie werden die Sachen meistens mit Maschinen gemacht.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Industrie"
+    },
+    {
+        "title": "Inflation",
+        "content": "Inflation hei\u00dft:\nAlle Waren kosten auf einmal mehr Geld.\nZum Beispiel:\nWenn man f\u00fcr Milch und Butter mehr Geld zahlen muss als letztes Jahr.\n\nInflation ist ein Wort aus der lateinischen Sprache.\nAuf Deutsch hei\u00dft Inflation: Sich-Aufblasen\n\nBei einer Inflation wird das Geld immer weniger wert.\nDas hei\u00dft: Man braucht mehr Geld um etwas zu kaufen.\nDie Menschen k\u00f6nnen sich nicht mehr alles leisten.\nDie Menschen kaufen dann weniger ein.\n\nBei einer Inflation ist mehr Geld im Umlauf, \nals es Waren daf\u00fcr gibt.\n\nDas Gegenteil von Inflation ist Deflation.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Inflation"
+    },
+    {
+        "title": "Deflation",
+        "content": "Deflation hei\u00dft:\nAlle Waren kosten auf einmal weniger Geld.\nZum Beispiel:\nWenn man f\u00fcr Milch und Butter weniger Geld zahlen muss als letztes Jahr. \n\nBei einer Deflation gibt es zu viele Waren.\nDie Menschen kaufen die Waren nicht.\nDas hei\u00dft:\nDas Angebot ist gr\u00f6\u00dfer als die Nachfrage.\nDie Firmen wollen ihre Waren verkaufen.\nDeshalb verkaufen sie ihre Waren billiger.\n\nDas Gegenteil von De\u00adfla\u00adti\u00adon ist  Inflation.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Deflation"
+    },
+    {
+        "title": "Integration",
+        "content": "Integration ist lateinisch und heisst \"Wiederherstellung eines Ganzen\".\nWenn aus vielen unterschiedlichen Menschen eine neue Gruppe gemacht wird, nennt man das Integration. \nDiese Menschen sollen an allen Lebensbereichen teilnehmen k\u00f6nnen. Wie zum Beispiel einen Beruf lernen oder arbeiten gehen. \n\nDas Wort Integration wird oft von Politikern verwendet. \nSie diskutieren oft dar\u00fcber, wie sich Menschen besser verstehen k\u00f6nnen und eine gemeinsame Gruppe werden. \nWenn zum Beispiel ein Ausl\u00e4nder nach Deutschland kommt und in Deutschland bleiben m\u00f6chte, muss er \"integriert\" werden. \nDas heisst, dass er zum Beispiel Deutsch lernen muss, damit ihn die anderen Menschen in Deutschland verstehen. \nWenn man eine gemeinsame Sprache spricht, kann man besser verstehen, was der andere meint. Das macht eine Integration leichter. \nIn der Bundesregierung gibt es extra eine Person, die f\u00fcr Integration zust\u00e4ndig ist. \nDiese Person nennt man Beauftragter f\u00fcr Migration, Fl\u00fcchtlinge und Integration\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Integration"
+    },
+    {
+        "title": "Kommunismus",
+        "content": "Kommunismus ist eine politische Idee. \nEine Idee wie Menschen zusammen\u00b7leben k\u00f6nnen. \n\nBeim Kommunismus gibt es viel Gemeinschaft. \nUnd sehr viel Gleichheit. \nDas hei\u00dft,\nes gibt zwischen Menschen keinen Unterschied. \nRohstoffe geh\u00f6ren allen Menschen gemeinsam. \nUnd alle haben gleich viel Geld. \nKommunismus ist gegen Kapitalismus.\n\nKommunismus hat die Farbe rot. \nUnd das Zeichen daf\u00fcr ist eine Rote Fahne. \n\n\n\nDie bekanntesten Kommunisten sind Karl Marx.\nUnd Friedrich Engels. \n\n\n\nIm Kommunismus gibt es eine (1) Regierung. \nUnd es gibt nur eine (1) politische Partei. \nSie bestimmt wer welche Aufgaben machen muss. \n\nBeim Kommunismus arbeiten alle zusammen. \nAlle Menschen bekommen gleich viel Geld. \nMenschen im Kommunismus geben etwas von ihren eigenen Sachen ab. \nSie teilen ihre Sachen mit anderen Menschen. \n\nJemand der an den Kommunismus glaubt,\nist kommunistisch.\nEine Frau die an den Kommunismus glaubt,\nist eine Kommunistin.\nEin Mann der an den Kommunismus glaubt,\nist ein Kommunist.\n\nKommunismus hat es fr\u00fcher in vielen L\u00e4ndern gegeben. \nZum Beispiel in der UdSSR.\nDie UdSSR ist das erst  kommunistische Land gewesen.\n\nHeute gibt es Kommunismus noch in China. \nAndere L\u00e4nder haben noch Kommunistische Parteien. \nZum Beispiel die DKP in Deutschland.\n\nKommunismus ist eine politische Idee. \nPolitik soll diese Idee umsetzen.  \nEs soll keine Armen Menschen geben. \nUnd es soll keine Reichen Menschen geben. \nJeder Mensch soll gleich viel Geld haben. \nAlles geh\u00f6rt allen Menschen. \nUnd es soll kein Mensch \u00fcber einen anderen bestimmen. \nUnd es soll eine Klassen\u00b7lose Gesellschaft geben. \n\nWie Kommunismus funktionieren kann, hat Karl Marx auf\u00b7geschrieben. \nIn einem Buch. \nGemeinsam mit Friedrich Engels.\nDas Buch hei\u00dft Manifest der Kommunistischen Partei. \nUnd ein anderes Buch hei\u00dft Das Kapital. \nKarl Marx hat gesagt es soll eine Revolution geben. \nDanach sollen Arbeiter regieren. \nBis es den Kommunismus gibt, \nsoll es Sozialismus geben. \n\nIm Kommunismus sind diese Sachen f\u00fcr Menschen besonders wichtig:\nKlassen\u00b7lose Gesellschaft, B\u00fccher von Friedrich Engels, B\u00fccher von Karl Marx, kein Mensch \u00fcber einen anderen bestimmen., Alles geh\u00f6rt allen, es darf kein Privat\u00b7besitz geben, Arbeiter sollen Macht haben.\n\nDas Wort Kommunismus ist ein Substantiv.\nEs kommt vom lateinischen Wort communis.  \nAuf Deutsch hei\u00dft communis: gemeinsam.\n\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kommunismus"
+    },
+    {
+        "title": "Kredit",
+        "content": "Mit einem Kredit bekommt man Geld aus\u00b7geliehen. \nMeistens muss man f\u00fcr dieses Geld Zinsen bezahlen.\n\nIch kann mir bei der Bank Geld ausborgen.\nMan sagt: Ich bekomme einen Kredit von der Bank.\n\nIch leihe mir Geld von der Bank.\nDas nennt man: Kredit bekommen.\nIch muss das Geld an die Bank zur\u00fcckzahlen.\nIch zahle zum Beispiel jeden Monat einen Teil zur\u00fcck.\nDas nennt man: Kredit\u00b7rate.\n\nIch muss der Bank auch etwas daf\u00fcr bezahlen,\nwenn sie mir Geld borgt.\nDas nennt man Kredit\u00b7zinsen.\n",
+        "language": "German",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kredit"
+    }
+]

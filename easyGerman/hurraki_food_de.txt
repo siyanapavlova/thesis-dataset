@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Mais",
+        "content": "Mais ist eine Getreide\u00b7pflanze.\nMais kommt aus Mittel\u00b7amerika.\nMais ist eine hoch\u00b7wachsende Pflanze.\nMais hat lange und breite Bl\u00e4tter.\nDie Mais\u00b7pflanze ist gr\u00fcn.\nAn der Pflanze wachsen Kolben.\nIm Mais\u00b7kolben sind gelbe K\u00f6rner.\n\n\nAus den Mais\u00b7k\u00f6rnern kann man verschiedene Sachen machen.\nZum Beispiel:\nMais\u00b7mehl, Corn\u00b7flakes, Pop\u00b7corn, Mais\u00b7brot, Tortillas, Mais\u00b7sirup, Mais\u00b7bier.\n\nMais kann auch Tier\u00b7futter sein.\nZum Beispiel f\u00fcr Schweine.\nOder f\u00fcr K\u00fche.\n\nAus Mais kann man auch Bio\u00b7ethanol machen.\nOder Bio\u00b7gas.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Mais"
+    },
+    {
+        "title": "Getreide",
+        "content": "Getreide ist eine Gruppe von Pflanzen.\nGetreide ist zum Beispiel:\nWeizen, Gerste, Mais, Reis.\nGetreide ist das Haupt\u00b7nahrungs\u00b7mittel f\u00fcr Menschen. \nUnd f\u00fcr Haus\u00b7tiere.\nDas ist schon viele tausend Jahre so.\n\nDie Getreide\u00b7pflanze geh\u00f6rt zur Familie der S\u00fc\u00df\u00b7gr\u00e4ser. \nDie S\u00fc\u00df\u00b7gr\u00e4ser haben lange Halme mit langen Bl\u00e4ttern.\nDie S\u00fc\u00df\u00b7gr\u00e4ser sind sehr unterschiedlich.\nMachen S\u00fc\u00df\u00b7gr\u00e4ser haben oben eine \u00c4hre.\nIn der \u00c4hre sind die K\u00f6rner drin.\nZum Beispiel:\nWeizen, Gerste, Roggen, Dinkel, Reis.\n\nManche S\u00fc\u00df\u00b7gr\u00e4ser haben auch Kolben.\nDie Kolben sind an der Seite von der Pflanze.\nIm Kolben sind die K\u00f6rner.\nZum Beispiel beim Mais.\n\nEin Getreide\u00b7korn besteht aus:\ndem Mehl\u00b7k\u00f6rper.\num den Mehl\u00b7k\u00f6rper ist eine Schicht.\nUm das Korn ist Samen\u00b7schale, Am Ende vom Korn ist der Keimling..\n\nWenn das Getreide reif ist, wird es geerntet.\nDann wird es gemahlen.\nEs wird Mehl aus dem Getreide gemacht.\nMit dem Mehl kann man Brot backen.\nOder Nudeln machen.\n\nGetreide ist praktisch f\u00fcr die Menschen.\nGetreide ist sehr nahrhaft.\nUnd Getreide kann man gut lagern.\nDas wissen die Menschen schon sehr lange.\nSchon in der Stein\u00b7zeit haben die Menschen Getreide angebaut.\n\nDie Menschen haben viele verschiedene Getreide\u00b7sorten gez\u00fcchtet.\nAm meisten angebaut wird:\nMais, Weizen, Reis, Gerste, Hirse, Hafer, Roggen.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Getreide"
+    },
+    {
+        "title": "Nahrung",
+        "content": "Nahrung sind Sachen die man Essen und Trinken kann. \nZum Beispiel: Gem\u00fcse. \n\nNahrung ist wichtig f\u00fcr Menschen und Tiere.\nWichtig f\u00fcr den K\u00f6rper.\nDurch das Kauen und Schlucken der Nahrung entsteht Energie im K\u00f6rper. \nDas ist wichtig zum Leben. \nZum Beispiel damit Kinder wachsen. \n\n\n\nIn der Nahrung k\u00f6nnen diese Sachen sein. \nKohlenhydrate, Aminos\u00e4uren, Proteine, Fette, Vitamine, Salze, Elektrolyte), Spurenelemente, Wasser, Ballaststoffe, Farbstoffe), Mineralstoffe.\n\nNahrung gibt es zum Trinken und zum Essen. \nNahrung ist fl\u00fcssig oder fest. \nTiere und Menschen brauchen Nahrung. \nPflanzen brauchen N\u00e4hrstoffe. \n\nWenn es lange Zeit keine Nahrung gibt,\nentsteht Hunger. \nZum Beispiel bei einer Hungersnot. \nDaran kann man sterben. \n\nEs gibt auch geistige Nahrung.\nDas sind Sachen f\u00fcr das Denken. \nZum Beispiel: Kreuzwortr\u00e4tsel. \n\nDas Wort Nahrung ist ein Substantiv.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Nahrung"
+    },
+    {
+        "title": "Aperitif",
+        "content": "Ein Aperitif ist ein Getr\u00e4nk. \nEs wird vor dem Essen getrunken. \n\n\n\nEin Aperitif trinkt man gemeinsam vor dem Essen. \nManchmal gibt es etwas Kleines zu Essen dazu. \n\nMeistens ist ein Aperitif ein Getr\u00e4nk mit Alkohol.\nZum Beispiel ein: Campari-Cocktail. \n\nDas Getr\u00e4nk soll den Hunger anregen. \nDas hei\u00dft: Lust auf das Essen machen.  \nUnd es soll das Warten auf das Essen k\u00fcrzer machen.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Aperitif"
+    },
+    {
+        "title": "Antipasto",
+        "content": "Antipasto ist ein Essen.\n\nAntipasto ist eine Vorspeise. \nAntipasto ist italienisch und hei\u00dft:\nvor dem Essen.\n\nAntipasto kann sein:\nWurst, K\u00e4se, Gem\u00fcse, Obst\n\n\n\nAntipasto kann vieles sein. \nZum Beispiel:\nMeeresfr\u00fcchte, Tunfisch, Mozzarella, Paprika, Salami, Bresaola.\n\nAntipasto kann warm oder kalt sein.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Antipasto"
+    },
+    {
+        "title": "Backofen vorheizen",
+        "content": "Bevor man Essen im Back\u00b7ofen macht,\nmuss man den Back\u00b7ofen vorheizen. \nDas hei\u00dft,\nman muss den Back\u00b7ofen ein\u00b7schalten. \nDamit er warm oder hei\u00df wird. \n\nDie Worte Back\u00b7ofen vor\u00b7heizen stehen oft in einer Kochan\u00b7leitung.\nOder in einer Back\u00b7anleitungen.\nZum Beispiel bei einer Anleitung zum Pizza backen. \n\nSo geht das Vor\u00b7heizen vom Back\u00b7ofen:\nVorsicht! Bei dem Umgang mit dem Back\u00b7ofen in der N\u00e4he bleiben..\nDen Back\u00b7ofen einschalten..\nTemperatur einstellen wie in der Anleitung angegeben..\nDer Kuchen, das Essen oder das Geb\u00e4ck bleibt noch drau\u00dfen..\nIst der Backofen hei\u00df genug wird das angezeigt oder eine kleine runde Lampe geht aus..\nDann wird der Back\u00b7ofen nicht mehr w\u00e4rmer..\nNun k\u00f6nnen die Sachen in den Back\u00b7ofen gestellt werden..\nDie Sachen werden mit der richtigen W\u00e4rme gebacken..\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Backofen_vorheizen"
+    },
+    {
+        "title": "Catering",
+        "content": "Beim Catering kann man Essen und Trinken bestellen. \n\n\n\nBeim Catering kann man Essen und Trinken bestellen. \nZum Beispiel f\u00fcr eine Party.\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Catering"
+    },
+    {
+        "title": "Croissant",
+        "content": "Ein Croissant ist ein kleines Br\u00f6tchen. \n\n\n\nCroissant wird so ausgesprochen:\nkrasoa.\n\nIn Frankreich Essen die Menschen viel Croissants. \nVon dort kommen Croissants auch her. \n\nEs gibt sehr viele Arten von Croissants.\nZum Beispiel:\nSchinken-K\u00e4se-Croissant\n\noder \n\nSchoko-Croissant\n\n\nCroissants macht man im Backofen. \nDaf\u00fcr braucht man: \nMehl, Backpulver, Eier, Milch, Zucker, Butter, Hefe, Salz.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Croissant"
+    },
+    {
+        "title": "Currywurst",
+        "content": "Eine Curry\u00b7wurst ist eine Brat\u00b7wurst. \nOder sie ist eine Br\u00fch\u00b7wurst.\nSie wird mit einer So\u00dfe aus Tomaten und Curry-Pulver gegessen.\n\n\nDie Curry\u00b7wurst ist ein Essen aus Deutschland. \nDie Curry\u00b7wurst ist eine Brat\u00b7wurst. \nOder sie ist eine Br\u00fch\u00b7wurst.\n\nDie Curry\u00b7wurst wird in kleinen St\u00fccken von einem Teller gegessen. \nDazu gibt es eine So\u00dfe mit Tomaten und Curry-Pulver. \nOder die Wurst wird mit Curry-Ketchup \u00fcbergossen.\n\nDie Curry\u00b7wurst ist sehr beliebt. \nSie wird gerne mit Toast-Brot gegessen. \nOder mit Pommes Frites.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Currywurst"
+    },
+    {
+        "title": "D\u00f6ner Kebab",
+        "content": "Ein D\u00f6ner Kebab ist ein Essen mit Fleisch. \nSehr bekannt ist der D\u00f6ner Kebab im Fladenbrot.\n\n\n\nD\u00f6ner Kebab ist ein t\u00fcrkisches Essen. \n\nDas Fleisch wird an einem Spie\u00df gegrillt. \nMit einem Messer werden Streifen abgeschnitten. \n\n\n\nEs gibt unterschiedliche Fleisch-Sorten: \nKalbfleisch.\nRindfleisch.\nGefl\u00fcgelfleisch.\nZum Fleisch gibt es zum Beispiel:\nSalat.\nSo\u00dfe.\nReis.\n\nD\u00f6ner Kebab gibt es in vielen Restaurants zu kaufen. \nSehr oft wird ein D\u00f6ner Kebab an einem Imbiss gegessen.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/D%C3%B6ner_Kebab"
+    },
+    {
+        "title": "Falafel",
+        "content": "Falafel sind ein arabisches Essen.\nEs wird aus Bohnen oder Kichererbsen gemacht.\n\n\n\nDie Bohnen oder Kichererbsen werden durch den Fleischwolf gedreht.\nDann werden B\u00e4llchen geformt.\nDie B\u00e4llchen werden in \u00d6l frittiert.\nSie werden oft in Fladenbrot gegessen.\n\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Falafel"
+    },
+    {
+        "title": "Fastfood",
+        "content": "Fastfood ist Essen das schnell geht. \nDas hei\u00dft:\nes wird schnell gemacht, es wird schnell gegessen.\n\n\n\nFastfood wird verkauft:\nauf der Stra\u00dfe, in einem Schnellrestaurant, durch einen Lieferservice (zum Beispiel Heimservice), an einem Drive-in.\n\nFastfood wird gegessen:\nin einem Schnellrestaurant, auf der Stra\u00dfe, im Stehen, w\u00e4hrend des Laufens.\n\nBeispiele f\u00fcr Fastfood:\nCurrywurst, Pommes Frites, Pizza, D\u00f6ner Kebab, Cheesburger.\n\nEs gibt einen bekannten Film. \nZum Thema Fastfood. \nEr hei\u00dft:\nSuper Size Me.\n\nFastfood ist ein englisches Wort. \nEs hat 2 W\u00f6rter:\nFast (hei\u00dft auf deutsch: schnell), Food (hei\u00dft auf deutsch: Essen).\n\nDas Gegenteil von Fastfood ist:\nSlowfood.\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Fastfood"
+    },
+    {
+        "title": "Flexitarismus",
+        "content": "Wenn man Flexitarismus macht,\nisst man wenig Fleisch. \nFlexi\u00b7tarismus macht man,\ndamit man Gesund bleibt. \nOder weil man Tier\u00b7haltung schlecht findet. \n\n\n\nJemand der zum Flexi\u00b7tarismus geh\u00f6rt ist ein Flexi\u00b7tarier. \nEin Flexi\u00b7tarier isst nur sehr wenig Fleisch.\nUnd wenig Fisch. \nUnd er isst selten Fleisch. \nUnd selten Fisch. \n\nFlexi\u00b7tarismus ist eine Ess\u00b7kultur. \nDas hei\u00dft,\nein Flexi\u00b7tarier sucht sich sein Fleisch genau aus. \nUnd er isst nur manchmal Fleisch. \nZum Beispiel bei besonderen Festen. \nEr genie\u00dft das Fleisch dann besonders. \n\nEin Flexi\u00b7tarier finden es schlecht, \nwenn Tiere schlecht leben m\u00fcssen. \nUnd ein Flexi\u00b7tarier  m\u00f6chte Gesund leben.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Flexitarismus"
+    },
+    {
+        "title": "Gamelle",
+        "content": "Eine Gamelle benutzt man zum Kochen. \nMan kann darin Essen warm machen. \nUnd man kann daraus Essen. \n\n\nEine Gamelle hat drei (3) Teile. \nEine Gamelle ist ein Topf.\nUnd ein Teller. \nUnd ein L\u00f6ffel.\nUnd eine Gabel.\n\nIn Deutschland sagt man zu Gamelle Henkel\u00b7mann. \nEs ist ein Koch\u00b7geschirr. \nEs ist aus Aluminium. \nUnd es ist im Jahr 1882 erfunden worden. \nSoldaten benutzen es.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Gamelle"
+    },
+    {
+        "title": "Getr\u00e4nk",
+        "content": "Ein Getr\u00e4nk ist fl\u00fcssig.\nEin Getr\u00e4nk kann man trinken.\nEs gibt Getr\u00e4nke mit und ohne Alkohol.\n\n\nBeispiele f\u00fcr Getr\u00e4nke:\nWasser, Mineral\u00b7wasser, Tee, Kaffee, Limonade, Saft, Bier, Wein.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Getr%C3%A4nk"
+    },
+    {
+        "title": "Gl\u00fcckskeks",
+        "content": "Ein Gl\u00fcckskeks ist ein Keks zum essen. \nDarin ist ein Zettel mit einem Spruch. \n\n\n\nGl\u00fcckskekse werden aus Waffel\u00b7teig gemacht. \nGl\u00fcckskekse wurden in Japan erfunden. \n\nAuf dem Zettel steht etwas geschrieben. \nEin Spruch. \nDer Spruch soll etwas bedeuten. \nZum Beispiel: was in der Zukunft passiert.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Gl%C3%BCckskeks"
+    },
+    {
+        "title": "Hawaii-Toast",
+        "content": "Hawaii-Toast ist eine Scheibe Toast.\nAuf dem Toast sind \nSchinken, Ananas und, K\u00e4se.\ndrauf.\n\nSo wird Hawaii-Toast gemacht:\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Hawaii-Toast"
+    },
+    {
+        "title": "Kochrezept",
+        "content": "Ein Koch\u00b7rezept ist eine Anleitung.\nEine Anleitung zum Essen machen. \nZum Beispiel eine Anleitung f\u00fcr eine Suppe.\nIm Rezept steht:\nwas man braucht, wie viel man braucht, wie man alles zusammen macht.\n\n\nBrot\u00b7taschen.\nBl\u00e4tter\u00b7teig\u00b7taschen, Kalter Hund, Kaiser\u00b7schmarren, Schottische Ingwer\u00b7kekse, Schupf\u00b7nudeln, Sheperd's Pie, Sp\u00e4tzle.\nRezepte von der Lebens\u00b7hilfe.\nKoch\u00b7buch in Leichter Sprache.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kochrezept"
+    },
+    {
+        "title": "Kommissbrot",
+        "content": "Kommissbrot ist Brot. \n\n\n\nKommissbrot wird oft von Soldaten gegessen. \nUnd wurde fr\u00fcher in der Feldb\u00e4ckerei gebacken.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kommissbrot"
+    },
+    {
+        "title": "Kugelgrill",
+        "content": "Ein Kugel-grill ist eine bestimmte Art von Grill.\nEin Kugel-grill hat einen Deckel.\n\n\n\nEin Kugel-grill funktioniert mit Propan oder Holzkohle.\n\nEin Kugelgrill hat eine Runde Form. \nWie eine Kugel. \n\nMit dem Kugel-grill kann man indirekt grillen.\nDas hei\u00dft,\ndie W\u00e4rme kommt nicht nur von unten.\nWenn der Deckel drauf ist,\nkommt die W\u00e4re auch von oben.\nSo wird das Essen gegart.\n\u00c4hnlich wie bei einem Umluftofen.\n\nGeorge Stephen hat den ersten Kugel-grill gebaut.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Kugelgrill"
+    },
+    {
+        "title": "Waffle House",
+        "content": "Ein Waffle House ist ein Restaurant. \n\n\nIn einem Waffle House gibt es Waffeln.\n\n\nIn einem Waffle House gibt es sehr viele verschiedene Waffeln zu Essen. \n\n\nEin Waffle House geh\u00f6rt zu einer Restaurant\u00b7kette. \nDas hei\u00dft,\nes gibt viele Waffle House Restaurants. \nIn den USA gibt es \u00fcber 2000 davon. \nUnd \u00fcber 30.000 Mit\u00b7arbeiter gibt es in den Waffle House Restaurants. \n\nDas Waffle House gibt es seit dem Jahr 1955. \nGegr\u00fcndet haben es Joe Rogers und Tom Forkner.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Waffle_House"
+    },
+    {
+        "title": "Zimt",
+        "content": "Zimt ist ein Gew\u00fcrz.\nZimt wird aus dem Zimt\u00b7baum gemacht.\nDie Rinde vom Baum wird getrocknet.\nDie getrocknete Rinde ist das Zimt.\n\n\nZimt ist ein sehr altes Gew\u00fcrz.\nWahrscheinlich gibt es Zimt schon viele tausend Jahre.\nGenauer: Zimt gibt es ungef\u00e4hr 2 Tausend Jahre vor Christus.\n\nZimt gibt es in verschiedenen Formen.\nZum Beispiel:\nals Zim\u00b7stange, als Pulver, und Zimt\u00b7bl\u00fcten.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Zimt"
+    },
+    {
+        "title": "\u00dcbung: G\u00f6tterspeise",
+        "content": "G\u00f6tter\u00b7speise ist ein s\u00fc\u00dfes Essen. \nDarum geh\u00f6rt G\u00f6tter\u00b7speise auch zu den S\u00fc\u00df\u00b7speisen.\nG\u00f6tterspeise wir gemacht aus:\nGelatine, Zucker, Aroma, Farb\u00b7stoff: \n Gr\u00fcn: Wald\u00b7meister\n Rot: Himbeere oder Kirsche\n Gelb: Zitrone.\nEs gibt auch vegane G\u00f6tter-speise.\nVegane G\u00f6tter\u00b7speise ist ohne Gelatine.\nIn veganer G\u00f6tter\u00b7speise ist:\nCarrageen, Agar.\n\n\nG\u00f6tter-speise selbst herstellen\nMan ver-r\u00fchrt gekochten Frucht-saft mit Gelatine-pulver.\nOder man kauft in Handel eine Pulver-mischung.\nDie r\u00fchrt man in gekochtes Zucker-wasser.\nDann muss die G\u00f6tter-speise einen halben bis ganzen Tag ruhig stehen.\nDann kann man die G\u00f6tter-speise essen.\n\nG\u00f6tter-speise bei Schluck-st\u00f6rung\nWenn Menschen Schluck-st\u00f6rung haben.\nBekommen sie beim Trinken Fl\u00fcssiges in die Lunge.\nSie verschlucken sich.\nDiese Menschen k\u00f6nnen leichter essen als trinken.\nDoch wenn sie G\u00f6tter-speise essen.\nDann bekommen sie viel Wasser in fester Form.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/%C3%9Cbung:_G%C3%B6tterspeise"
+    },
+    {
+        "title": "Vegetarier",
+        "content": "Ein Vegetarier ist eine Person.\nDiese Person will kein Fleisch essen.\nEin Vegetarier isst haupts\u00e4chlich Obst und Gem\u00fcse.\n\nManche Menschen m\u00f6chten kein Fleisch essen.\nSie sagen, f\u00fcr Fleisch werden Tiere geschlachtet.\nVegetarier wollen nicht, dass Tiere get\u00f6tet werden.\nViele Tiere die zum schlachten da sind,\nhaben ein schlechtes Leben.\nViele Tiere leben auf wenig Platz.\nDas Wort daf\u00fcr hei\u00dft: Massentierhaltung.\n\nEs gibt noch andere Gr\u00fcnde, \nWarum manche Menschen kein Fleisch Essen wollen.\n\nManche sagen wegen ihrer Religion essen sie kein Fleisch.\nZum Beispiel gibt es Hinduisten und Buddhisten die kein Fleisch essen.\n\nManche Menschen sagen:\nWer Obst und Gem\u00fcse isst,\nlebt ges\u00fcnder.\n\nManche Menschen sagen:\nWeil die Menschen auf der Erde zu viel Fleisch essen,\ngeht die Natur kaputt.\nZum Beispiel werden f\u00fcr Rinderherden,\nW\u00e4lder abgeholzt.\n\nViele Rinder brauchen auch viel Nahrung.\nDas hei\u00dft, es wird f\u00fcr Rinder Getreide angebaut.\nIn armen L\u00e4ndern sterben Menschen, weil sie verhungern.\nSie haben kein Getreide.\nAnderswo bekommen Rinder Getreide zum Fressen.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Vegetarier"
+    },
+    {
+        "title": "Ultraverarbeitete Nahrung",
+        "content": "Ultra\u00b7verarbeitete Nahrung sind Sachen zum Essen.\nUltra\u00b7verarbeitete Nahrung ist Essen aus der Fabrik.\nMit ultra\u00b7verarbeitete Nahrung sind bestimmte Lebens\u00b7mittel gemeint.\nZum Beispiel:\nTief\u00b7k\u00fchl\u00b7pizza, Energie\u00b7riegel, T\u00fcten\u00b7suppen, Eis\u00b7creme, Di\u00e4t-pulver, Kartoffel\u00b7chips.\n\n\n\nEs gibt viele Sachen zum Essen.\nManche sagen dazu auch Lebens\u00b7mittel.\nOder Nahrungs\u00b7mittel.\nWissenschaftler teilen die Lebens\u00b7mittel in Gruppen ein.\nEs gibt verschiedene Einteilungen.\nEine Einteilung hei\u00dft NOVA-Klassifikation.\nNOVA teilt Lebens\u00b7mittel in 4 Gruppen ein.\nGruppe 1 sind unverarbeitete Lebens\u00b7mittel..\nObst\n Gem\u00fcse\n Trink\u00b7wasser\n Kaffee\n Reis\n Fisch.\n\nGruppe 2 hei\u00dft verarbeitete kulinarische Zutaten..\nSalz \n \u00d6l aus Oliven\n Rohr\u00b7zucker\n Sirup aus Ahorn\u00b7b\u00e4umen\n Butter.\nJod ins Salz.\n\nGruppe 3 hei\u00dft Verarbeitete Lebens\u00b7mittel.\nK\u00e4se\n frisch gebackenes Brot\n Bier\n Wein\n gesalzenes Fleisch.\n\nGruppe 4 hei\u00dft Ultra\u00b7verarbeitete Lebens\u00b7mittel und Getr\u00e4nke.\nGefl\u00fcgel\u00b7nuggets\n Joghurt mit k\u00fcnstlichem Zusatz\n Fast-Food-Burger\n Wurst aus der Dose,\n Eis\u00b7creme\n Alle Fertig\u00b7gerichte\n abgepacktes Brot\n abgepackter Kuchen \n Limonaden\n Milch\u00b7misch\u00b7getr\u00e4nke \n Energy\u00b7drinks\n Pudding\u00b7desserts\n M\u00fcsli\u00b7riegel.\n\nDie Wissenschaftler, die die Einteilung gemacht haben, sagen:\nUltra\u00b7verarbeitete Lebensmittel sind schlecht.\nUltra\u00b7verarbeitete Lebensmittel werden von gro\u00dfen Firmen gemacht.\nDie Firmen wollen viel Geld verdienen.\nSie machen Werbung f\u00fcr ultra\u00b7verarbeitete Lebens\u00b7mittel.\nSie sagen zum Beispiel ultra\u00b7verarbeitete Lebensmittel sind gesund.\nOder sind cool. \n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Ultraverarbeitete_Nahrung"
+    },
+    {
+        "title": "Tomate",
+        "content": "Eine Tomate ist eine Frucht. \nTomaten sind von Tomaten\u00b7pflanzen.\nEs gibt verschiedene Arten von Tomaten.\nTomaten sind Nacht\u00b7schatten\u00b7gew\u00e4chse.\n\n\nDie Bl\u00fcte einer Tomate ist gelb.\nMeistens sind reife Tomaten rot.\nDie Tomaten k\u00f6nnen aber auch gelb sein. \nOder sie k\u00f6nnen gr\u00fcn sein.\n\nIn \u00d6sterreich hei\u00dfen Tomaten Paradeiser.\nOder sie hei\u00dfen Paradies\u00b7apfel.\nFr\u00fcher hie\u00dfen Tomaten auch Liebes\u00b7apfel.\nOder Gold\u00b7apfel.\n\nTomaten kommen aus S\u00fcd\u00b7amerika.\nDie Mayas haben Tomaten vor sehr langer Zeit an\u00b7gebaut.\nDie Europ\u00e4er kennen Tomaten erst seit dem Mittel\u00b7alter.\n\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Tomate"
+    },
+    {
+        "title": "Suppenk\u00fcche",
+        "content": "In einer Suppenk\u00fcche gibt es Essen und Trinken. \n\nDas Essen und Trinken kostet kein Geld. \nOder nur wenig Geld. \nDamit auch Menschen mit wenig Geld Essen und Trinken k\u00f6nnen. \n\n\n\nIn einer Suppenk\u00fcche gibt es sehr oft Suppe.\nOder Eintopf. \n\nDie Menschen, die in eine Suppen\u00b7k\u00fcche gehen,\nhaben manchmal sehr wenig Geld. \nEs ist schwierig f\u00fcr sie Essen zu kaufen. \nOder Essen zu kochen. \nMeistens sind es bed\u00fcrftige Menschen. \n\nDarum kostet das Essen in einer Suppen\u00b7k\u00fcche wenig Geld. \nOder kein Geld.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Suppenk%C3%BCche"
+    },
+    {
+        "title": "Superfood",
+        "content": "Super\u00b7food ist Essen und Trinken. \n\nVerk\u00e4ufer sagen Super\u00b7food ist super. \nUnd es ist sehr gut f\u00fcr die Gesundheit. \nAndere sagen Super\u00b7food ist normales Essen und Trinken. \n\nSuper\u00b7food ist zum Beispiel Obst und Gem\u00fcse. \n\n\n\nSuper\u00b7food ist ein Marketing\u00b7wort. \nDas hei\u00dft, Verl\u00e4ufer benutzen es um ihre Sachen besser zu verkaufen. \nSie machen mit dem Wort Super\u00b7food Werbung. \nVerk\u00e4ufer sagen Super\u00b7food ist sehr gut f\u00fcr die Gesundheit.\n\nManche Experten f\u00fcr Essen und Trinken sagen das Super\u00b7food gut f\u00fcr die Gesundheit ist. \nAndere Experten sagen das Super\u00b7food normales Essen und Trinken ist. \nUnd Super\u00b7food ist nicht ges\u00fcnder ist als anderes Essen und Trinken. \n\nSehr bekannt als Super\u00b7food ist zum Beispiel die Heidel\u00b7beere. \nWeil sie einen besonderen und gesunden Stoff hat. \n\nBekannt als Super\u00b7food ist auch Spinat. \nPopeye hat Spinat als Super\u00b7food gegessen. \nUnd hat dadurch viel Kraft bekommen. \n\nDas Wort Super\u00b7food ist ein Substantiv. \nEs hat diese 2 englischen W\u00f6rter:\nSuper (etwas das sehr gut ist), Food (Essen und Trinken).\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Superfood"
+    },
+    {
+        "title": "Street Food",
+        "content": "Street Food ist Essen und Trinken auf der Stra\u00dfe. \nDas hei\u00dft: Essen Einkaufen oder selber etwas essen. \n\nZum Beispiel Knabber\u00b7sachen auf einem Markt. \n\n\n\nSandwiches, Fladenbrote, Pommes frites, Waffel, D\u00f6ner Kebab, \u0106evap\u010di\u0107i.\n\nKaffee, Fruchts\u00e4fte, Bier.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Street_Food"
+    },
+    {
+        "title": "Schokokuss",
+        "content": "Ein Schokokuss kann man essen. \nEr hat einen s\u00fc\u00dfen Geschmack. \n\n\n\nEin Schokokuss ist eine S\u00fc\u00dfware. \n\nEr ist innen aus Schaum\u00b7zucker.\nHat unten eine Waffel. \nUnd hat au\u00dfen eine Schokoladen\u00b7schicht. \n\nEs gibt verschiedene Schokokuss\u00b7arten. \n\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Schokokuss"
+    },
+    {
+        "title": "Sandwichtoaster",
+        "content": "Ein Sandwichtoaster ist ein Ger\u00e4t.\nMit dem Ger\u00e4t kann man eine bestimmte Art von belegtem Brot machen.\nManche sagen zu dazu das englische Wort: Sandwiches. \n\n\n\nMan legt ein Toast\u00b7brot in das Ger\u00e4t.\nDann kommt der Belag.\nZum Beispiel K\u00e4se und Schinken.\nZum Schlu\u00df legt man ein Toast\u00b7brot\u00b7scheibe oben drauf.\nJetzt wird das Ger\u00e4t zusammen\u00b7geklappt. \nDann wird das Brot gebraten bis es knusprig ist.\nIm Brot schmilzt der K\u00e4se.\nAn den R\u00e4ndern sind die Brot\u00b7r\u00e4nder mit einander verbacken.\nDas hei\u00dft: es flie\u00dft kein K\u00e4se heraus.\n\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sandwichtoaster"
+    },
+    {
+        "title": "Samowar",
+        "content": "Ein Samowar wird zum Wasser kochen benutzt. \n\n\n\nEin Samowar ist ein Wasser\u00b7kocher. \nMeistens wird damit Tee gekocht. \nDurch einen Hahn kommt das Wasser oder der Tee raus. \n\n\nEs gibt Samowars die mit Strom funktionieren.\nUnd welche die mit Holzkohle funktionieren.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Samowar"
+    },
+    {
+        "title": "Raclette",
+        "content": "Raclette ist ein Essen das mit K\u00e4se gemacht wird. \nDer K\u00e4se wird dabei geschmolzen. Dann wird der weiche K\u00e4se mit Kartoffeln gegessen. \n\n\n\nRaclette kommt aus dem franz\u00f6sischen. Es heisst schaben oder kratzen. \nRaclette ist ein Schweizer Nationalgericht.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Raclette"
+    },
+    {
+        "title": "Running Dinner",
+        "content": "Bei einem Running Dinner  trifft man sich mit anderen Menschen.\nMan trifft andere Menschen um gemeinsam zu Essen. \n\nZu einem Running Dinner geht man, \nwenn man andere Menschen Kennen\u00b7lernen m\u00f6chte. \nUnd wenn man nicht alleine sein m\u00f6chte. \n\n\n\nEin Running Dinner macht man oft in einer gro\u00dfen Stadt. \n\nBeim Running Dinner gibt es 3 Gruppen. \n\nJede Gruppe hat 2 Personen. \nJede Gruppe kocht ein Essen. \nGruppe 1 kocht eine Vor\u00b7speise.\nGruppe 2 kocht eine Haupt\u00b7speise.\nGruppe 3 kocht eine Nach\u00b7speise. \n\nJede Gruppe kocht an einem anderen Ort. \nDas hei\u00dft,\nalle m\u00fcssen zu jedem Essen an einen anderen Ort gehen. \n\nDie Menschen die bei einem Running Dinner mit\u00b7machen,\nkennen sich vorher nicht. \nBeim gemeinsamen Kochen und Essen kann man die anderen kennen\u00b7lernen.  \nManchmal gibt es nach dem Running Dinner noch\u00b7mal ein Treffen. \nDamit man alle noch\u00b7mal wieder\u00b7sehen kann. \n\nDie W\u00f6rter Running Dinner sind eine Marke.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Running_Dinner"
+    },
+    {
+        "title": "Speisekammer",
+        "content": "Eine Speisekammer ist ein Raum \noder ein Schrank in einem Haus. \nDarin wird Essen und Trinken gelagert. \n\n\n\nIn der Speisekammer gibt es Regale. \nDarauf wird das Essen und Trinken gestellt.  \nZum Beispiel Kartoffeln oder Obst. \n\n\n\nEine Speisekammer sollte k\u00fchl, dunkel und trocken sein. \nDamit das Essen lange h\u00e4lt.\nZum Beispiel im Keller.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Speisekammer"
+    },
+    {
+        "title": "Pasteurisierung",
+        "content": "Pasteurisierung macht Lebensmittel l\u00e4nger haltbar. \nZum Essen oder Trinken. \nZum Beispiel Milch. \n\nBeim pasteurisieren werden Lebensmittel hei\u00df gemacht. \nAuf \u00fcber 70 Grad Celsius.\nUnd danach wieder abge-k\u00fchlt. \nDadurch werden Bakterien get\u00f6tet.\nUnd die Lebensmittel sind l\u00e4nger brauchbar.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Pasteurisierung"
+    },
+    {
+        "title": "Potluck",
+        "content": "Beim Potluck treffen sich mehrere Personen. \nSie bringen alle Essen mit. \nDadurch gibt es viele Gerichte. \n\n\n\nBeim Potluck bringt jeder etwas zu Essen mit. \nWenn viele Personen kommen. Gibt es viel Essen. \n\nDas Essen wird dann auf einen Tisch gestellt. \nUnd jeder kann davon essen.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Potluck"
+    },
+    {
+        "title": "Pr\u00e4dikatswein",
+        "content": "Manche Weine werden gepr\u00fcft.\nJe nach dem wie gut ein Wein ist, \nbekommt der Wein eine Note.\nEin anderes Wort f\u00fcr Note ist: Pr\u00e4dikat.\nEs gibt verschiedene Pr\u00e4dikate.\nDie Pr\u00e4dikate hei\u00dfen:\nKabinett, Sp\u00e4tlese, Auslese, Beerenauslese, Trockenbeerenauslese, Eiswein.\n\n\n\nEin Wein muss bestimmte Sachen haben.\nDann bekommt er ein Pr\u00e4dikat.\nZum Beispiel:\ndie Trauben f\u00fcr den Wein d\u00fcrfen nur aus einem Gebiet kommen, der Wein darf nicht mit anderen Weinen gemischt werden, der Wein muss von einem Amt gepr\u00fcft werden.\n\nAu\u00dferdem muss der Wein ein bestimmtes Mostgewicht haben.\nDas hei\u00dft, wie viel Zucker in den Trauben ist.\n\nDas Mostgewicht wird in Grad Oechsle gemessen.\nJe nach dem wie viel Oechsle ein Wein hat,\nbekommt der Wein ein Pr\u00e4dikat.\n\nDas Pr\u00e4dikat Kabinett bekommt ein Wein mit mindestens 73 Grad Oechsle.\nDas Pr\u00e4dikat Sp\u00e4tlese bekommt ein Wein mit mindestens 85 Grad Oechsle.\nDas Pr\u00e4dikat Auslese bekommt ein Wein mit mindestens 95 Grad Oechsle.\nDas Pr\u00e4dikat Beeren-Auslese bekommt ein Wein mit mindestens 125 Grad Oechsle.\nDas Pr\u00e4dikat Trocken-Beeren-Auslese bekommt ein Wein mit mindestens 150 Grad Oechsle.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Pr%C3%A4dikatswein"
+    },
+    {
+        "title": "Obstsalat",
+        "content": "Ein Obst\u00b7salat ist ein Nach\u00b7tisch.\nManche sagen auch:\nEin Obst\u00b7salat ist ein Dessert.\n\n\nEin Obst\u00b7salat ist eine bestimmte Art Salat.\nIn den Salat kommen verschiedene Fr\u00fcchte.\nZum Beispiel:\n\u00c4pfel, Birnen, Orangen, Honig\u00b7melone, Wein\u00b7traube, Bananen.\nDie Fr\u00fcchte sind klein geschnitten.\nManche machen noch andere Sachen in den Obst\u00b7salat.\nZum Beispiel:\nJoghurt, Quark, N\u00fcsse, Sirup, Zucker.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Obstsalat"
+    },
+    {
+        "title": "Oliven\u00f6l",
+        "content": "Oliven\u00b7\u00f6l ist ein Pflanzen\u00b7\u00f6l. \nOliven\u00b7\u00f6l wird aus Oliven gemacht.\n\n\n\nAm Olivenbaum wachsen Fr\u00fcchte.\nDie Fr\u00fcchte hei\u00dfen Oliven.\nAus den Oliven wird ein Saft gepresst.\nAus dem Saft wird das Oliven\u00b7\u00f6l gemacht.\n\nOliven\u00b7\u00f6l wird in verschiedenen L\u00e4ndern gemacht.\nZum Beispiel in:\nSpanien, Italien, Griechenland, T\u00fcrkei, Tunesien, Marokko, Syrien.\nDie meisten Oliven\u00b7b\u00e4ume stehen in Spanien.\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Oliven%C3%B6l"
+    },
+    {
+        "title": "On the rocks",
+        "content": "On the rocks ist ein Getr\u00e4nk mit Eis\u00b7w\u00fcrfel.\n\n\n\nOn the rocks ist englisch. \nEs hei\u00dft auf deutsch: Auf den Steinen.\n\nZuerst kommen Eisw\u00fcrfel in das Glas. \nUnd danach wird das Getr\u00e4nk eingeschenkt.\n\n\n\nDas Getr\u00e4nk wird \u00fcber die Eisw\u00fcrfel gesch\u00fcttet. (die Eisw\u00fcrfel sind die: Steine)\n\nMeistens ist \"on the rocks\" ein Getr\u00e4nk mit Alkohol. \nZum Beispiel: Whisky on the rocks.\n\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/On_the_rocks"
+    },
+    {
+        "title": "Ma\u00df (Getr\u00e4nk)",
+        "content": "Eine Ma\u00df ist ein sehr gro\u00dfes Glas. \nSehr oft mit Bier gef\u00fcllt.\n\n\n\nIn eine Ma\u00df passt 1 Liter Bier. \nBesonders bekannt ist die Ma\u00df beim Oktoberfest.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Ma%C3%9F_(Getr%C3%A4nk)"
+    },
+    {
+        "title": "Minestrone",
+        "content": "Eine Minestrone ist eine Gem\u00fcsesuppe.\nDie Minestrone kommt aus Italien.\n\n\n\nIn einer Minestrone sind:\nTomaten,, M\u00f6hren, Erbsen,, Lauch, Sellerie\u00b7stauden, Kr\u00e4uter, Butter, getrockneter Speck.\nEine Minestrone wird mit\nNudeln, Reis oder, Kartoffeln.\ngekocht\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Minestrone"
+    },
+    {
+        "title": "Bent\u014d",
+        "content": "Ein Bent\u014d ist ein K\u00e4stchen mit Essen. \nIn einem Bent\u014d ist verschiedenes Essen drin. \nDas Essen ist in dem Bent\u014d-K\u00e4stchen getrennt. \n\n\n\nBent\u014d K\u00e4stchen sind in Japan erfunden worden.\n\nBent\u014d K\u00e4stchen kann man gut mitnehmen.\nUnd unterwegs daraus essen. \nDas Essen kommt nicht durcheinander. \nWeil es im K\u00e4stchen getrennt ist. \nEs gibt f\u00fcr jedes Essen ein Fach. \n\nWeil das Essen im Bent\u014d K\u00e4stchen getrennt ist,\nsieht das Essen auch gut aus. \n\nFr\u00fcher waren Bent\u014d K\u00e4stchen aus Holz.\nHeute sind sie meistens aus Kunststoff.\nDie meisten Bent\u014d K\u00e4stchen haben einen Deckel. \n\nMan kann das Essen im Bent\u014d K\u00e4stchen warm machen. \nOder man kann das Essen darin kalt essen. \n\nIn Japan gibt es Bent\u014d K\u00e4stchen mit Essen an vielen Orten zu kaufen. \nZum Beispiel am Bahnhof.\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Bent%C5%8D"
+    },
+    {
+        "title": "Blanchieren",
+        "content": "Beim Blanchieren wird etwas kurz in Wasser gehalten. \nDas Wasser ist hei\u00df oder warm. \n\n\n\nViele Sachen k\u00f6nnen blanchiert werden.\nZum Beispiel:\nFleisch, Gem\u00fcse.\n\nBlanchieren kann auch im kalten Wasser gemacht werden. \nDie Lebensmittel werden kurz in das Wasser gemacht. \n\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Blanchieren"
+    },
+    {
+        "title": "Bratwurst",
+        "content": "Eine Brat\u00b7wurst eine bestimmte Sorte von Wurst.\n\nEine Brat\u00b7wurst wird aus Fleisch gemacht.\nDas Fleisch kommt in den Fleisch\u00b7wolf.\nDas Fleich wird klein gemacht.\nZum zerkleinerten Fleisch kommen noch Gew\u00fcrze dazu.\nDann kommt das zerkleinerte Fleisch in D\u00e4rme. \nZum Beispiel vom Schwein.\nOder vom Lamm.\n\nDie fertige Wurst wird gebraten.\nIn der Pfanne.\nOder auf dem Grill.\n\nEs gibt viele verschiedene Brat\u00b7wurst\u00b7arten.\nZum Beispiel:\nN\u00fcrnberger Rost\u00b7brat\u00b7wurst, St. Galler Brat\u00b7wurst, Th\u00fcringer Rost\u00b7brat\u00b7wurst, Els\u00e4sser Brat\u00b7wurst, Curry\u00b7brat\u00b7wurst, Bauern\u00b7brat\u00b7wurst, Rost\u00b7brat\u00b7wurst, Merguez.\n\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Bratwurst"
+    },
+    {
+        "title": "Brunch",
+        "content": "Ein Brunch ist ein langes und gro\u00dfes Fr\u00fchst\u00fcck.\nEin Brunch dauert von:\nmorgens bis mittags \n\n\n\nBeim Brunch gibt es viele Sachen zum Essen. \nSachen die es auch bei einem Fr\u00fchst\u00fcck und bei einem Mittagessen gibt. \n\nDas Wort Brunch ist ein Kofferwort. \nEs ist ein Englisches Wort und besteht aus:\n\nbreakfast = Fr\u00fchst\u00fcck\nlunch = Mittagessen\n\n(br unch)\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Brunch"
+    },
+    {
+        "title": "Mogelpackung",
+        "content": "Eine Mogel\u00b7packung ist eine sehr gro\u00dfe Verpackung mit wenig Inhalt.\nMan denkt es ist viel in der Packung drinnen,\nobwohl das gar nicht stimmt.\nEs sieht nur so aus,\nals ob viel in der Packung drinnen ist. \n\n\n\nWie viel wirklich in einer der Mogel\u00b7packung drinnen ist,\nkann man nicht genau sehen. \nManchmal ist weniger drinnen als man denkt und sieht.  \n\nIn einem Gesetz steht, \ndass Verpackungen nicht t\u00e4uschen d\u00fcrfen. \nWenn sehr viel Luft in der Verpackung ist,\nist das Betrug. \n\nWenn beim Inhalt einer Packung geschummelt wird,\nist das eine Mogel\u00b7kennzeichnung. \n\nJedes Jahr untersuchen Verbraucherzentralen Essen und Trinken.\nUnd sie untersuchen auch die Ver\u00b7packungen von Essen und Trinken. \nManche machen jedes Jahr eine Liste. \nDie Liste hei\u00dft: Mogelpackung des Jahres.\nSie sagen dann wer bei der Verpackung und beim Inhalt schummelt. \n\nIn der Verpackung ist weniger drinnen,\naber der Preis daf\u00fcr bleibt der gleiche.\n\nManche sagen das Wort Mogel\u00b7verpackung auch bei anderen Sachen.\nZum Beispiel in der Politik.\nEin Politiker will ein neues Gesetz.\nEr sagt er will das Gesetz f\u00fcr eine Sache.\nER will das Gesetz aber f\u00fcr etwas anderes. \nDas Gesetz ist dann eine Mogel\u00b7packung.\nIm Gesetz ist nicht drinn,\nwas drauf steht.\n\n\nDas Wort Mogelpackung ist ein Substantiv.\nEs hat diese 2 W\u00f6rter:\nMogel (mogeln hei\u00dft nicht die Wahrheit sagen), Packung ((Packung ist das kurze Wort f\u00fcr Verpackung).\n\nDie Mehrzahl vom Wort Mogel\u00b7packung ist das Wort Mogel\u00b7packungen. \nDas Wort Mogel\u00b7packung wird s getrennt: Mo\u00b7gel\u00b7pa\u00b7ckung.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Mogelpackung"
+    },
+    {
+        "title": "Eierkennzeichnung",
+        "content": "Die Eier\u00b7kennzeichnung ist eine Nummer auf einem Ei.\n\n\n\nDie Eier\u00b7kennzeichnung ist eine Nummer auf einem Ei.\nDie Nummer zeigt, \n1. wie das Huhn gelebt hat\n2. in welchem Land das Huhn gelebt hat und \n3. bei welchem Bauern das Huhn gelebt hat.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Eierkennzeichnung"
+    },
+    {
+        "title": "Eierw\u00e4rmer",
+        "content": "Ein Eierw\u00e4rmer ist eine H\u00fclle f\u00fcr ein Ei. \n\nMan stellt ein Ei rein.\nUnd macht einen Deckel darauf. \nDamit das Ei warm bleibt. \n\n\nEin Ei wird ge\u00b7kocht. \nDamit es hart wird. \nUnd damit es besser schmeckt. \nUnd damit es warm wird.\n\nDas warme Ei macht man in einen Eier\u00b7w\u00e4rmer. \nDamit das Ei l\u00e4nger warm bleibt. \n\nEier\u00b7w\u00e4rmer sind aus Stoff.\nOder aus Kunst\u00b7stoff. \n\nEs gibt Eier\u00b7w\u00e4rmer f\u00fcr mehrere Eier. \nDas sind Warm\u00b7halte\u00b7beh\u00e4lter. \n\nEier\u00b7w\u00e4rmer gibt es seit dem 16. Jahr\u00b7hundert.\n",
+        "language": "German",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Eierw%C3%A4rmer"
+    }
+]

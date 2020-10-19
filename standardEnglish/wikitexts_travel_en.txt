@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "EuroVelo",
+        "content": "EuroVelo is a network of currently 16 long-distance cycling routes criss-crossing Europe, in various stages of completion. When completed, the EuroVelo network's total length will almost be 90,000 km (55,923 mi). As of November 2019 more than 45,000 km (27,962 mi) were in place. EuroVelo is a project of the European Cyclists' Federation (ECF).\nEuroVelo routes can be used for bicycle touring across the continent, as well as by local people making short journeys. The routes are made of both existing national bike routes \u2014 such as the Dutch LF-Routes, the German D-Routes, and the British National Cycle Network \u2014 and existing general purpose roads, together with new stretches of cycle routes to connect them.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/EuroVelo"
+    },
+    {
+        "title": "Camping",
+        "content": "Camping is an outdoor activity involving overnight stays away from home in a shelter, such as a tent or a recreational vehicle. Typically participants leave developed areas to spend time outdoors in more natural ones in pursuit of activities providing them enjoyment. The night (or more) spent outdoors distinguishes camping from day-tripping, picnicking, and other similarly short-term recreational activities.Camping as a recreational activity became popular among elites in the early 20th century. With time, it grew in popularity among other socioeconomic classes. Modern campers frequent publicly owned natural resources such as national and state parks, wilderness areas, and commercial campgrounds. Camping is a key part of many youth organizations around the world, such as Scouting, which use it to teach both self-reliance and teamwork.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Camping"
+    },
+    {
+        "title": "Campfire",
+        "content": "A campfire is a fire at a campsite that provides light and warmth, and heat for cooking. It can also serve as a beacon, and an insect and predator deterrent. Established campgrounds often provide a stone or steel fire ring for safety. Campfires are a popular feature of camping. At summer camps, the word campfire often refers to an event (ceremony, get together, etc.) at which there is a fire. Some camps refer to the fire itself as a campfire.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Campfire"
+    },
+    {
+        "title": "Airplane",
+        "content": "An airplane or aeroplane (informally plane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. Worldwide, commercial aviation transports more than four billion passengers annually on airliners and transports more than 200 billion tonne-kilometers of cargo annually, which is less than 1% of the world's cargo movement. Most airplanes are flown by a pilot on board the aircraft, but some are designed to be remotely or computer-controlled such as drones.\nThe Wright brothers invented and flew the first airplane in 1903, recognized as \"the first sustained and controlled heavier-than-air powered flight\". They built on the works of George Cayley dating from 1799, when he set forth the concept of the modern airplane (and later built and flew models and successful passenger-carrying gliders). Between 1867 and 1896, the German pioneer of human aviation Otto Lilienthal also studied heavier-than-air flight. Following its limited use in World War I, aircraft technology continued to develop. Airplanes had a presence in all the major battles of World War II. The first jet aircraft was the German Heinkel He 178 in 1939. The first jet airliner, the de Havilland Comet, was introduced in 1952. The Boeing 707, the first widely successful commercial jet, was in commercial service for more than 50 years, from 1958 to at least 2013.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Airplane"
+    },
+    {
+        "title": "Amusement park",
+        "content": "An amusement park is a park that features various attractions, such as rides and games, as well as other events for entertainment purposes. A theme park is a type of amusement park that bases its structures and attractions around a central theme, often featuring multiple areas with different themes. Unlike temporary and mobile funfairs and carnivals, amusement parks are stationary and built for long-lasting operation. They are more elaborate than city parks and playgrounds, usually providing attractions that cater to a variety of age groups. While amusement parks often contain themed areas, theme parks place a heavier focus with more intricately-designed themes that revolve around a particular subject or group of subjects.\nAmusement parks evolved from European fairs, pleasure gardens and large picnic areas, which were created for people's recreation. World's fairs and other types of international expositions also influenced the emergence of the amusement park industry. Lake Compounce opened in 1846 and is considered the oldest, continuously-operating amusement park in North America. The first theme parks emerged in the mid-twentieth century with the opening of Santa Claus Land in 1946, Santa's Workshop in 1949, and Disneyland in 1955.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Amusement_park"
+    },
+    {
+        "title": "Airport",
+        "content": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. Airports often have facilities to store and maintain aircraft, and a control tower. An airport consists of a landing area, which comprises an aerially accessible open space including at least one operationally active surface such as a runway for a plane to take off or a helipad, and often includes adjacent utility buildings such as control towers, hangars and terminals. Larger airports may have airport aprons, taxiway bridges, air traffic control centres, passenger facilities such as restaurants and lounges, and emergency services. In some countries, the US in particular, airports also typically have one or more fixed-base operators, serving general aviation.\nAn airport solely serving helicopters is called a heliport. An airport for use by seaplanes and amphibious aircraft is called a seaplane base. Such a base typically includes a stretch of open water for takeoffs and landings, and seaplane docks for tying-up.\nAn international airport has additional facilities for customs and passport control as well as incorporating all the aforementioned elements. Such airports rank among the most complex and largest of all built typologies, with 15 of the top 50 buildings by floor area being airport terminals.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Airport"
+    },
+    {
+        "title": "Backpack",
+        "content": "A backpack\u2014also called  knapsack, rucksack, rucksac, pack, sackpack, booksack, bookbag or backsack\u2014is, in its simplest frameless form, a cloth sack carried on one's back and secured with two straps that go over the shoulders, but it can have an external frame, internal frame, and there are bodypacks.\nBackpacks are commonly used by hikers and students, and are often preferred to handbags for carrying heavy loads or carrying any sort of equipment, because of the limited capacity to carry heavy weights for long periods of time in the hands.\nLarge backpacks, used to carry loads over 10 kilograms (22 lb), as well as smaller sports backpacks (e.g. running, cycling, hiking and hydration), usually offload the largest part (up to about 90%) of their weight onto padded hip belts, leaving the shoulder straps mainly for stabilising the load. This improves the potential to carry heavy loads, as the hips are stronger than the shoulders, and also increases agility and balance, since the load rides nearer the wearer's own center of mass.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Backpack"
+    },
+    {
+        "title": "Backpacking (travel)",
+        "content": "Backpacking is a form of low-cost, independent travel, often staying in inexpensive lodgings and carrying all necessary possessions in a backpack. Once seen as a marginal form of travel undertaken only through necessity, it has since become a mainstream form of tourism.While backpacker tourism is generally a form of youth travel, primarily undertaken by young people during gap years, it is also undertaken by older people during a career break or retirement. Backpackers tend to be from Europe, the English-speaking world and Asia.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Backpacking_(travel)"
+    },
+    {
+        "title": "Backpacking (hiking)",
+        "content": "Backpacking is the outdoor recreation of carrying gear on one's back, while hiking for more than a day. It is often but not always an extended journey, and may or may not involve camping outdoors. In North America tenting is common, where simple shelters and mountain huts, widely found in Europe, are rare. In New Zealand, tramping is the term applied though overnight huts are frequently used. Hill walking is an equivalent in Britain (but this can also refer to a day walk), though backpackers make use of all kinds of accommodation, in addition to camping. Backpackers use simple huts in South Africa. Trekking and bushwalking are other word used to describe such multi-day trips.\nBackpacking as a method of travel is a different activity, which mainly uses public transport during a journey which can last months.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Backpacking_(hiking)"
+    },
+    {
+        "title": "Baggage",
+        "content": "Baggage or luggage consists of bags, cases, and containers which hold a traveller's personal articles while the traveler is in transit. A modern traveller can be expected to have packages containing clothing, toiletries, small possessions, trip necessities. On the return trip, travelers may have souvenirs and gifts. For some people, luggage and the style thereof is representative of the owner's wealth and status. Luggage is constructed to protect the items during travel, either with a hard shell or a durable soft material. Luggage often has internal subdivisions or sections to aid in securing items. Handles are typically provided to facilitate carrying, and some luggage may have wheels and/or telescoping handles or leashes to make moving them easier. \nBaggage (not luggage), or baggage train, can also refer to the train of people and goods, both military and of a personal nature, which commonly followed pre-modern armies on campaign.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Baggage"
+    },
+    {
+        "title": "Bicycle",
+        "content": "A bicycle, also called a bike or cycle, is a human-powered or motor-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.\nBicycles were introduced in the 19th century in Europe, and by the early 21st century, more than 1 billion were in existence at a given time. These numbers far exceed the number of cars, both in total and ranked by the number of individual models produced. They are the principal means of transportation in many regions. They also provide a popular form of recreation, and have been adapted for use as children's toys, general fitness, military and police applications, courier services, bicycle racing, and bicycle stunts.\nThe basic shape and configuration of a typical upright or \"safety bicycle\", has changed little since the first chain-driven model was developed around 1885. However, many details have been improved, especially since the advent of modern materials and computer-aided design. These have allowed for a proliferation of specialized designs for many types of cycling.\nThe bicycle's invention has had an enormous effect on society, both in terms of culture and of advancing modern industrial methods. Several components that eventually played a key role in the development of the automobile were initially invented for use in the bicycle, including ball bearings, pneumatic tires, chain-driven sprockets and tension-spoked wheels.Although bike and cycle are used interchangebly to refer mostly to 2 types of 2 wheelers the terms still vary across the world. In India for example a cycle refers only to a 2 wheeler using pedal power whereas the term bike is used to describe a 2 wheeler using internal combustion engine or electric motors as a source of motive power instead of motorcycle/motorbike.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bicycle"
+    },
+    {
+        "title": "Binoculars",
+        "content": "Binoculars or field glasses are two telescopes mounted side-by-side and aligned to point in the same direction, allowing the viewer to use both eyes (binocular vision) when viewing distant objects. Most are sized to be held using both hands, although sizes vary widely from opera glasses to large pedestal mounted military models.\nUnlike a (monocular) telescope, binoculars give users a three-dimensional (3D) image: for nearer objects the two views, presented to each of the viewer's eyes from slightly different viewpoints, produce a merged view with an impression of depth.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Binoculars"
+    },
+    {
+        "title": "Bus",
+        "content": "A bus (contracted from omnibus, with variants multibus, motorbus, autobus, etc.) is a road vehicle designed to carry many passengers. Buses can have a capacity as high as 300 passengers. The most common type is the single-deck rigid bus, with larger loads carried by double-decker and articulated buses, and smaller loads carried by midibuses and minibuses while coaches are used for longer-distance services. Many types of buses, such as city transit buses and inter-city coaches, charge a fare. Other types, such as elementary or secondary school buses or shuttle buses within a post-secondary education campus do not charge a fare. In many jurisdictions, bus drivers require a special licence above and beyond a regular driver's licence.\nBuses may be used for scheduled bus transport, scheduled coach transport, school transport, private hire, or tourism; promotional buses may be used for political campaigns and others are privately operated for a wide range of purposes, including rock and pop band tour vehicles.\nHorse-drawn buses were used from the 1820s, followed by steam buses in the 1830s, and electric trolleybuses in 1882. The first internal combustion engine buses, or motor buses, were used in 1895. Recently, interest has been growing in hybrid electric buses, fuel cell buses, and electric buses, as well as buses powered by compressed natural gas or biodiesel. As of the 2010s, bus manufacturing is increasingly globalised, with the same designs appearing around the world.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bus"
+    },
+    {
+        "title": "Cruise ship",
+        "content": "Cruise ships are large passenger ships used mainly for vacationing. Unlike ocean liners, which are used for transport, they typically embark on round-trip voyages to various ports-of-call, where passengers may go on tours known as \"shore excursions\". On \"cruises to nowhere\" or \"nowhere voyages\", cruise ships make two- to three-night round trips without visiting any ports of call.\n\nModern cruise ships, while sacrificing some qualities of seaworthiness, have added amenities to cater to water tourists, with recent vessels being described as \"balcony-laden floating condominiums\".\n\nAs of December 2018, there are 314 cruise ships operating worldwide, with a combined capacity of 537,000 passengers. Cruising has become a major part of the tourism industry, with an estimated market of $29.4 billion per year, and over 19 million passengers carried worldwide annually as of 2011. The industry's rapid growth has seen nine or more newly built ships catering to a North American clientele added every year since 2001, as well as others servicing European clientele.As of 2020, the world's largest passenger ship is Royal Caribbean's Symphony of the Seas.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Cruise_ship"
+    },
+    {
+        "title": "Currency",
+        "content": "A currency in the most specific sense is money in any form when in use or  circulation as a medium of exchange, especially circulating banknotes and coins.\nA more general definition is that a currency is a system of money (monetary units) in common use, especially for people in a nation. Under this definition, U.S. dollars (US$), euros (\u20ac), Japanese yen (\u00a5), and pounds sterling (\u00a3) are examples of currencies. These various currencies are recognized as stores of value and are traded between nations in foreign exchange markets, which determine the relative values of the different currencies. Currencies in this sense are defined by governments, and each type has limited boundaries of acceptance.\nOther definitions of the term \"currency\" appear in the respective synonymous articles: banknote, coin, and money. This article uses the definition which focuses on the currency systems of countries.\nOne can classify currencies into three monetary systems: fiat money, commodity money, and representative money, depending on what guarantees a currency's value (the economy at large vs. the government's physical metal  reserves). Some currencies function as legal tender in certain political jurisdictions. Others simply get traded for their economic value.\nDigital currency has arisen with the popularity of computers and the Internet. Whether digital notes and coins will be successfully developed remains dubious. Decentralized digital currencies, such as cryptocurrencies are not legal currency, strictly speaking, since they are not issued by a government monetary authority and are not legal tender. Many warnings issued by various countries note the opportunities that cryptocurrencies create for illegal activities, such as money laundering and terrorism.\nIn 2014 the United States IRS issued a statement explaining that virtual currency is treated as property for Federal  income-tax purposes and providing examples of how longstanding tax principles applicable to transactions involving property apply to virtual currency.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Currency"
+    },
+    {
+        "title": "Border control",
+        "content": "Border control is the measures taken by a state or a bloc of states to monitor its borders and regulate the movement of people, animals, and goods across the border.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Border_control"
+    },
+    {
+        "title": "Excursion",
+        "content": "An excursion is a trip by a group of people, usually made for leisure, education, or physical purposes. It is often an adjunct to a longer journey or visit  a place, sometimes for other (typically work-related) purposes.\nPublic transportation companies issue reduced price excursion tickets to attract business of this type.  Often these tickets are restricted to off-peak days or times for the destination concerned.\nShort excursions for education or for observations of natural phenomena are called field trips. One-day educational field studies are often made by classes as extracurricular exercises, e.g. to visit a natural or geographical feature. \nThe term is also used for short military movements into foreign territory, without a formal announcement of war.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Excursion"
+    },
+    {
+        "title": "Exploration",
+        "content": "Exploration is the act of searching for the purpose of discovery of information or resources. Exploration occurs in all non-sessile animal species, including humans. In human history, its most dramatic rise was during the Age of Discovery when European explorers sailed and charted much of the rest of the world for a variety of reasons. Since then, major explorations after the Age of Discovery have occurred for reasons mostly aimed at information discovery.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Exploration"
+    },
+    {
+        "title": "Ferry",
+        "content": "A   ferry is a merchant vessel used to carry passengers, and sometimes vehicles and cargo, across a body of water. A passenger ferry with many stops, such as in Venice, Italy, is sometimes called a water bus or water taxi.\nFerries form a part of the public transport systems of many waterside cities and islands, allowing direct transit between points at a capital cost much lower than bridges or tunnels. Ship connections of much larger distances (such as over long distances in water bodies like the Mediterranean Sea) may also be called ferry services, especially if they carry vehicles.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ferry"
+    },
+    {
+        "title": "Tour guide",
+        "content": "For the gadget, see wireless tour guide system.\nA tour guide (U.S.) or a tourist guide (European) is a person who provides assistance, information on cultural, historical and contemporary heritage to people on organized tours and individual clients at educational establishments, religious and historical sites, museums, and at venues of other significant interest, attractions sites.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tour_guide"
+    },
+    {
+        "title": "Guide",
+        "content": "A guide is a person who leads travelers, sportsmen, or tourists through unknown or unfamiliar locations. The term can also be applied to a person who leads others to more abstract goals such as knowledge or wisdom.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Guide"
+    },
+    {
+        "title": "Highway",
+        "content": "A highway is any public or private road or other public way on land. It is used for major roads, but also includes other public roads and public tracks: It is not an equivalent term to controlled-access highway, or a translation for autobahn, autoroute, etc.\nAccording to Merriam Webster, the use of the term predates the 12th century. According to Etymonline, \"high\" is in the sense of \"main\".\nIn North American and Australian English, major roads such as controlled-access highways or arterial roads are often state highways (Canada: provincial highways). Other roads may be designated \"county highways\" in the US and Ontario. These classifications refer to the level of government (state, provincial, county) that maintains the roadway.\nIn British English, \"highway\" is primarily a legal term. Everyday use normally implies roads, while the legal use covers any route or path with a public right of access, including footpaths etc.\nThe term has led to several related derived terms, including highway system, highway code, highway patrol and highwayman.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Highway"
+    },
+    {
+        "title": "Hotel",
+        "content": "A hotel is an establishment that provides paid lodging on a short-term basis. Facilities provided inside a hotel room may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms. Small, lower-priced hotels may offer only the most basic guest services and facilities. Larger, higher-priced hotels may provide additional guest facilities such as a swimming pool, business centre (with computers, printers, and other office equipment), childcare, conference and event facilities, tennis or basketball courts, gymnasium, restaurants, day spa, and social function services. Hotel rooms are usually numbered (or named in some smaller hotels and B&Bs) to allow guests to identify their room. Some boutique, high-end hotels have custom decorated rooms. Some hotels offer meals as part of a room and board arrangement. In the United Kingdom, a hotel is required by law to serve food and drinks to all guests within certain stated hours. In Japan, capsule hotels provide a tiny room suitable only for sleeping and shared bathroom facilities.\nThe precursor to the modern hotel was the inn of medieval Europe. For a period of about 200 years from the mid-17th century, coaching inns served as a place for lodging for coach travelers. Inns began to cater to richer clients in the mid-18th century. One of the first hotels in a modern sense was opened in Exeter in 1768. Hotels proliferated throughout Western Europe and North America in the early 19th century, and luxury hotels began to spring up in the later part of the 19th century.\nHotel operations vary in size, function, complexity, and cost. Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury amenities, full-service accommodations, an on-site restaurant, and the highest level of personalized service, such as a concierge, room service, and clothes pressing staff. Full-service hotels often contain upscale full-service facilities with many full-service accommodations, an on-site full-service restaurant, and a variety of on-site amenities. Boutique hotels are smaller independent, non-branded hotels that often contain upscale facilities. Small to medium-sized hotel establishments offer a limited amount of on-site amenities. Economy hotels are small to medium-sized hotel establishments that offer basic accommodations with little to no services. Extended stay hotels are small to medium-sized hotels that offer longer-term full-service accommodations compared to a traditional hotel.\nTimeshare and destination clubs are a form of property ownership involving ownership of an individual unit of accommodation for seasonal usage. A motel is a small-sized low-rise lodging with direct access to individual rooms from the car park. Boutique hotels are typically hotels with a unique environment or intimate setting. A number of hotels have entered the public consciousness through popular culture, such as the Ritz Hotel in London. Some hotels are built specifically as destinations in themselves, for example casinos and holiday resorts.\nMost hotel establishments are run by a General Manager who serves as the head executive (often referred to as the \"Hotel Manager\"), department heads who oversee various departments within a hotel (e.g., food service), middle managers, administrative staff, and line-level supervisors. The organizational chart and volume of job positions and hierarchy varies by hotel size, function and class, and is often determined by hotel ownership and managing companies.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Hotel"
+    },
+    {
+        "title": "Hostel",
+        "content": "A hostel is a form of low-cost, short-term shared sociable lodging where guests can rent a bed, usually a bunk bed in a dormitory, with shared use of a lounge and sometimes a kitchen. Rooms can be mixed or single-sex and have private or shared bathrooms. Private rooms may also be available, but the property must offer dormitories to be considered a hostel. Hostels are popular forms of lodging for backpackers, cycle tourists, and gap year travelers. They are part of the sharing economy. Benefits of hostels include lower costs and opportunities to meet people from all over the world, find travel partners, and share travel ideas.Each hostel, hostel chain or hostel association, such as Zostel in India or Hostelling International, caters to a niche market of travelers. For example, one hostel might feature in-house social gatherings such as movie nights or communal dinners, another might feature local tours, one might be known for its parties, and another might have a quieter place to relax in serenity, or be located on the beach. Newer hostels focus on a more trendy design interior, some of which are on par with boutique hotels. Some may cater to older digital nomads, global nomads, and perpetual travelers that prefer slightly more upmarket private rooms or a quieter atmosphere.Many hostels are locally owned and operated, and are often cheaper for both the operator and occupants than hotels. Hostels may offer long-term lodging to guests for free or at a discount in exchange for work as a receptionists or in housekeeping.\nThere are approximately 10,000 hostels in Europe and approximately 300 hostels in the United States. The typical  guest is between 16 and 34 years old.In addition to shared kitchen facilities, some hostels have a restaurant and/or bar. Washing machines and clothes dryers are often provided for an additional fee. Hostels sometimes have entryways for storing gear. Most hostels offer lockers for safely storing valuables. Some offer yoga studios, cinemas, rooftop clubs, and surf camps. Some bare-bones hostels do not provide linens. Some hostels may have a curfew and daytime lockouts, and some, albeit  few, require occupants to do chores apart from washing and drying up after food preparation.A mobile hostel is a temporary hostel that can take the form of a campsite,  bus, van, or a short term arrangement in a permanent building. They have been used at large festivals where there is a shortage of lodging.In some cities, hostels reported a higher average income per room than hotels. For example, in Honolulu, Hawaii, upscale hotels reported average daily room rates of $173 in 2006, while hostel rooms brought in as much as $200 per night, for rooms of 8 guests paying $25 each. Even during the financial crisis of 2007\u20132008, many hostels reported increased occupancy numbers in a time when hotel bookings are down.A 2013 study in Australia showed that youth travel was the fastest growing travel demographic and that the hostel industry was growing at a faster rate than the hotel industry. It showed that youth travel can lead to higher overall spending due to longer trips than traditional vacations. In New Zealand, backpackers hostels had a 13.5% share of lodging guest/nights in 2007.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Hostel"
+    },
+    {
+        "title": "Holiday",
+        "content": "A holiday is a day set aside by custom or by law on which normal activities, especially business or work including school, are suspended or reduced. Generally, holidays are intended to allow individuals to celebrate or commemorate an event or tradition of cultural or religious significance. Holidays may be designated by governments, religious institutions, or other groups or organizations. The degree to which normal activities are reduced by a holiday may depend on local laws, customs, the type of job held or personal choices.\nThe concept of holidays often originated in connection with religious observances.  The intention of a holiday was typically to allow individuals to tend to religious duties associated with important dates on the calendar. In most modern societies, however, holidays serve as much of a recreational function as any other weekend days or activities.\nIn many societies there are important distinctions between holidays designated by governments and holidays designated by religious institutions. For example, in many predominantly Christian nations, government-designed holidays may center on Christian holidays, though non-Christians may instead observe religious holidays associated with their faith. In some cases, a holiday may only be nominally observed. For example, many Jews in the Americas and Europe treat the relatively minor Jewish holiday of Hanukkah as a \"working holiday\", changing very little of their daily routines for this day.\nThe word holiday has differing connotations in different regions. In the United States the word is used exclusively to refer to the nationally, religiously or culturally observed day(s) of rest or celebration, or the events themselves, whereas in the United Kingdom and other Commonwealth nations, the word may refer to the period of time where leave from one's duties has been agreed, and is used as a synonym to the US preferred vacation. This time is usually set aside for rest, travel or the participation in recreational activities, with entire industries targeted to coincide or enhance these experiences. The days of leave may not coincide with any specific customs or laws. Employers and educational institutes may designate \u2018holidays\u2019 themselves which may or may not overlap nationally or culturally relevant dates, which again comes under this connotation, but it is the first implication detailed that this article is concerned with.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Holiday"
+    },
+    {
+        "title": "hiking (sport)",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Apalachian trail",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Inn",
+        "content": "Inns are generally establishments or buildings where travelers can seek lodging, and usually, food and drink. Inns are typically located in the country or along a highway; before the advent of motorized transportation they also provided accommodation for horses.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Inn"
+    },
+    {
+        "title": "Island",
+        "content": "An island or isle is any piece of subcontinental land that is surrounded by water. Very small islands such as emergent land features on atolls can be called islets, skerries, cays or keys. An island in a river or a lake island may be called an eyot or ait, and a small island off the coast may be called a holm. Sedimentary islands in the Ganges delta are called chars. A grouping of geographically or geologically related islands, such as the Philippines, is referred to as an archipelago.\nAn island may be described as such, despite the presence of an artificial land bridge; examples are Singapore and its causeway, and the various Dutch delta islands, such as IJsselmonde. Some places may even retain \"island\" in their names for historical reasons after being connected to a larger landmass by a land bridge or landfill, such as Coney Island and Coronado Island, though these are, strictly speaking, tied islands. Conversely, when a piece of land is separated from the mainland by a man-made canal, for example the Peloponnese by the Corinth Canal, more or less the entirety of Fennoscandia by the White Sea Canal, or Marble Hill in northern Manhattan during the time between the building of the United States Ship Canal and the filling-in of the Harlem River which surrounded the area, it is generally not considered an island.\nThere are two main types of islands in the sea: continental and oceanic. There are also artificial islands, which are man-made.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Island"
+    },
+    {
+        "title": "Travel itinerary",
+        "content": "A travel itinerary is a schedule of events relating to planned travel, generally including destinations to be visited at specified times and means of transportation to move between those destinations. For example, both the plan of a business trip and the route of a road trip, or the proposed outline of one, would be travel itineraries.\nThe construction of a travel itinerary may be assisted by the use of travel literature, including travel journals and diaries, a guide book containing information for visitors or tourists about the destination, or a trip planner website dedicated to helping the users plan their trips. Typically a travel itinerary is prepared by a travel agent who assists one in conducting their travel for business or leisure. Most commonly a travel agent provides a list of pre-planned travel itineraries to a traveller, who can then pick one that they're most satisfied with. However, with the advent of the internet, online maps, navigation, online trip planners and easier access to travel information in general, travellers, especially the younger ones prefer a more do-it-yourself approach to travel planning. A travel itinerary might serve different purposes for different kinds of travellers. A typical business traveller's itinerary might include information about meetings, events and contacts with some time for leisure travel, while a leisure traveller's itinerary would predominantly include destinations, points of interest and transportation means. Online trip planners like Sygic, Roadtrippers and Triphobo.com help cater to different traveller profiles by providing easier access to information and a tool to organise a travel itinerary more efficiently. In international travel, persons visiting certain countries may be required to provide their travel itinerary to authorities to ensure that their plans are lawful.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Travel_itinerary"
+    },
+    {
+        "title": "Road trip",
+        "content": "A road trip, sometimes spelled roadtrip, is a long-distance journey on the road. Typically, road trips are long distances traveled by automobile.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Road_trip"
+    },
+    {
+        "title": "Wind Jet",
+        "content": "Wind Jet S.p.A. was an Italian low-cost airline based in Catania, Italy. It was founded in 2003, following the disbandment of Air Sicilia by current CEO Antonino Pulvirenti, also owner of football team Calcio Catania. On 11 August 2012 the airline ceased operations until further notice due to financial troubles. At that time it was the third-largest Italian airline by passenger numbers, and operated national and European flights primarily from its hub in Catania.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Wind_Jet"
+    },
+    {
+        "title": "Lake",
+        "content": "A lake is an area filled with water, localized in a basin, surrounded by land, apart from any river or other outlet that serves to feed or drain the lake. Lakes lie on land and are not part of the ocean, although like the much larger oceans, they form part of earth's water cycle. Lakes are distinct from lagoons which are generally coastal parts of the ocean. They are generally larger and deeper than ponds, which also lie on land, though there are no official or scientific definitions. Lakes can be contrasted with rivers or streams, which are usually flowing in a channel on land. Most lakes are fed and drained by rivers and streams.\nNatural lakes are generally found in mountainous areas, rift zones, and areas with ongoing glaciation. Other lakes are found in endorheic basins or along the courses of mature rivers, where a river channel has widened into a basin. In some parts of the world there are many lakes because of chaotic drainage patterns left over from the last Ice Age. All lakes are temporary over geologic time scales, as they will slowly fill in with sediments or spill out of the basin containing them.\nMany lakes are artificial and are constructed for industrial or agricultural use, for hydro-electric power generation or domestic water supply, or for aesthetic, recreational purposes, or other activities.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Lake"
+    },
+    {
+        "title": "Landing",
+        "content": "Landing is the last part of a flight, where a flying animal, aircraft, or spacecraft returns to the ground. When the flying object returns to water, the process is called alighting, although it is commonly called \"landing\", \"touchdown\" or \"splashdown\" as well. A normal aircraft flight would include several parts of flight including taxi, takeoff, climb, cruise, descent and landing.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Landing"
+    },
+    {
+        "title": "Leisure",
+        "content": "Leisure has often been defined as a quality of experience or as free time. Free time is time spent away from business, work, job hunting, domestic chores, and education, as well as necessary activities such as eating and sleeping. Situationist International proposes that leisure does not evolve from free time, and free-time is an illusory concept that is rarely fully \"free\"; economic and social forces appropriate free time from the individual and sell it back to them as the commodity known as \"leisure\". Certainly most people's leisure activities are not a completely free choice and may be constrained by social pressures, e.g. people may be coerced into spending time gardening by the need to keep up with the standard of neighbouring gardens or go to a party because of social pressures.\nLeisure as experience usually emphasizes dimensions of perceived freedom and choice. It is done for \"its own sake\", for the quality of experience and involvement. Other classic definitions include Thorsten Veblen's (1899) of \"nonproductive consumption of time.\" Different disciplines have definitions reflecting their common issues: for example, sociology on social forces and contexts and psychology as mental and emotional states and conditions. From a research perspective, these approaches have an advantage of being quantifiable and comparable over time and place.Leisure studies and sociology of leisure are the academic disciplines concerned with the study and analysis of leisure. Research has shown that practicing creative leisure activities is interrelated with the emotional creativity. Recreation differs from leisure in that it is a purposeful activity that includes the experience of leisure in activity contexts. Economists consider that leisure times are valuable to a person like wages that they could earn for the same time spend towards the activity. If it were not, people would have worked instead of taking leisure. However, the distinction between leisure and unavoidable activities is not a rigidly defined one, e.g. people sometimes do work-oriented tasks for pleasure as well as for long-term utility. A related concept is social leisure, which involves leisurely activities in social settings, such as extracurricular activities, e.g. sports, clubs. Another related concept is that of family leisure. Relationships with others is usually a major factor in both satisfaction and choice.\nThe concept of leisure as a human right was realised in article 24 of the Universal Declaration of Human Rights.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Leisure"
+    },
+    {
+        "title": "Map",
+        "content": "A map is a symbolic depiction emphasizing relationships between elements of some space, such as objects, regions, or themes.\nMany maps are static, fixed to paper or some other durable medium, while others are dynamic or interactive. Although most commonly used to depict geography, maps may represent any space, real or fictional, without regard to context or scale, such as in brain mapping, DNA mapping, or computer network topology mapping. The space being mapped may be two dimensional, such as the surface of the earth, three dimensional, such as the interior of the earth, or even more abstract spaces of any dimension, such as arise in modeling phenomena having many independent variables.\nAlthough the earliest maps known are of the heavens, geographic maps of territory have a very long tradition and exist from ancient times. The word \"map\" comes from the medieval Latin Mappa mundi, wherein mappa meant napkin or cloth and mundi the world. Thus, \"map\" became a shortened term referring to a two-dimensional representation of the surface of the world.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Map"
+    },
+    {
+        "title": "Mountain",
+        "content": "A mountain is a large landform that rises above the surrounding land in a limited area, usually in the form of a peak. A mountain is generally considered to be steeper than a hill. Mountains are formed through tectonic forces or volcanism. These forces can locally raise the surface of the earth. Mountains erode slowly through the action of rivers, weather conditions, and glaciers. A few mountains are isolated summits, but most occur in huge mountain ranges.\nHigh elevations on mountains produce colder climates than at sea level. These colder climates strongly affect the ecosystems of mountains: different elevations have different plants and animals. Because of the less hospitable terrain and climate, mountains tend to be used less for agriculture and more for resource extraction and recreation, such as mountain climbing and skiing.\nThe highest mountain on Earth is Mount Everest in the Himalayas of Asia, whose summit is 8,850 m (29,035 ft) above mean sea level. The highest known mountain on any planet in the Solar System is Olympus Mons on Mars at 21,171 m (69,459 ft).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Mountain"
+    },
+    {
+        "title": "Museum",
+        "content": "A museum ( mew-ZEE-\u0259m; plural museums or, rarely, musea) is an institution that cares for (conserves) a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.  Many public museums make these items available for public viewing through exhibits that may be permanent or temporary. The largest museums are located in major cities throughout the world, while thousands of local museums exist in smaller cities, towns, and rural areas. Museums have varying aims, ranging from serving researchers and specialists to serving the general public. The goal of serving researchers is increasingly shifting to serving the general public.\nThere are many types of museums, including art museums, natural history museums, science museums, war museums, and children's museums. Amongst the world's largest and visited museums are the Louvre in Paris, the National Museum of China in Beijing, the Smithsonian Institution in Washington, D.C., the British Museum and National Gallery in London, the Metropolitan Museum of Art in New York City and Vatican Museums in Vatican City.  According to the International Council of Museums, there are more than 55,000 museums in 202 countries.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Museum"
+    },
+    {
+        "title": "National park",
+        "content": "A national park is a park in use for conservation purposes, created and protected by national governments. Often it is a reserve of natural, semi-natural, or developed land that a sovereign state declares or owns. Although individual nations designate their own national parks differently, there is a common idea: the conservation of 'wild nature' for posterity and as a symbol of national pride.An international organization, the International Union for Conservation of Nature (IUCN), and its World Commission on Protected Areas (WCPA), has defined \"National Park\" as its Category II type of protected areas. According to the IUCN, 6,555 national parks worldwide met its criteria in 2006. IUCN is still discussing the parameters of defining a national park.While this type of national park had been proposed previously, the United States established the first \"public park or pleasuring-ground for the benefit and enjoyment of the people\", Yellowstone National Park, in 1872. Although Yellowstone was not officially termed a \"national park\" in its establishing law, it was always termed such in practice and is widely held to be the first and oldest national park in the world. However, the Tobago Main Ridge Forest Reserve (established in 1776), and the area surrounding Bogd Khan Uul Mountain (1778) are seen as the oldest legally protected areas, predating Yellowstone by nearly a century.National parks are almost always open to visitors.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/National_park"
+    },
+    {
+        "title": "Ocean liner",
+        "content": "An ocean liner is a passenger ship primarily used as a form of transportation across seas or oceans. Liners may also carry cargo or mail, and may sometimes be used for other purposes (such as for pleasure cruises or as hospital ships).Cargo vessels running to a schedule are sometimes called liners. The category does not include ferries or other vessels engaged in short-sea trading, nor dedicated cruise ships where the voyage itself, and not transportation, is the prime purpose of the trip. Nor does it include tramp steamers, even those equipped to handle limited numbers of passengers. Some shipping companies refer to themselves as \"lines\" and their container ships, which often operate over set routes according to established schedules, as \"liners\".\nOcean liners are usually strongly built with a high freeboard to withstand rough seas and adverse conditions encountered in the open ocean. Additionally, they are often designed with thicker hull plating than is found on cruise ships, and have large capacities for fuel, food and other consumables on long voyages.The first ocean liners were built in the mid-19th century. Technological innovations such as the steam engine and steel hull allowed larger and faster liners to be built, giving rise to a competition between world powers of the time, especially between the United Kingdom and Germany. Once the dominant form of travel between continents, ocean liners were rendered largely obsolete by the emergence of long-distance aircraft after World War II. Advances in automobile and railway technology also played a role. After RMS Queen Elizabeth 2 was retired in 2008, the only ship still in service as an ocean liner is the RMS Queen Mary 2. Of the many ships constructed over the decades, only nine ocean liners made before 1967 survive.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ocean_liner"
+    },
+    {
+        "title": "Ocean",
+        "content": "An ocean is a body of water that composes much of a planet's hydrosphere. On Earth, an ocean is one of the major conventional divisions of the World Ocean. These are, in descending order by area, the Pacific, Atlantic, Indian, Southern (Antarctic), and Arctic Oceans. The phrases \"the ocean\" or \"the sea\" used without specification refer to the interconnected body of salt water covering the majority of the Earth's surface. As a general term, \"the ocean\" is mostly interchangeable with \"the sea\" in American English, but not in British English. Strictly speaking, a sea is a body of water (generally a division of the world ocean) partly or fully enclosed by land.Saline seawater covers approximately 361,000,000 km2 (139,000,000 sq mi) and is customarily divided into several principal oceans and smaller seas, with the ocean covering approximately 71% of Earth's surface and 90% of the Earth's biosphere. The ocean contains 97% of Earth's water, and oceanographers have stated that less than 20% of the World Ocean has been mapped. The total volume is approximately 1.35 billion cubic kilometers (320 million cu mi) with an average depth of nearly 3,700 meters (12,100 ft).As the world ocean is the principal component of Earth's hydrosphere, it is integral to life, forms part of the carbon cycle, and influences climate and weather patterns. The World Ocean is the habitat of 230,000 known species, but because much of it is unexplored, the number of species that exist in the ocean is much larger, possibly over two million. The origin of Earth's oceans is unknown; oceans are thought to have formed in the Hadean eon and may have been the cause for the emergence of life.\nExtraterrestrial oceans may be composed of water or other elements and compounds. The only confirmed large stable bodies of extraterrestrial surface liquids are the lakes of Titan, although there is evidence for the existence of oceans elsewhere in the Solar System. Early in their geologic histories, Mars and Venus are theorized to have had large water oceans. The Mars ocean hypothesis suggests that nearly a third of the surface of Mars was once covered by water, and a runaway greenhouse effect may have boiled away the global ocean of Venus. Compounds such as salts and ammonia dissolved in water lower its freezing point so that water might exist in large quantities in extraterrestrial environments as brine or convecting ice. Unconfirmed oceans are speculated beneath the surface of many dwarf planets and natural satellites; notably, the ocean of the moon Europa is estimated to have over twice the water volume of Earth. The Solar System's giant planets are also thought to have liquid atmospheric layers of yet to be confirmed compositions. Oceans may also exist on exoplanets and exomoons, including surface oceans of liquid water within a circumstellar habitable zone. Ocean planets are a hypothetical type of planet with a surface completely covered with liquid.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ocean"
+    },
+    {
+        "title": "Passport",
+        "content": "A passport is a travel document, usually issued by a country's government to its citizens, that certifies the identity and nationality of its holder primarily for the purpose of international travel. Standard passports may contain information such as the holder's name, place and date of birth, photograph, signature, and other relevant identifying information.\nMany countries have either begun issuing or plan to issue biometric passports that contains an embedded microchip, making them machine-readable and difficult to counterfeit. As of January 2019, there were over 150 jurisdictions issuing e-passports. Previously issued non-biometric machine-readable passports usually remain valid until their respective expiration dates.\n\nA passport holder is normally entitled to enter the country that issued the passport, though some people entitled to a passport may not be full citizens with right of abode (e.g. American nationals or British nationals). A passport does not of itself create any rights in the country being visited or obligate the issuing country in any way, such as providing consular assistance. Some passports attest to the bearer having a status as a diplomat or other official, entitled to rights and privileges such as immunity from arrest or prosecution.Many countries normally allow entry to holders of passports of other countries, sometimes requiring a visa also to be obtained, but this is not an automatic right. Many other additional conditions, such as not being likely to become a public charge for financial or other reasons, and the holder not having been convicted of a crime, may apply. Where a country does not recognise another, or is in dispute with it, it may prohibit the use of their passport for travel to that other country, or may prohibit entry to holders of that other country's passports, and sometimes to others who have, for example, visited the other country. Some individuals are subject to sanctions which deny them entry into particular countries.\nSome countries and international organisations issue travel documents which are not standard passports, but enable the holder to travel internationally to countries that recognise the documents. For example, stateless persons are not normally issued a national passport, but may be able to obtain a refugee travel document or the earlier \"Nansen passport\" which enables them to travel to countries which recognise the document, and sometimes to return to the issuing country.\nPassports may be requested in other circumstances to confirm identification such as checking into a hotel or when changing money to a local currency. Passports and other travel documents have an expiry date, after which it is no longer recognised, but it is recommended that a passport is valid for at least six months as many airlines deny boarding to passengers whose passport has a shorter expiry date, even if the destination country may not have such a requirement.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Passport"
+    },
+    {
+        "title": "Image",
+        "content": "An image (from Latin: imago) is an artifact that depicts visual perception, such as a photograph or other two-dimensional picture, that resembles a subject\u2014usually a physical object\u2014and thus provides a depiction of it. In the context of signal processing, an image is a distributed amplitude of color(s). A pictorial script is a writing system that employs images as symbols for various semantic entities, rather than the abstract signs used by alphabets.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Image"
+    },
+    {
+        "title": "Postcard",
+        "content": "A postcard or post card is a piece of thick paper or thin cardboard, typically rectangular, intended for writing and mailing without an envelope. Non-rectangular shapes may also be used but are rare. There are novelty exceptions, such as wooden postcards, copper postcards sold in the Copper Country of the U.S. state of Michigan, and coconut \"postcards\" from tropical islands.\nIn some places, one can send a postcard for a lower fee than a letter. Stamp collectors distinguish between postcards (which require a postage stamp) and postal cards (which have the postage pre-printed on them). While a postcard is usually printed and sold by a private company, individual or organization, a postal card is issued by the relevant postal authority (often with pre-printed postage).Production of postcards blossomed in the late 19th and early 20th centuries. As an easy and quick way for individuals to communicate, they became extremely popular. The study and collecting of postcards is termed deltiology (from Greek deltion, small writing tablet, and English -logy, the study of).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Postcard"
+    },
+    {
+        "title": "Recreation",
+        "content": "Recreation is an activity of leisure, leisure being discretionary time. The \"need to do something for recreation\" is an essential element of human biology and psychology. Recreational activities are often done for enjoyment, amusement, or pleasure and are considered to be \"fun\".",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Recreation"
+    },
+    {
+        "title": "Resort",
+        "content": "A resort (North American English) is a self-contained commercial establishment that tries to provide most of a vacationer's wants, such as food, drink, lodging, sports, entertainment, and shopping, on the premises. The term resort may be used for a hotel property that provides an array of amenities, typically including entertainment and recreational activities. A hotel is frequently a central feature of a resort, such as the Grand Hotel at Mackinac Island, Michigan. Some resorts are also condominium complexes that are timeshares or owed fractionally or wholly owned condominium. A resort is not always a commercial establishment operated by a single company, but in the late 20th century, that sort of facility became more common.\nIn British English, \"resort\" means a town which people visit for holidays and days out which usually contains hotels at which such holidaymakers stay.  Examples would include Blackpool and Brighton.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Resort"
+    },
+    {
+        "title": "Safari",
+        "content": "A safari  (Swahili: safari) is an overland journey, usually a trip by tourists in Africa. In the past, the trip was often a big-game hunt, but today, safaris are often to observe and photograph wildlife\u2014or hiking and sightseeing, as well.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Safari"
+    },
+    {
+        "title": "Schedule",
+        "content": "A schedule or a timetable, as a basic time-management tool, consists of a list of times at which possible tasks, events, or actions are intended to take place, or of a sequence of events in the chronological order in which such things are intended to take place. The process of creating a schedule \u2014 deciding how to order these tasks and how to commit resources between the variety of possible tasks \u2014 is called scheduling, and a person responsible for making a particular schedule may be called a scheduler. Making and following schedules is an ancient human activity.Some scenarios associate \"this kind of planning\" with learning \"life skills\".\nSchedules are necessary, or at least useful, in situations where individuals need to know what time they must be at a specific location to receive a specific service, and where people need to accomplish a set of goals within a set time period.\nSchedules can usefully span both short periods, such as a daily or weekly schedule, and long-term planning with respect to periods of several months or years. They are often made using a calendar, where the person making the schedule can note the dates and times at which various events are planned to occur. Schedules that do not set forth specific times for events to occur may instead list algorithmically an expected order in which events either can or must take place.\nIn some situations, schedules can be uncertain, such as where the conduct of daily life relies on environmental factors outside human control. People who are vacationing or otherwise seeking to reduce stress and achieve relaxation may intentionally avoid having a schedule for a certain period of time.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Schedule"
+    },
+    {
+        "title": "Panorama",
+        "content": "A panorama (formed from Greek \u03c0\u1fb6\u03bd \"all\" + \u1f45\u03c1\u03b1\u03bc\u03b1 \"sight\") is any wide-angle view or representation of a physical space, whether in painting, drawing, photography, film, seismic images or a three-dimensional model.  The word was originally coined in the 18th century by the English (Irish descent) painter Robert Barker to describe his panoramic paintings of Edinburgh and London. The motion-picture term panning is derived from panorama.A panoramic view is also purposed for multimedia, cross-scale applications to an outline overview (from a distance) along and across repositories. This so-called \"cognitive panorama\" is a panoramic view over, and a combination of, cognitive spaces used to capture the larger scale.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Panorama"
+    },
+    {
+        "title": "Shore",
+        "content": "A shore or a shoreline is the fringe of land at the edge of a large body of water, such as an ocean, sea, or lake. In physical oceanography, a shore is the wider fringe that is geologically modified by the action of the body of water past and present, while the beach is at the edge of the shore, representing the intertidal zone where there is one. In contrast to a coast, a shore can border any body of water, while the coast must border an ocean; in that sense a coast is a type of shore; however, coast often refers to an area far wider than the shore, often stretching miles into the interior.\nShores are influenced by the topography of the surrounding landscape, as well as by water induced erosion, such as waves.  The geological composition of rock and soil dictates the type of shore which is created.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Shore"
+    },
+    {
+        "title": "Ski lodge",
+        "content": "A ski lodge is a structure  usually located in a ski area that provides amenities such as food, beverages, restrooms, and locker rooms for skiers and snowboarders.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ski_lodge"
+    },
+    {
+        "title": "Tourism",
+        "content": "Tourism is travel for pleasure or business; also the theory and practice of touring, the business of attracting, accommodating, and entertaining tourists, and the business of operating tours.  The World Tourism Organization defines tourism more generally, in terms which go \"beyond the common perception of tourism as being limited to holiday activity only\", as people \"traveling to and staying in places outside their usual environment for not more than one consecutive year for leisure and not less than 24 hours, business and other purposes\".Tourism can be domestic (within the traveller's own country) or international, and international tourism has both incoming and outgoing implications on a country's balance of payments.\nTourism numbers declined as a result of a strong economic slowdown (the late-2000s recession) between the second half of 2008 and the end of 2009, and in consequence of the outbreak of the 2009 H1N1 influenza virus, but slowly recovered. Globally, international tourism receipts (the travel item in balance of payments) grew to US$1.03 trillion (\u20ac740 billion) in 2005, corresponding to an increase in real terms of 3.8% from 2010. International tourist arrivals surpassed the milestone of 1 billion tourists globally for the first time in 2012, emerging source markets such as China, Russia, and Brazil had significantly increased their spending over the previous decade. The ITB Berlin is the world's leading tourism trade-fair. Global tourism accounts for c. 8% of global greenhouse-gas emissions.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tourism"
+    },
+    {
+        "title": "Souvenir",
+        "content": "A souvenir  (from French, meaning \"a remembrance or memory\"), memento, keepsake, or token of remembrance is an object a person acquires for the memories the owner associates with it. A souvenir can be any object that can be collected or purchased and transported home by the traveler as a memento of a visit. While there is no set minimum or maximum cost that one is required to adhere to when purchasing a souvenir, etiquette would suggest to keep it within a monetary amount that the receiver would not feel uncomfortable with when presented the souvenir. The object itself may have intrinsic value, or be a symbol of experience. Without the owner's input, the symbolic meaning is invisible and cannot be articulated.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Souvenir"
+    },
+    {
+        "title": "Bus station",
+        "content": "A bus station is a structure where city or intercity buses stop to pick up and drop off passengers. While the term  bus depot can also be used to refer to a bus station, it generally refers to a bus garage. A bus station is larger than a bus stop, which is usually simply a place on the roadside, where buses can stop. It may be intended as a terminal station for a number of routes, or as a transfer station where the routes continue.\nBus station platforms may be assigned to fixed bus lines, or variable in combination with a dynamic passenger information system. The latter requires fewer platforms, but does not supply the passenger the comfort of knowing the platform well in advance and waiting there.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bus_station"
+    },
+    {
+        "title": "Train station",
+        "content": "A train station, railway station, railroad station or depot is a railway facility or area where trains regularly stop to load or unload passengers or freight or both. It generally consists of at least one track-side platform and a station building (depot) providing such ancillary services as ticket sales, waiting rooms and baggage/freight service. If a station is on a single-track line, it often has a passing loop to facilitate traffic movements. The smallest stations are most often referred to as \"stops\" or, in some parts of the world, as \"halts\" (flag stops).\nStations may be at ground level, underground or elevated. Connections may be available to intersecting rail lines or other transport modes such as buses, trams or other rapid transit systems.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Train_station"
+    },
+    {
+        "title": "Subway (underpass)",
+        "content": "In the United Kingdom, the Republic of Ireland, Hong Kong and Commonwealth countries such as India, South Africa, Australia and New Zealand (but not commonly in Canada), a subway is normally an underpass for pedestrians and/or cyclists beneath a road or railway, allowing them to reach the other side in safety. Subways may also be constructed for the benefit of wildlife.\nIn the United States, as used by the California Department of Transportation and in parts of Pennsylvania such as Harrisburg, Duncannon and Wyoming County, it can mean a depressed road undercrossing.Subways are less common in North American cities than in European cities of comparable size. They are constructed when it is necessary for pedestrians to cross a railway line or a dual carriageway such as an interstate highway, and they appear at the exits from underground rapid transit systems, but one would be rarely built to enable people to cross an ordinary city street. When they are built, the term pedestrian underpass is more likely to be used, because \"subway\" in North America refers to rapid transit systems such as the New York City Subway or the Toronto Subway. This usage also occurs in Scotland, where the underground railway in Glasgow is referred to as the Glasgow Subway.\nIn the Philippines, the term is also underpass, and there are two types: underpasses for pedestrians such as along Ayala Avenue in Makati and in the City of Manila near Quiapo Church, and vehicular ones along the length of EDSA and other thoroughfares. One of the earliest and most notable vehicular underpasses is the \"Lagusnilad\" in front of Manila City Hall.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Subway_(underpass)"
+    },
+    {
+        "title": "Suitcase",
+        "content": "A suitcase is a form of luggage. It is often a somewhat flat, rectangular-shaped bag with somewhat rounded square corners, either metal, hard plastic or made of cloth, vinyl or leather that more or less retains its shape. Vinyl, leather or cloth suitcases may have a metal frame. It has a carrying handle on one side and is used mainly for transporting clothes, toiletries and other small possessions during trips. Hardshell suitcases open on hinges like a door. Suitcases may lock with keys or a combination.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Suitcase"
+    },
+    {
+        "title": "Sunscreen",
+        "content": "Sunscreen, also known as Sunblock or Suntan Lotion , is a lotion, spray, gel, foam (such as an expanded foam lotion or whipped lotion), stick or other topical product that absorbs or reflects some of the sun's ultraviolet (UV) radiation and thus helps protect against sunburn. Diligent use of sunscreen can also help to slow or temporarily prevent the development of wrinkles, dark spots and sagging skin.\nDepending on the mode of action, sunscreens can be classified into physical sunscreens (i.e., zinc oxide and titanium dioxide, which stay on the surface of the skin and mainly deflect the UV light) or chemical sunscreens (i.e., UV organic filters, which absorb the UV light).\nMedical organizations such as the American Cancer Society recommend the use of sunscreen because it aids in the prevention of squamous cell carcinomas. The routine use of sunscreens may also reduce the risk of melanoma. However, many sunscreens do not block UVA (UVA) radiation, yet protection from UVA has been shown to be important for the prevention of skin cancer.To provide a better indication of their ability to protect against skin cancer and other diseases associated with UVA radiation (such as phytophotodermatitis), the use of broad-spectrum (UVA/UVB) sunscreens has been recommended.Sunscreens are commonly rated and labeled with a sun protection factor (SPF) that measures the fraction of sunburn-producing UV rays that reach the skin. For example, \"SPF 15\" means that \u200b1\u204415 of the burning radiation reaches the skin through the recommended thickness of sunscreen. Other rating systems indicate the degree of protection from non-burning UVA radiation.\nSunscreens are designed to remain effective at original strength for up to three years, and are typically of doubtful value after that period. Some sunscreens include an expiration date\u2014a date indicating when they are no longer expected to be effective.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sunscreen"
+    },
+    {
+        "title": "Swimsuit",
+        "content": "A swimsuit is an item of clothing designed to be worn by people engaging in a water-based activity or water sports, such as swimming, diving and surfing, or sun-orientated activities, such as sun bathing. Different types may be worn by men, women, and children. A swimsuit can be described by various names, some of which are used only in particular locations, including swimwear, bathing suit, swimming costume, bathing costume, swimming suit, swimmers, swimming togs, bathers, cossie (short for \"costume\"), or swimming trunks for men, besides others.\nA swimsuit can be worn as an undergarment in sports that require a wetsuit such as water skiing, scuba diving, surfing, and wakeboarding. Swimsuits may also be worn to display the wearer's physical attributes, as in the case of beauty pageants or bodybuilding contests, and glamour photography and magazines like the annual Sports Illustrated Swimsuit Issue featuring models and sports personalities in swimsuits.\nThere is a very wide range of styles of modern swimsuits available, which vary as to body coverage and materials. The choice of style may depend on community standards of modesty, as well as current fashions, and personal preferences. The choice will also consider the occasion, for example whether it is to be worn for a passive occasion such as sunbathing or for an activity such as surfing or swimsuit competition. Swimwear for males usually exposes the chest, while suits for females usually cover at least the breasts.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Swimsuit"
+    },
+    {
+        "title": "Taxicab",
+        "content": "A taxicab, also known as a taxi or a cab, is a type of vehicle for hire with a driver, used by a single passenger or small group of passengers, often for a non-shared ride. A taxicab conveys passengers between locations of their choice. This differs from public transport where the pick-up and drop-off locations are decided by the service provider, not by the customers, although demand responsive transport and share taxis provide a hybrid bus/taxi mode.\nThere are four distinct forms of taxicab, which can be identified by slightly differing terms in different countries:\n\nHackney carriages, also known as public hire, hailed or street taxis, licensed for hailing throughout communities\nPrivate hire vehicles, also known as minicabs or private hire taxis, licensed for pre-booking only\nTaxibuses, also come in many variations throughout the developing countries as jitneys or jeepney, operating on pre-set routes typified by multiple stops and multiple independent passengers\nLimousines, specialized vehicle licensed for operation by pre-bookingAlthough types of vehicles and methods of regulation, hiring, dispatching, and negotiating payment differ significantly from country to country, many common characteristics exist. Disputes over whether ridesharing companies should be regulated as taxicabs resulted in some jurisdictions creating new regulations for these services.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Taxicab"
+    },
+    {
+        "title": "Tent",
+        "content": "A tent ( (listen)) is a shelter consisting of sheets of fabric or other material draped over, attached to a frame of poles or attached to a supporting rope. While smaller tents may be free-standing or attached to the ground, large tents are usually anchored using guy ropes tied to stakes or tent pegs. First used as portable homes by nomads, tents are now more often used for recreational camping and as temporary shelters.\nA form of tent called a teepee or tipi, noted for its cone shape and peak smoke-hole, was also used by Native American tribes and Aboriginal Canadians of the Plains Indians since ancient times, variously estimated from 10,000 years BCE to 4,000 BCE.Tents range in size from \"bivouac\" structures, just big enough for one person to sleep in, up to huge circus tents capable of seating thousands of people. \nTents for recreational camping fall into two categories. Tents intended to be carried by backpackers are the smallest and lightest type. Small tents may be sufficiently light that they can be carried for long distances on a touring bicycle, a boat, or when backpacking.\nThe second type are larger, heavier tents which are usually carried in a car or other vehicle. Depending on tent size and the experience of the person or people involved, such tents can usually be assembled (pitched) in between 5 and 25 minutes; disassembly (striking) takes a similar length of time. Some very specialised tents have spring-loaded poles and can be 'pitched' in seconds, but take somewhat longer to 'strike' (take down and pack).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tent"
+    },
+    {
+        "title": "Tour guide",
+        "content": "For the gadget, see wireless tour guide system.\nA tour guide (U.S.) or a tourist guide (European) is a person who provides assistance, information on cultural, historical and contemporary heritage to people on organized tours and individual clients at educational establishments, religious and historical sites, museums, and at venues of other significant interest, attractions sites.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tour_guide"
+    },
+    {
+        "title": "Tourist trap",
+        "content": "A tourist trap is an establishment (or group of establishments) that has been created or re-purposed with the aim of attracting tourists and their money. Tourist traps will typically provide services, entertainment, food, souvenirs and other products for tourists to purchase.While some establishments may be viewed by tourists as fun and interesting diversions, tourist traps can also have negative connotations when they direct travelers off highways into commercial areas, and could potentially be tacky, deceitful and an overall waste of time and money.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tourist_trap"
+    },
+    {
+        "title": "Train",
+        "content": "A train is a form of rail transport consisting of a series of connected vehicles that generally run along a railroad (or railway) track to transport passengers or cargo (also known as \"freight\" or \"goods\"). The word \"train\" comes from the Old French trahiner, derived from the Latin trahere meaning \"to pull\" or \"to draw\".Motive power for a train is provided by a separate locomotive or individual motors in a self-propelled multiple unit. The term \"engine\" is often used as an alternative to locomotive. Although historically steam propulsion dominated, the most common types of locomotive are diesel and electric, the latter supplied by overhead wires or additional rails. Trains can also be hauled by horses, pulled by engine or water-driven cable or wire winch, run downhill using gravity, or powered by pneumatics, gas turbines or electric batteries.\nThe track usually consists of two running rails with a fixed spacing, which may be supplemented by additional rails such as electric conducting rails (\"third rail\") and rack rails. Monorails and maglev guideways are also occasionally used.Passenger trains include passenger-carrying vehicles and can often be very long and fast. High-speed rail systems began expanding rapidly in the late 20th century, and this remains a major subject of further development. The term \"light rail\" is sometimes used to refer to a modern tram system, but it may also mean an intermediate form between a tram and a train, similar to a heavy rail rapid transit system.\nFreight (goods) trains use freight cars (or wagons/trucks) to transport goods or materials (cargo). It is possible to carry passengers and freight in the same train using a mixed consist.\nRail cars and machinery that are used for the maintenance and repair of tracks, are termed \"maintenance of way\" equipment; these may be assembled into maintenance of way trains. Similarly, dedicated trains may be used to provide support services to stations along a train line, such as garbage or revenue collection.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Train"
+    },
+    {
+        "title": "Transport",
+        "content": "Transport (commonly used in the U.K.), or transportation (used in the U.S.), is the movement of humans, animals and goods from one location to another. In other words, the action of transport is defined as a particular movement of an organism or thing from a point A (a place in space) to a point B.  Modes of transport include air, land (rail and road), water, cable, pipeline and space. The field can be divided into infrastructure, vehicles and operations. Transport enables trade between people, which is essential for the development of civilizations.\nTransport infrastructure consists of the fixed installations, including roads, railways, airways, waterways, canals and pipelines and terminals such as airports, railway stations, bus stations, warehouses, trucking terminals, refueling depots (including fueling docks and fuel stations) and seaports. Terminals may be used both for interchange of passengers and cargo and for maintenance.\nVehicles traveling on these networks may include automobiles, bicycles, buses, trains, trucks, helicopters, watercraft, spacecraft and aircraft.\nOperations deal with the way the vehicles are operated, and the procedures set for this purpose, including financing, legalities, and policies. In the transport industry, operations and ownership of infrastructure can be either public or private, depending on the country and mode.\nPassenger transport may be public, where operators provide scheduled services, or private. Freight transport has become focused on containerization, although bulk transport is used for large volumes of durable items. Transport plays an important part in economic growth and globalization, but most types cause air pollution and use large amounts of land. While it is heavily subsidized by governments, good planning of transport is essential to make traffic flow and restrain urban sprawl.\nUnited Nation's first formally recognised the role of transport in sustainable development in the 1992 United Nation's Earth summit. In the 2012 United Nation's World Conference, global leaders unanimously recognised that transport and mobility are central to achieving the sustainability targets. In recent years, data has been collected to show that the transport sector contributes to a quarter of the global greenhouse gas emissions and thus, sustainable transport has been mainstreamed across several of the 2030 Sustainable Development Goals, especially those related to food, security, health, energy, economic growth, infrastructure, and cities and human settlements. Meeting sustainable transport targets is said to be particularly important to achieving the Paris Agreement.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Transport"
+    },
+    {
+        "title": "Suitcase",
+        "content": "A suitcase is a form of luggage. It is often a somewhat flat, rectangular-shaped bag with somewhat rounded square corners, either metal, hard plastic or made of cloth, vinyl or leather that more or less retains its shape. Vinyl, leather or cloth suitcases may have a metal frame. It has a carrying handle on one side and is used mainly for transporting clothes, toiletries and other small possessions during trips. Hardshell suitcases open on hinges like a door. Suitcases may lock with keys or a combination.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Suitcase"
+    },
+    {
+        "title": "Travel",
+        "content": "Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements, as in the case of tourism.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Travel"
+    },
+    {
+        "title": "Umbrella",
+        "content": "An umbrella or parasol is a folding canopy supported by wooden or metal ribs that is usually mounted on a wooden, metal, or plastic pole. It is designed to protect a person against rain or sunlight. The term umbrella is traditionally used when protecting oneself from rain, with parasol used when protecting oneself from sunlight, though the terms continue to be used interchangeably. Often the difference is the material used for the canopy; some parasols are not waterproof. Umbrella canopies may be made of fabric or flexible plastic. There are also combinations of parasol and umbrella that are called en-tout-cas (French for \"in any case\").Umbrellas and parasols are primarily hand-held portable devices sized for personal use. The largest hand-portable umbrellas are golf umbrellas. Umbrellas can be divided into two categories: fully collapsible umbrellas, in which the metal pole supporting the canopy retracts, making the umbrella small enough to fit in a handbag, and non-collapsible umbrellas, in which the support pole cannot retract and only the canopy can be collapsed. Another distinction can be made between manually operated umbrellas and spring-loaded automatic umbrellas, which spring open at the press of a button.\nHand-held umbrellas have a type of handle which can be made from wood, a plastic cylinder or a bent \"crook\" handle (like the handle of a cane). Umbrellas are available in a range of price and quality points, ranging from inexpensive, modest quality models sold at discount stores to expensive, finely made, designer-labeled models. Larger parasols capable of blocking the sun for several people are often used as fixed or semi-fixed devices, used with patio tables or other outdoor furniture, or as points of shade on a sunny beach.\nParasols are occasionally called sunshades. An umbrella may also be called a brolly (UK slang), parapluie (nineteenth century, French origin), rainshade, gamp (British, informal, dated), or bumbershoot (rare, facetious American slang).",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Umbrella"
+    },
+    {
+        "title": "Unpacking",
+        "content": "In historical linguistics and language contact, unpacking is the separation of the features of a segment into distinct segments. \nPerhaps the most common example of unpacking is the separation of nasal vowels into vowel plus nasal consonant when borrowed into languages which don't have nasal vowels. This can be seen in English borrowings of French and Portuguese words, such as monsoon [m\u0252n\u02c8su\u02d0n] from Portuguese mon\u00e7\u00e3o [m\u00f5s\u0250\u0303\u0169], but occurs widely, as in Lingala [balansi] from French [bal\u0251\u0303s] \"balance\". Here the nasality of the vowel is separated out as a nasal consonant. If this did not happen, the nasality would be lost. \nUnpacking occurs not just in borrowings, but within a language over time. Sanskrit syllabic \u090b [r\u0329] has become [\u027e\u026a] in Hindi, which has no syllabic consonants; the rhoticity is maintained by the [\u027e], while the syllabic feature is separated out as a vowel.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Unpacking"
+    },
+    {
+        "title": "Vacation",
+        "content": "A vacation (American English), or holiday (British English), is a leave of absence from a regular job, or a specific trip or journey, usually for the purpose of recreation or tourism. People often take a vacation during specific holiday observances, or for specific festivals or celebrations. Vacations are often spent with friends or family. Traveling together creates chemistry.A person may take a longer break from work, such as a sabbatical, gap year, or career break.\nThe concept of taking a vacation is a recent invention, and has developed through the last two centuries. Historically, the idea of travel for recreation was a luxury that only wealthy people could afford (see Grand Tour).  In the Puritan culture of early America, taking a break from work for reasons other than weekly observance of the Sabbath was frowned upon. However, the modern concept of vacation was led by a later religious movement encouraging spiritual retreat and recreation. The notion of breaking from work periodically took root among the middle and working class.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Vacation"
+    },
+    {
+        "title": "Vehicle",
+        "content": "A vehicle (from Latin: vehiculum) is a machine that transports people or cargo.  Vehicles include wagons, bicycles, motor vehicles (motorcycles, cars, trucks, buses), railed vehicles (trains, trams), watercraft (ships, boats), amphibious vehicles (screw-propelled vehicle, hovercraft),  aircraft (airplanes, helicopters) and spacecraft.Land vehicles are classified broadly by what is used to apply steering and drive forces against the ground: wheeled, tracked, railed or skied. ISO 3833-1977 is the standard, also internationally used in legislation, for road vehicles types, terms and definitions.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Vehicle"
+    },
+    {
+        "title": "Travel visa",
+        "content": "A visa (from the Latin charta visa, meaning \"paper that has been seen\") is a conditional authorization granted by a territory to a foreigner, allowing them to enter, remain within, or to leave that territory. Visas typically may include limits on the duration of the foreigner's stay, areas within the country they may enter, the dates they may enter, the number of permitted visits or an individual's right to work in the country in question. Visas are associated with the request for permission to enter a territory and thus are, in most countries, distinct from actual formal permission for an alien to enter and remain in the country. In each instance, a visa is subject to entry permission by an immigration official at the time of actual entry, and can be revoked at any time. A visa most commonly takes the form of a sticker endorsed in the applicant's passport or other travel document.\nHistorically, immigration officials were empowered to permit or reject entry of visitors on arrival at the frontiers. If permitted entry, the official would issue a visa, when required, which would be a stamp in a passport. Today, travellers wishing to enter another country must often apply in advance for what is also called a visa, sometimes in person at a consular office, by post, or over the internet. The modern visa may be a sticker or a stamp in the passport, or may take the form of a separate document or an electronic record of the authorization, which the applicant can print before leaving home and produce on entry to the visited territory. Some countries do not require visitors to apply for a visa in advance for short visits.\nVisa applications in advance of arrival give countries a chance to consider the applicant's circumstances, such as financial security, reason for travel, and details of previous visits to the country. Visitors may also be required to undergo and pass security or health checks upon arrival at the port of entry.\nSome countries require that their citizens, as well as foreign travellers, obtain an \"exit visa\" to be allowed to leave the country.Uniquely, the Norwegian special territory of Svalbard is an entirely visa-free zone under the terms of the Svalbard Treaty.\nSome countries\u2014such as those in the Schengen Area\u2014have agreements with other countries allowing each other's citizens to travel between them without visas. The World Tourism Organization announced that the number of tourists requiring a visa before travelling was at its lowest level ever in 2015.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Travel_visa"
+    },
+    {
+        "title": "Water park",
+        "content": "A water park or waterpark is an amusement park that features water play areas such as swimming pools, water slides, splash pads, water playgrounds, and lazy rivers, as well as areas for floating, bathing, swimming, and other barefoot environments. Modern water parks may also be equipped with some type of artificial surfing or bodyboarding environment, such as a wave pool or flowrider.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Water_park"
+    },
+    {
+        "title": "Workweek and weekend",
+        "content": "The workweek and weekend are the complementary parts of the week devoted to labor and rest, respectively. The legal working week (British English), or workweek (American English), is the part of the seven-day week devoted to labor. In most of the world, the workweek is from Monday to Friday and the weekend is Saturday and Sunday, but other divisions exist: for example, many countries observe a Sunday to Thursday or even Monday to Thursday working week. A weekday or workday is any day of the working week. Other institutions often follow this pattern, such as places of education. Sometimes the term \"weekend\" is expanded to include the time after work hours on the last workday of the week; e.g. Friday evening is often referred to as the start of the weekend. The weekend has had varying definitions, such as commencing after 5 pm on Friday evening and lasting until 6 pm on Sunday night.\nIn some Christian traditions, Sunday is the \"day of rest and worship\". The Jewish Shabbat or Biblical Sabbath lasts from sunset on Friday to the fall of full darkness on Saturday; as a result, the weekend in Israel is observed on Friday\u2013Saturday. Some Muslim-majority countries historically instituted a Thursday\u2013Friday weekend. Today, many of these countries, in the interests of furthering business trade and cooperation, have shifted from Thursday\u2013Friday to either Friday\u2013Saturday or Saturday\u2013Sunday.The Christian Sabbath is just one day each week, but the preceding day (the Jewish Sabbath) came to be taken as a holiday as well in the 20th century. This shift has been accompanied by a reduction in the total number of hours worked per week. The present-day concept of the \"weekend\" first arose in the industrial north of Britain in the early  19th century. The Amalgamated Clothing Workers of America union was the first to successfully demand a five-day work week in 1929.\nSome countries have adopted a one-day weekend, i.e. either Sunday only (in seven countries), Friday only (in Djibouti, Iran, Palestine and Somalia), or Saturday only (in Nepal). However, most countries have adopted a two-day weekend, whose days differ according to religious tradition, i.e. either Friday and Saturday, or Saturday and Sunday, or Friday and Sunday (in Brunei Darussalam), with the previous evening post-work often considered part of the weekend. Proposals continue to be put forward to reduce the number of days or hours worked per week, on the basis of predicted social and economic benefits.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Workweek_and_weekend"
+    },
+    {
+        "title": "Waterfall",
+        "content": "A waterfall is an area where water flows over a vertical drop or a series of steep drops in the course of a stream or river. Waterfalls also occur where meltwater drops over the edge of a tabular iceberg or ice shelf.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Waterfall"
+    },
+    {
+        "title": "Yacht",
+        "content": "A yacht  is a sail or power vessel used for pleasure, cruising, or racing. There is no standard definition, so the term applies to such vessels that have a cabin with amenities that accommodate overnight use. To be termed a yacht, as opposed to a boat, such a pleasure vessel is likely to be at least 33 feet (10 m) in length and have been judged to have good aesthetic qualities.The Commercial Yacht Code classifies yachts 79 ft (24 m) and over as large. Such yachts typically require a hired crew and have higher construction standards. Further classifications for large yachts are: commercial\u2014carrying no more than 12 passengers, private\u2014solely for the pleasure of the owner and guests, or by flag, the country under which it is registered. A superyacht (sometimes megayacht) generally refers to any yacht (sail or power) longer than 131 ft (40 m).Racing yachts are designed to emphasize performance over comfort. Charter yachts are run as a business for profit. As of 2020 there were more than 15,000 yachts of sufficient size to require a professional crew.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Yacht"
+    },
+    {
+        "title": "Ship",
+        "content": "A ship is a large watercraft that travels the world's oceans and other sufficiently deep waterways, carrying goods or passengers, or in support of specialized missions, such as defense, research, and fishing. Ships are generally distinguished from boats, based on size, shape, load capacity, and tradition. In the Age of Sail a \"ship\" was a sailing vessel defined by its sail plan of at least three square riged masts and a full bowsprit.\nShips have supported exploration, trade, warfare, migration, colonization, and science. After the 15th century, new crops that had come from and to the Americas via the European seafarers significantly contributed to the world population growth. Ship transport is responsible for the largest portion of world commerce.\nAs of 2016, there were more than 49,000 merchant ships, totaling almost 1.8 billion dead weight tons. Of these 28% were oil tankers, 43% were bulk carriers, and 13% were container ships.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Ship"
+    },
+    {
+        "title": "Zoo",
+        "content": "A zoo (short for zoological garden; also called an animal park or menagerie) is a facility in which animals are housed within enclosures, cared for, displayed to the public, and in some cases bred.\nThe term \"zoological garden\" refers to zoology, the study of animals. The term is derived from the Greek \u03b6\u03ce\u03bf\u03bd, 'zoon', \"animal,\" and the suffix -\u03bb\u03bf\u03b3\u03af\u03b1, '-logia', \"study of\". The abbreviation \"zoo\" was first used of the London Zoological Gardens, which was opened for scientific study in 1828 and to the public in 1847. In the United States alone, zoos are visited by  over 181 million people annually.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Zoo"
+    },
+    {
+        "title": "Bullet train",
+        "content": "Bullet train may refer to:",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bullet_train"
+    },
+    {
+        "title": "Airship",
+        "content": "An airship or dirigible balloon is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. Aerostats gain their lift from a lifting gas that is less dense than the surrounding air.\n\nIn early dirigibles the lifting gas used was hydrogen, due to its high lifting capacity and ready availability. Helium gas has almost the same lifting capacity and is not flammable, unlike hydrogen, but is rare and relatively expensive. Significant amounts were first discovered in the United States and for a while helium was only used for airships in that country. Most airships built since the 1960s have used helium, though some have used hot air.The envelope of an airship may form the gasbag, or it may contain a number of gas-filled cells. An airship also has engines, crew, and optionally also payload accommodation, typically housed in one or more gondolas suspended below the envelope.\nThe main types of airship are non-rigid, semi-rigid, and rigid. Non-rigid airships, often called \"blimps\", rely on internal pressure to maintain their shape. Semi-rigid airships maintain the envelope shape by internal pressure, but have some form of supporting structure, such as a fixed keel, attached to it. Rigid airships have an outer structural framework that maintains the shape and carries all structural loads, while the lifting gas is contained in one or more internal gasbags or cells. Rigid airships were first flown by Count Zeppelin and the vast majority of rigid airships built were manufactured by the firm he founded, Luftschiffbau Zeppelin. As a result, rigid airships are often called zeppelins.Airships were the first aircraft capable of controlled powered flight, and were most commonly used before the 1940s; their use decreased as their capabilities were surpassed by those of aeroplanes. Their decline was accelerated by a series of high-profile accidents, including the 1930 crash and burning of the British R101 in France, the 1933 and 1935 storm-related crashes of the twin airborne aircraft carrier U.S. Navy helium-filled rigids, the USS Akron and USS Macon respectively, and the 1937 burning of the German hydrogen-filled Hindenburg. From the 1960s, helium airships have been used where the ability to hover for a long time outweighs the need for speed and manoeuvrability, such as advertising, tourism, camera platforms, geological surveys and aerial observation.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Airship"
+    },
+    {
+        "title": "Express train",
+        "content": "Express trains make a small number of stops, usually major destinations, allowing faster service than local trains that stop at most or all of the stations along their route. They are sometimes referred to as \"fast trains\" (or an equivalent term, such as the German Schnellzug), meaning that they are faster than other trains on the same route. Though many high-speed rail services are express, not all express trains are \"fast\" relative to other services; early trains in the 19th-century United Kingdom were limited to 40 miles per hour (64 km/h). Express trains sometimes have higher fares than other routes, and bearers of a rail pass may be required to pay an extra fee. First class may be the only one available.\nSome express train routes that overlap with local train service may stop at stations near the tail ends of the line. This can be done, for example, where there is no supplemental local service to those stations. Express train routes may also become local when it is most practical to do so, such as during the night.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Express_train"
+    },
+    {
+        "title": "Gondola",
+        "content": "The gondola (English: , Italian: [\u02c8\u0261ondola]; Venetian: g\u00f3ndo\u0142a [\u02c8\u0261o\u014bdo\u0270a]) is a traditional, flat-bottomed Venetian rowing boat, well suited to the conditions of the Venetian lagoon. It is typically propelled by a gondolier, who uses a rowing oar, which is not fastened to the hull, in a sculling manner and also acts as the rudder. The uniqueness of the gondola includes it being asymmetrical along the length making the single-oar propulsion more efficient.\nFor centuries, the gondola was a major means of transportation and the most common watercraft within Venice. In modern times, the boats still do have a role in public transport in the city, serving as traghetti (small ferries) over the Grand Canal operated by two oarsmen. For some years there were seven traghetti, but by 2017, the number had been reduced to three.Various types of gondola boats are also used in special regattas (rowing races) held amongst gondoliers. Their primary role today, however, is to carry tourists on rides at fixed rates. There are approximately 400 licensed gondoliers in Venice and a similar number of boats, down from the thousands that travelled the canals centuries ago. However, they are now elegant craft, instead of the various types of shabby homemade boats of the distant past.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gondola"
+    },
+    {
+        "title": "Locomotive",
+        "content": "A locomotive or engine is a rail transport vehicle that provides the motive power for a train. If a locomotive is capable of carrying a payload, it is usually rather referred to as a multiple unit, motor coach, railcar or power car; the use of these self-propelled vehicles is increasingly common for passenger trains, but rare for freight (see CargoSprinter and Iron Highway).\nTraditionally, locomotives pulled trains from the front. However, push-pull operation has become common, where the train may have a locomotive (or locomotives) at the front, at the rear, or at each end. Most recently railroads have begun adopting DPU or distributed power. The front may have one or two locomotives followed by a mid train locomotive that is controlled remotely from the lead unit.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Locomotive"
+    },
+    {
+        "title": "Segway",
+        "content": "Segway is a two-wheeled, self-balancing personal transporter invented  by Dean Kamen and brought to market in 2001 as the Segway HT, subsequently as the Segway PT, and manufactured by Segway Inc.. HT is an initialism for \"human transporter\" and PT for \"personal transporter.\"\nNinebot Inc., a Beijing-based transportation robotics startup rival, acquired Segway in April 2015, broadened the company to include other transportation devices, and announced in June 2020 it would no longer make a two-wheeled, self-balancing product.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Segway"
+    },
+    {
+        "title": "Snowmobile",
+        "content": "A snowmobile, also known as a motor sled, motor sledge, skimobile, snowscooter, Ski-Doo, or snowmachine, is a motorized vehicle designed for winter travel and recreation on snow. It is designed to be operated on snow and ice and does not require a road or trail, but most are driven on open terrain or trails. Snowmobiling is a sport that many people have taken on as a serious hobby.\nOlder snowmobiles could generally accommodate two people; however, most snowmobiles manufactured in the last 25 years have been designed to only accommodate one person. Snowmobiles built with the ability to accommodate two people are referred to as \"2-up\" snowmobiles or 'touring' models and make up an extremely small share of the market. Snowmobiles do not have any enclosures, except for a windshield, and their engines normally drive a continuous track at the rear. Skis at the front provide directional control.\nEarly snowmobiles used simple rubber tracks, but modern snowmobiles' tracks are usually made of a Kevlar composite construction. Originally, snowmobiles were powered by two-stroke gasoline internal combustion engines and since the mid-2000s four-stroke engines have also entered the market.\nThe second half of the 20th century saw the rise of recreational snowmobiling, whose riders are called snowmobilers or sledders. Recreational riding is known as snowcross/racing, trail riding, freestyle, boondocking, ditchbanging and grass drags. In the summertime snowmobilers can drag race on grass, asphalt strips, or even across water (see Snowmobile skipping).  Snowmobiles are sometimes modified to compete in long-distance off-road races.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Snowmobile"
+    },
+    {
+        "title": "Tricycle",
+        "content": "A tricycle, often abbreviated to trike, is a human-powered (or gravity-powered) three-wheeled vehicle.\nSome tricycles, such as cycle rickshaws (for passenger transport) and freight trikes, are used for commercial purposes, especially in the developing world, particularly Africa and Asia.\nIn the West, adult-sized tricycles are used primarily for recreation, shopping, and exercise. Tricycles are favoured by children and senior adults for their apparent stability versus a bicycle; however a conventional trike has poor dynamic lateral stability, and the rider must take care when cornering to avoid tipping the trike over. Unconventional designs such as recumbents have a lower centre of gravity so require less care.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tricycle"
+    },
+    {
+        "title": "Tandem bicycle",
+        "content": "The tandem bicycle or twin is a form of bicycle (occasionally a tricycle) designed to be ridden by more than one person. The term tandem refers to the seating arrangement (fore to aft, not side by side), not the number of riders. Patents related to tandem bicycles date from the mid 1880s. Tandems can reach higher speeds than the same riders on single bicycles, and tandem bicycle racing exists. As with bicycles for single riders, there are many variations that have been developed over the years.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tandem_bicycle"
+    },
+    {
+        "title": "Bed and breakfast",
+        "content": "A bed and breakfast (typically shortened to B&B or BnB) is a small lodging establishment that offers overnight accommodation and breakfast. Bed and breakfasts are often private family homes and typically have between four and eleven rooms, with six being the average. In addition, a B&B usually has the hosts living in the house.\nBed and breakfast is also used to describe the level of catering included in a hotel's room prices, as opposed to room only, half-board or full-board.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bed_and_breakfast"
+    },
+    {
+        "title": "Wanderlust",
+        "content": "Wanderlust is a strong desire  to wander or travel and explore the world.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Wanderlust"
+    },
+    {
+        "title": "Taj Mahal",
+        "content": "The Taj Mahal (; lit.  'Crown of the Palace', [ta\u02d0d\u0292 \u02c8m\u025b\u02d0\u0266(\u0259)l]) is an ivory-white marble mausoleum on the southern bank of the river Yamuna  in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.\nConstruction of the mausoleum was essentially completed in 1643, but work continued on other phases of the project for another 10 years. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around 32 million rupees, which in 2020 would be approximately 70 billion rupees (about U.S. $916 million). The construction project employed some 20,000 artisans under the guidance of a board of architects led by the court architect to the emperor, Ustad Ahmad Lahauri.\nThe Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\". It is regarded by many as the best example of Mughal architecture and a symbol of India's rich history. The Taj Mahal attracts 7\u20138 million visitors a year and in 2007, it was declared a winner of the New 7 Wonders of the World (2000\u20132007) initiative.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+        "title": "Eiffel Tower",
+        "content": "The Eiffel Tower ( EYE-f\u0259l; French: tour Eiffel [tu\u0281\u203f\u025bf\u025bl] (listen)) is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.\nConstructed from 1887 to 1889 as the entrance to the 1889 World's Fair, it was initially criticised by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognisable structures in the world. The Eiffel Tower is the most-visited paid monument in the world; 6.91 million people ascended it in 2015.\nThe tower is 324 metres (1,063 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris. Its base is square, measuring 125 metres (410 ft) on each side. During its construction, the Eiffel Tower surpassed the Washington Monument to become the tallest man-made structure in the world, a title it held for 41 years until the Chrysler Building in New York City was finished in 1930.  It was the first structure to reach a height of 300 metres. Due to the addition of a broadcasting aerial at the top of the tower in 1957, it is now taller than the Chrysler Building by 5.2 metres (17 ft). Excluding transmitters, the Eiffel Tower is the second tallest free-standing structure in France after the Millau Viaduct.\nThe tower has three levels for visitors, with restaurants on the first and second levels. The top level's upper platform is 276 m (906 ft) above the ground \u2013 the highest observation deck accessible to the public in the European Union. Tickets can be purchased to ascend by stairs or lift to the first and second levels. The climb from ground level to the first level is over 300 steps, as is the climb from the first level to the second. Although there is a staircase to the top level, it is usually accessible only by lift.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    {
+        "title": "Leaning Tower of Pisa",
+        "content": "The Leaning Tower of Pisa (Italian: torre pendente di Pisa) or simply the Tower of Pisa (torre di Pisa [\u02c8torre di \u02c8pi\u02d0za]) is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower is situated behind the Pisa Cathedral and is the third-oldest structure in the city's Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry.\nThe height of the tower is 55.86 metres (183.27 feet) from the ground on the low side and 56.67 metres (185.93 feet) on the high side. The width of the walls at the base is 2.44 m (8 ft 0.06 in). Its weight is estimated at 14,500 metric tons (16,000 short tons). The tower has 296 or 294 steps; the seventh floor has two fewer steps on the north-facing staircase.\nThe tower began to lean during construction in the 12th century, due to soft ground which could not properly support the structure's weight, and it worsened through the completion of construction in the 14th century. By 1990, the tilt had reached 5.5 degrees. The structure was stabilized by remedial work between 1993 and 2001, which reduced the tilt to 3.97 degrees.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+    },
+    {
+        "title": "Niagara Falls",
+        "content": "Niagara Falls  is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, also known as Canadian Falls, which straddles the international border of the two countries. The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls are separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.\nLocated on the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 metres (160 ft). During peak daytime tourist hours, more than 168,000 m3  (six million cubic feet) of water goes over the crest of the falls every minute. Horseshoe Falls is the most powerful waterfall in North America, as measured by flow rate.The falls are 27 kilometres (17 mi) north-northwest of Buffalo, New York, and 121 kilometres (75 mi) south-southeast of Toronto, between the twin cities of Niagara Falls, Ontario, and Niagara Falls, New York. Niagara Falls was formed when glaciers receded at the end of the Wisconsin glaciation (the last ice age), and water from the newly formed Great Lakes carved a path over and through the Niagara Escarpment en route to the Atlantic Ocean.\nNiagara Falls is famed both for its beauty and as a valuable source of hydroelectric power. Balancing recreational, commercial, and industrial uses has been a challenge for the stewards of the falls since the 19th century.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Niagara_Falls"
+    },
+    {
+        "title": "Great Wall of China",
+        "content": "The Great Wall of China (traditional Chinese: \u842c\u91cc\u9577\u57ce; simplified Chinese: \u4e07\u91cc\u957f\u57ce; pinyin: W\u00e0nl\u01d0 Ch\u00e1ngch\u00e9ng) is the collective name of a series of fortification systems generally built across the historical northern borders of China to protect and consolidate territories of Chinese states and empires against various nomadic groups of the steppe and their polities. Several walls were being built from as early as the 7th century BC by ancient Chinese states; selective stretches were later joined together by Qin Shi Huang (220\u2013206 BC), the first emperor of China. Little of the Qin wall remains. Later on, many successive dynasties have built and maintained multiple stretches of border walls. The most well-known sections of the wall were built by the Ming dynasty (1368\u20131644).\nApart from defense, other purposes of the Great Wall have included border controls, allowing the imposition of duties on goods transported along the Silk Road, regulation or encouragement of trade and the control of immigration and emigration. Furthermore, the defensive characteristics of the Great Wall were enhanced by the construction of watchtowers, troop barracks, garrison stations, signaling capabilities through the means of smoke or fire, and the fact that the path of the Great Wall also served as a transportation corridor.\nThe frontier walls built by different dynasties have multiple courses. Collectively, they stretch from Liaodong in the east to Lop Lake in the west, from the present-day Sino\u2013Russian border in the north to Tao River (Taohe) in the south; along an arc that roughly delineates the edge of the Mongolian steppe. A comprehensive archaeological survey, using advanced technologies, has concluded that the walls built by the Ming dynasty measure 8,850 km (5,500 mi). This is made up of 6,259 km (3,889 mi) sections of actual wall, 359 km (223 mi) of trenches and 2,232 km (1,387 mi) of natural defensive barriers such as hills and rivers. Another archaeological survey found that the entire wall with all of its branches measures out to be 21,196 km (13,171 mi). Today, the defensive system of the Great Wall is generally recognized as one of the most impressive architectural feats in history.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+    },
+    {
+        "title": "Machu Picchu",
+        "content": "Machu Picchu is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate.For most speakers of English or Spanish, the first 'c' in Picchu is silent. In English, the name is pronounced  or , in Spanish as [\u02c8mat\u0283u \u02c8pit\u0283u] or [\u02c8mat\u0283u \u02c8pikt\u0283u], and in Quechua (Machu Pikchu) as [\u02c8mat\u0283\u028a \u02c8p\u026akt\u0283\u028a].\nMost archaeologists believe that Machu Picchu was constructed as an estate for the Inca emperor Pachacuti (1438\u20131472). Often mistakenly referred to as the \"Lost City of the Incas\", it is the most familiar icon of Inca civilization. The Incas built the estate around 1450 but abandoned it a century later at the time of the Spanish conquest. Although known locally, it was not known to the Spanish during the colonial period and remained unknown to the outside world until American historian Hiram Bingham brought it to international attention in 1911.\nMachu Picchu was built in the classical Inca style, with polished dry-stone walls. Its three primary structures are the Intihuatana, the Temple of the Sun, and the Room of the Three Windows. Most of the outlying buildings have been reconstructed in order to give tourists a better idea of how they originally appeared. By 1976, 30% of Machu Picchu had been restored and restoration continues.Machu Picchu was declared a Peruvian Historic Sanctuary in 1981 and a UNESCO World Heritage Site in 1983. In 2007, Machu Picchu was voted one of the New Seven Wonders of the World in a worldwide internet poll.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Machu_Picchu"
+    },
+    {
+        "title": "Mount Kilimanjaro",
+        "content": "Mount Kilimanjaro () is a dormant volcano in Tanzania. It has 3 volcanic cones: Kibo, Mawenzi and Shira. It is the highest mountain in Africa and the highest single free-standing mountain in the world: 5,895 metres (19,341 ft) above sea level and about 4,900 metres (16,100 ft) above its plateau base.\nKilimanjaro is the 4th most topographically prominent peak on Earth. The first people known to have reached the summit were Hans Meyer and Ludwig Purtscheller, in 1889. It is part of Kilimanjaro National Park and is a major climbing destination. Because of its shrinking glaciers and disappearing ice fields, it has been the subject of many scientific studies.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro"
+    },
+    {
+        "title": "Mount Everest",
+        "content": "Mount Everest (Nepali: \u0938\u0917\u0930\u092e\u093e\u0925\u093e [s\u028c\u0261\u028crmat\u02b0a] , IAST: Sagarm\u0101th\u0101; Tibetan: Chomolungma \u0f47\u0f7c\u0f0b\u0f58\u0f7c\u0f0b\u0f42\u0fb3\u0f44\u0f0b\u0f58; Chinese: Zhumulangma \u73e0\u7a46\u6717\u739b) is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The China\u2013Nepal border runs across its summit point.The current official elevation of 8,848 m (29,029 ft), recognised by China and Nepal, was established by a 1955 Indian survey and confirmed by a 1975 Chinese survey.In 1865, Everest was given its official English name by the Royal Geographical Society, as recommended by Andrew Waugh, the British Surveyor General of India, who chose the name of his predecessor in the post, Sir George Everest, despite Everest's objections.Mount Everest attracts many climbers, some of them highly experienced mountaineers. There are two main climbing routes, one approaching the summit from the southeast in Nepal (known as the \"standard route\") and the other from the north in Tibet. While not posing substantial technical climbing challenges on the standard route, Everest presents dangers such as altitude sickness, weather, and wind, as well as significant hazards from avalanches and the Khumbu Icefall. As of 2019, over 300 people have died on Everest, many of whose bodies remain on the mountain.The first recorded efforts to reach Everest's summit were made by British mountaineers. As Nepal did not allow foreigners to enter the country at the time, the British made several attempts on the north ridge route from the Tibetan side. After the first reconnaissance expedition by the British in 1921 reached 7,000 m (22,970 ft) on the North Col, the 1922 expedition pushed the north ridge route up to 8,320 m (27,300 ft), marking the first time a human had climbed above 8,000 m (26,247 ft). Seven porters were killed in an avalanche on the descent from the North Col. The 1924 expedition resulted in one of the greatest mysteries on Everest to this day: George Mallory and Andrew Irvine made a final summit attempt on 8 June but never returned, sparking debate as to whether or not they were the first to reach the top. They had been spotted high on the mountain that day but disappeared in the clouds, never to be seen again, until Mallory's body was found in 1999 at 8,155 m (26,755 ft) on the north face. Tenzing Norgay and Edmund Hillary made the first official ascent of Everest in 1953, using the southeast ridge route. Norgay had reached 8,595 m (28,199 ft) the previous year as a member of the 1952 Swiss expedition. The Chinese mountaineering team of Wang Fuzhou, Gonpo, and Qu Yinhua made the first reported ascent of the peak from the north ridge on 25 May 1960.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Mount_Everest"
+    },
+    {
+        "title": "London Eye",
+        "content": "The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually, and has made many appearances in popular culture.\nThe structure is 135 metres (443 ft) tall and the wheel has a diameter of 120 metres (394 ft). When it opened to the public in 2000 it was the world's tallest Ferris wheel. Its height was surpassed by the 160-metre (525 ft) Star of Nanchang in 2006, the 165-metre (541 ft) Singapore Flyer in 2008, and the 167-metre-tall (547.9 ft) High Roller (Las Vegas) in 2014. Supported by an A-frame on one side only, unlike the taller Nanchang and Singapore wheels, the Eye is described by its operators as \"the world's tallest cantilevered observation wheel\".The London Eye used to offer the highest public viewing point in London until it was superseded by the 245-metre-high (804 ft) observation deck on the 72nd floor of The Shard, which opened to the public on 1 February 2013.The London Eye adjoins the western end of Jubilee Gardens (previously the site of the former Dome of Discovery), on the South Bank of the River Thames between Westminster Bridge and Hungerford Bridge beside County Hall, in the London Borough of Lambeth.\nIn March 2020 the London Eye celebrated its 20th birthday by turning its pods into experiences in partnership with its sponsor lastminute.com. The special experiences included a pub in a capsule, a west end theatre pod and a garden party with flower arrangements to represent the eight London Royal parks.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/London_Eye"
+    },
+    {
+        "title": "Bran castle",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Giza pyramid complex",
+        "content": "The Giza Pyramid Complex, also called the Giza Necropolis, is the site on the Giza Plateau in Greater Cairo, Egypt that includes the Great Pyramid of Giza, the Pyramid of Khafre, and the Pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx of Giza. All were built during the Fourth Dynasty of the Old Kingdom of Ancient Egypt. The site also includes several cemeteries and the remains of a workers village.\nThe site is at the edges of the Western Desert, approximately 9 km (5 mi) west of the Nile River in the city of Giza, and about 13 km (8 mi) southwest of the city centre of Cairo.\nThe Great Pyramid and the Pyramid of Khafre are the largest pyramids built in ancient Egypt, and they have historically been common as emblems of Ancient Egypt in the Western imagination. They were popularised in Hellenistic times, when the Great Pyramid was listed by Antipater of Sidon as one of the Seven Wonders of the World. It is by far the oldest of the Ancient Wonders and the only one still in existence.",
+        "language": "English",
+        "topic": [
+            "Travel"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Accounting",
+        "content": "Accounting or accountancy is the measurement, processing, and communication of financial and non financial information about economic entities such as businesses and corporations. Accounting, which has been called the \"language of business\", measures the results of an organization's economic activities and conveys this information to a variety of users, including investors, creditors, management, and regulators.  Practitioners of accounting are known as accountants. The terms \"accounting\" and \"financial reporting\" are often used as synonyms.\nAccounting can be divided into several fields including financial accounting, management accounting, external auditing, tax accounting and cost accounting. Accounting information systems are designed to support accounting functions and related activities. Financial accounting focuses on the reporting of an organization's financial information, including the preparation of financial statements, to the external users of the information, such as investors, regulators and suppliers; and management accounting focuses on the measurement, analysis and reporting of information for internal use by management. The recording of financial transactions, so that summaries of the financials may be presented in financial reports, is known as bookkeeping, of which double-entry bookkeeping is the most common system.Even though accounting has existed in various forms and levels of sophistication throughout many human societies, and the double-entry accounting system in use today was developed in medieval Europe, particularly in Venice, and is usually attributed to the Italian mathematician and Franciscan friar Luca Pacioli.  Today, accounting is facilitated by accounting organizations such as standard-setters, accounting firms and professional bodies. Financial statements are usually audited by accounting firms, and are prepared in accordance with generally accepted accounting principles (GAAP). GAAP is set by various standard-setting organizations such as the Financial Accounting Standards Board (FASB) in the United States and the Financial Reporting Council in the United Kingdom. As of 2012, \"all major economies\" have plans to converge towards or adopt the International Financial Reporting Standards (IFRS).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Accounting"
+    },
+    {
+        "title": "Welfare",
+        "content": "Welfare is a type of government support intended to ensure that members of a society can meet basic human needs such as food and shelter. Social security may either be synonymous with welfare, or refer specifically to social insurance programs, which provide support only to those who have previously contributed (e.g. most pension systems), as opposed to social assistance programs, which provide support on the basis of need alone (e.g. most disability benefits). The International Labour Organization defines social security as covering support for those in old age, support for the maintenance of children, medical treatment, parental and sick leave, unemployment and disability benefits, and support for sufferers of occupational injury.More broadly, welfare may also encompass efforts to provide a basic level of well-being through free or subsidized social services such as healthcare, education, vocational training and public housing. In a welfare state, the State assumes responsibility for the health, education, and welfare of society, providing a range of social services such as those described.The first welfare state was Imperial Germany (1871\u20131918), where the Bismarck government introduced social security in 1889. In the early 20th century, the United Kingdom introduced social security around 1913, and adopted the welfare state with the National Insurance Act 1946, during the Attlee government (1945\u201351). In the countries of western Europe, Scandinavia, and Australasia, social welfare is mainly provided by the government out of the national tax revenues, and to a lesser extent by non-government organizations (NGOs), and charities (social and religious). A right to social security and an adequate standard of living is asserted in Articles 22 and 25 of the Universal Declaration of Human Rights.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Welfare"
+    },
+    {
+        "title": "Board of directors",
+        "content": "A board of directors is a group of people who jointly supervise the activities of an organization, which can be either a for-profit or a nonprofit organization such as a business, nonprofit organization, or a government agency. \nThe powers, duties, and responsibilities of a board of directors are determined by government regulations (including the jurisdiction's corporate law) and the organization's own constitution and bylaws. These authorities may specify the number of members of the board, how they are to be chosen, and how often they are to meet.\nIn an organization with voting members, the board is accountable to, and may be subordinate to, the organization's full membership, which usually elect the members of the board. In a stock corporation, non-executive directors are elected by the shareholders, and the board has ultimate responsibility for the management of the corporation. In nations with codetermination (such as Germany and Sweden), the workers of a corporation elect a set fraction of the board's members. \nThe board of directors appoints the chief executive officer of the corporation and sets out the overall strategic direction. In corporations with dispersed ownership, the identification and nomination of directors (that shareholders vote for or against) are often done by the board itself, leading to a high degree of self-perpetuation. In a non-stock corporation with no general voting membership, the board is the supreme governing body of the institution, and its members are sometimes chosen by the board itself.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Board_of_directors"
+    },
+    {
+        "title": "Bookkeeping",
+        "content": "Bookkeeping is the recording of financial transactions, and is part of the process of accounting in business.  Transactions include purchases, sales, receipts, and payments by an individual person or an organization/corporation. There are several standard methods of bookkeeping, including the single-entry and double-entry bookkeeping systems. While these may be viewed as \"real\" bookkeeping, any process for recording financial transactions is a bookkeeping process.\nBookkeeping is the work of a bookkeeper (or book-keeper), who records the day-to-day financial transactions of a business. They usually write the daybooks (which contain records of sales, purchases, receipts, and payments), and document each financial transaction, whether cash or credit, into the correct daybook\u2014that is, petty cash book, suppliers ledger, customer ledger, etc.\u2014and the general ledger. Thereafter, an accountant can create financial reports from the information recorded by the bookkeeper.\nBookkeeping refers mainly to the record-keeping aspects of financial accounting, and involves preparing source documents for all transactions, operations, and other events of a business.\nThe bookkeeper brings the books to the trial balance stage: an accountant may prepare the income statement and balance sheet using the trial balance and ledgers prepared by the bookkeeper.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bookkeeping"
+    },
+    {
+        "title": "Business card",
+        "content": "Business cards are cards bearing business information about a company or individual. They are shared during formal introductions as a convenience and a memory aid. A business card typically includes the giver's name, company or business affiliation (usually with a logo) and contact information such as street addresses, telephone number(s), fax number, e-mail addresses and website. Before the advent of electronic communication business cards might also include telex details. Now they may include social media addresses such as Facebook, LinkedIn and Twitter. Traditionally, many cards were simple black text on white stock, and the distinctive look and feel of cards printed from an engraved plate was a desirable sign of professionalism. In the late 20th century, technological advances drove changes in style, and today a professional business card will often include one or more aspects of striking visual design.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Business_card"
+    },
+    {
+        "title": "Budget",
+        "content": "A budget is a financial plan for a defined period, often one year. It may also include planned sales volumes and revenues, resource quantities, costs and expenses, assets, liabilities and cash flows. Companies, governments, families and other organizations use it to express strategic plans of activities or events in measurable terms.A budget is the sum of money allocated for a particular purpose and the summary of intended expenditures along with proposals for how to meet them. It may include a budget surplus, providing money for use at a future time, or a deficit in which expenses exceed income.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Budget"
+    },
+    {
+        "title": "Gross domestic product",
+        "content": "Gross domestic product (GDP) is a monetary measure of the market value of all the final goods and services produced in a specific time period.GDP (nominal) per capita does not, however, reflect differences in the cost of living and the inflation rates of the countries; therefore, using a basis of GDP per capita at purchasing power parity (PPP) is arguably more useful when comparing living standards between nations, while nominal GDP is more useful comparing national economies on the international market.The OECD defines GDP as \"an aggregate measure of production equal to the sum of the gross values added of all resident and institutional units engaged in production and services (plus any taxes, and minus any subsidies, on products not included in the value of their outputs)\".  An IMF publication states that, \"GDP measures the monetary value of final goods and services\u2014that are bought by the final user\u2014produced in a country in a given period of time (say a quarter or a year).\"Total GDP can also be broken down into the contribution of each industry or sector of the economy. The ratio of GDP to the total population of the region is the per capita GDP and the same is called Mean Standard of Living.\nGDP is often used as a metric for international comparisons as well as a broad measure of economic progress. It is often considered to be the \"world's most powerful statistical indicator of national development and progress\".",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Gross_domestic_product"
+    },
+    {
+        "title": "Buyer",
+        "content": "For a name, see Bayer or Beyer or Beyers. For the occupation in the fashion industry, see Buyer (fashion).A buyer is any person who pay to acquire an courier or service in return for some form of business.\nWhen someone acts as a regular buyer of certain assets for commercial purposes, the term \"buyer\" has a specific meaning as a job function. For example, a \"buyer\" is a person who purchases finished goods, typically for resale, for a firm, government, or organization; while a person who purchases material used to make goods is sometimes called a purchasing agent. In product management, the buyer is the entity that decides to obtain the product. A buyer's primary responsibility is obtaining goods of acceptable quality at a suitable price. This usually requires research, writing requests for bids, proposals or quotes, and evaluating information received.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Buyer"
+    },
+    {
+        "title": "Capitalism",
+        "content": "Capitalism is an economic system based on the private ownership of the means of production and their operation for profit. Central characteristics of capitalism include capital accumulation, competitive markets, a price system, private property and the recognition of property rights, voluntary exchange and wage labor. In a capitalist market economy, decision-making and investments are determined by every owner of wealth, property or production ability in capital and financial markets whereas prices and the distribution of goods and services are mainly determined by competition in goods and services markets.Economists, historians, political economists and sociologists have adopted different perspectives in their analyses of capitalism and have recognized various forms of it in practice. These include laissez-faire or free-market capitalism, state capitalism and welfare capitalism. Different forms of capitalism feature varying degrees of free markets, public ownership, obstacles to free competition and state-sanctioned social policies. The degree of competition in markets and the role of intervention and regulation as well as the scope of state ownership vary across different models of capitalism. The extent to which different markets are free and the rules defining private property are matters of politics and policy. Most of the existing capitalist economies are mixed economies that combine elements of free markets with state intervention and in some cases economic planning.Market economies have existed under many forms of government and in many different times, places and cultures. Modern capitalist societies\u2014marked by a universalization of money-based social relations, a consistently large and system-wide class of workers who must work for wages (the proletariat) and a capitalist class which owns the means of production\u2014developed in Western Europe in a process that led to the Industrial Revolution. Capitalist systems with varying degrees of direct government intervention have since become dominant in the Western world and continue to spread. Over time, all capitalist countries have experienced consistent economic growth and an increase in the standard of living.Critics of capitalism argue that it establishes power in the hands of a minority capitalist class that exists through the exploitation of the majority working class and their labor, prioritizes profit over social good, natural resources and the environment and is an engine of inequality, corruption and economic instabilities, and that many are not able to access its purported benefits and freedoms, such as freely investing. Supporters argue that it provides better products and innovation through competition, promotes pluralism and decentralization of power, disperses wealth to people who are able to invest in useful enterprises based on market demands, allows for a flexible incentive system where efficiency and sustainability are priorities to protect capital, creates strong economic growth and yields productivity and prosperity that greatly benefit society.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Capitalism"
+    },
+    {
+        "title": "Commerce",
+        "content": "Commerce is the exchange of goods and services, especially on a large scale. It includes legal, economic, political, social, cultural and technological systems that operate in a country or in international trade.\nIn the economic sense, \"commerce\" refers to the conduct of trade among economic agents.  Commerce generally affects the well-being and welfare of citizens and residents, as it is known to directly impact the money which people have and their job opportunities as well. The term \"commerce\" may also refer to the buying and selling of  commodities globally or across borders - between governments and between  business firms.Many scholars and ancient philosophers have known to mix up the terms \"trade\" and \"commerce\". But in essence these two are distinct terms carrying different meanings:\n\nTrade, on the one hand, may mean the selling and buying of  commodities for money or anything of value\nCommerce covers a much broader field and includes trade, along with the  services which facilitate such buying and selling of goods. These services may include insurance, warehousing, transporting and advertising.[1]Nevertheless, one can speak of \"trade in goods and services\".",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Commerce"
+    },
+    {
+        "title": "Competition",
+        "content": "Competition arises whenever at least two parties strive for a common goal which cannot be shared: where one's gain is the other's loss (an example of which is a zero-sum game).It is, in general, a rivalry between two or more entities: animals, organisms, economic groups, individuals, social groups, etc., for group or social status, leadership, profit, and recognition: awards, goods, mates, prestige, a niche, scarce resources, or a territory.\nCompetition occurs in nature, between living organisms which co-exist in the same environment. Animals compete over water supplies, food, mates, and other biological resources. Humans usually compete for food and mates, though when these needs are met deep rivalries often arise over the pursuit of wealth, power, prestige, and fame. Competition is a major tenet of market economies and business, often associated with business competition as companies are in competition with at least one other firm over the same group of customers. Competition inside a company is usually stimulated with the larger purpose of meeting and reaching higher quality of services or improved products that the company may produce or develop.\nCompetition is often considered to be the opposite of cooperation, however in the real world, mixtures of cooperation and competition are the norm. Optimal strategies to achieve goals are studied in the branch of mathematics known as game theory.\nCompetition has been studied in several fields, including psychology, sociology and anthropology. Social psychologists, for instance, study the nature of competition. They investigate the natural urge of competition and its circumstances. They also study group dynamics, to detect how competition emerges and what its effects are. Sociologists, meanwhile, study the effects of competition on society as a whole. Additionally, anthropologists study the history and prehistory of competition in various cultures. They also investigate how competition manifested itself in various cultural settings in the past, and how competition has developed over time.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Competition"
+    },
+    {
+        "title": "Consumer",
+        "content": "A consumer is a person or a group who intends to order, orders, or uses purchased goods, products, or services primarily for personal, social, family, household and similar needs, not directly related to entrepreneurial or business activities.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Consumer"
+    },
+    {
+        "title": "Corporation",
+        "content": "A corporation is an organization\u2014usually a group of people or a company\u2014authorized by the state to act as a single entity (a legal entity; a legal person in legal context) and recognized as such in law for certain purposes. Early incorporated entities were established by charter (i.e. by an ad hoc act granted by a monarch or passed by a parliament or legislature). Most jurisdictions now allow the creation of new corporations through registration. Corporations come in many different types but are usually divided by the law of the jurisdiction where they are chartered based on two aspects: by whether they can issue stock, or by whether they are formed to make a profit. Depending on the number of owners, a corporation can be classified as aggregate (the subject of this article) or sole (a legal entity consisting of a single incorporated office occupied by a single natural person).\nWhere local law distinguishes corporations by their ability to issue stock, corporations allowed to do so are referred to as stock corporations; ownership of the corporation is through stock, and owners of stock are referred to as stockholders or shareholders. Corporations not allowed to issue stock are referred to as non-stock corporations; i.e. those who are considered the owners of a non-stock corporation are persons (or other entities) who have obtained membership in the corporation and are referred to as a member of the corporation. Corporations chartered in regions where they are distinguished by whether they are allowed to be for-profit are referred to as for-profit and not-for-profit corporations, respectively.\nThere is some overlap between stock/non-stock and for-profit/not-for-profit in that not-for-profit corporations are always non-stock as well. A for-profit corporation is almost always a stock corporation, but some for-profit corporations may choose to be non-stock. To simplify the explanation, whenever \"stockholder\" or \"shareholder\" is used in the rest of this article to refer to a stock corporation, it is presumed to mean the same as \"member\" for a non-profit corporation or for a profit, non-stock corporation. Registered corporations have legal personality and their shares are owned by shareholders whose liability is generally limited to their investment.  Shareholders do not typically actively manage a corporation; shareholders instead elect or appoint a board of directors to control the corporation in a fiduciary capacity. In most circumstances, a shareholder may also serve as a director or officer of a corporation.\nIn American English, the word corporation is most often used to describe large business corporations. In British English and in the Commonwealth countries, the term company is more widely used to describe the same sort of entity while the word corporation encompasses all incorporated entities. In American English, the word company can include entities such as partnerships that would not be referred to as companies in British English as they are not a separate legal entity. Late in the 19th century, a new form of the company having the limited liability protections of a corporation, and the more favorable tax treatment of either a sole proprietorship or partnership was developed. While not a corporation, this new type of entity became very attractive as an alternative for corporations not needing to issue stock. In Germany, the organization was referred to as Gesellschaft mit beschr\u00e4nkter Haftung or GmbH. In the last quarter of the 20th century, this new form of non-corporate organization became available in the United States and other countries, and was known as the limited liability company or LLC. Since the GmbH and LLC forms of organization are technically not corporations (even though they have many of the same features), they will not be discussed in this article.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Corporation"
+    },
+    {
+        "title": "Credit",
+        "content": "Credit (from Latin credit, \"(he/she/it) believes\") is the trust which allows one party to provide money or resources to another party wherein the second party does not reimburse the first party immediately (thereby generating a debt), but promises either to repay or return those resources (or other materials of equal value) at a later date. In other words, credit is a method of making reciprocity formal, legally enforceable, and extensible to a large group of unrelated people.\nThe resources provided may be financial (e.g. granting a loan), or they may consist of goods or services (e.g. consumer credit). Credit encompasses any form of deferred payment. Credit is extended by a creditor, also known as a lender, to a debtor, also known as a borrower.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Credit"
+    },
+    {
+        "title": "Credit card",
+        "content": "A credit card is a payment card issued to users (cardholders) to enable the cardholder to pay a merchant for goods and services based on the cardholder's promise to the card issuer to pay them for the amounts plus the other agreed charges. The card issuer (usually a bank) creates a revolving account and grants a line of credit to the cardholder, from which the cardholder can borrow money for payment to a merchant or as a cash advance.\nA credit card is different from a charge card, which requires the balance to be repaid in full each month. In contrast, credit cards allow the consumers to build a continuing balance of debt, subject to interest being charged. A credit card also differs from a cash card, which can be used like currency by the owner of the card. A credit card differs from a charge card also in that a credit card typically involves a third-party entity that pays the seller and is reimbursed by the buyer, whereas a charge card simply defers payment by the buyer until a later date.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Credit_card"
+    },
+    {
+        "title": "Currency",
+        "content": "A currency in the most specific sense is money in any form when in use or  circulation as a medium of exchange, especially circulating banknotes and coins.\nA more general definition is that a currency is a system of money (monetary units) in common use, especially for people in a nation. Under this definition, U.S. dollars (US$), euros (\u20ac), Japanese yen (\u00a5), and pounds sterling (\u00a3) are examples of currencies. These various currencies are recognized as stores of value and are traded between nations in foreign exchange markets, which determine the relative values of the different currencies. Currencies in this sense are defined by governments, and each type has limited boundaries of acceptance.\nOther definitions of the term \"currency\" appear in the respective synonymous articles: banknote, coin, and money. This article uses the definition which focuses on the currency systems of countries.\nOne can classify currencies into three monetary systems: fiat money, commodity money, and representative money, depending on what guarantees a currency's value (the economy at large vs. the government's physical metal  reserves). Some currencies function as legal tender in certain political jurisdictions. Others simply get traded for their economic value.\nDigital currency has arisen with the popularity of computers and the Internet. Whether digital notes and coins will be successfully developed remains dubious. Decentralized digital currencies, such as cryptocurrencies are not legal currency, strictly speaking, since they are not issued by a government monetary authority and are not legal tender. Many warnings issued by various countries note the opportunities that cryptocurrencies create for illegal activities, such as money laundering and terrorism.\nIn 2014 the United States IRS issued a statement explaining that virtual currency is treated as property for Federal  income-tax purposes and providing examples of how longstanding tax principles applicable to transactions involving property apply to virtual currency.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Currency"
+    },
+    {
+        "title": "Customer",
+        "content": "In sales, commerce and economics, a customer (sometimes known as a client, buyer, or purchaser) is the recipient of a good, service, product or an idea - obtained from a seller, vendor, or supplier via a financial transaction or exchange for money or some  other valuable consideration.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Customer"
+    },
+    {
+        "title": "Dividend",
+        "content": "A dividend is a distribution of profits by a corporation to its shareholders. When a corporation earns a profit or surplus, it is able to pay a proportion of the profit as a dividend to shareholders. Any amount not distributed is taken to be re-invested in the business (called retained earnings). The current year profit as well as the retained earnings of previous years are available for distribution; a corporation usually is prohibited from paying a dividend out of its capital. Distribution to shareholders may be in cash (usually a deposit into a bank account) or, if the corporation has a dividend reinvestment plan, the amount can be paid by the issue of further shares or by share repurchase. In some cases, the distribution may be of assets.\nThe dividend received by a shareholder is income of the shareholder and may be subject to income tax (see dividend tax). The tax treatment of this income varies considerably between jurisdictions. The corporation does not receive a tax deduction for the dividends it pays.A dividend is allocated as a fixed amount per share with shareholders receiving a dividend in proportion to their shareholding. Dividends can provide stable income and raise morale among shareholders. For the joint-stock company, paying dividends is not an expense; rather, it is the division of after-tax profits among shareholders. Retained earnings (profits that have not been distributed as dividends) are shown in the shareholders' equity section on the company's balance sheet \u2013 the same as its issued share capital. Public companies usually pay dividends on a fixed schedule, but may declare a dividend at any time, sometimes called a special dividend to distinguish it from the fixed schedule dividends. Cooperatives, on the other hand, allocate dividends according to members' activity, so their dividends are often considered to be a pre-tax expense.\nThe word \"dividend\" comes from the Latin word \"dividendum\" (\"thing to be divided\").",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Dividend"
+    },
+    {
+        "title": "Down payment",
+        "content": "Down payment (or downpayment, also called a deposit in British English), is an initial up-front partial payment for the purchase of expensive items/services such as a car or a house. It is usually paid in cash or equivalent at the time of finalizing the transaction. A loan of some sort is then required to finance the remainder of the payment.\nThe main purposes of a down payment are to ensure that the lending institution has enough capital to create money for a loan in fractional reserve banking systems and to recover some of the balance due on the loan in the event that the borrower defaults. In real estate, the asset is used as collateral in order to secure the loan against default. If the borrower fails to repay the loan, the lender is legally entitled to sell the asset and retain enough of the proceeds to repay the remaining balance on the loan, including fees and interest added. A down payment, in this case, reduces the lender's risk to less than the value of the collateral, making it more likely that the lender will recover the full amount in the event of default.\nThe size of the down payment thus determines the extent to which the lender is protected against the various factors that might reduce the value of the collateral, as well as lost profits between the time of the last payment and the eventual sale of the collateral.\nFurthermore, making a down payment demonstrates that the borrower is able to raise a certain amount of money for long-term investment, which the lender may desire as evidence that the borrower's finances are sound, and that the borrower is not borrowing beyond his or her means.\nIf the borrower is unable to pay off the loan in its entirety, the down payment amount is forfeited.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Down_payment"
+    },
+    {
+        "title": "Debit card",
+        "content": "A debit card  (also known as a bank card, plastic card or check card) is a plastic payment card that can be used instead of cash when making purchases. It is similar to a credit card, but unlike a credit card, the money is immediately transferred directly from the cardholder's bank account when performing any transaction.\nSome cards might carry a stored value with which a payment is made, while most relay a message to the cardholder's bank to withdraw funds from a payer's designated bank account. In some cases, the primary account number is assigned exclusively for use on the Internet and there is no physical card.\nIn many countries, such as most of Western Europe, the use of debit cards has become so widespread that their volume has overtaken or entirely replaced cheques and, in some instances, cash transactions. The development of debit cards, unlike credit cards and charge cards, has generally been country specific resulting in a number of different systems around the world, which were often incompatible. Since the mid-2000s, a number of initiatives have allowed debit cards issued in one country to be used in other countries and allowed their use for internet and phone purchases.\nDebit cards usually also allow instant withdrawal of cash, acting as an ATM card for this purpose. Merchants may also offer cashback facilities to customers, so that a customer can withdraw cash along with their purchase.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Debit_card"
+    },
+    {
+        "title": "Economics",
+        "content": "Economics () is the social science that studies how people interact with scarce resources, in particular the production, distribution, and consumption of goods and services.Economics focuses on the behaviour and interactions of economic agents and how economies work. Microeconomics analyzes basic elements in the economy, including individual agents and markets, their interactions, and the outcomes of interactions. Individual agents may include, for example, households, firms, buyers, and sellers. Macroeconomics analyzes the economy as a system where production, consumption, saving, and investment interact,  and factors affecting it: employment of the resources of labour, capital, and land, currency inflation, economic growth, and public policies that have impact on these elements.\nOther broad distinctions within economics include those between positive economics, describing \"what is\", and normative economics, advocating \"what ought to be\"; between economic theory and applied economics; between rational and behavioural economics; and between mainstream economics and heterodox economics.Economic analysis can be applied throughout society, in real estate, business, finance, health care, and government. Economic analysis is sometimes also applied to such diverse subjects as crime, education, the family, law, politics, religion, social institutions, war, science, and the environment.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Economics"
+    },
+    {
+        "title": "Economies of scale",
+        "content": "In microeconomics, economies of scale are the cost advantages that enterprises obtain due to their scale of operation (typically measured by the amount of output produced), with cost per unit of output decreasing with increasing scale. At the basis of economies of scale there may be technical, statistical, organizational or related factors to the degree of market control.\nEconomies of scale apply to a variety of organizational and business situations and at various levels, such as a production, plant or an entire enterprise. When average costs start falling as output increases, then economies of scale occur.\nSome economies of scale, such as capital cost of manufacturing facilities and friction loss of transportation and industrial equipment, have a physical or engineering basis.\nAnother source of scale economies is the possibility of purchasing inputs at a lower per-unit cost when they are purchased in large quantities.\nThe economic concept dates back to Adam Smith and the idea of obtaining larger production returns through the use of division of labor. Diseconomies of scale are the opposite.\nEconomies of scale often have limits, such as passing the optimum design point where costs per additional unit begin to increase.  Common limits include exceeding the nearby raw material supply, such as wood in the lumber, pulp and paper industry. A common limit for a low cost per unit weight commodities is saturating the regional market, thus having to ship product uneconomic distances. Other limits include using energy less efficiently or having a higher defect rate.\nLarge producers are usually efficient at long runs of a product grade (a commodity) and find it costly to switch grades frequently.  They will, therefore, avoid specialty grades even though they have higher margins.  Often smaller (usually older) manufacturing facilities remain viable by changing from commodity-grade production to specialty products.Economies of scale must be distinguished from economies stemming from an increase in the production of a given plant. When a plant is used below its optimal production capacity, increases in its degree of utilization bring about decreases in the total average cost of production. As noticed, among the others, by Nicholas Georgescu-Roegen (1966) and Nicholas Kaldor (1972) these economies are not economies of scale.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Economies_of_scale"
+    },
+    {
+        "title": "Entrepreneurship",
+        "content": "Entrepreneurship is the creation or extraction of value. With this definition, entrepreneurship is viewed as change, which may include other values than simply economic ones. \nMore narrow definitions have described entrepreneurship as the process of designing, launching and running a new business, which is often initially a small business, or as the \"capacity and willingness to develop, organize and manage a business venture along with any of its risks to make a profit.\" The people who create these businesses are often referred to as entrepreneurs.  While definitions of entrepreneurship usually focus on the launching and running of businesses, due to the high risks involved in launching a start-up, a significant proportion of start-up businesses have to close due to \"lack of funding, bad business decisions, government policies, an economic crisis, lack of market demand, or a combination of all of these.\"A somewhat broader definition of the term is sometimes used, especially in the field of economics. In this usage, an entrepreneur is an entity which has the ability to find and act upon opportunities to translate inventions or technologies into products and services: \"The entrepreneur is able to recognize the commercial potential of the invention and organize the capital, talent, and other resources that turn an invention into a commercially viable innovation.\" In this sense, the term \"entrepreneurship\" also captures innovative activities on the part of established firms, in addition to similar activities on the part of new businesses. Yet, the definition is still narrow in the sense that it still focuses on the creation of economic (commercial) value.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Entrepreneurship"
+    },
+    {
+        "title": "Employment",
+        "content": "Employment is a relationship between two parties, usually based on contract where work is paid for, where one party, which may be a corporation, for profit, not-for-profit organization, co-operative or other entity is the employer and the other is the employee. Employees work in return for payment, which may be in the form of an hourly wage, by piecework or an annual salary, depending on the type of work an employee does or which sector they are working in. Employees in some fields or sectors may receive gratuities, bonus payment or stock options. In some types of employment, employees may receive benefits in addition to payment. Benefits can include health insurance, housing, disability insurance or use of a gym. Employment is typically governed by employment laws, organisation or legal contracts.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Employment"
+    },
+    {
+        "title": "E-commerce",
+        "content": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. Electronic commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. E-commerce is in turn driven by the technological advances of the semiconductor industry, and is the largest sector of the electronics industry.\nModern electronic commerce typically uses the World Wide Web for at least one part of the transaction's life cycle although it may also use other technologies such as e-mail. Typical e-commerce transactions include the purchase of online books (such as Amazon) and music purchases (music download in the form of digital distribution such as iTunes Store), and to a less extent, customized/personalized online liquor store inventory services. There are three areas of e-commerce: online retailing, electronic markets, and online auctions. E-commerce is supported by electronic business.E-commerce businesses may also employ some or all of the followings:\n\nOnline shopping for retail sales direct to consumers via Web sites and mobile apps, and conversational commerce via live chat, chatbots, and voice assistants\nProviding or participating in online marketplaces, which process third-party business-to-consumer (B2C) or consumer-to-consumer (C2C) sales\nBusiness-to-business (B2B) buying and selling;\nGathering and using demographic data through web contacts and social media\nBusiness-to-business (B2B) electronic data interchange\nMarketing to prospective and established customers by e-mail or fax (for example, with newsletters)\nEngaging in pretail for launching new products and services\nOnline financial exchanges for currency exchanges or trading purposes.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/E-commerce"
+    },
+    {
+        "title": "Equity (finance)",
+        "content": "In finance, equity is ownership of assets that may have debts or other liabilities attached to them. Equity is measured for accounting purposes by subtracting liabilities from the value of an asset. For example, if someone owns a car worth $9,000 and owes $3,000 on the loan used to buy the car, then the difference of $6,000 is equity. Equity can apply to a single asset, such as a car or house, or to an entire business. A business that needs to start up or expand its operations can sell its equity in order to raise cash that does not have to be repaid on a set schedule.\nWhen liabilities attached to an asset exceed its value, the difference is called a deficit and the asset is informally said to be \"underwater\" or \"upside-down\". In government finance or other non-profit settings, equity is known as \"net position\" or \"net assets\".",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Equity_(finance)"
+    },
+    {
+        "title": "Egalitarianism",
+        "content": "Egalitarianism (from French  \u00e9gal, meaning 'equal'), or equalitarianism, is a school of thought within political philosophy that builds from the concept of social equality, prioritizing it for all people. Egalitarian doctrines are generally characterized by the idea that all humans are equal in fundamental worth or moral status. Egalitarianism is the doctrine that all citizens of a state should be accorded exactly equal rights.The term egalitarianism has two distinct definitions in modern English, either as a political doctrine that all people should be treated as equals and have the same political, economic, social and civil rights, or as a social philosophy advocating the removal of economic inequalities among people, economic egalitarianism, or the decentralization of power. Some sources define egalitarianism as equality reflecting the natural state of humanity.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Egalitarianism"
+    },
+    {
+        "title": "Economic inequality",
+        "content": "There are wide varieties of economic inequality, most notably measured using the distribution of income (the amount of money people are paid) and the distribution of wealth (the amount of wealth people own). Besides economic inequality between countries or states, there are important types of economic inequality between different groups of people.Important types of economic measurements focus on wealth, income, and consumption. There are many methods for measuring economic inequality, with the Gini coefficient being a widely used one.  Another type of measure is the Inequality-adjusted Human Development Index, which is a statistic composite index that takes inequality into account. Important concepts of equality include equity, equality of outcome, and equality of opportunity.\nResearch suggests that greater inequality hinders economic growth, with land and human capital inequality reducing growth more than inequality of income. Whereas globalization has reduced global inequality (between nations), it has increased inequality within nations.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Economic_inequality"
+    },
+    {
+        "title": "Export",
+        "content": "An export in international trade is a good or service produced in one country that is sold into another country. The seller of such goods and services is an exporter; the foreign buyer is an importer.\n\nExport of goods often requires the involvement of customers authorities. From the buyer's point of view an export is an import.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Export"
+    },
+    {
+        "title": "Expense",
+        "content": "Expenditure is an outflow of money, or any form of fortune in general, to another person or group to pay for an item or service, or for a category of costs. For a tenant, rent is an expense. For students or parents, tuition is an expense. Buying food, clothing, furniture or an automobile is often referred to as an expense. An expense is a cost that is \"paid\" or \"remitted\", usually in exchange for something of value. Something that seems to cost a great deal is \"expensive\". Something that seems to cost little is \"inexpensive\". \"Expenses of the table\" are expenses of dining, refreshments, a feast, etc.\n\nIn accounting, expense has a very specific meaning. It is an outflow of cash or other valuable assets from a person or company to another person or company. This outflow of cash is generally one side of a trade for products or services that have equal or better current or future value to the buyer than to the seller. Technically, an expense is an event in which an asset is used up or a liability is incurred. In terms of the accounting equation, expenses reduce owners' equity. The International Accounting Standards Board defines expenses as:...decreases in economic benefits during the accounting period in the form of outflows or depletions of assets or incurrences of liabilities that result in decreases in equity, other than those relating to distributions to equity participants.\nExpense is a term also used in sociology, in which a particular fortune or price is sacrificed voluntarily or involuntarily by something or someone to something or somebody else, often in the context that the latter is taking advantage of the former.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Expense"
+    },
+    {
+        "title": "Adam Smith",
+        "content": "Adam Smith  (c. 16 June [O.S. c. 5 June] 1723 \u2013 17 July 1790) was a British economist, philosopher, and author born in Scotland, as well as a moral philosopher, a pioneer of political economy, and a key figure during the Scottish Enlightenment, also known as ''The Father of Economics'' or ''The Father of Capitalism''. Smith wrote two classic works, The Theory of Moral Sentiments (1759) and An Inquiry into the Nature and Causes of the Wealth of Nations (1776). The latter, often abbreviated as The Wealth of Nations, is considered his magnum opus and the first modern work of economics. In his work, Adam Smith introduced his theory of absolute advantage.Smith studied social philosophy at the University of Glasgow and at Balliol College, Oxford, where he was one of the first students to benefit from scholarships set up by fellow Scot John Snell. After graduating, he delivered a successful series of public lectures at the University of Edinburgh, leading him to collaborate with David Hume during the Scottish Enlightenment. Smith obtained a professorship at Glasgow, teaching moral philosophy and during this time, wrote and published The Theory of Moral Sentiments. In his later life, he took a tutoring position that allowed him to travel throughout Europe, where he met other intellectual leaders of his day.\nSmith laid the foundations of classical free market economic theory. The Wealth of Nations was a precursor to the modern academic discipline of economics. In this and other works, he developed the concept of division of labour and expounded upon how rational self-interest and competition can lead to economic prosperity. Smith was controversial in his own day and his general approach and writing style were often satirised by writers such as Horace Walpole.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Adam_Smith"
+    },
+    {
+        "title": "Factory",
+        "content": "A factory, manufacturing plant or a production plant is an industrial site, usually a complex consisting of several buildings filled with machinery, where workers manufacture items or operate machines which process each item into another. They are a critical part of modern economic production, with the majority of the world's goods being created or processed within factories.\nFactories arose with the introduction of machinery during the Industrial Revolution, when the capital and space requirements became too great for cottage industry or workshops. Early factories that contained small amounts of machinery, such as one or two spinning mules, and fewer than a dozen workers have been called \"glorified workshops\".Most modern factories have large warehouses or warehouse-like facilities that contain heavy equipment used for assembly line production. Large factories tend to be located with access to multiple modes of transportation, with some having rail, highway and water loading and unloading facilities. In some countries like Australia, it is common to call a factory building a \"Shed\".  \nFactories may either make discrete products or some type of continuously produced material, such as chemicals, pulp and paper, or refined oil products. Factories manufacturing chemicals are often called plants and may have most of their equipment \u2013 tanks, pressure vessels, chemical reactors, pumps and piping \u2013 outdoors and operated from control rooms. Oil refineries have most of their equipment outdoors.\nDiscrete products may be final goods, or parts and sub-assemblies which are made into final products elsewhere. Factories may be supplied parts from elsewhere or make them from raw materials. Continuous production industries typically use heat or electricity to transform streams of raw materials into finished products.\nThe term mill originally referred to the milling of grain, which usually used natural resources such as water or wind power until those were displaced by steam power in the 19th century. Because many processes like spinning and weaving, iron rolling, and paper manufacturing were originally powered by water, the term survives as in steel mill, paper mill, etc.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Factory"
+    },
+    {
+        "title": "Finance",
+        "content": "Finance is a term for matters regarding the management, creation, and study of money and investments. Specifically, it deals with the questions of how and why an individual, company or government acquires the money needed \u2013  called capital in the company context \u2013  and how they spend or invest that money.  Finance is then often split per the following major categories:  corporate finance, personal finance and public finance.At the same time, and correspondingly, finance is about the overall \"system\"\n\n \u2013  i.e., the financial markets that allow the flow of money, via investments and other financial instruments,  between and within these areas; \nthis \"flow\" is facilitated by the financial services sector.\nA major focus within finance is thus investment management \u2013  called money management for individuals, and asset management for institutions \u2013  and finance then includes the associated activities of securities trading and stock broking, investment banking, financial engineering, and risk management.  \nGiven its wide scope, finance is studied in several academic disciplines, and, correspondingly, there are several related professional qualifications that can lead to the field.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Finance"
+    },
+    {
+        "title": "Funding",
+        "content": "Funding is the act of providing resources to finance a need, program, or project. While this is usually in the form of money, it can also take the form of effort or time from an organization or company. Generally, this word is used when a firm uses its internal reserves to satisfy its necessity for cash, while the term financing is used when the firm acquires capital from external sources.Sources of funding include credit, venture capital, donations, grants, savings, subsidies, and taxes. Fundings such as donations, subsidies, and grants that have no direct requirement for return of investment are described as \"soft funding\" or \"crowdfunding\".  \nFunding that facilitates the exchange of equity ownership in a company for capital investment via an online funding portal as per the Jumpstart Our Business Startups Act (alternately, the \"JOBS Act of 2012\") (U.S.) is known as equity crowdfunding.\nFunds can be allocated for either short-term or long-term purposes.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Funding"
+    },
+    {
+        "title": "Fundraising",
+        "content": "Fundraising or fund-raising is the process of seeking and gathering voluntary financial contributions by engaging individuals, businesses, charitable foundations, or governmental agencies. Although fundraising typically refers to efforts to gather money for non-profit organizations, it is sometimes used to refer to the identification and solicitation of investors or other sources of capital for for-profit enterprises.\nTraditionally, fundraising has consisted mostly of asking for donations through face-to-face fundraising, such as door-knocking. In recent years, though, new forms such as online fundraising or reformed version of grassroots fundraising have emerged.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fundraising"
+    },
+    {
+        "title": "Goods",
+        "content": "In economics, goods are items that satisfy human wants and provide utility, for example, to a consumer making a purchase of a satisfying product. A common distinction is made between goods which are transferable, and services, which are not transferable.A good may be a consumable item that is useful to people but scarce in relation to its demand, so that human effort is required to obtain it. In contrast, free goods, such as air, are naturally in abundant supply and need no conscious effort to obtain them. Private goods are things owned by people, such as televisions, living room furniture, wallets, cellular telephones, almost anything owned or used on a daily basis that is not food related. \nA consumer good or \"final good\" is any item that is ultimately consumed, rather than used in the production of another good. For example, a microwave oven or a bicycle that is sold to a consumer is a final good or consumer good, but the components that are sold to be used in those goods are intermediate goods. For example, textiles or transistors can be used to make some further goods.\nCommercial goods are construed as tangible products that are manufactured and then made available for supply to be used in an industry of commerce. Commercial goods could be tractors, commercial vehicles, mobile structures, airplanes and even roofing materials. Commercial and personal goods as categories are very broad and cover almost everything a person sees from the time they wake up in their home, on their commute to work to their arrival at the workplace.\nCommodities may be used as a synonym for economic goods but often refer to marketable raw materials and primary products.Although common goods are tangible, certain classes of goods, such as information, only take intangible forms. For example, among other goods an apple is a tangible object, while news belongs to an intangible class of goods and can be perceived only by means of an instrument such as print or television.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Goods"
+    },
+    {
+        "title": "Economic growth",
+        "content": "One can define economic growth as the increase in the inflation-adjusted market value of the goods and services produced by an economy over time. Statisticians conventionally measure such growth as the percent rate of increase in real gross domestic product, or real GDP.Growth is usually calculated in real terms - i.e., inflation-adjusted terms \u2013 to eliminate the distorting effect of inflation on the prices of goods produced. Measurement of economic growth uses national income accounting. Since economic growth is measured as the annual percent change of gross domestic product (GDP), it has all the advantages and drawbacks of that measure. The economic growth-rates of countries are commonly compared using the ratio of the GDP to population (per-capita income).The \"rate of economic growth\" refers to the geometric annual rate of growth in GDP between the first and the last year over a period of time. This growth rate represents the trend in the average level of GDP over the period, and ignores any fluctuations in the GDP around this trend.\nEconomists refer to an increase in economic growth caused by more efficient use of inputs (increased productivity of labor, of physical capital, of energy or of materials) as intensive growth. In contrast, GDP growth caused only by increases in the amount of inputs available for use (increased population, for example, or new territory) counts as extensive growth.Development of new goods and services also generates economic growth. As it so happens, in the U.S. about 60% of consumer spending in 2013 went on goods and services that did not exist in 1869.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Economic_growth"
+    },
+    {
+        "title": "Recruitment",
+        "content": "Recruitment refers to the overall process of identifying, attracting, screening, shortlisting, and interviewing, suitable candidates for jobs (either permanent or temporary) within an organization. Recruitment can also refer to processes involved in choosing individuals for unpaid roles. Managers, human resource generalists and recruitment specialists may be tasked with carrying out recruitment, but in some cases public-sector employment agencies, commercial recruitment agencies, or specialist search consultancies are used to undertake parts of the process. Internet-based technologies which support all aspects of recruitment have become widespread, including the use of Artificial Intelligence (AI).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Recruitment"
+    },
+    {
+        "title": "Import",
+        "content": "An import in the receiving country is an export from the sending country. Importation and exportation are the defining financial transactions of international trade.In international trade, the importation and exportation of goods are limited by import quotas and mandates from the customs authority. The importing and exporting jurisdictions may impose a tariff (tax) on the goods. In addition, the importation and exportation of goods are subject to trade agreements between the importing and exporting jurisdictions.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Import"
+    },
+    {
+        "title": "Income",
+        "content": "Income is the consumption and saving opportunity gained by an entity within a specified timeframe, which is generally expressed in monetary terms.For households and individuals, \"income is the sum of all the wages, salaries, profits, interest payments, rents, and other forms of earnings received in a given period of time.\" (also known as gross income). Net income is defined as the gross income minus taxes and other deductions (e.g., mandatory pension contributions), and is usually the basis to calculate how much income tax is owed. \nIn the field of public economics, the concept may comprise the accumulation of both monetary and non-monetary consumption ability, with the former (monetary) being used as a proxy for total income.\nFor a firm, gross income can be defined as sum of all revenue minus the cost of goods sold. Net income nets out expenses: net income equals revenue minus cost of goods sold, expenses, depreciation, interest, and taxes.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Income"
+    },
+    {
+        "title": "Incentive",
+        "content": "An incentive is a contingent motivator. Traditional incentives are extrinsic motivators which reward actions to yield a desired outcome. The effectiveness of traditional incentives has changed as the needs of Western society have evolved. While the traditional incentive model is effective when there is a defined procedure and goal for a task, Western society started to require a higher volume of critical thinkers, so the traditional model became less effective. Institutions are now following a trend in implementing strategies that rely on intrinsic motivations rather than the extrinsic motivations that the traditional incentives foster. \nSome examples of traditional incentives are letter grades in the formal school system, and monetary bonuses for increased productivity in the workplace. Some examples of the promotion of intrinsic motivation are Google allowing their engineers to spend 20% of their work time exploring their own interests, and the competency based education system.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Incentive"
+    },
+    {
+        "title": "Inflation",
+        "content": "In economics, inflation or  price inflation is a general rise in price level relative to available goods resulting in a substantial and continuing drop in purchasing power in an economy over a period of time.\nWhen the general price level rises, each unit of currency buys fewer goods and services; consequently, inflation reflects a reduction in the purchasing power per unit of money \u2013  a loss of real value in the medium of exchange and unit of account within the economy. The opposite of inflation is deflation, a sustained decrease in the general price level of goods and services. The common measure of inflation is the inflation rate, the annualized percentage change in a general price index, usually the consumer price index, over time.Economists generally believe that very high rates of inflation and hyperinflation are caused by an excessive growth of the money supply. Views on which factors determine low to moderate rates of inflation are more varied. Low or moderate inflation may be attributed to fluctuations in real demand for goods and services, or changes in available supplies such as during scarcities. However, the consensus view is that a long sustained period of inflation is caused by money supply growing faster than the rate of economic growth.Inflation affects economies in various positive and negative ways. The negative effects of inflation include an increase in the opportunity cost of holding money, uncertainty over future inflation which may discourage investment and savings, and if inflation were rapid enough, shortages of goods as consumers begin hoarding out of concern that prices will increase in the future. Positive effects include reducing unemployment due to nominal wage rigidity, allowing the central bank more leeway in carrying out monetary policy, encouraging loans and investment instead of money hoarding, and avoiding the inefficiencies associated with deflation.\nToday, most economists favor a low and steady rate of inflation. Low (as opposed to zero or negative) inflation reduces the severity of economic recessions by enabling the labor market to adjust more quickly in a downturn, and reduces the risk that a liquidity trap prevents monetary policy from stabilizing the economy. The task of keeping the rate of inflation low and stable is usually given to monetary authorities. Generally, these monetary authorities are the central banks that control monetary policy through the setting of interest rates, through open market operations, and through the setting of banking reserve requirements.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Inflation"
+    },
+    {
+        "title": "Insurance",
+        "content": "Insurance is a means of protection from financial loss.  It is a form of risk management, primarily used to hedge against the risk of a contingent or uncertain loss.\nAn entity which provides insurance is known as an insurer, insurance company, insurance carrier or underwriter.  A person or entity who buys insurance is known as an insured or as a policyholder. The insurance transaction involves the insured assuming a guaranteed and known relatively small loss in the form of payment to the insurer in exchange for the insurer's promise to compensate the insured in the event of a covered loss.  The loss may or may not be financial, but it must be reducible to financial terms, and usually involves something in which the insured has an insurable interest established by ownership, possession, or pre-existing relationship.\nThe insured receives a contract, called the insurance policy, which details the conditions and circumstances under which the insurer will compensate the insured. The amount of money charged by the insurer to the policyholder for the coverage set forth in the insurance policy is called the premium. If the insured experiences a loss which is potentially covered by the insurance policy, the insured submits a claim to the insurer for processing by a claims adjuster. The insurer may hedge its own risk by taking out reinsurance, whereby another insurance company agrees to carry some of the risks, especially if the primary insurer deems the risk too large for it to carry.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Insurance"
+    },
+    {
+        "title": "Interest rate",
+        "content": "An interest rate is the amount of interest due per period, as a proportion of the amount lent, deposited or borrowed (called the principal sum). The total interest on an amount lent or borrowed depends on the principal sum, the interest rate, the compounding frequency, and the length of time over which it is lent, deposited or borrowed.\nIt is defined as the proportion of an amount loaned which a lender charges as interest to the borrower, normally expressed as an annual percentage. It is the rate a bank or other lender charges to borrow its money, or the rate a bank pays its savers for keeping money in an account.The annual interest rate is the rate over a period of one year. Other interest rates apply over different periods, such as a month or a day, but they are usually annualised.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Interest_rate"
+    },
+    {
+        "title": "Investment",
+        "content": "To invest is to allocate money in the expectation of some benefit in the future. \nIn finance, the benefit from an investment is called a return. The return may consist of a gain (or loss) realized from the sale of a property or an investment, unrealized capital appreciation (or depreciation), or investment income such as dividends, interest, rental income etc., or a combination of capital gain and income. The return may also include currency gains or losses due to changes in the foreign currency exchange rates.\nInvestors generally expect higher returns from riskier investments. When a low risk investment is made, the return is also generally low. Similarly, high risk comes with high returns. \nInvestors, particularly novices, are often advised to adopt a particular investment strategy and diversify their portfolio. Diversification has the statistical effect of reducing overall risk.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Investment"
+    },
+    {
+        "title": "Public liability",
+        "content": "Public liability is part of the law of tort which focuses on civil wrongs. An applicant (the injured party) usually sues the respondent (the owner or occupier) under common law based on negligence and/or damages.  Claims are usually successful when it can be shown that the owner/occupier was responsible for an injury, therefore they breached their duty of care.\nThe duty of care is very complex, but in basic terms it is the standard by which one would expect to be treated whilst one is in the care of another.\nOnce a breach of duty of care has been established, an action brought in a common law court would most likely be successful.  Based on the injuries and the losses of the applicant the court would award a financial compensation package.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Public_liability"
+    },
+    {
+        "title": "Loan",
+        "content": "In finance, a loan is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed.\nThe document evidencing the debt (e.g., a promissory note) will normally specify, among other things, the principal amount of money borrowed, the interest rate the lender is charging, and the date of repayment. A loan entails the reallocation of the subject asset(s) for a period of time, between the lender and the borrower.\nThe interest provides an incentive for the lender to engage in the loan. In a legal loan, each of these obligations and restrictions is enforced by contract, which can also place the borrower under additional restrictions known as loan covenants. Although this article focuses on monetary loans, in practice, any material object might be lent.\nActing as a provider of loans is one of the main activities of financial institutions such as banks and credit card companies. For other institutions, issuing of debt contracts such as bonds is a typical source of funding.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Loan"
+    },
+    {
+        "title": "Management",
+        "content": "Management (or managing) is the administration of an organization, whether it is a business, a not-for-profit organization, or government body. Management includes the activities of setting the strategy of an organization and coordinating the efforts of its employees (or of volunteers) to accomplish its objectives through the application of available resources, such as financial, natural, technological, and human resources. The term \"management\" may also refer to those people who manage an organization -  managers.\nSocial scientists study management as an academic discipline, investigating areas such as social organization and organizational leadership. Some people study management at colleges or universities; major degrees in management include the Bachelor of Commerce (B.Com.) Bachelor of Business Administration (BBA.) Master of Business Administration (MBA.) Master in Management (MScM or MIM) and, for the public sector, the Master of Public Administration (MPA) degree. Individuals who aim to become management specialists or experts, management researchers, or professors may complete the Doctor of Management (DM), the Doctor of Business Administration (DBA), or the PhD in Business Administration or Management. There has recently been a movement for evidence-based management.\nLarger organizations generally have three levels of managers, which are typically organized in a hierarchical, pyramid structure:\n\nSenior managers, such as members of a board of directors and a chief executive officer (CEO) or a president of an organization. They set the strategic goals of the organization and make decisions on how the overall organization will operate. Senior managers are generally executive-level professionals, and provide direction to middle management, who directly or indirectly report to them.\nMiddle managers - examples of these would include branch managers, regional managers, department managers and section managers, who provide direction to front-line managers. Middle managers communicate the strategic goals of senior management to the front-line managers.\nLower managers, such as supervisors and front-line team leaders, oversee the work of regular employees (or volunteers, in some voluntary organizations) and provide direction on their work.In smaller organizations, a manager may have a much wider scope and may perform several roles or even all of the roles commonly observed in a large organization.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Management"
+    },
+    {
+        "title": "Market (economics)",
+        "content": "A market is one of a composition of systems, institutions, procedures, social relations or infrastructures whereby parties engage in exchange. While parties may exchange goods and services by barter, most markets rely on sellers offering their goods or services (including labour power) in exchange for money from buyers. It can be said that a market is the process by which the prices of goods and services are established. Markets facilitate trade and enable the distribution and resource allocation in a society. Markets allow any trade-able item to be evaluated and priced. A market emerges more or less spontaneously or may be constructed deliberately by human interaction in order to enable the exchange of rights (cf. ownership) of services and goods. Markets generally supplant gift economies and are often held in place through rules and customs, such as a booth fee, competitive pricing, and source of goods for sale (local produce or stock registration).\nMarkets can differ by products (goods, services) or factors (labour and capital) sold, product differentiation, place in which exchanges are carried, buyers targeted, duration, selling process, government regulation, taxes, subsidies, minimum wages, price ceilings, legality of exchange, liquidity, intensity of speculation, size, concentration, exchange asymmetry, relative prices, volatility and geographic extension. The geographic boundaries of a market may vary considerably, for example the food market in a single building, the real estate market in a local city, the consumer market in an entire country, or the economy of an international trade bloc where the same rules apply throughout. Markets can also be worldwide, see for example the global diamond trade. National economies can also be classified as developed markets or developing markets.\nIn mainstream economics, the concept of a market is any structure that allows buyers and sellers to exchange any type of goods, services and information. The exchange of goods or services, with or without money, is a transaction. Market participants consist of all the buyers and sellers of a good who influence its price, which is a major topic of study of economics and has given rise to several theories and models concerning the basic market forces of supply and demand. A major topic of debate is how much a given market can be considered to be a \"free market\", that is free from government intervention. Microeconomics traditionally focuses on the study of market structure and the efficiency of market equilibrium; when the latter (if it exists) is not efficient, then economists say that a market failure has occurred. However, it is not always clear how the allocation of resources can be improved since there is always the possibility of government failure.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Market_(economics)"
+    },
+    {
+        "title": "Free market",
+        "content": "In economics, a free market is a system in which the prices for goods and services are self-regulated by the open market and by consumers. In a free market, the laws and forces of supply and demand are free from any intervention by a government or other authority, and from all forms of economic privilege, monopolies and artificial scarcities. Proponents of the concept of free market contrast it with a regulated market in which a government intervenes in supply and demand through various methods such as tariffs used to restrict trade and to protect the local economy. In an idealized free-market economy, prices for goods and services are set freely by the forces of supply and demand and are allowed to reach their point of equilibrium without intervention by government policy.\nScholars contrast the concept of a free market with the concept of a coordinated market in fields of study such as political economy, new institutional economics, economic sociology and political science. All of these fields emphasize the importance in currently existing market systems of rule-making institutions external to the simple forces of supply and demand which create space for those forces to operate to control productive output and distribution. Although free markets are commonly associated with capitalism within a market economy in contemporary usage and popular culture, free markets have also been advocated by anarchists, socialists and some proponents of cooperatives and advocates of profit sharing.Criticism of the theoretical concept may regard systems with significant market power, inequality of bargaining power, or information asymmetry as less than free, with regulation being necessary to control those imbalances in order to allow markets to function more efficiently as well as produce more desirable social outcomes.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Free_market"
+    },
+    {
+        "title": "the invisible hand",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Marketing",
+        "content": "Marketing is profitably using the results of studying short term and long term needs of those who can pay for a one-time, or in most cases, a steady flow of service or product placement. In 2017 The New York Times described it as \"the art of telling stories so enthralling that people lose track of their wallets.It is one of the primary components of business management and commerce. Marketers can direct their product to other businesses (B2B marketing) or directly to consumers (B2C marketing). Regardless of who is being marketed to, several factors apply, including the perspective the marketers will use. Known as market orientations, they determine how marketers will approach the planning stage of marketing.The marketing mix, which outlines the specifics of the product and how it will be sold, is affected by the environment surrounding the product, the results of marketing research and market research, and the characteristics of the product's target market. Once these factors are determined, marketers must then decide what methods will be used to promote the product, including use of coupons and other price inducements.The term marketing, what is commonly known as attracting customers, incorporates knowledge gained by studying the management of exchange relationships and is the business process of identifying, anticipating and satisfying customers' needs and wants.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Marketing"
+    },
+    {
+        "title": "Merchant",
+        "content": "A merchant is a person who trades in commodities produced by other people. Historically, a merchant is anyone who is involved in business or trade. Merchants have operated for as long as industry, commerce, and trade have existed. In 16th-century Europe, two different terms for merchants emerged: meerseniers referred to local traders (such as bakers and grocers) and koopman (Dutch: koopman) referred to merchants who operated on a global stage, importing and exporting goods over vast distances and offering added-value services such as credit and finance.\nThe status of the merchant has varied during different periods of history and among different societies. In ancient Rome and Greece merchants could become wealthy, but lacked high social status. In contrast, in the Middle East, where markets were an integral part of the city, merchants enjoyed high status. In modern times, the term merchant has occasionally been used to refer to a businessperson or someone undertaking activities (commercial or industrial) for the purpose of generating profit, cash flow, sales, and revenue utilizing a combination of human, financial, intellectual and physical capital with a view to fueling economic development and growth.\n\nMerchants have been known for as long as humans have engaged in trade and commerce. Merchants and merchant networks operated in ancient Babylonia and Assyria, China, Egypt, Greece, India, Persia, Phoenicia, and Rome. During the European medieval period, a rapid expansion in trade and commerce led to the rise of a wealthy and powerful merchant class. The European age of discovery opened up new trading routes and gave European consumers access to a much broader range of goods. From the 1600s, goods began to travel much further distances as they found their way into geographically dispersed market-places.  Following the opening of Asia to European trade and the discovery of the New World, merchants imported goods over very long distances: calico cloth from India, porcelain, silk and tea from China, spices from India and South-East Asia and tobacco, sugar, rum and coffee from the New World. By the eighteenth century, a new type of manufacturer-merchant had started to emerge and modern business practices were becoming evident.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Merchant"
+    },
+    {
+        "title": "Monopoly",
+        "content": "A monopoly (from Greek \u03bc\u03cc\u03bd\u03bf\u03c2, m\u00f3nos, 'single, alone' and \u03c0\u03c9\u03bb\u03b5\u1fd6\u03bd, p\u014dle\u00een, 'to sell') exists when a specific person or enterprise is the only supplier of a particular commodity. This contrasts with a monopsony which relates to a single entity's control of a market to purchase a good or service, and with oligopoly and duopoly which consists of a few sellers dominating a market. Monopolies are thus characterized by a lack of economic competition to produce the good or service, a lack of viable substitute goods, and the possibility of a high monopoly price well above the seller's marginal cost that leads to a high monopoly profit. The verb monopolise or monopolize refers to the process by which a company gains the ability to raise prices or exclude competitors. In economics, a monopoly is a single seller. In law, a monopoly is a business entity that has significant market power, that is, the power to charge overly high prices. Although monopolies may be big businesses, size is not a characteristic of a monopoly. A small business may still have the power to raise prices in a small industry (or market).A monopoly may also have monopsony control of a sector of a market. Likewise, a monopoly should be distinguished from a cartel (a form of oligopoly), in which several providers act together to coordinate services, prices or sale of goods. Monopolies, monopsonies and oligopolies are all situations in which one or a few entities have market power and therefore interact with their customers (monopoly or oligopoly), or suppliers (monopsony) in ways that distort the market.Monopolies can be established by a government, form naturally, or form by integration. In many jurisdictions, competition laws restrict monopolies due to government concerns over potential adverse effects. Holding a dominant position or a monopoly in a market is often not illegal in itself, however certain categories of behavior can be considered abusive and therefore incur legal sanctions when business is dominant. A government-granted monopoly or legal monopoly, by contrast, is sanctioned by the state, often to provide an incentive to invest in a risky venture or enrich a domestic interest group. Patents, copyrights, and trademarks are sometimes used as examples of government-granted monopolies. The government may also reserve the venture for itself, thus forming a government monopoly, for example with a state-owned company.Monopolies may be naturally occurring due to limited competition because the industry is resource intensive and requires substantial costs to operate (e.g., certain railroad systems).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Monopoly"
+    },
+    {
+        "title": "Negotiation",
+        "content": "Negotiation is a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues. Negotiation is an interaction and process between entities who compromise to agree on matters of mutual interest, while optimizing their individual utilities. This beneficial outcome can be for all of the parties involved, or just for one or some of them. Negotiators need to understand the negotiation process and other negotiators to increase their chances to close deals, avoid conflicts, establishing relationship with other parties and gain profit.It is aimed to resolve points of difference, to gain advantage for an individual or collective, or to craft outcomes to satisfy various interests. It is often conducted by putting forward a position and making concessions to achieve an agreement. The degree to which the negotiating parties trust each other to implement the negotiated solution is a major factor in determining whether negotiations are successful.\nPeople negotiate daily, often without considering it a negotiation. Negotiation occurs in organizations, including businesses, non-profits, and within and between governments as well as in sales and legal proceedings, and in personal situations such as marriage, divorce, parenting, etc. Professional negotiators are often specialized, such as union negotiators, leverage buyout negotiators, peace negotiator, or hostage negotiators. They may also work under other titles, such as diplomats, legislators, or brokers. There is also negotiation conducted by algorithms or machines known as autonomous negotiation. For automation, the negotiation participants and process have to be modeled correctly.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Negotiation"
+    },
+    {
+        "title": "Organization",
+        "content": "An organization, or organisation (Commonwealth English; see spelling differences), is an entity \u2013 such as a company, an institution, or an association \u2013 comprising one or more people and having a particular purpose.\nThe word is derived from the Greek word organon, which means tool or instrument, musical instrument, and organ.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Organization"
+    },
+    {
+        "title": "Production (economics)",
+        "content": "Production is a process of combining various material inputs and immaterial inputs (plans, know-how) in order to make something for consumption (output). It is the act of creating an output, a good or service which has value and contributes to the utility of individuals. The area of economics that focuses on production is referred to as production theory, which in many respects is similar to the consumption (or consumer) theory in economics.Economic well-being is created in a production process, meaning all economic activities that aim directly or indirectly to satisfy human wants and needs. The degree to which the needs are satisfied is often accepted as a measure of economic well-being. In production there are two features which explain increasing economic well-being. They are improving quality-price-ratio of goods and services and increasing incomes from growing and more efficient market production or total production which help in increasing GDP.\nThe most important forms of production are:\n\nmarket production\npublic production\nhousehold productionIn order to understand the origin of economic well-being, we must understand these three production processes. All of them produce commodities which have value and contribute to well-being of individuals.\nThe satisfaction of needs originates from the use of the commodities which are produced. The need satisfaction increases when the quality-price-ratio of the commodities improves and more satisfaction is achieved at less cost. Improving the quality-price-ratio of commodities is to a producer an essential way to improve the competitiveness of products but this kind of gains distributed to customers cannot be measured with production data. Improving the competitiveness of products means often to the producer lower product prices and therefore losses in incomes which are to be compensated with the growth of sales volume.\nEconomic well-being also increases due to the growth of incomes that are gained from the growing and more efficient market production. Market production is the only production form which creates and distributes incomes to stakeholders. Public production and household production are financed by the incomes generated in market production. Thus market production has a double role in creating well-being, i.e. the role of producing goods and services and the role of creating income. Because of this double role market production is the \u201cprimus motor\u201d of economic well-being and therefore here under review.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Production_(economics)"
+    },
+    {
+        "title": "Profit (economics)",
+        "content": "In economics, profit in the accounting sense of the excess of revenue over cost is the sum of two components: normal profit and economic profit. Understanding profit can be broken down into three aspects: the size of profit, the portion of the total income, and the rate of profit (in comparison to the initial investment).  Normal profit is the profit that is necessary to just cover the opportunity costs of an owner-manager or of a firm's investors. In the absence of this profit, these parties would withdraw their time and funds from the firm and use them to better advantage elsewhere. In contrast, economic profit, sometimes called excess profit, is profit in excess of what is required to cover the opportunity costs.\nThe enterprise component of normal profit is the profit that a business owner considers necessary to make running the business worth his or her while, i.e., it is comparable to the next-best amount the entrepreneur could earn doing another job. In particular, if enterprise is not included as a factor of production, it can also be viewed as a return to capital for investors including the entrepreneur, equivalent to the return the capital owner could have expected (in a safe investment), plus compensation for risk. Normal profit varies both within and across industries; it is commensurate with the riskiness associated with each type of investment, as per the risk-return spectrum.\nOnly normal profits arise in circumstances of perfect competition when long-run economic equilibrium is reached; there is no incentive for firms to either enter or leave the industry.Profits can be theorized by the phenomena of equilibrium or disequilibrium. These phenomena have the ability to retain its activity as static or dynamic. Economic variables such as effects of size, share or rate, or source of profits are determined by these theories.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Profit_(economics)"
+    },
+    {
+        "title": "Purchasing power",
+        "content": "Purchasing power is the amount of goods and services that can be purchased with a unit of currency. For example, if one had taken one unit of currency to a store in the 1950s, it would have been possible to buy a greater number of items than would be the case today, indicating that the currency had a greater purchasing power in the 1950s. Currency can be either a commodity money, like gold or silver, or fiat money emitted by government sanctioned agencies\nIf one's monetary income stays the same, but the price level increases, the purchasing power of that income falls. Inflation does not always imply falling purchasing power of one's money income since the latter may rise faster than the price level. A higher real income means a higher purchasing power since real income refers to the income adjusted for inflation.\nTraditionally, the purchasing power of money depended heavily upon the local value of gold and silver, but was also made subject to the availability and demand of certain goods on the market. Most modern fiat currencies like US dollars are traded against each other and commodity money in the secondary market for the purpose of international transfer of payment for goods and services.\nAs Adam Smith noted, having money gives one the ability to \"command\" others' labor, so purchasing power to some extent is power over other people, to the extent that they are willing to trade their labor or goods for money or currency.\nFor a price index, its value in the base year is usually normalized to a value of 100. The purchasing power of a unit of currency, say a dollar, in a given year, expressed in dollars of the base year, is 100/P, where P is the price index in that year.  So, by definition the purchasing power of a dollar decreases as the price level rises.\nAdam Smith used an hour's labour as the purchasing power unit, so value would be measured in hours of labour required to produce a given quantity (or to produce some other good worth an amount sufficient to purchase the same).EUROSTAT uses  purchasing power standard, abbreviated as PPS, as an artificial currency unit.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Purchasing_power"
+    },
+    {
+        "title": "Recruitment",
+        "content": "Recruitment refers to the overall process of identifying, attracting, screening, shortlisting, and interviewing, suitable candidates for jobs (either permanent or temporary) within an organization. Recruitment can also refer to processes involved in choosing individuals for unpaid roles. Managers, human resource generalists and recruitment specialists may be tasked with carrying out recruitment, but in some cases public-sector employment agencies, commercial recruitment agencies, or specialist search consultancies are used to undertake parts of the process. Internet-based technologies which support all aspects of recruitment have become widespread, including the use of Artificial Intelligence (AI).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Recruitment"
+    },
+    {
+        "title": "Risk",
+        "content": "In simple terms, risk is the possibility of something bad happening. Risk involves uncertainty about the effects/implications of an activity with respect to something that humans value (such as health, well-being, wealth, property or the environment), often focusing on negative, undesirable consequences. Many different definitions have been proposed. The international standard definition of risk for common understanding in different applications is \u201ceffect of uncertainty on objectives\u201d.The understanding of risk, the common methods of analysis and assessment, the measurements of risk and even the definition of risk differ in different practice areas (business, economics, environment, finance, information technology, health, insurance, safety, security etc).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Risk"
+    },
+    {
+        "title": "Sales",
+        "content": "Sales are activities related to selling or the number of goods sold in a given targeted time period. The delivery of a service for a cost is also considered a sale.\nThe seller, or the provider of the goods or services, completes a sale in response to an acquisition, appropriation, requisition, or a direct interaction with the buyer at the point of sale. There is a passing of title (property or ownership) of the item, and the settlement of a price, in which agreement is reached on a price for which transfer of ownership of the item will occur. The seller, not the purchaser, typically executes the sale and it may be completed prior to the obligation of payment. In the case of indirect interaction, a person who sells goods or service on behalf of the owner is known as a salesman or saleswoman or salesperson, but this often refers to someone selling goods in a store/shop, in which case other terms are also common, including salesclerk, shop assistant, and retail clerk.\nIn common law countries, sales are governed generally by the common law and commercial codes. In the United States, the laws governing sales of goods are somewhat uniform to the extent that most jurisdictions have adopted Article 2 of the Uniform Commercial Code, albeit with some non-uniform variations.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sales"
+    },
+    {
+        "title": "Sales tax",
+        "content": "A sales tax is a tax paid to a governing body for the sales of certain goods and services. Usually laws allow the seller to collect funds for the tax from the consumer at the point of purchase. When a tax on goods or services is paid to a governing body directly by a consumer, it is usually called a use tax. Often laws provide for the exemption of certain goods or services from sales and use tax. A value-added tax (VAT) collected on goods and services is similar to a sales tax.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Sales_tax"
+    },
+    {
+        "title": "Bank statement",
+        "content": "A bank statement is an official summary of financial transactions occurring within a given period for each bank account held by a person or business with a financial institution. Such statements are prepared by the financial institution, are numbered and indicate the period covered by the statement, and may contain other relevant information for the account type, such as how much is payable by a certain date. The start date of the statement period is usually the day after the end of the previous statement period.\nOnce produced and delivered to the customer, details on the statement are not normally alterable; any error found would normally be corrected on a future statement, usually with some correspondence explaining the reason for the adjustment.\nBank statements are commonly used by the customer to monitor cash flow, check for possible fraudulent transactions and perform bank reconciliations. Historically they have been printed on one or more pieces of paper, and either mailed directly to the account holder or kept at the financial institution's local branch for pick-up. In recent years there has been a shift towards paperless electronic statements, and many financial institutions now also offer direct downloads of financial information into the account holders accounting software to streamline the reconciliation process. Bank statements are important documents, and usually required to be retained for audit and tax purposes for a period set by relevant tax authorities.\nTo enable account holders to track account activity on an ongoing basis, many financial institutions offer a non-official transaction history before the official bank statement is produced. Such activity may be viewed on or printed from the financial institution's website, a smartphone application, available via telephone banking, or printed by some ATMs.\nTransaction histories or account balances may also be shared with other financial institutions, when the account holder gives permission, through open banking to provide services such as account aggregation. An aggregation service only lets the software view an account balance, not actual transactions.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bank_statement"
+    },
+    {
+        "title": "Supply (economics)",
+        "content": "In economics, supply is the amount of a resource that firms, producers, labourers, providers of financial assets, or other economic agents are willing and able to provide to the marketplace or directly to another agent in the marketplace. Supply can be in currency, time, raw materials, or any other scarce or valuable object that can be provided to another agent. This is often fairly abstract. For example in the case of time, supply is not transferred to one agent from another, but one agent may offer some other resource in exchange for the first spending time doing something. Supply is often plotted graphically as a supply curve, with the quantity provided (the dependent variable) plotted horizontally and the price (the independent variable) plotted vertically.\nIn the goods market, supply is the amount of a product per unit of time that producers are willing to sell at various given prices when all other factors are held constant. In the labor market, the supply of labor is the amount of time per week, month, or year that individuals are willing to spend working, as a function of the wage rate.\nIn financial markets, the money supply is the amount of highly liquid assets available in the money market, which is either determined or influenced by a country's monetary authority. This can vary based on which type of money supply one is discussing. M1 for example is commonly used to refer to narrow money, coins, cash, and other money equivalents that can be converted to currency nearly instantly. M2 by contrast includes all of M1 but also includes short-term deposits and certain types of market funds.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Supply_(economics)"
+    },
+    {
+        "title": "Demand",
+        "content": "In economics, demand is the quantity of consumers that are willing and able to purchase at various prices during a given period of time.The relationship between price and quantity demanded is also called the demand curve. Demand for a specific item is a function of item's perceived necessity, item's price, item's perceived quality, convenience of item, available alternatives, purchasers' disposable income, purchasers' tastes, and many other factors.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Demand"
+    },
+    {
+        "title": "Non-governmental organization",
+        "content": "Organizations which are independent of government involvement are known as non-governmental organizations or NGOs or non-government organizations. NGOs are a subgroup of organizations founded by citizens, which include clubs and associations which provide services to its members and others. They are usually nonprofit organizations. Many NGOs are active in humanitarianism or the social sciences. Surveys indicate that NGOs have a high degree of public trust, which can make them a useful proxy for the concerns of society and stakeholders. However, NGOs can also be lobby groups for corporations, such as the World Economic Forum. According to NGO.org (the non-governmental organizations associated with the United Nations), \"[an NGO is] any non-profit, voluntary citizens' group which is organized on a local, national or international level ... Task-oriented and driven by people with a common interest, NGOs perform a variety of service and humanitarian functions, bring citizen concerns to Governments, advocate and monitor policies and encourage political participation through provision of information.\"Russia had about 277,000 NGOs in 2008. India is estimated to have had about two million NGOs in 2009 (approximately one per 600 Indians), many more than the number of the country's primary schools and health centers. The term \"NGO\" is used inconsistently; it is sometimes a synonym for a civil society organization, any association founded by citizens. NGOs are known in some countries as nonprofit organizations, and political parties and trade unions are sometimes considered NGOs. NGOs are classified by orientation and level of operation; orientation refers to the type of activities an NGO undertakes. Activities may include human rights, consumer protection, environmentalism, health, or development. An NGO's level of operation indicates the scale at which an organization works: local, regional, national, or international.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Non-governmental_organization"
+    },
+    {
+        "title": "Tax",
+        "content": "A tax is a compulsory financial charge or some other type of levy imposed on a taxpayer (an individual or legal entity) by a governmental organization in order to fund government spending and various public expenditures. A failure to pay, along with evasion of or resistance to taxation, is punishable by law. Taxes consist of direct or indirect taxes and may be paid in money or as its labour equivalent. The first known taxation took place in Ancient Egypt around 3000\u20132800 BC.\nMost countries have a tax system in place to pay for public, common, or agreed national needs and government functions. Some levy a flat percentage rate of taxation on personal annual income, but most scale taxes based on annual income amounts. Most countries charge a tax on an individual's income as well as on corporate income. Countries or subunits often also impose wealth taxes, inheritance taxes, estate taxes, gift taxes, property taxes, sales taxes, payroll taxes or tariffs.\nIn economic terms, taxation transfers wealth from households or businesses to the government. This has effects which can both increase and reduce economic growth and economic welfare. Consequently, taxation is a highly debated topic.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Tax"
+    },
+    {
+        "title": "Financial transaction",
+        "content": "A financial transaction is an agreement, or communication, carried out between a buyer and a seller to exchange an asset for payment.\nIt involves a change in the status of the finances of two or more businesses or individuals. The buyer and seller are separate entities or objects, often involving the exchange of items of value, such as information, goods, services, and money. It is still a transaction if the goods are exchanged at one time, and the money at another. This is known as a two-part transaction: part one is giving the money, part two is receiving the goods.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Financial_transaction"
+    },
+    {
+        "title": "Startup company",
+        "content": "A startup or start-up is a company or project undertaken by an entrepreneur to seek, develop, and validate a scalable economic model. While entrepreneurship refers to all new businesses, including self-employment and businesses that never intend to become registered, startups refer to new businesses that intend to grow large beyond the solo founder. Startups face high uncertainty and have high rates of failure, but a minority of them do go on to be successful and influential. Some startups become unicorns; that is privately held startup companies valued at over US$1 billion.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Startup_company"
+    },
+    {
+        "title": "Unemployment",
+        "content": "Unemployment, according to the OECD (Organisation for Economic Co-operation and Development), if persons above a specified age (usually 15) not being in paid employment or self-employment but currently available for work during the reference period.Unemployment is measured by the unemployment rate, which is the number of people who are unemployed as a percentage of the labour force (the total number of people employed added to those unemployed).Unemployment can have many sources, such as the following:\n\nnew technologies and inventions\nthe status of the economy, which can be influenced by a recession\ncompetition caused by globalization and international trade\npolicies of the government\nregulation and marketUnemployment and the status of the economy can be influenced by a country through, for example, fiscal policy. Furthermore, the monetary authority of a country, such as the central bank, can influence the availability and cost for money through its monetary policy.\nIn addition to theories of unemployment, a few categorisations of unemployment are used for more precisely modelling the effects of unemployment within the economic system. Some of the main types of unemployment include structural unemployment, frictional unemployment, cyclical unemployment, involuntary unemployment and classical unemployment. Structural unemployment focuses on foundational problems in the economy and inefficiencies inherent in labor markets, including a mismatch between the supply and demand of laborers with necessary skill sets. Structural arguments emphasize causes and solutions related to disruptive technologies and globalization. Discussions of frictional unemployment focus on voluntary decisions to work based on individuals' valuation of their own work and how that compares to current wage rates added to the time and effort required to find a job. Causes and solutions for frictional unemployment often address job entry threshold and wage rates.\nAccording to the UN's International Labour Organization (ILO), there were 172 million people worldwide (or 5% of the reported global workforce) without work in 2018.Because of the difficulty in measuring the unemployment rate by, for example, using surveys (as in the United States) or through registered unemployed citizens (as in some European countries), statistical figures such as the employment-to-population ratio might be more suitable for evaluating the status of the workforce and the economy if they were based on people who are registered, for example, as taxpayers.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Unemployment"
+    },
+    {
+        "title": "bankuptcy",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Oligopoly",
+        "content": "An oligopoly (\u03bf\u03bb\u03b9\u03b3\u03bf\u03c0\u03ce\u03bb\u03b9\u03bf) (Greek: \u1f40\u03bb\u03af\u03b3\u03bf\u03b9 \u03c0\u03c9\u03bb\u03b7\u03c4\u03ad\u03c2 \"few authorities\") is a market form wherein a market or industry is dominated by a small group of large sellers (oligopolists).  Oligopolies can result from various forms of collusion that reduce market competition which then typically leads to higher prices for consumers. Oligopolies have their own market structure.With few sellers, each oligopolist is likely to be aware of the actions of the others. According to game theory, the decisions of one firm therefore influence and are influenced by decisions of other firms. Strategic planning by oligopolists needs to take into account the likely responses of the other market participants.  Entry barriers include high investment requirements, strong consumer loyalty for existing brands and economies of scale. In developed economies oligopolies dominate the economy as the perfectly competitive model is of negligible importance for consumers. Oligopolies differ from price takers in that they do not have a supply curve. Instead, they search for the best price-output combination.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Oligopoly"
+    },
+    {
+        "title": "Fraud",
+        "content": "In law, fraud is intentional deception to secure unfair or unlawful gain, or to deprive a victim of a legal right. Fraud can violate civil law (i.e., a fraud victim may sue the fraud perpetrator to avoid the fraud or recover monetary compensation), a criminal law (i.e., a fraud perpetrator may be prosecuted and imprisoned by governmental authorities), or it may cause no loss of money, property or legal right but still be an element of another civil or criminal wrong. The purpose of fraud may be monetary gain or other benefits, for example by obtaining a passport, travel document, or driver's license, or mortgage fraud, where the perpetrator may attempt to qualify for a mortgage by way of false statements.A hoax is a distinct concept that involves deliberate deception without the intention of gain or of materially damaging or depriving a victim.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Fraud"
+    },
+    {
+        "title": "Jurisdiction",
+        "content": "Jurisdiction (from Latin juris 'law' + dictio 'declaration') is the practical authority granted to a legal body to administer justice, as defined by the kind of case, and the location of the issue (its situs). In federations like the United States, areas of jurisdiction apply to local, state, and federal levels.\nColloquially it is used to refer to the geographical area to which such authority applies, e.g., the court has jurisdiction over all of Colorado. The legal term refers only to the granted authority, not to a geographical area.\nJurisdiction draws its substance from international law, conflict of laws, constitutional law, and the powers of the executive and legislative branches of government to allocate resources to best serve the needs of society.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Jurisdiction"
+    },
+    {
+        "title": "Law",
+        "content": "Law commonly refers to a system of rules created and enforced through social or governmental institutions to regulate behavior, with its precise definition a matter of longstanding debate. It has been variously described as a science and the art of justice. State-enforced laws can be made by a group legislature or by a single legislator, resulting in statutes; by the executive through decrees and regulations; or established by judges through precedent, usually in common law jurisdictions. Private individuals may create legally binding contracts, including arbitration agreements that adopt alternative ways of resolving disputes to standard court litigation. The creation of laws themselves may be influenced by a constitution, written or tacit, and the rights encoded therein. The law shapes politics, economics, history and society in various ways and serves as a mediator of relations between people.\nLegal systems vary between countries, with their differences analysed in comparative law. In civil law jurisdictions, a legislature or other central body codifies and consolidates the law. In common law systems, judges make binding case law through precedent, although on occasion this may be overturned by a higher court or the legislature. Historically, religious law influenced secular matters, and is still used in some religious communities. Sharia law based on Islamic principles is used as the primary legal system in several countries, including Iran and Saudi Arabia.Law's scope can be divided into two domains. Public law concerns government and society, including constitutional law, administrative law, and criminal law. Private law deals with legal disputes between individuals and/or organisations in areas such as contracts, property, torts/delicts and commercial law. This distinction is stronger in civil law countries, particularly those with a separate system of administrative courts; by contrast, the public-private law divide is less pronounced in common law jurisdictions.Law provides a source of scholarly inquiry into legal history, philosophy, economic analysis and sociology. Law also raises important and complex issues concerning equality, fairness, and justice.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Law"
+    },
+    {
+        "title": "Legislation",
+        "content": "Legislation is law which has been promulgated (or \"enacted\") by a legislature or other governing body or the process of making it. Before an item of legislation becomes law it may be known as a bill, and may be broadly referred to as \"legislation\", while it remains under consideration to distinguish it from other business. Legislation can have many purposes: to regulate, to authorize, to outlaw, to provide (funds), to sanction, to grant, to declare or to restrict. It may be contrasted with a non-legislative act which is adopted by an executive or administrative body under the authority of a legislative act or for implementing a legislative act.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Legislation"
+    },
+    {
+        "title": "Lawsuit",
+        "content": "A lawsuit is a proceeding by a party or parties against another in the civil court of law. The archaic term \"suit in law\" is found in only a small number of laws still in effect today. The term \"lawsuit\" is used in reference to a civil action brought in a court of law in which a plaintiff, a party who claims to have incurred loss as a result of a defendant's actions, demands a legal or equitable remedy. The defendant is required to respond to the plaintiff's complaint. If the plaintiff is successful, judgment is in the plaintiff's favor, and a variety of court orders may be issued to enforce a right, award damages, or impose a temporary or permanent injunction to prevent an act or compel an act. A declaratory judgment may be issued to prevent future legal disputes.\nA lawsuit may involve dispute resolution of private law issues between individuals, business entities or non-profit organizations. A lawsuit may also enable the state to be treated as if it were a private party in a civil case, as plaintiff, or defendant regarding an injury, or may provide the state with a civil cause of action to enforce certain laws.\nThe conduct of a lawsuit is called litigation. The plaintiffs and defendants are called litigants and the attorneys representing them are called litigators. The term litigation may also refer to a Criminal procedure.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Lawsuit"
+    },
+    {
+        "title": "Bargaining",
+        "content": "Bargaining or haggling is a type of negotiation in which the buyer and seller of a good or service debate the price and exact nature of a transaction. If the bargaining produces agreement on terms, the transaction takes place.   Bargaining is an alternative pricing strategy to fixed prices. Optimally, if it costs the retailer nothing to engage and allow bargaining, they can deduce the buyer's willingness to spend.  It allows for capturing more consumer surplus as it allows price discrimination, a process whereby a seller can charge a higher price to one buyer who is more eager (by being richer or more desperate). Haggling has largely disappeared in parts of the world where the cost to haggle exceeds the gain to retailers for most common retail items. However, for expensive goods sold to uninformed buyers such as automobiles, bargaining can remain commonplace.\nDickering refers to the same process, albeit with a slight negative (petty) connotation.\nBargaining is also the name chosen for the third stage of the K\u00fcbler-Ross model (commonly known as the stages of dying), even though it has nothing to do with price negotiations.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Bargaining"
+    },
+    {
+        "title": "Business, Economics and Politics",
+        "content": "Business is the activity of making one's living or making money by producing or buying and selling products (such as goods and services). Simply put, it is \"any activity or enterprise entered into for profit. It does not mean it is a company, a corporation, partnership, or have any such formal organization, but it can range from a street peddler to General Motors.\"Having a business name does not separate the business entity from the owner, which means that the owner of the business is responsible and liable for debts incurred by the business.  If the business acquires debts, the creditors can go after the owner's personal possessions.  A business structure does not allow for corporate tax rates. The proprietor is personally taxed on all income from the business.\nThe term is also often used colloquially (but not by lawyers or by public officials) to refer to a company. A company, on the other hand, is a separate legal entity and provides for limited liability, as well as corporate tax rates.  A company structure is more complicated and expensive to set up, but offers more protection and benefits for the owner.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Business"
+    },
+    {
+        "title": "Commodity",
+        "content": "In economics, a commodity is an economic good that has full or substantial fungibility: that is, the market treats instances of the good as equivalent or nearly so with no regard to who produced them.The price of a commodity good is typically determined as a function of its market as a whole: well-established physical commodities have actively traded spot and derivative markets. The wide availability of commodities typically leads to smaller profit margins and diminishes the importance of factors (such as brand name) other than price.\nMost commodities are raw materials, basic resources, agricultural, or mining products, such as iron ore, sugar, or grains like rice and wheat. Commodities can also be mass-produced unspecialized products such as chemicals and computer memory.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Commodity"
+    },
+    {
+        "title": "Debt",
+        "content": "Debt is an obligation that requires one party, the debtor, to pay money or other agreed-upon value to another party, the creditor. Debt is a deferred payment, or series of payments, which differentiates it from an immediate purchase. The debt may be owed by sovereign state or country, local government, company, or an individual. Commercial debt is generally subject to contractual terms regarding the amount and timing of repayments of principal and interest. Loans, bonds, notes, and mortgages are all types of debt.  The term can also be used metaphorically to cover moral obligations and other interactions not based on economic value. For example, in Western cultures, a person who has been helped by a second person is sometimes said to owe a \"debt of gratitude\" to the second person.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Debt"
+    },
+    {
+        "title": "Deposit (finance)",
+        "content": "A deposit is the act of placing cash (or cash equivalent) with some entity, most commonly with a financial institution, such as a bank. \nThe deposit is a credit for the party (individual or organization) who placed it, and it may be taken back (withdrawn) in accordance with the terms agreed at time of deposit, transferred to some other party, or used for a purchase at a later date.\nDeposits are usually the main source of funding for banks.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Deposit_(finance)"
+    },
+    {
+        "title": "Discounting",
+        "content": "Discounting is a financial mechanism in which a debtor obtains the right to delay payments to a creditor, for a defined period of time, in exchange for a charge or fee. Essentially, the party that owes money in the present purchases the right to delay the payment until some future date. The discount, or charge, is the difference between the original amount owed in the present and the amount that has to be paid in the future to settle the debt.The discount is usually associated with a discount rate, which is also called the discount yield. The discount yield is the proportional share of the initial amount owed (initial liability) that must be paid to delay payment for 1 year.\n\n  \n    \n      \n        \n          Discount yield\n        \n        =\n        \n          \n            Charge to delay payment for 1 year\n            debt liability\n          \n        \n      \n    \n    {\\displaystyle {\\text{Discount yield}}={\\frac {\\text{Charge to delay payment for 1 year}}{\\text{debt liability}}}}\n  Since a person can earn a return on money invested over some period of time, most economic and financial models assume the discount yield is the same as the rate of return the person could receive by investing this money elsewhere (in assets of similar risk) over the given period of time covered by the delay in payment. The concept is associated with the opportunity cost of not having use of the money for the period of time covered by the delay in payment. The relationship between the discount yield and the rate of return on other financial assets is usually discussed in economic and financial theories involving the inter-relation between various market prices, and the achievement of Pareto optimality through the operations in the capitalistic price mechanism, as well as in the discussion of the efficient (financial) market hypothesis. The person delaying the payment of the current liability is essentially compensating the person to whom he/she owes money for the lost revenue that could be earned from an investment during the time period covered by the delay in payment. Accordingly, it is the relevant \"discount yield\" that determines the \"discount\", and not the other way around.\nAs indicated, the rate of return is usually calculated in accordance to an annual return on investment. Since an investor earns a return on the original principal amount of the investment as well as on any prior period investment income, investment earnings are \"compounded\" as time advances. Therefore, considering the fact that the \"discount\" must match the benefits obtained from a similar investment asset, the \"discount yield\" must be used within the same compounding mechanism to negotiate an increase in the size of the \"discount\" whenever the time period of the payment is delayed or extended. The \"discount rate\" is the rate at which the \"discount\" must grow as the delay in payment is extended. This fact is directly tied into the time value of money and its calculations.\n\nThe \"time value of money\" indicates there is a difference between the \"future value\" of a payment and the \"present value\" of the same payment. The rate of return on investment should be the dominant factor in evaluating the market's assessment of the difference between the future value and the present value of a payment; and it is the market's assessment that counts the most. Therefore, the \"discount yield\", which is predetermined by a related return on investment that is found in the financial markets, is what is used within the time-value-of-money calculations to determine the \"discount\" required to delay payment of a financial liability for a given period of time.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Discounting"
+    },
+    {
+        "title": "Donation",
+        "content": "A donation is a gift for charity, humanitarian aid, or to benefit a cause. A donation may take various forms, including money, alms, services, or goods such as clothing, toys, food, or vehicles. A donation may satisfy medical needs such as blood or organs for transplant.\nCharitable donations of goods or services are also called gifts in kind.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Donation"
+    },
+    {
+        "title": "Labour economics",
+        "content": "Labour economics seeks to understand the functioning and dynamics of the markets for wage labour. Labour is a commodity that supplied by labourers in exchange for a wage paid by demanding firms.Labour markets or job markets function through the interaction of workers and employers. Labour economics looks at the suppliers of labour services (workers) and the demanders of labour services (employers), and attempts to understand the resulting pattern of wages, employment, and income. Labour markets are normally geographically bounded, but the rise of the internet has brought about a 'planetary labour market' in some sectors.Labour is a measure of the work done by human beings. It is conventionally contrasted with such other factors of production as land and capital. Some theories focus on human capital (referring to the skills that workers possess, not necessarily their actual work). Labour is unique to study because it is a special type of good that cannot be separated from the owner (i.e. the work cannot be separated from the person who does it). A labour market is also different from other markets in that workers are the suppliers and firms are the demanders.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Labour_economics"
+    },
+    {
+        "title": "Mortgage loan",
+        "content": "A mortgage loan or simply mortgage () is a loan used either by purchasers of real property to raise funds to buy real estate, or alternatively by existing property owners to raise funds for any purpose while putting a lien on the property being mortgaged. The loan is \"secured\" on the borrower's property through a process known as mortgage origination. This means that a legal mechanism is put into place which allows the lender to take possession and sell the secured property (\"foreclosure\" or \"repossession\") to pay off the loan in the event the borrower defaults on the loan or otherwise fails to abide by its terms. The word mortgage is derived from a Law French term used in Britain in the Middle Ages meaning \"death pledge\" and refers to the pledge ending (dying) when either the obligation is fulfilled or the property is taken through foreclosure. A mortgage can also be described as \"a borrower giving consideration in the form of a collateral for a benefit (loan)\".\nMortgage borrowers can be individuals mortgaging their home or they can be businesses mortgaging commercial property (for example, their own business premises, residential property let to tenants, or an investment portfolio). The lender will typically be a financial institution, such as a bank, credit union or building society, depending on the country concerned, and the loan arrangements can be made either directly or indirectly through intermediaries. Features of mortgage loans such as the size of the loan, maturity of the loan, interest rate, method of paying off the loan, and other characteristics can vary considerably. The lender's rights over the secured property take priority over the borrower's other creditors, which means that if the borrower becomes bankrupt or insolvent, the other creditors will only be repaid the debts owed to them from a sale of the secured property if the mortgage lender is repaid in full first.\nIn many jurisdictions, it is normal for home purchases to be funded by a mortgage loan. Few individuals have enough savings or liquid funds to enable them to purchase property outright. In countries where the demand for home ownership is highest, strong domestic markets for mortgages have developed. Mortgages can either be funded through the banking sector (that is, through short-term deposits) or through the capital markets through a process called \"securitization\", which converts pools of mortgages into fungible bonds that can be sold to investors in small denominations.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+        "title": "Recession",
+        "content": "In economics, a recession is a business cycle contraction when there is a general decline in economic activity. Recessions generally occur when there is a widespread drop in spending (an adverse demand shock). This may be triggered by various events, such as a financial crisis, an external trade shock, an adverse supply shock, the bursting of an economic bubble, or a large-scale anthropogenic or natural disaster (e.g. a pandemic). In the United States, it is defined as \"a significant decline in economic activity spread across the market, lasting more than a few months, normally visible in real GDP, real income, employment, industrial production, and wholesale-retail sales\". In the United Kingdom, it is defined as a negative economic growth for two consecutive quarters.Governments usually respond to recessions by adopting expansionary macroeconomic policies, such as increasing money supply or increasing government spending and decreasing taxation.\nPut simply, a recession is the decline of economic activity, which means that the public have stopped buying products for a while which can cause the downfall of GDP after a period of economic expansion (a time where products become popular and the income profit of a business becomes large). This causes inflation (the rise of product prices). In a recession, the rate of inflation slows down, stops or decreases.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Recession"
+    },
+    {
+        "title": "Deflation",
+        "content": "In economics, deflation is a decrease in the general price level of goods and services. Deflation occurs when the inflation rate falls below 0% (a negative inflation rate). Inflation reduces the value of currency over time, but sudden deflation increases it. This allows more goods and services to be bought than before with the same amount of currency. Deflation is distinct from disinflation, a slow-down in the inflation rate, i.e. when inflation declines to a lower rate but is still positive.Economists generally believe that a sudden deflationary shock is a problem in a modern economy because it increases the real value of debt, especially if the deflation is unexpected. Deflation may also aggravate recessions and lead to a deflationary spiral.Deflation usually happens when supply is high (when excess production occurs), when demand is low (when consumption decreases), or when the money supply decreases (sometimes in response to a contraction created from careless investment or a credit crunch) or because of a net capital outflow from the economy. It can also occur due to too much competition and too little market concentration.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Deflation"
+    },
+    {
+        "title": "Economic surplus",
+        "content": "In mainstream economics, economic surplus, also known as total welfare or Marshallian surplus (after Alfred Marshall), refers to two related quantities: \n\nConsumer surplus, or consumers' surplus, is the monetary gain obtained by consumers because they are able to purchase a product for a price that is less than the highest price that they would be willing to pay.\nProducer surplus, or producers' surplus, is the amount that producers benefit by selling at a market price that is higher than the least that they would be willing to sell for; this is roughly equal to profit (since producers are not normally willing to sell at a loss and are normally indifferent to selling at a break-even price).",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Economic_surplus"
+    },
+    {
+        "title": "Stocks",
+        "content": "Stocks are restraining devices that were used as a form of corporal punishment and public humiliation.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Stocks"
+    },
+    {
+        "title": "Stock market",
+        "content": "A stock market, equity market or share market is the aggregation of buyers and sellers of stocks (also called shares), which represent ownership claims on businesses; these may include securities listed on a public stock exchange, as well as stock that is only traded privately, such as shares of private companies which are sold to investors through equity crowdfunding platforms. Investment in the stock market is most often done via stockbrokerages and electronic trading platforms. Investment is usually made with an investment strategy in mind.\nStocks can be categorized by the country where the company is domiciled. For example, Nestl\u00e9 and Novartis are domiciled in Switzerland and traded on the SIX Swiss Exchange, so they may be considered as part of the Swiss stock market, although the stocks may also be traded on exchanges in other countries, for example, as American depositary receipts (ADRs) on U.S. stock markets.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Stock_market"
+    },
+    {
+        "title": "Wall Street",
+        "content": "Wall Street is an eight-block-long street in the Financial District of Lower Manhattan in New York City. It runs between Broadway in the west to South Street and the East River in the east. The term \"Wall Street\" has become a metonym for the financial markets of the United States as a whole, the American financial services industry, New York\u2013based financial interests, or the Financial District itself.\nWall Street was originally known in Dutch as \"de Waalstraat\" when it was part of New Amsterdam in the 17th century, though the origins of the name vary. An actual wall existed on the street from 1685 to 1699. During the 17th century, Wall Street was a slave trading marketplace and a securities trading site, as well as the location of Federal Hall, New York's first city hall. In the early 19th century, both residences and businesses occupied the area, but increasingly business predominated, and New York City's financial industry became centered on Wall Street. In the 20th century, several early skyscrapers were built on Wall Street, including 40 Wall Street, once the world's tallest building.\nWall Street is home to the world's two largest stock exchanges by total market capitalization, the New York Stock Exchange, located on Wall Street, and NASDAQ. Several other major exchanges have or had headquarters in the Wall Street area, including the New York Mercantile Exchange, the New York Board of Trade, the New York Futures Exchange (NYFE), and the former American Stock Exchange. To support the exchanges, many brokerage firms had offices \"clustered around Wall Street\". The direct economic impacts of Wall Street activities extend beyond New York City.\nWall Street physically contains several banking headquarters and skyscrapers, as well as the Federal Hall National Memorial. The street is served by three subway stations and a ferry stop.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Wall_Street"
+    },
+    {
+        "title": "Trade",
+        "content": "Trade involves the transfer of goods or services from one person or entity to another, often in exchange for money. Economists refer to a system or network that allows trade as a market.\nAn early form of trade, barter, saw the direct exchange of goods and services for other goods and services. Barter involves trading things without the use of money.  When either bartering party started to involve precious metals, these gained symbolic as well as practical importance. Modern traders generally negotiate through a medium of exchange, such as money. As a result, buying can be separated from selling, or earning. The  invention of money (and later of credit, paper money and  non-physical money) greatly simplified and promoted trade.  Trade between two traders is called bilateral trade, while trade involving more than two traders is called multilateral trade.\nIn one modern view, trade exists due to specialization and the division of labor, a predominant form of economic activity in which individuals and groups concentrate on a small aspect of production, but use their output in trades for other products and needs. Trade exists between regions because different regions may have a comparative advantage (perceived or real) in the production of some trade-able commodity\u2014including production of natural resources scarce or limited elsewhere. For example: different regions' sizes may encourage mass production. In such circumstances, trade at market prices between locations can benefit both locations.\nRetail trade consists of the sale of goods or merchandise from a very fixed location (such as a department store, boutique or kiosk), online or by mail, in small or individual lots for direct consumption or use by the purchaser. Wholesale trade is defined as traffic in goods that are sold as merchandise to retailers, or to industrial, commercial, institutional, or other professional business users, or to other wholesalers and related subordinated services.\nHistorically, openness to free trade substantially increased in some areas from 1815 to the outbreak of World War I in 1914. Trade openness increased again during the 1920s, but collapsed (in particular in Europe and North America) during the Great Depression of the 1930s. Trade openness increased substantially again from the 1950s onwards (albeit with a slowdown during the oil crisis of the 1970s). Economists and economic historians contend that current levels of trade openness are the highest they have ever been.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Trade"
+    },
+    {
+        "title": "Value (economics)",
+        "content": "In economics, economic value is a measure of the benefit provided by a good or service to an economic agent. It is generally measured relative to units of currency, and the interpretation is therefore \"what is the maximum amount of money a specific actor is willing and able to pay for the good or service\"?\nAmong the competing schools of economic theory there are differing theories of value.\nEconomic value is not the same as market price, nor is economic value the same thing as market value. If a consumer is willing to buy a good, it implies that the customer places a higher value on the good than the market price. The difference between the value to the consumer and the market price is called \"consumer surplus\". It is easy to see situations where the actual value is considerably larger than the market price: purchase of drinking water is one example.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Value_(economics)"
+    },
+    {
+        "title": "Treasury",
+        "content": "A treasury is either\n\nA government department related to finance and taxation, a finance ministry.\nA place or location where treasure, such as currency or precious items are kept. These can be  state or royal property, church valuables or in private ownership.The head of a treasury is typically known as a treasurer. This position may not necessarily have the final control over the actions of the treasury, particularly if they are not an elected representative.\nThe adjective for a treasury is normally treasurial. The adjective \"tresorial\" can also be used, but this normally means pertaining to a treasurer.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Treasury"
+    },
+    {
+        "title": "Wealth",
+        "content": "Wealth is the abundance of valuable financial assets or physical possessions which can be converted into a form that can be used for transactions. This includes the core meaning as held in the originating old English word weal, which is from an Indo-European word stem. The modern concept of wealth is of significance in all areas of economics, and clearly so for growth economics and development economics, yet the meaning of wealth is context-dependent. An individual possessing a substantial net worth is known as wealthy. Net worth is defined as the current value of one's assets less liabilities (excluding the principal in trust accounts).At the most general level, economists may define wealth as \"anything of value\" that captures both the subjective nature of the idea and the idea that it is not a fixed or static concept. Various definitions and concepts of wealth have been asserted by various individuals and in different contexts. Defining wealth can be a normative process with various ethical implications, since often wealth maximization is seen as a goal or is thought to be a normative principle of its own. A community, region or country that possesses an abundance of such possessions or resources to the benefit of the common good is known as wealthy.\nThe United Nations definition of inclusive wealth is a monetary measure which includes the sum of natural, human, and physical assets.  Natural capital includes land, forests, energy resources, and minerals.  Human capital is the population's education and skills.  Physical (or \"manufactured\") capital includes such things as machinery, buildings, and infrastructure.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Wealth"
+    },
+    {
+        "title": "ventura capital",
+        "content": "",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": null
+    },
+    {
+        "title": "Seed money",
+        "content": "Seed money, sometimes known as seed funding or seed capital, is a form of securities offering in which an investor invests capital in a startup company in exchange for an equity stake or convertible note stake in the company. The term seed suggests that this is a very early investment, meant to support the business until it can generate cash of its own (see cash flow), or until it is ready for further investments. Seed money options include friends and family funding, seed venture capital funds, angel funding, and crowdfunding.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/Seed_money"
+    },
+    {
+        "title": "International Monetary Fund",
+        "content": "The International Monetary Fund (IMF) is an international organization, headquartered in Washington, D.C., consisting of 189 countries working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world while periodically depending on the World Bank for its resources. Formed in 1944 at the Bretton Woods Conference primarily by the ideas of Harry Dexter White and John Maynard Keynes, it came into formal existence in 1945 with 29 member countries and the goal of reconstructing the international payment system. It now plays a central role in the management of balance of payments difficulties and international financial crises. Countries contribute funds to a pool through a quota system from which countries experiencing balance of payments problems can borrow money. As of 2016, the fund had XDR 477 billion (about US$667 billion).Through the fund and other activities such as the gathering of statistics and analysis, surveillance of its members' economies, and the demand for particular policies, the IMF works to improve the economies of its member countries. The organization's objectives stated in the Articles of Agreement are: to promote international monetary co-operation, international trade, high employment, exchange-rate stability, sustainable economic growth, and making resources available to member countries in financial difficulty. IMF funds come from two major sources: quotas and loans. Quotas, which are pooled funds of member nations, generate most IMF funds. The size of a member's quota depends on its economic and financial importance in the world. Nations with larger economic importance have larger quotas. The quotas are increased periodically as a means of boosting the IMF's resources in the form of special drawing rights.The current Managing Director (MD) and Chairwoman of the IMF is Bulgarian economist Kristalina Georgieva, who has held the post since October 1, 2019. Gita Gopinath was appointed as Chief Economist of IMF from 1 October 2018. Prior to her IMF appointment she was economic adviser to the Chief Minister of Kerala, India.",
+        "language": "English",
+        "topic": [
+            "Business, Economics and Politics"
+        ],
+        "difficulty": 1,
+        "source": "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+    }
+]

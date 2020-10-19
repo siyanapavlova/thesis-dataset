@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Biologie",
+        "content": "Biologie untersucht Leben und Lebe\u00b7wesen.\nZum Beispiel Tiere, Menschen und Pflanzen.\nUnd Biologie sammelt Wissen \u00fcber Leben und Lebe\u00b7wesen. \n\n\n\nBiologie untersucht wie sich Lebe\u00b7wesen verhalten. \nUnd wie Lebe\u00b7wesen arbeiten. \nUnd wie Lebe\u00b7wesen sich ver\u00e4ndern k\u00f6nnen. \nUnd wie Lebe\u00b7wesen funktionieren. \n\nBiologie beantwortet Fragen zu Lebe\u00b7wesen. \nZum Beispiel wie die Beine von einem Tier funktionieren. \nOder warum ein Tier gr\u00f6\u00dfer wird. \nOder wie Tiere fr\u00fcher gelebt haben. \nBiologie sammelt Wissen.\nUnd Biologie schreibt Wissen und Informationen auf. \n\n\n\nDurch Biologie kann man zum Beispiel Medizin besser machen. \nWeil man durch Biologie lernt wie eine Krankheit funktioniert. \nUnd weil man dadurch Medikamente gegen eine Krankheit entwickeln kann. \n\nDie wichtigste Frage in der Biologie kommt von der Evolution. \nDie Frage geht so:\nWie ist die Welt geworden wie sie ist?\n\nBiologie ist eine Wissen\u00b7schaft. \nDas hei\u00dft,\nBiologie muss Sachen beweisen k\u00f6nnen. \nZum Beispiel mit Untersuchungen im Labor. \n\n\n\nIn der Biologie gibt es diese Bereiche:\nBotanik, Zoologie, Humanbiologie, Molekularbiologie, Zellbiologie, Entwicklungsbiologie, Physiologie, Mikrobiologie, Verhaltensbiologie, \u00d6kologie, Genetik, Evolutionsbiologie und Systematik, Synthetische Biologie, Theoretische Biologie.\n\nBiologie gibt es seit dem Jahr 1802. \nJemand der Biologie studiert hat, ist ein Biologe.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Biologie"
+    },
+    {
+        "title": "Tier",
+        "content": "Ein Tier ist ein Lebe\u00b7wesen.\nEs gibt sehr viele verschiedene Tiere.\n\n\n\nTiere atmen Luft.\nDie meisten Tiere k\u00f6nnen sich frei bewegen.\nSie essen andere Tiere oder Pflanzen.\n\nEs gibt sehr viele unterschiedliche Tiere.\nZum Beispiel:\nInsekten.\nFische.\nV\u00f6gel.\nWeich\u00b7tiere.\nS\u00e4uge\u00b7tiere.\n\nAuch der Mensch ist ein Tier.\nGenauer: Ein S\u00e4uge\u00b7tier.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Tier"
+    },
+    {
+        "title": "Insekt",
+        "content": "Ein Insekt ist ein Tier.\nInsekten haben 6 Beine.\nDie meisten Insekten sind klein.\n\n\nInsekten leben fast \u00fcberall auf der Welt.\nEs gibt viele verschiedene Insekten.\nZum Beispiel:\nK\u00e4fer.\nAmeisen.\nBienen.\nFliegen.\nLibellen.\nM\u00fccken.\nSchmetter\u00b7linge.\n\nVieles ist bei allen Insekten gleich.\nMan sagt auch:\nMerkmale von Insekten.\n\nDas sind die Merkmale:\nInsekten haben 6 Beine..\nInsekten haben eine harte Schale..\nDer K\u00f6rper von Insekten ist in 3 Teile geteilt: \n Kopf\n Brust und \n Hinter\u00b7leib..\nInsekten legen Eier..\n\nSpinnen sehen aus wie Insekten.\nAber sie sind keine Insekten.\nSie haben 8 Beine.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Insekt"
+    },
+    {
+        "title": "Hund",
+        "content": "Ein Hund ist ein Haus\u00b7tier.\nDer Hund stammt vom Wolf ab.\n\nWahrscheinlich leben Hunde schon seit 100 Tausend Jahren mit Menschen zusammen.\nDamals hat der Mensch den Wolf domestiziert.\nDas hei\u00dft, der Mensch hat aus dem Wolf den Hund gez\u00fcchtet.\nDer Mensch hat verschiedene Arten von Hunden gez\u00fcchtet.\nDas sind die Hunde\u00b7rassen.\nZum Beispiel:\nBeagle, Bernhardiner, Border Collie, Boxer, Dackel, Dalmatiner, Deutsche Dogge, Golden Retriver, Husky, Jack Russel, Labrador, Pudel.\n\nF\u00fcr die Hunde\u00b7rassen gibt es eine Einteilung.\nJe nach dem f\u00fcr was der Hund gez\u00fcchtet wurde.\nEine Einteilung hei\u00dft FCI-System.\nBeim FCI-System gibt es 10 Gruppen:\nGruppe 01: H\u00fcte\u00b7hunde und Treib\u00b7hunde, Gruppe 02: Pinscher und Schnauzer, Gruppe 03: Terrier, Gruppe 04: Dachs\u00b7hunde, Gruppe 05: Spitze und Hunde vom Urtyp, Gruppe 06: Lauf\u00b7hunde, Schwei\u00df\u00b7hunde und verwandte Rassen, Gruppe 07: Vorsteh\u00b7hunde, Gruppe 08: Apportier\u00b7hunde \u2013 St\u00f6ber\u00b7hunde \u2013 Wasser\u00b7hunde, Gruppe 09: Gesellschafts- und Begleit\u00b7hunde, Gruppe 10: Wind\u00b7hunde.\n\nDie Sinne bei Hunden sind anders als bei Menschen.\nH\u00f6r\u00b7sinn: Der Hund kann besser h\u00f6ren als der Mensch., Seh\u00b7sinn: Hunde sind rot-gr\u00fcn-blind..\nGeruchs\u00b7sinn: Hunde k\u00f6nnen sehr gut riechen..\n\nHunde sind S\u00e4ugetiere.\n\nIn USA haben die Menschen die meisten Hunde. \nEs gibt dort \u00fcber 80 Millionen Hunde. \nIn Frankreich gibt es \u00fcber 7 Millionen Hunde.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Hund"
+    },
+    {
+        "title": "Katze",
+        "content": "Eine Katze ist ein Haus\u00b7tier.\nMeistens meint man mit Katze, die Haus\u00b7katze.\nEs gibt aber auch gro\u00dfe, wilde Katzen.\n\nKatzen sind beliebte Haus\u00b7tiere.\n\nSie sind Raub\u00b7tiere und fressen Fleisch.\nZum Beispiel M\u00e4use oder V\u00f6gel.\n\nKatzen k\u00f6nnen gut klettern.\nUnd weit springen.\nSie sehen auch in der D\u00e4mmerung gut.\n\nEs gibt auch gro\u00dfe, wilde Katzen.\nSie hei\u00dfen auch Gro\u00df\u00b7katzen.\nZum Beispiel:\nL\u00f6wen, Tiger, Leoparden, Luchse.\n\nAlle Katzen sind S\u00e4uge\u00b7tiere.\n\nJedes Jahr am 8. August ist Internationaler Katzen\u00b7tag.\n\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Katze"
+    },
+    {
+        "title": "Haustier",
+        "content": "Ein Haus\u00b7tier ist ein Tier.\nEs lebt beim Menschen.\nZum Beispiel in einer Wohnung.\nOder es lebt in einem Stall.\n\n\n\nViele Menschen haben Haus\u00b7tiere.\nHaustiere machen den Menschen Freude.\nOder sie sind n\u00fctzlich.\n\nEin Haus\u00b7tier in der Wohnung hei\u00dft auch Heim\u00b7tier.\nEin Haus\u00b7tier im Stall hei\u00dft auch Nutz\u00b7tier.\n\nHeim\u00b7tiere sind zum Beispiel:\nHund, Katze, Kaninchen, Meer\u00b7schweinchen, Papagei, Wellen\u00b7sittich.\n\nNutz\u00b7tiere sind zum Beispiel:\nSchwein, Kuh, Schaf, Pferd, Huhn.\n\nWer ein Haus\u00b7tier hat,\nmuss sich gut darum k\u00fcmmern.\nUnd er muss wissen,\nwas das Haus\u00b7tier braucht.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Haustier"
+    },
+    {
+        "title": "Vogel",
+        "content": "Ein Vogel ist ein Tier.\nDie meisten V\u00f6gel k\u00f6nnen fliegen.\n\nV\u00f6gel leben auf der ganzen Welt.\nManches ist bei allen V\u00f6geln gleich.\nMan nennt das:\nMerkmale von V\u00f6geln.\n\nDas sind die Merkmale von V\u00f6geln:\nV\u00f6gel haben einen Schnabel..\nV\u00f6gel haben Federn..\nV\u00f6gel haben Fl\u00fcgel..\nDie meisten V\u00f6gel k\u00f6nnen fliegen..\nV\u00f6gel legen Eier..\n\nEs gibt viele verschiedene V\u00f6gel.\nZum Beispiel:\nSing\u00b7v\u00f6gel.\nGreif\u00b7v\u00f6gel.\nLauf\u00b7v\u00f6gel.\nWasser\u00b7v\u00f6gel.\n\nManche Menschen haben V\u00f6gel als Haus\u00b7tiere.\nZum Beispiel Wellen\u00b7sittiche.\nOder Papageien.\n\nManche V\u00f6gel sind Nutz\u00b7tiere.\nZum Beispiel H\u00fchner oder Enten.\nMan nennt sie auch Gefl\u00fcgel.\nMan kann ihre Eier essen.\nOder ihr Fleisch.\n\nMenschen benutzen auch die Federn.\nZum Beispiel von G\u00e4nsen und Enten.\nDie Federn kommen in Bett\u00b7decken rein.\nBett\u00b7decken mit Federn hei\u00dfen Daunen\u00b7decken.\nDie Federn werden von den toten Enten und G\u00e4nsen heruas gerupft.\nDannach werden sie geschlachtet.\nIn manchen L\u00e4ndern werden von lebenden V\u00f6geln die Federn heraus gerupft.\nDas ist Tier\u00b7qu\u00e4lerei.\nIn der Europ\u00e4ischen Union soll das verboten werden.\n\nEs gibt auch andere Nutz\u00b7v\u00f6gel.\nZum Beispiel Brief\u00b7tauben.\nFr\u00fcher haben Menschen Tauben benutzt.\nUm sich Briefe zu schicken.\nHeute sind Brief\u00b7tauben ein Sport.\n\nEin anderer Nutz\u00b7vogel ist der Falke.\nDer J\u00e4ger richtet einen Falken ab.\nMeistens werden andere V\u00f6gel gejagdt.\nManchmal auch Kaninchen.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Vogel"
+    },
+    {
+        "title": "Weichtier",
+        "content": "Ein Weichtier ist ein Tier.\nEs hat keine Knochen und ist weich.\nEs gibt viele verschiedene Weich\u00b7tiere.\n\n\n\nEs gibt viele Weich\u00b7tiere.\nZum Beispiel Muscheln oder Schnecken.\n\nWeich\u00b7tiere haben keine Knochen.\nDie meisten Weich\u00b7tiere haben eine harte Schale.\nZum Beispiel eine Muschel\u00b7schale oder ein Schnecken\u00b7haus.\nDamit sch\u00fctzen sie sich.\n\nManche Weich\u00b7tiere leben im Wasser.\nManche Weich\u00b7tiere leben an Land.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Weichtier"
+    },
+    {
+        "title": "S\u00e4ugetier",
+        "content": "Ein S\u00e4uge\u00b7tier ist ein Tier.\nEs gibt seinen Jungen Milch.\n\n\n\nViele Tiere sind S\u00e4uge\u00b7tiere.\nAuch Menschen sind S\u00e4uge\u00b7tiere.\nEs gibt verschiedene Sachen,\ndie bei S\u00e4uge\u00b7tieren gleich sind.\nManche sagen dazu auch:\nDie Merk\u00b7male der S\u00e4uge\u00b7tiere.\nDas sind die Merkmale:\nS\u00e4uge\u00b7tiere geben dem Nachwuchs Milch.\n\nS\u00e4uge\u00b7tiere sind Lebend\u00b7geb\u00e4rende:.\n\nK\u00f6rper\u00b7temperatur.\n\nFell.\n\nDie meisten S\u00e4uge\u00b7tiere leben auf dem Land.\nEs gibt aber auch S\u00e4uge\u00b7tiere im Wasser.\nZum Beispiel Wale und Delfine.\nEs gibt auch S\u00e4uge\u00b7tiere in der Luft.\nZum Beispiel Fleder\u00b7m\u00e4use.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/S%C3%A4ugetier"
+    },
+    {
+        "title": "Blutgef\u00e4\u00df",
+        "content": "Ein Blut-Gef\u00e4\u00df ist eine R\u00f6hre. Im K\u00f6rper von einem Mensch. \nDurch das Blutgef\u00e4\u00df wird Blut ge-pumpt. \n\nEin Blut-Gef\u00e4\u00df ist unter der Haut. \n\nBeim Mensch gibt es diese Blut-Gef\u00e4\u00dfe:\n\nHauptschlagader.\nSchlagadern.\nHaargef\u00e4\u00dfe.\nBlutadern.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Blutgef%C3%A4%C3%9F"
+    },
+    {
+        "title": "Gehirn",
+        "content": "",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Gehirn"
+    },
+    {
+        "title": "Pflanze",
+        "content": "Eine Pflanze ist ein Lebe\u00b7wesen.\nEs gibt viele verschiedene Pflanzen.\n\nPflanzen k\u00f6nnen sich nicht fort\u00b7bewegen. \nPflanzen machen aus Sonnen\u00b7licht Nahrung.\nDie meisten Pflanzen sind gr\u00fcn.\n\nEs gibt viele verschiedene Pflanzen.\nZum Beispiel:\nMoose.\nGr\u00e4ser.\nBlumen.\nB\u00e4ume.\nGem\u00fcse.\nObst.\nGetreide.\n\nViele Tiere und auch die Menschen essen Pflanzen.\nManche Pflanzen sind giftig.\n\nMenschen, die Pflanzen untersuchen, hei\u00dfen Botaniker.\nBotaniker sind Wissen\u00b7schaftler.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Pflanze"
+    },
+    {
+        "title": "Erde (Welt\u00b7kugel)",
+        "content": "Die Erde ist ein Planet.\nWir alle leben auf der Erde. \nPflanzen leben auf der Erde.\nUnd Tiere leben auf der Erde. \nUnd Menschen leben auf der Erde. \n\nDie Erde dreht sich im Welt\u00b7raum. \nDarum gibt es verschiedene Zeiten. \nDie Erde um\u00b7kreist die Sonne in einem Jahr. \nUnd einmal am Tag dreht sich die Erde um sich selbst. \nDie erste H\u00e4lfte am Tag.\nUnd die zweite H\u00e4lfte in der Nacht.\n\nDie Erde sieht aus wie eine Kugel. \nSie ist sehr nahe an der Sonne.\n\nDie Erde ist im Durch\u00b7messer \u00fcber 12.000 Kilometer gro\u00df. \nUnd sie ist fast 5 Milliarden Jahre alt. \n\nDie Erde hat im inneren einen sehr hei\u00dfen Erd\u00b7kern. \nUm den Erd\u00b7kern herum ist der Erd\u00b7mantel.\nDer Erd\u00b7mantel ist hei\u00df und fl\u00fcssig. \nUm den Erd\u00b7mantel herum ist die Erd\u00b7kruste. \n\nDie Erde ist ein Planet. \nEs gibt sehr viele Lebe\u00b7wesen. \nUnd es gibt sehr viel Wasser auf der Erde.\n\u00dcber die H\u00e4lfte von der Erde ist Wasser. \nDarum sagen viele dazu auch blauer Planet. \nWegen dem vielen Wasser k\u00f6nnen viele Pflanzen und Tiere auf der Erde gut leben. \n\nDie Erde hat eine Nord\u00b7kugel.\nUnd eine S\u00fcd\u00b7kugel.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Erde_(Welt%C2%B7kugel)"
+    },
+    {
+        "title": "Alzheimer - Krankheit",
+        "content": "Alzheimer ist eine Krankheit. \nDas erste Mal wurde Alzheimer von dem Arzt Alois Alzheimer beschrieben. Das Fachgebiet von Alois Alzheimer war die Neurologie. Neurologie ist das Medizingebiet f\u00fcr das Gehirn.  Deshalb wurde die Krankheit nach ihm benannt.\nAlte (und sehr selten auch junge) Menschen k\u00f6nnen Alzheimer bekommen. Der Grund daf\u00fcr ist noch unbekannt.\n\nDemenz.\nDemenz vom Alzheimer Typ = DVAT (ihre Abk\u00fcrzung).\nBei der Alzheimer-Krankheit gehen Teile vom Gehirn kaputt.\nWer Alzheimer hat, vergisst, was gerade eben passiert ist.\nDinge, die lange her sind, kann der Alzheimer-Kranke vielleicht gut erz\u00e4hlen.\nNeue Dinge aber nicht.\n\nAlzheimer wird immer schlimmer:\n- Der Alzheimer-Kranke vergisst zuerst Dinge, die kompliziert sind. \n- Sp\u00e4ter vergisst der Kranke auch einfache Dinge. \nEr vergisst, wie man sich die Schuhe zubindet oder wie man mit Messer und Gabel isst. \n- Wenn man schon lange Alzheimer hat, vergisst man irgendwann, wie das Sprechen geht.\n\nWer Alzheimer hat, kann schlecht lernen.\nWer Alzheimer hat, ist ein bisschen ungeschickt.\nWer schon lange Alzheimer hat, erkennt seine Freunde und seine Kinder nicht wieder.\nWer schon lange Alzheimer hat, erkennt die Dinge, die man jeden Tag braucht, nicht mehr. \nZum Beispiel das Telefon, eine Tasse oder einen Stift.\nWer schon lange Alzheimer hat, wird manchmal sehr w\u00fctend oder traurig.\n\nNach 7 bis 10 Jahren stirbt man an Alzheimer.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Alzheimer_-_Krankheit"
+    },
+    {
+        "title": "Demenz",
+        "content": "Demenz ist eine Krankheit. \nSie hat viele Gesichter oder Auswirkungen. \nEine Besonderheit ist aber immer das Fehlen von fr\u00fcheren geistigen F\u00e4higkeiten. \nVergesslichkeit ist normal. Nicht jeder, der ein paar Mal seinen Schl\u00fcssel vergessen hat, ist gleich dement. Die Vergesslichkeit ist viel h\u00e4ufiger, fast st\u00e4ndig. \n\nAlte (und sehr selten auch junge) Menschen k\u00f6nnen Demenz bekommen.\n\nDenkunf\u00e4higkeit.\nDemenz vom Alzheimer Typ = DVAT (ihre Abk\u00fcrzung).\nBei Demenz gehen viele, kleine Teile vom Gehirn kaputt. Der Grund daf\u00fcr ist sehr oft die Alzheimer - Krankheit. \nWer Demenz hat, vergisst, was gerade eben passiert ist. Oder, was sie/er gerade gemacht hat.\nDinge, die lange her sind, kann der Alzheimer-Kranke manchmal noch gut erz\u00e4hlen.\n\nAlzheimer, die h\u00e4ufige Art der Demenz. Sie wird \u00fcber mehrere Jahre immer schlimmer:\n- Die oder der Alzheimer-Kranke vergisst zuerst Dinge, die kompliziert sind. \n- Sp\u00e4ter vergisst der Kranke auch einfache Dinge. \nEr vergisst, wie man sich die Schuhe zubindet oder wie man mit Messer und Gabel isst. \n- Wenn jemand schon lange Alzheimer hat, vergisst man irgendwann, wie das Sprechen geht.\n\nWer Demenz hat, kann schlecht lernen. Oder gar nicht mehr. \nWer Demenz hat, ist am Anfang der Krankheit ein bisschen ungeschickt. Dann ist die Demenz noch leicht.\nWer schon eine schwere Demenz hat, erkennt seine Freunde und seine Kinder nicht wieder.\nWer schon lange Alzheimer hat, erkennt die Dinge, die man jeden Tag braucht, nicht mehr. \nZum Beispiel die Uhr, das Telefon, eine Tasse oder einen Stift.\nWer schon lange Alzheimer hat, wird manchmal sehr w\u00fctend oder traurig, ohne zu wissen warum.\n\nNach 7 bis 15 Jahren stirbt so ein Mensch an den Folgen der Alzheimer - Krankheit.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Demenz"
+    },
+    {
+        "title": "Mobiltelefon",
+        "content": "Ein Mobiltelefon  ist ein Telefon, dass man \u00fcberall mitnehmen kann.\nMeist sagt man nur das kurze Wort Handy dazu. \n\n\n\nEin Mobiltelefon hat kein Kabel wie ein Telefon. \nDas Mobiltelefon funktioniert mit einem Akku. \nWenn der Akku leer ist, muss man das Mobiltelefon wieder auffladen.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Mobiltelefon"
+    },
+    {
+        "title": "Akku",
+        "content": "Ein Akku ist eine Batterie.\nEine Batterie die man wieder aufladen kann hei\u00dft Akku.\nWenn der Akku aufgeladen ist,\nkann er Strom abgeben.\nZum Beispiel an ein Handy.\n\n\n\nEin Akku speichert Strom.\nWenn er aufgeladen ist,\nkann er den Strom abgeben.\nDer Akku gibt Strom an ein Ger\u00e4t.\nZum Beispiel gibt der Akku Strom an einen iPod.\nEin Ger\u00e4t mit Batterie braucht kein Kabel.\nEin Ger\u00e4t mit Batterie braucht keine Steck\u00b7dose.\n\nHat der Akku keinen Strom mehr sagt man der Akku ist leer.\nWenn der Akku leer ist, muss man ihn wieder aufladen.\nUm den Akku wieder aufzuladen braucht man ein Lade\u00b7ger\u00e4t.\nIn das Ladeger\u00e4t kommt der leere Akku hinein.\nEin Licht oder eine Anzeige zeigt wenn der Akku aufgeladen wird.\nMeistens ist dieses Licht dann rot oder orange.\n\nEin Licht oder eine Anzeige zeigt wenn der Akku aufgeladen ist.\nMeistens ist dieses Licht dann gr\u00fcn.\n\nIst der Akku kaputt wird er wie andere Batterien gesammelt.\nEin Akku darf nicht in den M\u00fcll.\n\nWenn man einen Akku im Gesch\u00e4ft kauft,\nmuss das Gesch\u00e4ft den Akku zur\u00fccknehmen,\nfalls er irgendwann kaputt geht oder man ihn nicht mehr braucht.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Akku"
+    },
+    {
+        "title": "IPod",
+        "content": "Ein iPod ist ein Musikspieler. \nMan kann damit Musik h\u00f6ren. \nMan nennt so einen Musikspieler auch MP3-Player.\n\n\n\nDer iPod funktioniert mit einem Akku. \nWenn der Akku leer ist, mu\u00df man den iPod wieder auffladen.\nDie Firma Apple stellt den iPod her. \nMan kann mit dem iPod Musik h\u00f6ren. \nMit manchen iPods kann man auch Filme anschauen. \nUm Musik oder Filme auf den iPod zu machen braucht man ein Computerprogramm. \nEin sehr bekanntes Computerprogramm ist iTunes. \n\nEs gibt verschiedene iPod Ger\u00e4te.\nDiese iPod Ger\u00e4te gibt es:\niPod classic\niPod touch\niPod nano\niPod shuffle\niPod video\niPod mini\niPod photo\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/IPod"
+    },
+    {
+        "title": "Batterie",
+        "content": "Eine Batterie ist ein Speicher f\u00fcr Strom.\nMan sagt auch eine Batterie speichert Energie.\nEine Batterie gibt Energie an tragbare Elektronik\u00b7ger\u00e4te.\nEin Elektronik\u00b7ger\u00e4t mit Batterie braucht kein Kabel.\nEin Elektronik\u00b7ger\u00e4t mit Batterie braucht keine Steck\u00b7dose.\nEine Batterie die man wieder aufladen kann nennt man Akku.\n\nEine Batterie gibt Energie.\nDiese Energie kann man in einem elektrischen Ger\u00e4t nutzen.\nDie Batterien nennt man deshalb Ger\u00e4te\u00b7batterien.\n\nEine gro\u00dfe Batterie im Auto hei\u00dft Starter\u00b7batterie.\nDie Starter\u00b7batterie hilft dem Auto beim starten.\n\nDie Energie in der Batterie wird chemisch gebildet.\nChemische Stoffe in der Batterie reagieren miteinander.\nZu chemischen Stoffen die miteinander reagieren sagt man Reaktion.\nBei der Reaktion entsteht Energie.\nHaben alle Stoffe miteinander reagiert gibt es keine Energie mehr.\nMan sagt die Batterie ist leer.\nFach\u00b7leute sagen zu dieser Art von Batterien Prim\u00e4r\u00b7batterien.\nDiese Batterien kann man nur einmal verwenden.\n\nEine Batterie, die man wieder aufladen kann nennt man Akku.\nFach\u00b7leute sagen zu dieser Art von Batterien Akkumulatoren oder Sekund\u00e4r\u00b7batterien.\nDiese Batterien kann man immer wieder verwenden.\nMan kann einen Akku aufladen.\nDazu braucht man ein Lade\u00b7ger\u00e4t.\n\nim B\u00fcrgeramt/B\u00fcrgerb\u00fcro, in Schulen, in Kinderg\u00e4rten.\nZink, Eisen, Aluminium, Lithium, Silber.\nQuecksilber,, Cadmium und, Blei..\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Batterie"
+    },
+    {
+        "title": "Computerprogramm",
+        "content": "\nMit einem Computerprogramm kann man Sachen auf dem Computer machen. \n\nEin Computerprogramm sagt dem Computer was er machen muss. \n\nComputerprogramme kann man auf dem Computer speichern.\nDazu sagt man installieren.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Computerprogramm"
+    },
+    {
+        "title": "Computer",
+        "content": "Ein Computer ist ein Apparat.\nMit dem Computer kann man verschiedene Sachen machen. \nZum Beispiel:\nschreiben.\nSpiele spielen.\nim Internet surfen..\nE-Mails schreiben..\n\n\n\nWill man mit einem Computer arbeiten, \nbraucht man noch mehr Ger\u00e4te. \nZum Beispiel:\neinen Bildschirm,, eine Tastatur, und eine Maus..\n\nMan kann auch noch andere Ger\u00e4te an den Computer machen.\n\nZum Beispiel:\nDrucker, Scanner, Joypad, Joystick, Lautsprecher, Modem, Router.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Computer"
+    },
+    {
+        "title": "Physik",
+        "content": "Physik ist eine Wissenschaft. \nPhysik versucht Regeln zu finden, nach denen die Dinge in der Welt funktioniern. \nDiese Regeln werden mit Versuchen getestet.\n\nPhysik kommt aus dem Griechischen. \nPhysica bedeutet auf deutsch: Naturlehre.\nPhysik untersucht die Natur. \nZum Beispiel wie das Licht und Strom funktioniert.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Physik"
+    },
+    {
+        "title": "Marie Curie",
+        "content": "Marie Curie war eine Physikerin und Chemikerin.\nSie hat den Nobel\u00b7preis f\u00fcr Physik bekommen.                                                                \nSie hat auch den Nobel\u00b7preis f\u00fcr Chemie bekommen.\n\nMarie Curie wurde am 7. November 1867 in Warschau, Russisches Reich geboren. \nSie ist am 4. Juli 1934 in Sancellemoz, Frankreich gestorben.\n\nFr\u00fcher hat es das Russische Reich gegeben.\nIm Russischen Reich durften Frauen nicht studieren gehen.\nWarschau hat damals zum Russischen Reich geh\u00f6rt.\n\nSie ist dann nach Frankreich gegangen.\nSie hat die F\u00e4cher Mathe und Physik studiert.\n\nIm Jahr 1903 hat sie den Nobel\u00b7preis f\u00fcr Physik bekommen.\nIm Jahr 1911 hat sie den Nobel\u00b7preis f\u00fcr Chemie bekommen.\n\nZusammen mit ihrem Mann Pierre Curie hat sie chemische Elemente entdeckt.\nDas sind die Elemente Polonium und Radium.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Marie_Curie"
+    },
+    {
+        "title": "Johannes Kepler",
+        "content": "Johannes Kepler war ein Naturphilosoph, \nMathematiker, Astrologe, Optiker und \nevangelischer Theologe.\nEr hat zum Beispiel ein Natur-gesetz entdeckt.\nDas Gesetz wie sich die Planeten um die Sonne bewegen.\n\n\n\nJohannes Kepler wurde am 27. Dezember 1571 in Weil der Stadt, Deutschland geboren.\nEr ist am  15. November 1630 in Regensburg, Deutschland gestorben.\n\nIm Jahr 1597 hat er Barbara M\u00fchleck geheiratet.\nMit ihr zusammen hat er vier (4) Kinder bekommen.\nZwei der Kinder sind schon fr\u00fch gestorben.\nIm Jahr 1611 ist seine Frau gestorben.\n\nEr hat bei Michael M\u00e4stlin studiert.\nMichael M\u00e4stlin war ein Astronom.\n\nIm Jahr 1594 ist er Lehrer geworden.\nEr hat Mathematik unterrichtet.\nDas war an der evangelischen Stiftsschule in Graz.\n\nJohannes Kepler hat Brief an Galileo Galilei geschrieben.\n\nIm Jahr 1601 ist Kepler kaiserlicher Hofmathematiker geworden.\n\nIm Jahr 1615 ist seine Mutter angeklagt worden.\nDie Leute haben gesagt.\nDie Mutter von Kepler macht Hexerei.\nJohannes Kepler hat seine Mutter verteidigt.\nSie ist dann frei gekommen.\nEin Jahr sp\u00e4ter ist sie gestorben.\nWahrscheinlich weil sie gefoltert worden ist.\n\nJohannes Kepler hat viele Texte und B\u00fccher geschrieben.\nZum Beispiel:\nMysterium Cosmographicum, Astronomia nova, einen Text \u00fcber die Entstehung der Schneeflocke, einen Text \u00fcber Dioptrik, einen Text \u00fcber das Kepler-Fernrohr, Tabulae Rudolfinae, Somnium.\n\nNach Johannes Kepler sind drei (3) Gesetzte benannt.\nDas sind die Keplerschen Gesetze.\n\nVerschiedene Orte sind nach Johannes Kepler benannt.\nZum Beispiel:\nIn Linz, \u00d6sterreich gibt es die Johannes-Kepler-Universit\u00e4t.\nIn Wien, \u00d6sterreich gibt es die Keplergasse und den Keplerplatz.\n\nEin Weltraumteleskop der NASA hei\u00dft: Kepler\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Johannes_Kepler"
+    },
+    {
+        "title": "Ingenuity",
+        "content": "Ingenuity ist ein kleiner Hubschrauber.\nIngenuity soll im Jahr 2021 auf den Mars fliegen.\nMars ist ein Planet.\n\n\nIngenuity ist ein englisches Wort.\nDas Wort bedeutet schlau.\nDas Wort bedeutet auch, gute Ideen haben.\n\nZum ersten Mal fliegt etwas auf einem anderen Planeten.\n\nIngenuity ist am 30 Juli 2020 in einer Rakete los geflogen.\nEs dauert lange zum Mars zu fliegen.\nAm 18. Februar 2021 soll Ingenuity auf dem Mars landen.\n\nIngenuity ist auf einem kleinen Auto.\nVon dem Auto fliegt Ingenuity los.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Ingenuity"
+    },
+    {
+        "title": "Universum",
+        "content": "Das Universum ist alles was es gibt. \nEs sind die Sterne.\nZum Beispiel die Sonne. \n\nUnd es sind Planeten. \nZum Beispiel die Erde. \n\nUnd es sind Gas\u00b7wolken. \nDie machen die Sterne. \n\n\nDas Uni\u00b7versum ist sehr gro\u00df.\nUnd es gibt keine Grenzen. \nAn vielen Stellen im Uni\u00b7versum gibt es nichts. \n\nExperten untersuchen das Uni\u00b7versum. \nSie stellen Fragen.\nZum Beispiel wie sich das Uni\u00b7versum ver\u00b7\u00e4ndert. \nUnd sie suchen nach Antworten. \nDas machen sie in der Kosmologie. \n\nAstro\u00b7nomen benutzen Tele\u00b7skope.\nDamit k\u00f6nnen sie Galaxien sehen. \nGalaxien die sehr weit von der Erde weg sind. \n\nAstro\u00b7nomen haben heraus\u00b7gefunden,\ndass das Uni\u00b7versum expandiert. \nDas hie\u00dft,\ndass es immer gr\u00f6\u00dfer wird. \nSie suchen auch Antworten. \nWarum das Uni\u00b7versum immer gr\u00f6\u00dfer wird. \n\nDas Uni\u00b7versum hat vor sehr langer Zeit angefangen. \nVor \u00fcber 14 Milliarden Jahren.\nEs hat mit dem Ur\u00b7knall angefangen. \n\nMit dem Ur\u00b7knall hat Raum und Zeit angefangen. \nVorher hat es Nichts gegeben. \nExperten suchen Antworten. \nSie wollen verstehen wie etwas aus Nichts anfangen kann.\n\nManche Leute glauben, \ndass es mehr als ein (1) Universum gibt. \nSie glauben das es Parallel\u00b7welten gibt.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Universum"
+    },
+    {
+        "title": "Jupiter (Planet)",
+        "content": "Jupiter ist der Name von einem Planeten.\nJupiter ist in unserem Sonnen\u00b7system.\nEr ist der gr\u00f6\u00dfte Planet in unserem Sonnen\u00b7system.\n\n\n\nDer Jupiter hat  67  Monde.\nJupiter ist ein Gas\u00b7planet.\nEr ist der hellste Planet am Nacht\u00b7himmel.\n\nVerschiedene Raum\u00b7sonden sind an Jupiter vorbeigeflogen.\nZum Beispiel:\nam 3. Dezember 1973 ist die Raumsonde Pioneer 10 vorbeigeflogen, am 3. Dezember 1974 ist die Raumsonde Pioneer 11 vorbeigeflogen, im Februar 1992 ist die Raumsonde Ulysses vorbeigeflogen.\nDie NASA hat die Raumsonde Galileo zum Jupiter geschickt.\nDie Sonde hat 6 Jahre gebraucht, bis sie beim Jupiter war.\nAm 7. Dezember 1995 hat sie angefangen um den Jupiter herum zu fliegen.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Jupiter_(Planet)"
+    },
+    {
+        "title": "Sonnensystem",
+        "content": "Das Sonnen\u00b7system ist ein Planeten\u00b7system.\n\nIn unserem Sonnen\u00b7system gibt es die Sonne.\nUnd es gibt 8 gro\u00dfe Planeten.\nUnd es gibt viele kleine Planeten.\n\n\n\nIm Sonnen\u00b7system gibt es die Sonne.\nDie Sonne ist ein gl\u00fchender Stern.\nSie ist in der Mitte vom Sonnen\u00b7systems.\n\nIn unserem Sonnen\u00b7system sind 8 Planeten.\nUnsere 8 Planeten hei\u00dfen:\nMerkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun.\nEs gibt noch viele weitere kleinere Planeten im Sonnen\u00b7system.\n\nDas Sonnen\u00b7system ist in der Milchstra\u00dfe.\nDie Milch\u00b7stra\u00dfe ist eine Galaxie.\n\nDie Sonne ist gr\u00f6\u00dfer als die Erde.\nSie hat eine Anziehungs\u00b7kraft auf die Erde.\nDie Anziehungs\u00b7kraft ist viel gr\u00f6\u00dfer als von der Erde.\nDeshalb um\u00b7kreist die Erde die Sonne.\nUnd alle anderen Planeten um\u00b7kreisen die Sonne.\n\nEs gibt Planeten, die sehr Nahe an der Sonne sind.\nDiese Planeten kreisen schneller um die Sonne.\nManche Planeten sind weiter weg von der Sonne.\nDiese drehen sich langsamer um die Sonne.\n\nEntstehung des Sonnensystems\nManche Wissenschaftler sagen.\nDas Sonnen\u00b7system ist aus einer gro\u00dfen Gas- und Staub\u00b7wolke entstanden.\nDas war wahrscheinlich vor 4,6 Milliarden Jahren.\nDiese Wolke drehte sich sehr schnell.\nDa die Wolke sich schnell drehte, \nwurde sie zu einer gro\u00dfen Scheibe.\nIn der Mitte der Scheibe ist die W\u00e4rme am h\u00f6chsten.\nDort ist wahrscheinlich die Sonne entstanden.\nIn der Staub\u00b7wolke bildeten sich Klumpen.\nDie Klumpen sammelten den Staub.\nUnd wurden gr\u00f6\u00dfer.\nDas wurden die Planeten.\nDie Planeten drehen sich um die Sonne.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Sonnensystem"
+    },
+    {
+        "title": "Milchstra\u00dfe",
+        "content": "Die Milchstra\u00dfe ist eine Galaxie.\nIn der Galaxie befinden sich viele Milliarden Sterne.\n\nIn der Milchstra\u00dfe ist unser Sonnensystem.\nIn unserem Sonnensystem gibt es die Sonne.\nUnd es gibt diese Planeten:\nMerkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun.\n\n\n\nDas Wort Galaxie kommt aus der griechischen Sprache.\nAuf Deutsch hei\u00dft Galaxie Milch.\n\nDamals ist ein helles und milchiges Band am Himmel beobachtet worden.\nDamals hat keiner gewusst was es war.\nMan sagte damals, dass die Milchstra\u00dfe entstand, als Herkules Milch von seiner Mutter verspritzte.\n\nNachts ist eine gute M\u00f6glichkeit, die Milchstra\u00dfe zu erkennen.\nEs sieht aus wie eine helle, wolkige und flache Scheibe.\nSie ist \u00fcber den gesamten Himmel verstreut.\n\nDie Milchstra\u00dfe besteht aus Milliarden von Sternen.\nSie geh\u00f6rt zu den Balkenspiralgalaxien, weil es balkenf\u00f6rmig aussieht.\nAu\u00dferdem befinden wir uns in der Milchstra\u00dfe.\n\nDie Milchstra\u00dfe hat ein Durchmesser von 100 Tausend Lichtjahren.\nDas Lichtjahr misst die Entfernung.\nEs gibt die Strecke an, wie viel das Licht in einem Jahr erreicht.\nEin Licht pro Sekunde kann eine Strecke von 300.000 Kilometer bew\u00e4ltigen.\nIn einem Jahr schafft es 10 Billionen km.\nDie Milchstra\u00dfe hat eine Dicke von 16.000 Lichtjahren.\nWenn sich die Sonne im Mittelpunkt der Milchstra\u00dfe dreht, ben\u00f6tigt sie etwa 240 Millionen Jahre.\n\nIn der Mitte der Milchstra\u00dfe gibt es ein \"riesiges schwarzes Loch\".\nDie Forscher haben das heraus gefunden.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Milchstra%C3%9Fe"
+    },
+    {
+        "title": "Mars (Planet)",
+        "content": "Mars ist der Name von einem Planeten.\nDer Mars ist in unserem Sonnen\u00b7system.\nDer Mars ist halb so gro\u00df wie die Erde.\n\n\nDer Mars kreist um die Sonne.\nDaf\u00fcr braucht der Mars 687 Tage.\nDie Erde braucht daf\u00fcr 365 Tage.\n\nDer Mars hat 2 Monde.\nDie Monde hei\u00dfen Phobos und Deimos.\n\nDer Mars ist weite weg von der Sonne.\nWeiter weg als die Erde.\nDeshalb ist es auf dem Mars kalt.\n\nUm den Mars herum ist eine H\u00fclle.\nEine H\u00fclle aus Gasen.\nDie H\u00fclle hei\u00dft Atmosph\u00e4re. \n\nDie Erde hat auch eine Atmosph\u00e4re. \nIn der Erd\u00b7atmosph\u00e4re gibt es viel Sauer\u00b7stoff.\nDen Sauer\u00b7stoff brauchen zum Beispiel die Menschen und die Tiere.\nMenschen und Tiere brauchen Sauer\u00b7stoff zum atmen.\n\nIn der Mars\u00b7atmosph\u00e4re ist nur wenig Sauer\u00b7stoff. \n\nDer Boden auf dem Mars ist rot. \nManche Leute sagen zum Mars auch der rote Planet.\n\nAm 26. November 2011 hat die NASA eine Sonde zum Mars geschickt. \nIn der Sonde war ein Roboter\u00b7auto.\nDas Roboter\u00b7auto hei\u00dft Curosity.\nDie Curosity erforscht den Mars.\n\nAm 30 Juli 2020 hat die NASA wieder eine Sonde zum Mars geschickt. \nIn der Sonde ist ein Hubschrauber.\nDer Hubschrauber hei\u00dft Ingenuity.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Mars_(Planet)"
+    },
+    {
+        "title": "Akklimatisation",
+        "content": "Bei der Akklimatisation wird der K\u00f6rper an eine Ver\u00e4nderung gew\u00f6hnt. \nZum Beispiel an die H\u00f6he von einem Berg. \n\nUm so h\u00f6her um so d\u00fcnner die Luft. \nDer K\u00f6rper kann weniger Sauerstoff aufnehmen. \nDas hei\u00dft:\nhoch oben auf einem Berg ist die Luft schlechter (d\u00fcnner) als weiter unten. \n\nAuf einem Berg funktioniert die Akklimatisation so:\nh\u00f6her laufen wo die Luft d\u00fcnner ist \ndann weiter runter laufen wo die Luft besser ist\nDadurch kann sich der K\u00f6rper an die Ver\u00e4nderung gew\u00f6hnen.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Akklimatisation"
+    },
+    {
+        "title": "Algorithmus",
+        "content": "Ein Algorithmus ist eine Reihen\u00b7folge. \nMit einem Algo\u00b7rithmus kann man Probleme l\u00f6sen. \nSchritt f\u00fcr Schritt l\u00f6st man damit ein Problem. \n\n\n\nEin Algo\u00b7rithmus l\u00f6st eine Aufgabe Schritt f\u00fcr Schritt. \n\nDas Gegenteil von einem Algorithmus ist eine Heuristik.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Algorithmus"
+    },
+    {
+        "title": "Nerv",
+        "content": "Jeder Mensch hat viele Nerven. \nDie Nerven sind \u00fcberall im K\u00f6rper. \nMit den Nerven kann man etwas sp\u00fcren. \nZum Beispiel: \nSchmerzen, K\u00e4lte, W\u00e4rme, Ber\u00fchrungen.\nAlle Nerven zusammen nennt man: \nNerven\u00b7system.\n\n\n\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Nerv"
+    },
+    {
+        "title": "Ubuntu Linux",
+        "content": "Ubuntu Linux ist ein Betriebs\u00b7system.\nMit Ubuntu Linux kann man einen Computer benutzen. \n\nDie meisten sagen zu Ubuntu Linux nur das kurze Wort: Ubuntu. \nUbuntu kann man auf einem Computer installieren. \nZum Beispiel auf einem Notebook.  \n\nMit Ubuntu bekommt man viele Computer\u00b7programme. \nUbuntu bekommt man kostenlos. \nDas hei\u00dft,\nman muss kein Geld daf\u00fcr bezahlen. \nJeder kann sich Ubuntu auf seinem Computer installieren. \n\n\n\nUbuntu ist ein Linux Betriebs\u00b7system. \nGenauer: es ist eine Linux-Distro. \n\nEs gibt Ubuntu seit dem Jahr 2004.\nDie erste Ubuntu Version ist Ubuntu 4.10 gewesen. \n\u00dcber 25 Millionen Menschen benutzen Ubuntu auf ihrem Computer. \n\nDas Wort Ubuntu kommt aus der afrikanische Sprachen.  \nEs bedeutet: Menschlichkeit gegen\u00fcber Anderen. \n\nDie wichtigste Idee von Ubuntu ist,\njeder Mensch kann Ubuntu kostenlos auf einem Computer installieren. \nEine weitere Idee ist,\nUbuntu soll jeder einfach installieren und bedienen k\u00f6nnen. \nBei Ubuntu sind viele Computer\u00b7programme schon dabei. \nComputer\u00b7programme die f\u00fcr viele wichtig sind. \nUnd die viele Menschen benutzen. \n\nUbuntu ist Freie Software. \nUbuntu ist kostenlos und jeder darf Ubuntu kopieren und verschenken.\n\nVerschiedene Menschen haben Ubuntu entwickelt. \nEntwickler haben Linux genommen und ge\u00e4ndert. \nDadurch ist Ubuntu entstanden. \nAn Ubuntu k\u00f6nnen viele Menschen mit\u00b7arbeiten. \nDadurch gibt es viele ab\u00b7ge\u00e4nderte Ubuntu Versionen. \nZum Beispiel:\nKubuntu, Xubuntu, Ubuntu MATE, Ubuntu Studio.\n\nUbuntu wird von der Firma Canonical unterst\u00fctzt. \nCanonical gibt Geld, \ndamit zum Beispiel Ubuntu weiter entwickelt werden kann. \nAlle 6 Monate gibt es eine neue Ubuntu Version. \nImmer im April und im Oktober gibt es eine neue Version. \nF\u00fcr eine Ubuntu Version bekommt man 9 Monate Aktualisierungen. \nDas hei\u00dft,\nman bekommt Unterst\u00fctzung. \nFehler und Sicherheits\u00b7fehler werden geschlossen. \nOder es gibt Verbesserungen in der Bedienungen. \n\nAlle 2 Jahre gibt es eine besondere Ubuntu Version.\nDiese Version hei\u00dft: Ubuntu LTS. \nF\u00fcr diese Version bekommt man 5 Jahre Aktualisierungen.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Ubuntu_Linux"
+    },
+    {
+        "title": "Internet",
+        "content": "",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Internet"
+    },
+    {
+        "title": "Deep Learning",
+        "content": "Deep Learning sind Verbesserungen in Computer\u00b7netzen. \nDas hei\u00dft,\nComputer\u00b7netze lernen selbst neue Sachen. \nZum Beispiel bei \u00dcbersetzungs\u00b7programmen. \nAus den Daten die man in das \u00dcbersetzungs\u00b7programm eingibt,\nlernt das \u00dcbersetzungs\u00b7programm neue Sachen. \n\n\n\nComputer\u00b7netze und Maschinen werden durch Deep Learning besser und schlauer.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Deep_Learning"
+    },
+    {
+        "title": "E-Health",
+        "content": "E-Health ist Technik f\u00fcr die Gesundheit.\nZum Beispiel Ger\u00e4te um gesund zu bleiben. \nUnd gegen Krankheiten. \n\nE-Health k\u00f6nnen auch Information sein. \nVerschiedene Personen tauschen die Informationen aus. \nZum Beispiel Informationen zwischen Arzt und Patient. \n\n\n\nDurch E-Health gibt es eine Zusammen\u00b7arbeit.\nZwischen Medizin und elektronischer Gesundheits\u00b7arbeit.\n\nE-Health k\u00f6nnen diese verschiedenen Sachen sein:\nGesundheits\u00b7akte, viele Informationen f\u00fcr die eigene Gesundheit, Tele\u00b7medizin, Untersuchung von medizinischen Diensten, Fitness\u00b7armband, Gesundheits\u00b7ger\u00e4te, Apotheken im Internet.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/E-Health"
+    },
+    {
+        "title": "E-Learning",
+        "content": "\nE-Learning ist Lernen mit elektronische Medien. \n\nZum Beispiel E-Books lesen. \n\n\nOder \u00fcber das Telefon neue Sachen lernen. \n\n\nZum Lernen werden auch digitale Medien benutzt. \nDie Medien werden benutzt um Sachen an\u00b7zu\u00b7schauen. \nZum Beispiel mit Videos. \n\nOder Sachen vor\u00b7zu\u00b7zeigen.\nZum Beispiel mit Web-Pr\u00e4sentationen. \n\nOder Sachen an\u00b7zu\u00b7h\u00f6ren. \nZum Beispiel: Sprachen lernen mit Podcasting. \n\nAlle elektronischen Sachen werden auch Lern\u00b7maschinen genannt. \n\nManche Menschen finden E-Learning gut.\nManche finden E-Learning schlecht. \nEs ist f\u00fcr viele Menschen gut, zum Beispiel f\u00fcr Leser, Video\u00b7schauer, H\u00f6rer, Es ist keine feste Zeit vor\u00b7ge\u00b7geben, man kann zum Beispiel in der Nacht lernen, Es ist kein Ort vor\u00b7ge\u00b7geben, man kann zum Beispiel von zu Hause aus lernen, Gruppen k\u00f6nnen gleichzeitig zusammen\u00b7arbeiten, Man kann Sachen sehr oft wiederholen, Schwierige Sachen sind einfacher zu verstehen, zum Beispiel durch Bilder, Ton oder Videos.\n\nDer Lerner muss lernen mit den Lern\u00b7maschinen zu arbeiten, Der Lerner muss sich selbst motivieren, Mit einer  Lern\u00b7maschinen lernen macht schnell m\u00fcde, Es gibt nicht so viele echte Kontakte zu Lehrern und Sch\u00fclern, Fragen k\u00f6nnen nicht gleich an einen Lehrer gestellt werden.\n\nWeil das alles Vor\u00b7teile und Nach\u00b7teile hat, \nwird oft beides benutzt. \nE-Learning und normales Lernen im Klassen\u00b7zimmer. \nZum Beispiel werden in manchen Schulen viele Lern\u00b7maschinen zum normalen Unterricht benutzt.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/E-Learning"
+    },
+    {
+        "title": "Evolution",
+        "content": "Evolution ist eine Theorie.\nDie Theorie erkl\u00e4rt,\nwie Lebe\u00b7wesen entstehen.\nUnd wie sich Lebe\u00b7wesen ver\u00e4ndern.\nZum Beispiel wie sich Menschen ver\u00e4ndern. \n\u00dcber eine lange Zeit.  \nOder wie sich Tiere ver\u00e4ndern. \n\u00dcber eine lange Zeit. \n\nMit Evolution kann man erkl\u00e4ren,\nwarum es unterschiedliche Pflanzen gibt. \nUnd warum es unterschiedliche Tiere gibt.  \nUnd warum es unterschiedliche Menschen gibt. \n\nEvolution baut etwas auf was es schon gibt. \nFr\u00fcher sind Lebe\u00b7wesen anders gewesen. \nMenschen sind anders gewesen. \nUnd die Tiere sind anders gewesen.\nUnd die Pflanzen sind anders gewesen. \nW\u00e4hrend einer langen Zeit haben sie sich ver\u00e4ndert. \n\nEvolution gibt Informationen weiter.\nUnd ver\u00e4ndert dadurch etwas. \nEvolution geht langsam. \nDas Gegenteil ist eine Revolution.\nEine Revolution geht schnell. \n\nManche Leute glauben nicht an Evolution.\nSie glauben das \u00c4nderungen mit Religion zu tun hat. \nSie sind Kreationisten.\n\nFr\u00fcher haben viele Menschen geglaubt,\ndass Gott Menschen gemacht hat. \nUnd Menschen ver\u00e4ndert hat. \nSeit dem Jahr 1900 glauben viele Menschen an die Evolution. \n\nCharles Darwin hat die Evolution erkl\u00e4rt. \nEr hat gesagt dass es immer \u00c4nderungen gibt. \nZum Beispiel bei der Geburt von einem Kind. \nDas Kind ist immer ein wenig anders als seine Eltern. \nBei jeder Generation gibt es \u00c4nderungen. \n\nMit Fossilien kann man beweisen das es eine \u00c4nderung gegeben hat. \nGenaue \u00c4nderungen untersucht man in der Evolutions\u00b7geschichte. \nUnd genaue Erkl\u00e4rungen untersucht man in der Evolutions\u00b7theorie.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Evolution"
+    },
+    {
+        "title": "Experiment",
+        "content": "Ein Experiment ist ein Versuch.\nManchmal gibt es Dinge, die man sich nicht erkl\u00e4ren kann.\nEin Experiment kann Erkl\u00e4rungen geben.\nWissenschaftler experimentieren, um ein Problem zu l\u00f6sen.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Experiment"
+    },
+    {
+        "title": "Stephen Hawking",
+        "content": "Stephen Hawking war ein Physiker und Astrophysiker.\nStephen Hawking hat B\u00fccher geschrieben.\n\u00dcber seine Forschungen.\nDie B\u00fccher sind f\u00fcr alle Menschen geschrieben.\nAuch f\u00fcr Menschen die keine Physiker sind.\n\n\n\nStephen Hawking wurde am 8. Januar 1942 geboren.\nDas war in Oxford, Gro\u00dfbritannien geboren.\nStephen Hawking ist am 14. M\u00e4rz 2018 gestorben.\nIn Cambridge, Gro\u00dfbritannien.\n\nStephen Hawking war 2 mal verheiratet.\nVon 1965 bis 1990 war mit Jane Wilde verheiratet.\nMit ihr hat er 3 Kinder.\nLucy Hawking, Timothy Hawking, Robert Hawking.\n\nVon 1995 bis 2006 war er mit Elaine Mason verheiratet.\n\nZum Sprechen hat Stephen Hawking einen Sprach\u00b7computer benutzt. \nDer Sprachcomputer hat den Namen DECtalk DTC01.\nHawking hat den Computer mit seinen Augen gesteuert.\n\nHawking hat \u00fcber 30 B\u00fccher geschrieben.\nMit seiner Tochter Lucy hat er ein Kinder-Physik-Buch geschrieben.\n\nHawking war als Gast in verschiedenen TV Serien.\nZum Beispiel in:\nRaumschiff Enterprise: Das n\u00e4chste Jahrhundert, Die Simpsons, Futurama, The Big Bang Theory.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Stephen_Hawking"
+    },
+    {
+        "title": "Tim Berners-Lee",
+        "content": "Tim Berners-Lee ist ein britischer Physiker und Informatiker.\nEr ist der Erfinder der HTML.\nEr ist Professor am Massachusetts Institute of Technology.\n\nTim Berners-Lee ist am 8. Juni 1955 in London, Gro\u00dfbritannien geboren worden.\nEr ist verheiratet mit Nancy Berners-Lee.\nMit ihr hat er zwei (2) Kinder.\nAlice und Ben.\nMit seiner Familie lebt er heute in Lexington, USA.\n\nEr hat an der Universit\u00e4t in Oxford in England Physik studiert.\nDanach hat er in der Schweiz gearbeitet.\nAm Kern-forschungs-zentrum CERN. \nDas Kern-forschungs-zentrum hat an verschiedenen Orten Labore.\nManche Labore hatten verschiedene Computer Netzwerke.\nDeshalb konnten die Labore untereinander keine Informationen austauschen.\n\nTim Berners-Lee  hat die Idee f\u00fcr HTML gehabt.\nHTML ist eine englische Abk\u00fcrzung.\nHTML steht f\u00fcr Hypertext Markup Language.\nMit dieser Computer Sprache werden Internetseiten gemacht.\n\nVon Tim Berners-Lee ist auch der erste Browser.\nMit einem Browser kann man dann eine HTML Internetseite anschauen.\nDas war im Jahr 1990.\n\nDeshalb sagen manche:\nTim Berners-Lee ist der Erfinder des Internet.\nDas ist nicht ganz richtig.\nRichtig ist:\nTim Berners-Lee hat gemacht:\nHTML, das Transferprotokoll HTTP, die URL, den ersten Browser, ersten Webserver.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Tim_Berners-Lee"
+    },
+    {
+        "title": "Hybrid-Auto",
+        "content": "Ein Hybridauto hat nicht nur einen Motor, sondern zwei.\nMeistens einen Benzin-Motor, wie normale Autos auch.\nUnd dazu noch einen Elektro-Motor.\nEs f\u00e4hrt mit dem Motor, der grade am besten ist.\nDas spart viel Energie und Geld.\n\nBenzin wird immer weniger,\nweil es nicht nachw\u00e4chst.\nDarum wird es auch immer teurer.\nDas \u00e4rgert die Autofahrer, klar.\nAu\u00dferdem belasten Benzinautos die Umwelt.\nDas \u00e4rgert alle Menschen.\n\nViel sauberer ist ein Elektro-Auto.\nDas f\u00e4hrt mit Strom.\nStrom ist billiger als Benzin.\nUnd belastet die Umwelt viel weniger.\nAber die Tankstellen haben keine Steckdosen!\nDarum sind reine Elektro-Autos noch nicht prakisch.\n\nDa hatte jemand eine tolle Idee:\nBauen wir doch einfach zwei Motoren ein!\nEinen Elektromotor zum langsamen Fahren\nz. B. in der Stadt.\nUnd einen Benzinmotor zum schnellen Fahren\nz. B. auf der Autobahn.\n\nUnd au\u00dferdem macht der Benzinmotor den Strom\nf\u00fcr den Elektromotor.\nDer Strom, der nicht gleich verbraucht wird,\nwird in einer gro\u00dfen Batterie gespeichert.\n\nUnd noch eine tolle Idee:\nWenn das Auto bremst\noder wenn es einen Berg runterf\u00e4hrt\ndann wird auch daraus Strom gemacht\nund in die Batterie reingetan.\n\nSolche tollen Autos gibt es schon zu kaufen!\nMan nennt sie Hybrid-Autos.\nHybrid hei\u00dft: diese Autos haben zwei Motoren,\neinen f\u00fcr Benzin, und einen f\u00fcr Strom.\nMan tankt ganz normal Benzin an der Tankstelle\nwie beim Benzinauto auch.\nNur dass man weniger bezahlt,\nweil Hybridautos weniger Benzin verbrauchen.\n\nEs gibt Voll-Hybrid-Autos,\nzum Beispiel von Toyota und Honda,\ndie k\u00f6nnen mit beiden Motoren fahren.\nUnd es gibt Teil-Hybrid-Autos,\nzum Beispiel von Mercedes,\nda ist der Elektro-Motor zu schwach zum Fahren,\naber er hilft dem Benzin-Motor. \n\nBald wird man immer mehr Hybrid-Autos sehen.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Hybrid-Auto"
+    },
+    {
+        "title": "Immunsystem",
+        "content": "Das Immun\u00b7system ist ein Schutz\u00b7system des K\u00f6rpers.\nEs sch\u00fctzt den K\u00f6rper vor Krankheiten.\n\n\nDas Immunsystem ist so etwas wie die Gesundheitspolizei des K\u00f6rpers.\nWenn ein Krankheitserreger in den K\u00f6rper eindringt, \ndann versucht das Immunsystem den Eindringling unsch\u00e4dlich zu machen.\nEin Krankheitserreger k\u00f6nnen Viren oder Bakterien sein.\nWenn das Immunnsystem schwach ist, kann man leichter krank werden\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Immunsystem"
+    },
+    {
+        "title": "Informatik",
+        "content": "Informatik ist bestimmte Wissenschaft.\nBei der Informatik geht es um elektronischen Daten\u00b7verarbeitungs\u00b7anlagen.\nEine elektronischen Daten\u00b7verarbeitungs\u00b7anlage ist zum Beispiel ein Computer.\n\nDie Menschen bekommen heute viele Informationen.\n- Aus den Nachrichten,\n- von anderen Menschen,\n- von den Computern anderer Menschen.\n\nDie meisten Menschen lesen das nicht nur,\nsondern machen daraus neue Informationen.\n- Sie rechnen Zahlen aus,\n- schreiben Texte,\n- drucken Listen,\n- nehmen Fotos auf oder Videos oder Musik.\n\nKein Mensch wei\u00df heute mehr, \n- welche Informationen es gibt,\n- und wo die alle herkommen.\nDarum brauchen wir Computer.\n\nWer genau wissen will, wie das geht,\nder lernt Informatik als Student.\nMan kann auch Medien-Informatik studieren,\nwenn man gerne Filme und Musik hat.\nOder Wirtschafts-Informatik,\nwenn man gerne mit Zahlen und Geld umgeht.\nOder Medizin-Informatik,\nwenn man dem Arzt helfen will.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Informatik"
+    },
+    {
+        "title": "Wind",
+        "content": "Wind ist Luft, die sich bewegt.\nMan kann ihn nicht sehen.\nAber man kann ihn erkennen.\nZum Beispiel:\nWenn \u00c4ste und Bl\u00e4tter sich bewegen, dann weht der Wind.\nOder am Strand, wenn sich der Sand bewegt.\n\n\n\nDie Sonne macht den Wind\nSie macht die Erde warm.\nWarme Luft steigt nach oben in den Himmel.\nDie kalte Luft sinkt nach unten.\nUnten wird die kalte Luft wieder warm.\nDann steigt die warme Luft wieder nach oben.\nSo entsteht Wind.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Wind"
+    },
+    {
+        "title": "WLAN",
+        "content": "Mit WLAN ist eine Verbindung gemeint.\nDiese Verbindung verbindet zum Beispiel den Computer mit dem Internet.\n\nF\u00fcr eine WLAN-Verbindung braucht man keine Kabel.\n\nMit vielen Ger\u00e4ten kann man eine WLAN-Verbindung aufbauen.\nZum Beispiel mit einem Modem.\n\nWLAN funktioniert ohne Kabel.\n\n\n\nEine WLAN-Verbindung funktioniert mit Funk.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/WLAN"
+    },
+    {
+        "title": "Klima",
+        "content": "Klima ist alles Wetter zusammen. \nWetter von den letzten 30 Jahren zusammen. \nZum Beispiel ob es warm gewesen ist. \nOder ob es kalt gewesen ist. \nKlima \u00e4ndert sich nur langsam. \n\nKlima ist Temperatur.\nUnd es ist Luft\u00b7feuchtig\u00b7keit.\nUnd es ist Luft\u00b7druck.\nUnd es ist Wind.\nUnd es ist Regen.\n\nDas Klima ist an Orten verschieden. \nWenn der Ort in der N\u00e4he vom \u00c4quator ist,\nist es w\u00e4rmer. \nZum Beispiel in Afrika. \nOder in S\u00fcd\u00b7amerika.\n\nWenn der Ort in der N\u00e4he vom S\u00fcd\u00b7pol ist,\nist es k\u00e4lter. \nZum Beispiel in Gr\u00f6n\u00b7land\n\nEs gibt diese Klima\u00b7zonen. \nTropen\u00b7klima, Savanne\u00b7klima, Steppe\u00b7klima, W\u00fcsten\u00b7klima, Etesien\u00b7klima, Gem\u00e4\u00dfigtes Klima, Kontinentales Klima, Transsibirisches Klima]], Tundren\u00b7klima, Eis\u00b7klima.\n\nDas Klima kann sich nach langer Zeit \u00e4ndern. \nZum Beispiel wenn es immer w\u00e4rmer wird. \nWeil es viele Autos gibt.\nOder weil es zu viele Heizungen gibt.\n\nExperten untersuchen das Klima. \nSie machen Klima\u00b7forschung.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Klima"
+    },
+    {
+        "title": "Klimawandel",
+        "content": "Normalerweise ist an einem Ort jedes Jahr zu selben Zeit gleiches Wetter.\nDas Wetter zu allen Jahres\u00b7zeiten zusammen hei\u00dft Klima.\nDas Klima ver\u00e4ndert sich.\nDas Klima wird w\u00e4rmer und ger\u00e4t durcheinander.\nDazu sagt man Klima\u00b7wandel.\n\nDer Mensch ist schuld am Klima\u00b7wandel.\nDer Klimawandel entsteht zum Beispiel durch Auto\u00b7abgase.\n\nDie Abgase gehen in die Luft.\nDie Abgase sind wie eine H\u00fclle um die ganze Erde.\nDurch die H\u00fclle kommt Sonnen\u00b7licht herein.\nAber nicht mehr hinaus.\nDas ist so \u00e4hnlich wie in einem Gew\u00e4chs\u00b7haus.\nMan sagt dazu auch Treib\u00b7haus\u00b7effekt.\n\nAuf der Erde wird es immer w\u00e4rmer.\nDeshalb schmelzen die Eis\u00b7berge am Nord\u00b7pol und am S\u00fcd\u00b7pol.\n\nWenn die Pole schmelzen, gibt es mehr Wasser.\nManche Inseln k\u00f6nnen \u00fcberschwemmt werden.\n\nIn manchen L\u00e4ndern regnet es weniger als fr\u00fcher.\nDeshalb wachsen dort keine Pflanzen mehr.\nMenschen und Tiere haben dann nichts mehr zu Essen.\nYou\u00b7tube Video: Klimawandel erkl\u00e4rt in Leichter Sprache.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Klimawandel"
+    },
+    {
+        "title": "Innovation",
+        "content": "Eine Innovation ist etwas ganz neues. \nZum Beispiel eine Erfindung die vielen Menschen hilft. \n\n\n\nMeistens ist mit Innovation eine Erfindung gemeint.\nEine Erfindung die zum Beispiel vielen Menschen hilft. \nOder die viele Menschen benutzen. \nDurch eine Innovation wird manches besser oder einfacher. \n\nDie Person die eine Innovation gemacht hat ist innovativ. \n\nEtwas neues beim Menschen und bei Menschen\u00b7gruppen ist eine Soziale Innovation.\n",
+        "language": "German",
+        "topic": [
+            "Science and Technology"
+        ],
+        "difficulty": 0,
+        "source": "https://hurraki.de/wiki/Innovation"
+    }
+]

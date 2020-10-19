@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Animation",
+        "content": "Animation is a way of making a movie from many still images. The images are put together one after another, and then played at a fast speed to give the illusion of movement. \nAnimation is a relatively new art form, and though the concept of moving images has been a theme throughout ancient civilizations, it was not until late into the 19th century that experimental animation truly began.  Today, the industry of animation is booming, making up a huge commercial enterprise.  \nA person who makes animations is called an animator. \nThere are three ways to animate:\n\nDraw each frame\nUse stop-motion: make a model scene and change it to create a new image (frame)\nMake computer graphics",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Animation"
+    },
+    {
+        "title": "Animation",
+        "content": "Animation is a way of making a movie from many still images. The images are put together one after another, and then played at a fast speed to give the illusion of movement. \nAnimation is a relatively new art form, and though the concept of moving images has been a theme throughout ancient civilizations, it was not until late into the 19th century that experimental animation truly began.  Today, the industry of animation is booming, making up a huge commercial enterprise.  \nA person who makes animations is called an animator. \nThere are three ways to animate:\n\nDraw each frame\nUse stop-motion: make a model scene and change it to create a new image (frame)\nMake computer graphics",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Animation"
+    },
+    {
+        "title": "Artist",
+        "content": "An artist is a person who creates art. This word is used most often for persons and activities of 'high culture'. That is for example drawing, painting, sculpture, acting, dancing, writing, filmmaking, photography, and music. Sometimes a person who is very good at their job is called an artist, even if it is not considered as art. A scientist or mathematician can be called an artist.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Artist"
+    },
+    {
+        "title": "Modern art",
+        "content": "Modern art refers to artistic works produced from the 1860s to about the 1970s. It refers to the style and philosophy of the art produced during that era.p102 The period coincides with the invention of mechanical means of recording images: photography and film.The term modern art is usually associated with art in which the traditions of the past have been thrown aside in a spirit of experimentation.p419  Modern artists experimented with new ways of seeing and with fresh ideas about the nature of materials and functions of art. A tendency toward abstraction is characteristic of much modern art, including minimalism . More recent artistic production is often called Contemporary art or Postmodern art.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Modern_art"
+    },
+    {
+        "title": "Brush",
+        "content": "A brush is a tool with bristles or wires or other filaments sticking out. There are many kinds. Most brushes have a long part at one end to hold (the handle), on the other end from the head that carries the bristles or filaments. We use brushes for cleaning, making hair look good, painting, and other purposes.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Brush"
+    },
+    {
+        "title": "Calligraphy",
+        "content": "Calligraphy is the art of writing. The word is from the Greek language and means \"beautiful writing\". In the west, this was an interest in decorating words on the page. Calligraphy in the Western world was always considered a minor art.East Asian calligraphy was a \"high art\" form before the Tang Dynasty. It continues to have a high status among the arts. It is practiced today by many people including school children.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Calligraphy"
+    },
+    {
+        "title": "Canvas",
+        "content": "Canvas is a thick material usually made of woven cotton.  It is used for tents and sails on boats and other places where a sturdy material would be good.  It is similar to the material in blue jeans. It is often a white or pale tan color. It can also be used for painting or even making shoes.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Canvas"
+    },
+    {
+        "title": "Chisel",
+        "content": "A chisel is a sharp and straight tool often used with a hammer to shape wood or other surfaces.  Chisels are used by artists to make statues and figures out of stone, marble, or wood.  Construction workers use chisels to change the shape of wood and stone so that they can build with them.  Sometimes chisels are used to break things so that they can be moved more easily.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chisel"
+    },
+    {
+        "title": "Clay",
+        "content": "Clay is a fine-grained silicate mineral made when rocks break down. Wet clay is soft and can be shaped to make pottery, bricks and other things. When it is shaped and then fired in a kiln to make it hard, it becomes pottery.\nClay often contains some water because the water molecules stick to the tiny grains. There may also be some organic materials in the clay.\nThere are 35 recognized clay mineral species on Earth, they make muds stick together ('cohesive'), or able to flow ('plastic'). The thixotropy of clay sometimes causes landslides.\nQuartz, feldspars, iron oxides, and carbonates can weather to sizes of a typical clay mineral. The formation of clay is well understood.  It can come from soil, volcanic ash, and glaciation.  Ancient mudrocks are another source, because they weather and disintegrate easily.Clay is by far the smallest particles recognized in mudrocks. A clay particle is about 1/1000th the width of a sand grain. This means a clay particle will travel 1000 times further at constant water velocity, thus requiring quieter conditions for settlement. Where the grains are more than a few millimeters wide, the material is called silt, not clay.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Clay"
+    },
+    {
+        "title": "Cartoon",
+        "content": "A cartoon is a drawing. The word \"cartoon\" has been used in several different ways in  the world.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cartoon"
+    },
+    {
+        "title": "Ceramic",
+        "content": "Ceramic is the name for some materials that are formed by the use of heat. The word ceramic comes from the Greek word \u03ba\u03b5\u03c1\u03b1\u03bc\u03b9\u03ba\u03cc\u03c2 (keramikos). Chemically, it is an inorganic compound of  metal, non-metal or metalloid atoms held together by chemical bonds. \nUp to the 1950s or so, the most important were the traditional clays, made into pottery, bricks, tiles and the like, also cements and glass. Clay-based ceramics are described in the article on pottery. A composite material of ceramic and metal is known as cermet. \nThe word ceramic can be an adjective, and can also be used as a noun to refer to a ceramic material, or a product of ceramic manufacture. Ceramics may also be used as a singular noun referring to the art of making things out of ceramic materials. The technology of manufacturing and usage of ceramic materials is part of the field of ceramic engineering.\nMany clay-based ceramic materials are hard, porous, and brittle. The study and development of ceramics includes methods to deal with these characteristics, to accentuate the strengths of the materials and investigate novel applications.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ceramic"
+    },
+    {
+        "title": "Charcoal",
+        "content": "Charcoal is a carbon-containing substance made from wood, naturally black and powdery. Charcoal is made from wood by heating it in an airless space at a high temperature. The wood will not burn, but instead turn into charcoal. The by-product of making charcoal is tar and turpentine.\nPeople use it for different things such as cooking on a barbecue grill, and in painting.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Charcoal"
+    },
+    {
+        "title": "Colour",
+        "content": "Colour or color is a property of light as seen by people. In Latin, as well as the United States, the word is spelled \u201ccolor\u201d (without a \u2018u\u2019.) In traditional English, it is spelled \u201ccolour\u201d (with a \u2018u\u2019).\nThe most common colour names are: \n\nRed\nOrange\nYellow\nGreen\nBlue\nPurple\nBrown\nMagenta\nTan\nCyan\nOlive\nMaroon\nNavy\nAquamarine\nTurquoise\nSilver\nLime\nTeal\nIndigo\nViolet\nPink\nBlack\nWhite\nGray\"Primary colours\" can be mixed to make the other colours. Red, yellow and blue are the three traditional primary colours. The primary colours for television screens and computer monitors are red, green and blue. Printers use magenta, yellow and cyan as their primary colours; they also use black.\nPeople who can not see colours or have a distorted sense of colour are called colour blind. Most colour blind people are male.\nColours are sometimes added to food. Food colouring is used to colour food, but some foods have natural colourings, like beta carotene.\nWhen something has no colour, it is transparent. An example is air.\nThe science of color is sometimes called chromatics, colorimetry, or simply color science\nA translucent material is not the same as a colourless material because it can still have a colour, like stained glass.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Colour"
+    },
+    {
+        "title": "Colour",
+        "content": "Colour or color is a property of light as seen by people. In Latin, as well as the United States, the word is spelled \u201ccolor\u201d (without a \u2018u\u2019.) In traditional English, it is spelled \u201ccolour\u201d (with a \u2018u\u2019).\nThe most common colour names are: \n\nRed\nOrange\nYellow\nGreen\nBlue\nPurple\nBrown\nMagenta\nTan\nCyan\nOlive\nMaroon\nNavy\nAquamarine\nTurquoise\nSilver\nLime\nTeal\nIndigo\nViolet\nPink\nBlack\nWhite\nGray\"Primary colours\" can be mixed to make the other colours. Red, yellow and blue are the three traditional primary colours. The primary colours for television screens and computer monitors are red, green and blue. Printers use magenta, yellow and cyan as their primary colours; they also use black.\nPeople who can not see colours or have a distorted sense of colour are called colour blind. Most colour blind people are male.\nColours are sometimes added to food. Food colouring is used to colour food, but some foods have natural colourings, like beta carotene.\nWhen something has no colour, it is transparent. An example is air.\nThe science of color is sometimes called chromatics, colorimetry, or simply color science\nA translucent material is not the same as a colourless material because it can still have a colour, like stained glass.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Colour"
+    },
+    {
+        "title": "Colour",
+        "content": "Colour or color is a property of light as seen by people. In Latin, as well as the United States, the word is spelled \u201ccolor\u201d (without a \u2018u\u2019.) In traditional English, it is spelled \u201ccolour\u201d (with a \u2018u\u2019).\nThe most common colour names are: \n\nRed\nOrange\nYellow\nGreen\nBlue\nPurple\nBrown\nMagenta\nTan\nCyan\nOlive\nMaroon\nNavy\nAquamarine\nTurquoise\nSilver\nLime\nTeal\nIndigo\nViolet\nPink\nBlack\nWhite\nGray\"Primary colours\" can be mixed to make the other colours. Red, yellow and blue are the three traditional primary colours. The primary colours for television screens and computer monitors are red, green and blue. Printers use magenta, yellow and cyan as their primary colours; they also use black.\nPeople who can not see colours or have a distorted sense of colour are called colour blind. Most colour blind people are male.\nColours are sometimes added to food. Food colouring is used to colour food, but some foods have natural colourings, like beta carotene.\nWhen something has no colour, it is transparent. An example is air.\nThe science of color is sometimes called chromatics, colorimetry, or simply color science\nA translucent material is not the same as a colourless material because it can still have a colour, like stained glass.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Colour"
+    },
+    {
+        "title": "Crayon",
+        "content": "Crayons are writing tools made with colored wax, water, and citric acid or chalk. They are used very much by young children to make drawings, although some artists use them to put finishing touches on their art. The notable low melting point of crayons can be utilized in crayon-drip art. One very well-known brand of crayons is Crayola, a company by Binney and Smith.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Crayon"
+    },
+    {
+        "title": "Creativity",
+        "content": "Creativity is the ability of a person or group to make something new and useful or valuable, or the process of making something new and useful or valuable. It happens in all areas of life - science, art, literature and music. As a personal ability it is very difficult to measure. The reason is that we don't understand the mental processes that help some people be more creative than others. Judging what is creative is also controversial. Some people say only things which are historically new are creative, while other people say that if it is new for the creator and the people around them, then it is also creativity.\nSome think that creativity is an important thing that makes humans different from apes. Others recognize that even apes, other primates, other mammals and some birds adapt to survive by being creative (for example - primates using tools). Liane Gabora believes that all culture comes from creativity, not imitation. Therefore, these people say, human science should focus on it (pay special attention to it): Ethics for example would focus on finding creative solutions to ethical dilemmas. Politics would focus on the political virtues that need some creativity. Imitation would not be the focus of education. Linguistics might be more interested in how new words are created by culture, rather than in how existing ones are used in grammar.\nIntellectual interests (recognized as intellectual rights or intellectual property in the law) are a way to reward creativity in law, but they do not always work very well. A good example is copyright which is supposed to pay authors and artists, but may only pay lawyers to make (imitative) arguments in court.\nCreativity is a central question in economics, where it is known as ingenuity (the ability to come up with new ideas) or individual capital - capacities that individuals have, that do not arise from simple imitation of what is known already. This is separate from the instructional capital that might try to capture some of that in a patent or training system that helps others do what the individual leader or founder of the system can do. In urban economics there are various ways to measure creativity - the Bohemian Index and Gay Index are two attempts to do this accurately and predict the economic growth of cities based on creativity.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Creativity"
+    },
+    {
+        "title": "Creativity",
+        "content": "Creativity is the ability of a person or group to make something new and useful or valuable, or the process of making something new and useful or valuable. It happens in all areas of life - science, art, literature and music. As a personal ability it is very difficult to measure. The reason is that we don't understand the mental processes that help some people be more creative than others. Judging what is creative is also controversial. Some people say only things which are historically new are creative, while other people say that if it is new for the creator and the people around them, then it is also creativity.\nSome think that creativity is an important thing that makes humans different from apes. Others recognize that even apes, other primates, other mammals and some birds adapt to survive by being creative (for example - primates using tools). Liane Gabora believes that all culture comes from creativity, not imitation. Therefore, these people say, human science should focus on it (pay special attention to it): Ethics for example would focus on finding creative solutions to ethical dilemmas. Politics would focus on the political virtues that need some creativity. Imitation would not be the focus of education. Linguistics might be more interested in how new words are created by culture, rather than in how existing ones are used in grammar.\nIntellectual interests (recognized as intellectual rights or intellectual property in the law) are a way to reward creativity in law, but they do not always work very well. A good example is copyright which is supposed to pay authors and artists, but may only pay lawyers to make (imitative) arguments in court.\nCreativity is a central question in economics, where it is known as ingenuity (the ability to come up with new ideas) or individual capital - capacities that individuals have, that do not arise from simple imitation of what is known already. This is separate from the instructional capital that might try to capture some of that in a patent or training system that helps others do what the individual leader or founder of the system can do. In urban economics there are various ways to measure creativity - the Bohemian Index and Gay Index are two attempts to do this accurately and predict the economic growth of cities based on creativity.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Creativity"
+    },
+    {
+        "title": "Creativity",
+        "content": "Creativity is the ability of a person or group to make something new and useful or valuable, or the process of making something new and useful or valuable. It happens in all areas of life - science, art, literature and music. As a personal ability it is very difficult to measure. The reason is that we don't understand the mental processes that help some people be more creative than others. Judging what is creative is also controversial. Some people say only things which are historically new are creative, while other people say that if it is new for the creator and the people around them, then it is also creativity.\nSome think that creativity is an important thing that makes humans different from apes. Others recognize that even apes, other primates, other mammals and some birds adapt to survive by being creative (for example - primates using tools). Liane Gabora believes that all culture comes from creativity, not imitation. Therefore, these people say, human science should focus on it (pay special attention to it): Ethics for example would focus on finding creative solutions to ethical dilemmas. Politics would focus on the political virtues that need some creativity. Imitation would not be the focus of education. Linguistics might be more interested in how new words are created by culture, rather than in how existing ones are used in grammar.\nIntellectual interests (recognized as intellectual rights or intellectual property in the law) are a way to reward creativity in law, but they do not always work very well. A good example is copyright which is supposed to pay authors and artists, but may only pay lawyers to make (imitative) arguments in court.\nCreativity is a central question in economics, where it is known as ingenuity (the ability to come up with new ideas) or individual capital - capacities that individuals have, that do not arise from simple imitation of what is known already. This is separate from the instructional capital that might try to capture some of that in a patent or training system that helps others do what the individual leader or founder of the system can do. In urban economics there are various ways to measure creativity - the Bohemian Index and Gay Index are two attempts to do this accurately and predict the economic growth of cities based on creativity.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Creativity"
+    },
+    {
+        "title": "Drawing",
+        "content": "Drawing is a way of making a picture. Drawings are created by making lines on a surface. Long lines make up the shapes and small lines make the textures. Drawings can be images of real life or abstract images showing ideas cannot be seen in the real world.\nA drawing is the art created this way. Examples of things used to mark with are pencils, chalk, charcoal, crayons, pastels, markers, wax colored pencils, pen and ink.\nArtists have been drawing for many centuries. They draw on paper or on other surfaces which the marks show up on.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Drawing"
+    },
+    {
+        "title": "Drawing",
+        "content": "Drawing is a way of making a picture. Drawings are created by making lines on a surface. Long lines make up the shapes and small lines make the textures. Drawings can be images of real life or abstract images showing ideas cannot be seen in the real world.\nA drawing is the art created this way. Examples of things used to mark with are pencils, chalk, charcoal, crayons, pastels, markers, wax colored pencils, pen and ink.\nArtists have been drawing for many centuries. They draw on paper or on other surfaces which the marks show up on.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Drawing"
+    },
+    {
+        "title": "Engraving",
+        "content": "Engraving is putting a design onto a hard, flat surface, by carving into it. The result may be a decorative piece in itself, as when silver, gold or steel are engraved, or may provide a printing plate of copper or another metal, for printing images on paper which are also called engravings. Engraving was an important method in history of making images on paper, both in artistic ways, such as making a decorative print, and also for printing books and magazines. It has long been replaced by photography in its commercial uses and, is nowadays much less common in printmaking, where it has been almost completely replaced by etching and other techniques.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Engraving"
+    },
+    {
+        "title": "Exhibition",
+        "content": "An exhibition is an organized event in which a collection of special objects can be viewed by the public.  The objects are often brought together from many places for the period of the exhibition.  The objects on show are called exhibits.\nMuseums often organize special exhibitions, such as paintings by a famous painter.  These paintings will mostly be \u201con loan\u201d, i.e. specially borrowed from other museums.  Exhibitions can be about anything.  They may be to do with art, or they can also be science exhibitions.\nSome exhibitions show things which can be bought.  Firms exhibit the things they have made, hoping to encourage business.  These exhibitions are called trade fairs.  They are sometimes called expositions or expos.  They may be open to the public, but others are just for invited business people.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Exhibition"
+    },
+    {
+        "title": "Movie",
+        "content": "Movies, or films, are a type of visual communication which uses moving pictures and sound to tell stories or teach people something. Most people watch (view) movies as a type of entertainment or a way to have fun. For some people, fun movies can mean movies that make them laugh, while for others it can mean movies that make them cry, or feel afraid.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Movie"
+    },
+    {
+        "title": "Fresco",
+        "content": "Fresco is a way of painting pictures. A fresco is a kind of mural, a painting that is done on a wall. A wall painting is sometimes called a fresco by mistake. A true fresco is painted onto plaster that is fresh. The plaster has been laid on the wall that day and is still damp. The word fresco comes from the Italian for \"fresh\".",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fresco"
+    },
+    {
+        "title": "Glassworking",
+        "content": "Glassworking refers to techniques and styles that use glass. Some common forms of glassworking are:\n\nGlassblowing\nGlass sculpture\nStained glass",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Glassworking"
+    },
+    {
+        "title": "Graffiti",
+        "content": "Graffiti is marks, scratching or drawings made on a surface on a public place. It is often created with paint or spray paint (paint that is sprayed from a can). A single mark could be called a graffito but the word graffiti is usually used, meaning that there is more than 1 mark.\nGraffiti can take the form of art, drawings or words. When done without a property owner's permission it is considered vandalism. Sometimes it is just a person's name or a rude word. Sometimes it is a public political protest because Graffiti is illegal without permission.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Graffiti"
+    },
+    {
+        "title": "Graphic design",
+        "content": "Graphic design is a practical art which helps in communication. Visual information is formed in a way that produces a message.  This can be done by placing words and pictures in ways that will get the attention of others.  People who do graphic design as work are called graphic designers.  In printed media, graphic design includes typography, organising illustration, book design, page layout, specifying print.\nGraphic design can be done in different media.  These include paper, video, labels, and web sites. \nGraphic designers use many skills, rules and techniques to provide the right information.  They must combine artistic expression and media relations.  Skills include the ability to look at the whole picture, color theory, design principles, understanding of art, etc.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Graphic_design"
+    },
+    {
+        "title": "Hue",
+        "content": "Hue is one of the main properties of a color. \nIt is defined as \u201cthe degree to which a stimulus is similar to, or different from, stimuli that are red, green, blue, and yellow\u201d (the unique hues). \nThe other main aspects of color appearance are colorfulness, chroma, saturation, lightness, and brightness.\nUsually, colors with the same hue are distinguished with adjectives referring to their lightness and/or chroma, such as with \"light blue\", \"pastel blue\", \"vivid blue\".",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hue"
+    },
+    {
+        "title": "Illustration",
+        "content": "An illustration is a picture that tries to get the person looking at it to pay more attention to the subject than to the art. Illustrations can be in the form of a drawing, painting, photograph or other work of art. \nIllustrations often have one of two purposes. One is to give light to the subject. The other purpose is to decorate an informational text (such as a newspaper or article).\nillustration can also be a story based on drawings.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Illustration"
+    },
+    {
+        "title": "Illustration",
+        "content": "An illustration is a picture that tries to get the person looking at it to pay more attention to the subject than to the art. Illustrations can be in the form of a drawing, painting, photograph or other work of art. \nIllustrations often have one of two purposes. One is to give light to the subject. The other purpose is to decorate an informational text (such as a newspaper or article).\nillustration can also be a story based on drawings.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Illustration"
+    },
+    {
+        "title": "Illustration",
+        "content": "An illustration is a picture that tries to get the person looking at it to pay more attention to the subject than to the art. Illustrations can be in the form of a drawing, painting, photograph or other work of art. \nIllustrations often have one of two purposes. One is to give light to the subject. The other purpose is to decorate an informational text (such as a newspaper or article).\nillustration can also be a story based on drawings.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Illustration"
+    },
+    {
+        "title": "Museum",
+        "content": "A museum is a building which is open to the public.   It is also the institution where things are collected and then shown to people.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Museum"
+    },
+    {
+        "title": "Mural",
+        "content": "A mural is a painting on a wall or a ceiling. Murals are usually big. They may be in public places, such as the outside of a building, or indoors.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Mural"
+    },
+    {
+        "title": "Oil paint",
+        "content": "Oil paint is a traditional method used for artists' painting. In oil paint, pigments (colours) are held together by the medium of oil. The most usual type of oil that is used in paint is linseed oil.\nA picture that is painted using oil paint is called an \"oil painting\". Oil paint takes a long time to dry. Artists find this useful because they can keep working on the painting for a long time. People say that Leonardo da Vinci worked on his painting of the Mona Lisa for four years, even though it is not a very large picture. Oils paints, and oil paintings are often just called \"oils\" for short. If someone talks about \"painting in oils\" they mean that the painting is done in oil paints.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oil_paint"
+    },
+    {
+        "title": "Oil paint",
+        "content": "Oil paint is a traditional method used for artists' painting. In oil paint, pigments (colours) are held together by the medium of oil. The most usual type of oil that is used in paint is linseed oil.\nA picture that is painted using oil paint is called an \"oil painting\". Oil paint takes a long time to dry. Artists find this useful because they can keep working on the painting for a long time. People say that Leonardo da Vinci worked on his painting of the Mona Lisa for four years, even though it is not a very large picture. Oils paints, and oil paintings are often just called \"oils\" for short. If someone talks about \"painting in oils\" they mean that the painting is done in oil paints.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oil_paint"
+    },
+    {
+        "title": "Painting",
+        "content": "Painting is using colours to make art. It is also the word for a painted work of art. Many kinds of paints are used to create art. They include watercolors, acrylics and oils.  Other artists like working with pencil or chalk. Sometimes charcoal can be used.  \nFamous paintings are often kept in art galleries, like the National Gallery in London and the Louvre (Paris) where one of the most famous paintings in the world hangs, the Mona Lisa, painted by Leonardo da Vinci.  People do not have to go to a famous gallery to view art.  There are private art galleries in many cities around the world.\nThere is a basic difference between drawing and painting. In drawing, a single layer is the entire image. In painting, one layer is painted over another to get the final image. As a result, most of the time the image will not be clear until it gets to the final stage.\nThere are four basic stages in painting: preparation, divide, layer, and touchup.\n\nPreparation: most artists prepare a canvas or other surface. A thin uniform cover or \"wash\" of white or other colour is laid on the whole surface. This may help the later layers to get the same fix all over the surface. Also, the unseen wash may help the refection of light from the surface, thus improving the effect for the viewer. For really uneven or coloured surfaces, such as wood or rough canvas, a more substantial covering is needed. That is called gesso, traditionally a mixture of chalk and gelatin, but nowadays available as a thick white acrylic. Painting on some surfaces requires a special technique. Painting on plaster uses the fresco method.\nIn the divide stage, the canvas is divided into a few major areas (depending on the image you paint), and background for those areas are plotted.\nIn the layer stage, a layer is plotted over another layer, to get the desired shape in each area. By end of this stage, all objects in the image will be clearly identifiable.\nThe touchup stage needs extra effort. This stage is to provide an extra look to the image, like precise bordering, merging layers and other visual effects.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Painting"
+    },
+    {
+        "title": "Palette",
+        "content": "A palette is used for mixing colours.They are usually made out of plastic or wood but can be made out of other materials. An artist often uses one of these and is in fact an essential item in art, when painting.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Palette"
+    },
+    {
+        "title": "Pastel",
+        "content": "A pastel is an art colour in the form of a stick. It is made of pure powdered pigment and a 'binder' which holds it together. Pastels have been used by artists since the Renaissance.\nThe pigments used in pastels are the same as those used to produce all kinds of coloured art. The effect of pastels is closer to the natural dry pigments than that of any other process. Chalk may be added to the pastel to tone down the more vivd colours.An artwork made using pastels is called a pastel, pastel drawing or pastel painting. As an adjective the word 'pastel' means pale in colour.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastel"
+    },
+    {
+        "title": "Pastel",
+        "content": "A pastel is an art colour in the form of a stick. It is made of pure powdered pigment and a 'binder' which holds it together. Pastels have been used by artists since the Renaissance.\nThe pigments used in pastels are the same as those used to produce all kinds of coloured art. The effect of pastels is closer to the natural dry pigments than that of any other process. Chalk may be added to the pastel to tone down the more vivd colours.An artwork made using pastels is called a pastel, pastel drawing or pastel painting. As an adjective the word 'pastel' means pale in colour.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastel"
+    },
+    {
+        "title": "Pigment",
+        "content": "A pigment is something that is added to something else to give it color. Natural pigments can come from just about anything. Pigments can be made from animals, plants, rocks and minerals or even the ground itself, for example clay plus salts. Pigments can also be created by people.\nAn example of a pigment is ultramarine. It is a powder found in nature. It adds a blue color to paints and dyes.\nThe first synthetic dye was aniline. Aniline is an organic chemical compound produced in two stages from benzene. It gives a mauve color which was much used for dyeing clothes in the 19th century. It was invented in 1856 by  William Henry Perkin. Apparently, it gave a brilliant fuchsia color when first applied, but fades rapidly to mauve.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pigment"
+    },
+    {
+        "title": "Pottery",
+        "content": "Pottery is the ceramic material which makes up potteryware. Major types include earthenware, stoneware and porcelain. The place where such wares are made is also called a pottery (plural \"potteries\"). Pottery also refers to the art or craft of a potter or the making of pottery. A dictionary definition is simply clay fired in a kiln.Pottery objects are made from damp clay mixed with other materials. They are then fired in a special oven called a kiln at high temperatures. Firing makes the clay hard. The potter may then apply a glaze to the surface before firing the object again. The fired glaze makes the surface of the pottery shiny, decorative and water-tight. \nSome potters make objects which are not useful and are really artistic objects or sculpture. Bare pottery objects without a glaze are called bisque or just earthenware. The finest pottery objects, made of porcelain or bone china are quite strong, yet are translucent.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pottery"
+    },
+    {
+        "title": "Primary color",
+        "content": "Primary colors (or primary colours) are sets of colors that can be combined to make a useful range of colors. The primary colors are those which cannot be created by mixing other colors in a given color space.\nFor subtractive combination of colors, as in mixing of pigments or dyes for printing, the CMYK set of primaries is often used. In this system the primary colors are cyan, magenta,and yellow. Other sets include the RYB system of red, yellow, blue, especially used by artists.For additive combination of colors, as in overlapping projected lights or in television and computer screens, the primary colors normally used are red, green, and blue.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Primary_color"
+    },
+    {
+        "title": "Primary color",
+        "content": "Primary colors (or primary colours) are sets of colors that can be combined to make a useful range of colors. The primary colors are those which cannot be created by mixing other colors in a given color space.\nFor subtractive combination of colors, as in mixing of pigments or dyes for printing, the CMYK set of primaries is often used. In this system the primary colors are cyan, magenta,and yellow. Other sets include the RYB system of red, yellow, blue, especially used by artists.For additive combination of colors, as in overlapping projected lights or in television and computer screens, the primary colors normally used are red, green, and blue.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Primary_color"
+    },
+    {
+        "title": "Impressionism",
+        "content": "Impressionism is a style of painting which began in France in the late 19th century. Impressionist painting shows life-like subjects painted in a broad, rapid style, with brushstrokes that are easily seen and colours that are often bright. The term 'impressionism' comes from a painting by Claude Monet, which he showed in an exhibition with the name Impression, soleil levant (\"Impression, Sunrise\"). An art critic called Louis Leroy saw the exhibition and wrote a review in which he said that all the paintings were just \"impressions\". \nImpressionist painters are mostly known for their work in oil paint on canvas. Some impressionist painters also made watercolours and prints. There is also some impressionist sculpture.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Impressionism"
+    },
+    {
+        "title": "Pointillism",
+        "content": "Pointillism is a way of painting in which small separate dots of pure color are used to form images. The artist paints the picture with hundreds of tiny dots, mainly of red, yellow, blue and green, with white. The eye and mind of the viewer mix the colours to make different shades of these colours, as well as orange, purple, pink, and brown depending on the way the dots of colour are arranged. \nGeorges Seurat, at first an Impressionist painter, and Paul Signac, developed this technique in 1886. Other important artists were Camille Pissarro and, in some paintings, Vincent van Gogh.  Art critics who saw their work, laughed at it and called it \"Pointillism\" as an insult. This name is still used, but is no longer thought of as an insult.Traditionally, artists blend pigments (mix colours) on a palette. Pointillist painters do not mix the colours on the palette at all \u2013 they just use the colours straight from the tube. Traditional painters, and also impressionist painters, use many types of brushstrokes, and many textures of paint. The surface of the painting may have flat colour, lines, squiggles and dabs of paint. In a pointillist painting, every part of the picture is done in tiny dots, and most of the dots are about the same size. Pointillism is usually done in oil paints, because they are thick and do not run into each other when they are painted on the canvas.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pointillism"
+    },
+    {
+        "title": "Expressionism",
+        "content": "Expressionism is an art and cultural movement of the 20th century.\nExpressionist artists try to express a feeling with what they create. Colours and shapes are not used in a way people see them, but as the artist feels them. \nExpressionism emerged as an 'avant-garde movement' in poetry and painting before the First World War. In the Weimar years it was appreciated by a mass audience, peaking in popularity in 1920s Berlin.\nExpressionism presents the world as subjective: how the artist feels it, not how it is scientifically. The art looks to get an emotional effect, and transmits personal moods and ideas. Expressionist artists sought to express the meaning of \"being alive\" and emotional experience rather than physical reality.Expressionism is exhibited in many art forms, including: painting, literature, theatre, dance, film, architecture and music. The term often implies emotional angst. In a general sense, painters such El Greco could be called expressionist; in practice, the term is applied only to 20th century works.\nThe Expressionist stress on the individual perspective was also a reaction to positivism and other artistic movements such as naturalism and impressionism.Typical modern expressionists are Edvard Munch (The Scream), August Macke, Ernst-Ludwig Kirchner, Emil Nolde, Marc Chagall,  and others. The First World War, with the many young men who died, left deep impressions on artists' minds.\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Expressionism"
+    },
+    {
+        "title": "Sculpture",
+        "content": "Sculpture is a type of art. It must be three-dimensional (meaning it must have height, width, and depth like a cube). There are many kinds of sculptures from different parts of the world, like China and India, or from different time periods, like the renaissance and modern times. The pictures below are of sculptures:\n\nHolograms\nPottery\nGlass blowing\nCostume\nMask\nDoll\nStatue",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sculpture"
+    },
+    {
+        "title": "Stained glass",
+        "content": "Stained glass is glass coloured by adding metallic salts when it is made. The coloured glass is made into stained glass windows. Small pieces of glass are arranged to form patterns or pictures. The glass is held together  by strips of lead and supported by a rigid frame.\nPainted details and yellow stain are often used to improve the design. The term stained glass is also applied to windows in which the colours have been painted onto the glass and then fused to the glass in a kiln.\nStained glass is much used in Christian art but other themes are not rare. It is still popular today, and often called art glass. It is often used in luxury homes and commercial buildings.\nSome colours are added to stained glass by the salts of:\n\nCopper: metal gives dark red glass\nGold: metal in tiny amounts (0.001%) produces ruby red glass\nSilver, usually silver nitrate, gives range of red to yellow colours\nCobalt: brilliant blue\nManganese dioxide: green\nIron(II) oxide: blue-green\nChromium: dark green\n\t\t\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Stained_glass"
+    },
+    {
+        "title": "Stonemasonry",
+        "content": "Stonemasonry is the craft of making things out of stone. People who do this are called stonemasons. Their crafts have existed since the start of civilization. They have made important buildings and structures out of stone. This stone comes from the earth. Stone has been used to build many long-lasting things. These could be monuments, artifacts, cathedrals and cities. These can often be seen in many cultures. Some monuments made out of stone include, the Egyptian pyramids and the Greek Parthenon. Stonehenge is also a famous stone building.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Stonemasonry"
+    },
+    {
+        "title": "Tempera",
+        "content": "Tempera (sometimes known as egg tempera) is a type of artist's paint. It was the main medium used for panel painting and illuminated manuscripts in the Byzantine world and the Middle Ages in Europe, until it was replaced by oil painting as the most popular medium for large paintings. It is still used for Orthodox icons. Some modern painters use tempera. \nIn modern times, some manufacturers call ordinary poster paint by the name of \"tempera\". Poster paint is not really tempera. It is a different type of paint called gouache.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tempera"
+    },
+    {
+        "title": "Textile arts",
+        "content": "Textile arts are arts and crafts that use plant, animal or synthetic fibres to construct practical or decorative objects.\nTextiles have been used since the beginning of civilization. Many methods and materials used to make them, but the functions of textiles have stayed the same.  \nThe history of textile arts is also the history of international trade.  Tyrian purple (\"imperial purple\") dye was important in the ancient Mediterranean.  The Silk Road brought Chinese silk to India, North Africa, and Europe.  In many countries, laws controlled who could buy and wear fine textiles. This was because they were a symbol of social class and status.\nThe Industrial Revolution started a revolution of textiles technology: the cotton gin, the spinning jenny, and the power loom mechanized production. The mechanisation of hand work was opposed by the Luddite rebellion.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Textile_arts"
+    },
+    {
+        "title": "Textile arts",
+        "content": "Textile arts are arts and crafts that use plant, animal or synthetic fibres to construct practical or decorative objects.\nTextiles have been used since the beginning of civilization. Many methods and materials used to make them, but the functions of textiles have stayed the same.  \nThe history of textile arts is also the history of international trade.  Tyrian purple (\"imperial purple\") dye was important in the ancient Mediterranean.  The Silk Road brought Chinese silk to India, North Africa, and Europe.  In many countries, laws controlled who could buy and wear fine textiles. This was because they were a symbol of social class and status.\nThe Industrial Revolution started a revolution of textiles technology: the cotton gin, the spinning jenny, and the power loom mechanized production. The mechanisation of hand work was opposed by the Luddite rebellion.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Textile_arts"
+    },
+    {
+        "title": "Wood carving",
+        "content": "Wood carving is a form of working wood by means of a cutting tool. A chisel or knife are usual tools: the chisel can be tapped with a wooden mallet. The result is a wooden figure, or the sculptural ornamentation of a wooden object. A 'wood carving' may also refer to the finished product.\nThe making of sculpture in wood has a long history. Wood survives much less well than the other materials such as stone and bronze. It is vulnerable to decay, insect damage, and fire. Therefore, we do not know much about wood in the art history of older cultures.   Outdoor wood sculptures do not last long in most parts of the world, so that we have little idea how the totem pole tradition developed.\nMany of the most important sculptures of China and Japan are in wood, also most African sculpture and that of Oceania and other regions. Wood is light, so it is suitable for masks and other objects meant to be carried. It can take very fine detail, and is also much easier to work than stone.\nSome of the finest examples of early European wood carving are from the Middle Ages in Germany, Russia, Italy and France, where the typical themes of that era were used in Christian icons. In England many complete examples remain from the 16th and 17th century, when oak was often used. In general, really fine carving is done in fruitwood (wood of a fruit tree) because that is easy to work with. The famous woodcarver Grinling Gibbons used to work with lime wood. Complex pieces are often carved in separate sections which are later stuck together.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Wood_carving"
+    },
+    {
+        "title": "Michelangelo",
+        "content": "Michelangelo di Lodovico Buonarroti Simoni (6 March 1475 \u2013 18 February 1564), known as Michelangelo, was an Italian Renaissance painter, sculptor, architect, poet, and engineer. Along with Leonardo da Vinci, he is often called a \"Renaissance Man\" which means that he had great talent in many areas.\nMichelangelo lived an extremely busy life, creating a great number of artworks. Some of Michelangelo's works are among the most famous that have ever been made. They include two very famous marble statues, the Pieta in Saint Peter's Basilica and David which once stood in a plazza in Florence but is now in the Accademia Gallery.  His most famous paintings are huge frescos, the Sistine Chapel Ceiling and the Last Judgement. His most famous work of architecture is the east end and dome of Saint Peter's Basilica.\nA lot is known about Michelangelo's life because he left many letters, poems and journals. Because he was so famous, he became the very first artist to have his biography (story of his life) published while he was still living. His biographer, Giorgio Vasari, said that he was the greatest artist of the Renaissance. He was sometimes called Il Divino (\"the divine one\").\nOther artists said that he had terribilit\u00e0, (his works were so grand and full of strong emotion that they were scary). Many other artists who saw his work tried to have the same emotional quality. From this idea of terribilit\u00e0 came a style of art called Mannerism.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Michelangelo"
+    },
+    {
+        "title": "Pablo Picasso",
+        "content": "Pablo Ruiz Picasso (October 25 1881 \u2013 April 8 1973) was a Spanish painter and sculptor. He created over 20,000 images.He is considered one of the greatest artists of the 20th century. He is best known as the co-founder of cubism. A work of art is cubist when the artist opts to break up objects and reassemble them in abstract and geometric form. Picasso could draw and paint when he was very young. His first word was l\u00e1piz, the Spanish word for \"pencil\".Perhaps his most famous painting is Guernica, which shows the horrors of war after the bombing of the town of Guernica. He spent most of his life in France when he was an adult.\nHe was 90 years old when a number of his works were shown in an exhibition at the Louvre in Paris. He was the first living artist to have an exhibition at the Louvre.Picasso had four children with three women. He died of heart failure in Mougins, France, on April 8 1973.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pablo_Picasso"
+    },
+    {
+        "title": "Vincent van Gogh",
+        "content": "Vincent Wilien van Gogh  (30 March 1853 \u2013 29 July 1890) was a Dutch post-impressionist painter. His work had a great influence on modern art because of its striking colours and emotional power. He suffered from delusions and fits of mental illness. When he was 37, he died by committing suicide.\nWhen he was a young man, Van Gogh worked for a company of art dealers. He traveled between The Hague, London and Paris. After that, he taught in England. He then wanted to become a pastor and spread the Gospel, and from 1879 he worked as a missionary in a mining place in Belgium. He began drawing the people there, and in 1885, he painted his first important work, The Potato Eaters. He usually painted in dark colors at this time. In March 1886, he moved to Paris and found out about the French impressionists. Later, he moved to the south of France, and the colors in his art became brighter. His special style of art was developed and later fully grown during the time he stayed in Arles in 1888.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    {
+        "title": "Vincent van Gogh",
+        "content": "Vincent Wilien van Gogh  (30 March 1853 \u2013 29 July 1890) was a Dutch post-impressionist painter. His work had a great influence on modern art because of its striking colours and emotional power. He suffered from delusions and fits of mental illness. When he was 37, he died by committing suicide.\nWhen he was a young man, Van Gogh worked for a company of art dealers. He traveled between The Hague, London and Paris. After that, he taught in England. He then wanted to become a pastor and spread the Gospel, and from 1879 he worked as a missionary in a mining place in Belgium. He began drawing the people there, and in 1885, he painted his first important work, The Potato Eaters. He usually painted in dark colors at this time. In March 1886, he moved to Paris and found out about the French impressionists. Later, he moved to the south of France, and the colors in his art became brighter. His special style of art was developed and later fully grown during the time he stayed in Arles in 1888.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    {
+        "title": "Claude Monet",
+        "content": "Claude Monet (14 November 1840 \u2013 5 December 1926) was a French impressionist artist.\nOne of his most famous paintings was called Water Lilies, which he repeated many times in various conditions.\nMonet was born in Paris, France. His father wanted him to help run the family's grocery business. However, Monet wanted to be an artist. When he was young he met the painter Eug\u00e8ne Boudin who taught him to use oil paints, and encouraged him to paint out of doors.Monet joined the French Army in Algeria for two years from 1860-1862. When he became ill he left the army to study art at university. He did not like the way art was taught, and joined the painter Charles Gleyre in his studio. He met other artists here, including Pierre-Auguste Renoir and Alfred Sisley. They shared their ideas about painting.\nIn 1866 Monet had a child with Camille Doncieux, who had been his model. They married in 1870 and had two children, Michel and Joseph. In 1870 he moved to England to escape the Franco-Prussian War, and in 1871 he moved to Argenteuil near Paris where he painted some of his most famous pictures. In 1873 he painted Impression, Sunrise, showing the sea at Le Havre. When this picture was shown in 1874 one critic took its title and called the group of artists \"Impressionists\". He intended to make fun of the artists, but the name has stuck and this is what people today call this style of painting.\nIn 1879 Camille died of tuberculosis. Alice Hosched\u00e9 decided to help Monet by taking care of his children as well as her own. In 1883 they moved to a house in Giverny where Monet planted a large garden. Monet married Alice in 1892.\nMonet found that his garden inspired him to paint pictures of it, particularly the water lilies. Alice died in 1911, and his son Jean was killed in World War I in 1914.\nMonet used broad brush strokes to build up his pictures, and painted quite quickly to try and get the idea of the light he could see into his paintings. If you go very close to one of his pictures it is hard to see what it shows, but if you stand back everything becomes clear.\nHis later paintings include series, in which he paints the same subject in different lights. For example, he painted a series of pictures of haystacks in a field, and another series of pictures of the west front of Rouen Cathedral. There are many paintings of the lilies in his garden at Giverny.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Claude_Monet"
+    },
+    {
+        "title": "Piano",
+        "content": "A piano (also called a pianoforte) is a musical instrument classified as a percussion instrument that is played by pressing keys on a keyboard. A person who plays the piano is called a pianist.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Piano"
+    },
+    {
+        "title": "Acoustic guitar",
+        "content": "An acoustic guitar is a string instrument. It has six strings which pass from tuning pegs over the instrument's neck which is marked with lines called frets. These marks show where to press a string with the fingers of the left hand, to change the note that string plays. The right hand plucks or strums the strings, either with the fingers or using a plectrum (\"pick\"), to make them sound. Acoustic guitars are used in types of music ranging from classical to rock and roll, to bluegrass and folk. The six strings can be steel or nylon. Nylon strings are typically used for classical and related styles of music. Steel strings are typically used for most other styles.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Acoustic_guitar"
+    },
+    {
+        "title": "Drum",
+        "content": "A drum is a musical instrument that is played with the hands using a drum stick (a stick for hitting a drum). A collection of drums and cymbals is called a drum kit, or drum set. \nDrums are used to keep a steady beat in a song. They give music of many kinds a sense of feeling. For example, to make a song to be slow or fast, the drums play slower or faster.\nA drum is a percussion instrument, which means it makes a noise by being hit.  There are many types such as cymbals and bells; even a simple piece of wood can be used as a percussion instrument. \nThe drum kit is a group of drums & cymbals to make beats for music. Drum kits are used in most types of popular music, including rock, jazz, country, blues, and many others.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Drum"
+    },
+    {
+        "title": "Balalaika",
+        "content": "The balalaika is a musical instrument from Russia. The Balalaika family includes the piccolo balalaika, prima balalaika, sekunda balalaika, alto balalaika, bass balalaika and contrabass balalaika. They all have three strings. There are many ways to tune balalaika; the most common tuning is E-E-A. The prima balalaika is played with the fingers, the sekunda and alto either with the fingers or a pick depending on the music being played. The basses and contrabasses, which have legs that rest on the floor, are played with leather picks.\nEarly pictures of the balalaika show it had between two and six strings, like some Central Asian instruments. Frets on earlier balalaikas were made of animal gut and tied to the neck so that they could be moved around by the player.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Balalaika"
+    },
+    {
+        "title": "Accordion",
+        "content": "An accordion is a musical instrument that has keys similar to a piano, but is small enough for a person to hold. It makes sounds using air pushed and pulled through reeds using a bellows. The accordion can also have buttons instead of keys. The 6-plus-6-system with three rows has the same fingering in all twelve scales.\nThe accordion was invented in 1822 in Germany by Friedrich Buschmann.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Accordion"
+    },
+    {
+        "title": "Song",
+        "content": "A song is a piece of music which contains words. Songs may be made by songwriters. Other songs are folk songs, which are songs created by people long ago that have been sung as tradition.\nSome people form bands which write and record songs to make money from it. When two or three singers sing the song it is called a duet or trio. Some people also make parodies of songs, which is usually changing the words of the song but keeping the tune. Parodies are usually made to make fun of a song or its writer/singer (parody artist \"Weird Al\" Yankovic is an example of this).\nThe word \"song\" is often used to describe any piece of music, even one without words or lyrics. The proper word for a piece of music without words is \"instrumental\".",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Song"
+    },
+    {
+        "title": "Brass instrument",
+        "content": "A brass instrument is a musical instrument that you play by blowing through a mouthpiece to change the pitch, or note. \nBrass players use their breath to produce sound. Instead of blowing into a reed they vibrate their lips by buzzing them against a metal cup-shaped mouthpiece. The mouthpiece helps to amplify the buzzing, which creates the sound. Most brass instruments have valves attached to their long pipes; the valves look like buttons. Pressing on the valves makes them open and close different parts of the pipe.\nWith brass instruments, the sound starts at the lips.\nTheir mouthpieces just help your lips buzz. It does not matter if the instrument is really made of brass, as long as it works that way. \nIt is not important what the instrument is made of. Some brass instruments are really made of wood, but are still called brass instruments, like the serpent. Other instruments are made of brass but do not work like this, like the saxophone. They are not called brass instruments, because they don't work that way.\nThere are also parts of the instrument that change the resonance and thus the pitch, like slides or valves.\nA brass band is a group of brass instruments and drums that play music together. They are often used to play for parades and processions because the players can march and play at the same time. Brass bands were very popular in England. Many factories and coal mines had their own bands. The workers would play in the bands after work. One famous band is the Grimethorpe Colliery Band.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Brass_instrument"
+    },
+    {
+        "title": "Clarinet",
+        "content": "The clarinet is a woodwind instrument.\nThe clarinet body is made up of the mouthpiece, barrel, upper joint, pads, keys, ring key, rod, lower joint, and bell. The clarinet has one reed. The reed is made of cane, bamboo or plastic, which varies in thickness. The reed is attached to the mouthpiece with a clamp called a ligature, which is usually made out of metal.   Blowing through the mouthpiece makes the reed vibrate, and therefore makes the noise.  The body of the clarinet is a cylindrical tube with holes.  The holes are covered by the fingers to make musical notes.  There are also buttons pressed by the fingers which allow pads over holes to open or close so all notes of the chromatic scale can be played. The buttons are usually played with the \"pinkie\" finger.  \n\nOne kind of keyed clarinet is called the Albert system.  Another kind is called the Boehm system. The Boehm clarinet is much used by classical orchestras and by jazz musicians. In North America and other Western countries, the most popular clarinet is the clarinet pitched in B flat. This means that if a clarinet player plays a note that is written as a C, it sounds like a B flat on a piano. The B flat clarinet is used in concert, marching, and school bands.  Musicians in orchestras also play the A-clarinet (a semitone lower), the sopranino E flat clarinet (a fourth higher) and the Bass_clarinet  in B flat (sounding an octave lower).  \nA beginner clarinet player usually can play a note within the first minutes of a lesson. Making a sound with the clarinet is easier than making a sound with many other wind instruments. Most instrumental music teachers consider it to be a good instrument for young players as soon as the lower adult teeth have grown. The fingering system is very similar to the flute and the saxophone, so changing from playing the clarinet to one of these instruments is not too difficult after the student is comfortable playing the clarinet and has reached a certain level.\nA famous piece that features a clarinet is Wolfgang Amadeus Mozart's Clarinet Concerto, which has the clarinet playing the melody with the rest of the orchestra playing along. Written in 1791, it is often considered the first great composition for the instrument.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Clarinet"
+    },
+    {
+        "title": "Violin",
+        "content": "The violin is a string instrument which has four strings and is played with a bow. The strings are usually tuned to the notes G, D, A, and E.  It is held between the left collar bone (near the shoulder) and the chin. Different notes are made by fingering (pressing on the strings) with the left hand while bowing with the right. Unlike guitar, it has no frets or other markers on the fingerboard.\nThe violin is the smallest and highest pitched string instrument typically used in western music. A person who plays the violin is called a violinist. A person who makes or repairs violins is called a luthier.\nThe violin is important in European and Arabian music. No other instrument has played such an important part in Europe. The modern violin is about 400 years old. Similar string instruments have been around for almost 1000 years. By the time the modern orchestras started to form in the 17th century, the violin was nearly fully developed. It became the most important orchestral instrument - in fact, nearly half of the instruments in the orchestra is made up of violins, which are divided into two parts: \"first violins\" and \"second violins\". Nearly every composer wrote for the violin, whether as a solo instrument, in chamber music, in orchestral music, folk music, and even in jazz.\nThe violin is sometimes called a \u201cfiddle\u201d.  Someone who plays it is a \u201cfiddler\u201d. To \"fiddle\" means \"to play the fiddle\". This word can be used as a nickname for the violin. It is properly used when talking about folk music.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Violin"
+    },
+    {
+        "title": "Castanets",
+        "content": "Castanets are percussion instruments which come from Spain.  They are often used in an orchestra.  Castanets are hollowed-out wooden shells.  A hardwood such as ebony or rosewood is used.\nCastanets are used in pairs.  Traditionally two pairs are played together, one pair held in each hand.  There is a string which passes through small holes in the shells.  The player winds the string around the thumb and finger so that the two shells can be clicked together.  The two pairs of castanets used are slightly different sizes so that they make a slightly different pitch. The higher pair, known as hembra (female), is usually held in the right hand, with the larger macho (male) pair held in the left.\nCastanets are traditionally played by singers and dancers.  Spanish folk dancers often use castanets.  They are often associated with flamenco dancing.\nWhen they are played in an orchestra they are often attached to a stand.  The technique of playing is therefore different.  They can be tapped by the fingers and palm of the hand.  They are often used in music which is supposed to sound Spanish.  In ballet and opera they are used to accompany Spanish dances.  Carmen, the character in Bizet's opera Carmen, sings a song and accompanies herself on the castanets.  Usually the opera singer does not have the skill to play them, so the castanets are played by a percussion player in the orchestra while Carmen pretends to be playing them.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Castanets"
+    },
+    {
+        "title": "Electric guitar",
+        "content": "The Electric guitar is a type of musical instrument. It was made in 1931 by George Beauchamp. It is a string instrument usually played with a pick and sometimes with the fingers. It uses things called \"electric pickups\" which are wire-wound magnets that change the vibration of the strings into electric current. This electric current is then sent to an amplifier that changes it to sound. This electric current can also be changed to produce effects.\nThe main parts of an electric guitar are the neck, the pickups, the tuners, the bridge, the input, the body, the frets, the pick guard, the volume knobs and the tone knobs. There may also be other parts that can change other sounds. A normal electric guitar has one neck with 6 strings on it, although there are 12 string guitars and guitars with more than one neck. \nGuitars are made and sold in many parts of the world by many companies. They can be hand made or factory made. Some companies that make electric guitars are Fender, Gibson, and Ibanez.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Electric_guitar"
+    },
+    {
+        "title": "Harmonica",
+        "content": "A harmonica is small musical instrument that is played with the mouth by blowing into holes in its side. Harmonicas are cheap and easy to play. Harmonicas produce their musical sounds from the vibrations of reeds in the harmonica's metal case. Harmonicas are used in blues music, folk music, rock and roll music, and pop music. A special type of harmonica, the chromatic harmonica, is used in jazz and classical music. Harmonicas are made in several different keys: G, A\u266d, A, B\u266d, B, C, D\u266d, D, E\u266d, E, F, and F\u266f. Each key can play a different range of notes.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Harmonica"
+    },
+    {
+        "title": "Harmonica",
+        "content": "A harmonica is small musical instrument that is played with the mouth by blowing into holes in its side. Harmonicas are cheap and easy to play. Harmonicas produce their musical sounds from the vibrations of reeds in the harmonica's metal case. Harmonicas are used in blues music, folk music, rock and roll music, and pop music. A special type of harmonica, the chromatic harmonica, is used in jazz and classical music. Harmonicas are made in several different keys: G, A\u266d, A, B\u266d, B, C, D\u266d, D, E\u266d, E, F, and F\u266f. Each key can play a different range of notes.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Harmonica"
+    },
+    {
+        "title": "Harmonica",
+        "content": "A harmonica is small musical instrument that is played with the mouth by blowing into holes in its side. Harmonicas are cheap and easy to play. Harmonicas produce their musical sounds from the vibrations of reeds in the harmonica's metal case. Harmonicas are used in blues music, folk music, rock and roll music, and pop music. A special type of harmonica, the chromatic harmonica, is used in jazz and classical music. Harmonicas are made in several different keys: G, A\u266d, A, B\u266d, B, C, D\u266d, D, E\u266d, E, F, and F\u266f. Each key can play a different range of notes.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Harmonica"
+    },
+    {
+        "title": "Organ (music)",
+        "content": "In music, organ is a word that can mean several kinds of musical instruments. The word comes from the Greek \u1f44\u03c1\u03b3\u03b1\u03bd\u03bf\u03bd organon, which means \"organ\", \"instrument\", or \"tool\".\nMost organs are played using keyboards, one or more of which may be played using the feet. They are found and used in churches, concert halls, and even in theatres, especially older movie theatres or cinemas. A person who plays the organ is called an organist.\nHere are some different types of organs:",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Organ_(music)"
+    },
+    {
+        "title": "Ocarina",
+        "content": "An ocarina is a kind of flute that is not made out of a tube. Because the ocarina is in a round or box-like shape, its sound is a little different from other flutes.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ocarina"
+    },
+    {
+        "title": "Saxophone",
+        "content": "A saxophone is a family of musical instruments that are made of brass. These are often just called a \"sax\".  It has seven main keys, including the octave key.  Because it is made from brass it is often included in the brass section alongside true brass instruments like the trumpet or trombone.  However, it is not a true brass instrument but a member of the woodwind family of instruments because it has a reed. It was developed from the clarinet and shares many similarities to the clarinet. The player blows into a reed fitted into the mouthpiece of the instrument. Adolf Sax creates the instrument, but at first, it was heavily disliked because he boasted about it. Conductors  would not add it to their orchestras because of the horrible reputations it had because of Adolf Sax. It started to gain popularity and lose that bad review, in the early 20th century.   \nThe mouth piece is also a way to tune the saxophone. If you are sharp you can pull the mouthpiece out. If you are flat you can push the mouthpiece in. Another way to tune the saxophone is with your mouth. If you are sharp you 'drop your jaw', or loosen up. If you are flat you tighten your embouchure, (mouth).  \nThere are several different kinds of saxophone. In order from low to high pitch they are: tubax, contrabass, bass, baritone, tenor, alto, soprano, sopranino, and soprillo. However, only the baritone, tenor, alto, and soprano are commonly used.\nIt was invented in 1840 by Adolphe Sax and is used in classical, jazz, and occasionally in rock, pop, and other styles. The big bands of the 1940s and 1950s always used it too. Famous saxophone players were Marcel Mule (classical music), John Coltrane (jazz music), and Charlie Parker (jazz music).",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Saxophone"
+    },
+    {
+        "title": "Tambourine",
+        "content": "The tambourine is a common percussion instrument. \nThe tambourine looks like a small hand-held drum. But in addition to the skin (drumhead) there are also small pairs of jingles - like tiny cymbals - in slots around the frame.  However, tambourines come in many types. Some are made without a skin, particularly for use in schools. The tambourine came to Europe through the Arabs who brought it to Italy and Spain.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tambourine"
+    },
+    {
+        "title": "Trumpet",
+        "content": "A trumpet is a brass instrument used mainly in Classical music and jazz music. The most common type of trumpet is a B\u266d trumpet, meaning that if the player plays a C, it will sound like a B\u266d in  concert pitch. The trumpet is played by blowing into the mouthpiece and making a \"buzzing\" sound. There are three keys called valves that the player can press to change the pitch.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Trumpet"
+    },
+    {
+        "title": "Ukulele",
+        "content": "The ukulele (pronounced /\u02ccj\u0289\u02d0k\u0259\u02c8l\u025b\u026ali/ from the Hawaiian \u02bbukulele, pronounced /\u02c8\u0294uku\u02c8l\u025bl\u025b/) is a musical instrument with four strings. It is also called the uke for short. Ukuleles are part of the guitar family of instruments. The strings are usually tuned G, C, E, A' or A, D, F#, B.  Ukuleles normally have nylon strings or gut strings. \nUkuleles commonly come in four sizes: soprano, concert, tenor and baritone. Sopranino and bass ukuleles also exist. Sopraninos are tuned to standard tuning, however, baritone ukuleles are tuned to D, G, B, E (the top four strings of a guitar). Bass ukuleles are tuned E, A, D, G (bass guitar and double bass tuning).\nThe ukulele was invented in the 19th Century in Hawaii, where people got the idea from small guitar-like instruments known as cavaquinhos brought to the island by Portuguese sailors.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ukulele"
+    },
+    {
+        "title": "Tempo",
+        "content": "Tempo (Italian for 'time, movement') is the speed of a song or piece of music.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tempo"
+    },
+    {
+        "title": "Jazz",
+        "content": "Jazz is a type of music which was invented in the United States. Jazz music combines African-American music with European music. Jazz first became  popular in the 1910s. It is still a popular music to play and hear because of the different styles.\nSome common jazz instruments include the saxophone, trumpet, piano, double bass, and drums.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Jazz"
+    },
+    {
+        "title": "Classical music",
+        "content": "Classical music is a very general term which normally refers to the standard music of countries in the Western world. It is music that has been composed by musicians who are trained in the art of writing music (composing) and written down in music notation so that other musicians can play it. Classical music may also be described as \"art music\" though it was not good in classical period that term also Includes types of serious modern music which are not classical. Classical music differs from pop music because it is not made just in order to be popular for time or just to be a commercial success. It is different from folk music which is generally made up by ordinary members of society and learned by future generations by listening, dancing and copying.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Classical_music"
+    },
+    {
+        "title": "Melody",
+        "content": "A melody in music is a group of notes of various pitches (how high or low a note sounds) which are played one after another. Together they make a tune in the same way that a group of words make a sentence. Some people like to sing melodies.  Melodies have rhythm (the length of the notes).The overarching tune created by playing a series of notes\nIn music, 'melody' contrasts with 'harmony'. Harmony means notes which are played at the same time, like chords.  Composers often think of a melody and then add harmony to it. \nSome music has more than one melody happening at the same time.  When this happens throughout the whole piece, it is called polyphonic music. Rounds and fugues are types of polyphonic music. If the other melody only happens sometimes, then the second melody is called a countermelody.\nThe adjective of melody is melodic. There is also the adjective melodious which means: 'a sweet-sounding melody'.  \nMusic that does not have an obvious melody may be hard to understand (unless it is focused on rhythm, such as a drum solo).\nMany melodies are easy to sing, while others are difficult to sing. Still other melodies are impossible to sing. Those melodies can still be played on instruments such as the piano, guitar or pan",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Melody"
+    },
+    {
+        "title": "Rhythm",
+        "content": "Rhythm refers to the length of time between each major \"beat\", or accent, such as in a piece of music. It is the sequence of sounds and silences which make up the rhythm. The first beat of a group of regular, evenly spaced beats usually feels stronger than the others.  When we write music down, we put each group in bars (or \u201cmeasures\u201d). \nRhythms can have different patterns which can be clapped or tapped.  In Western music, these patterns are common:  \n\n1 2, 1 2\n1 2 3, 1 2 3\n1 2 3 4, 1 2 3 4.A conductor will beat time.  The rhythm will fit in to this regular beat.\nAll musicians have to have a good sense of rhythm.  To play or sing rhythmically they must keep a steady beat in their head (if playing alone), listen to the others players (if playing in groups) or watch the conductor (if there is one).\nPeople who are playing on their own can practise with a metronome to help them to play to a steady beat.  However, musicians also use rubato (rhythmic freedom), especially when playing music of a romantic nature.  One has to learn to let the music \u201cbreathe\u201d in the right way.  This is not the same as playing unrhythmically (badly).  It is something one learns with experience.\nFeeling the rhythm in music is basically human.  A person who has a stroke may lose language, but not the sense of rhythm.  Neurologist Oliver Sacks says that chimpanzees and other animals do not have a sense of rhythm.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Rhythm"
+    },
+    {
+        "title": "Music",
+        "content": "Music is a form of art that uses sound organised in time. Music is also a form of entertainment that puts sounds together in a way that people like, find interesting or dance to. Most music includes people singing with their voices or playing musical instruments, such as the piano, guitar, drums or violin.\nThe word music comes from the Greek word (mousike), which means \"(art) of the Muses\". In Ancient Greece the Muses included the goddesses of music, poetry, art, and dance. Someone who makes music is known as a musician.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Music"
+    },
+    {
+        "title": "Arts and Culture",
+        "content": "Art is a creative activity that expresses imaginative or technical skill. It produces a product, an object. Art is a diverse range of human activities in creating visual, performing artifacts, and expressing the author's imaginative mind. The product of art is called a work of art, for others to experience.Some art is useful in a practical sense, such as a sculptured clay bowl that can be used. That kind of art is sometimes called a craft.\nThose who make art are called artists. They hope to affect the emotions of people who experience it. Some people find art relaxing, exciting or informative. Some say people are driven to make art due to their inner creativity.\n\"The arts\" is a much broader term. It includes drawing, painting, sculpting, photography, performance art, dance, music, poetry, prose and theatre.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Art"
+    },
+    {
+        "title": "Movie",
+        "content": "Movies, or films, are a type of visual communication which uses moving pictures and sound to tell stories or teach people something. Most people watch (view) movies as a type of entertainment or a way to have fun. For some people, fun movies can mean movies that make them laugh, while for others it can mean movies that make them cry, or feel afraid.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Movie"
+    },
+    {
+        "title": "Festival",
+        "content": "A festival is a gathering of people to celebrate something. It can also refer to a particular day or group of days when people in a country have a holiday so that they can celebrate something.  Festivals may be religious festivals.  They may also be events which feature music, dancing, poetry, movies, etc.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Festival"
+    },
+    {
+        "title": "Opera",
+        "content": "Opera is a drama set to music. An opera is like a play in which everything is sung instead of spoken. Operas are usually performed in opera houses. The singers who sing and act out the story are on the stage, and the orchestra is in front of the stage but lower down, in the orchestra pit, so that the audience can see the stage.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Opera"
+    },
+    {
+        "title": "Theatre",
+        "content": "Theatre (British English and also American English), or Theater (mostly American English), has several meanings.\nThe word comes originally from the Greek Theatron, meaning roughly, 'a place to behold'. In American English, the word 'theater' can mean either a place where films are shown (this is also called a cinema) or a place where live stage plays are performed. In British English, 'theatre' means a place where live plays are performed.  Some people, both English and American, use the spelling 'theatre' to mean a place where live plays are performed, and the spelling 'theater' to mean a cinema.\n'Theatre' can also mean the business of putting on plays. An actor might say \"I am in the theatre business\", or a writer might say \"I write for the theatre\", meaning that they write plays, rather than writing for movies or television shows.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Theatre"
+    },
+    {
+        "title": "Music theory",
+        "content": "Theory of Music is all about trying to understand how existing music works and how new music could or should be organized. Someone who makes a special study of music theory is a music theorist.\nPeople who make their own music are composers. People who play or sing music are \u201cperformers\u201d. It is important for both composers and performers to understand what makes the music sound the way it does. In the times of the Ancient Greeks the famous philosopher Pythagoras tried to explain how instruments are tuned. He understood the science of the good vibrations that the instruments make and explained how and why the octave is divided into twelve parts(in some cultures).\nIn the Middle Ages there were several famous music theorists who wrote books about music theory. Their ideas are interesting for us because they tell us what people thought about music at that time.\nIn the 18th century some composers wrote books on music theory. Carl Philipp Emanuel Bach (son of the famous Johann Sebastian Bach) wrote a book called: \u201cAn Essay on the true art of playing the Keyboard\u201d. Leopold Mozart (the father of the famous Wolfgang Amadeus Mozart) wrote a book called The Art of Playing the Violin. Both these books were extremely well known in their day. In spite of their titles the first halves of these two books are both about a branch of music theory called \"performance practice\": They tell us a lot about how music was played in those days, how some rhythms were played quite freely and how ornaments in the music were played.\nToday people who want to compose will study music theory, perhaps at college or university school of music.  In a conservatory program, they study harmony and counterpoint as well as form; in other programs, they spend less time on the theories of the past. They will be taught \u201crules\u201d. These rules are not laws, they simply mean: the way that most great composers wrote music in the past. These rules describe what composers of the past did, rather than telling composers of today what to do -- in fact, music composed today can have completely different rules than the music of the past. \nMusic theory is important for people who perform music because all these things help people to understand the music they are playing.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Music_theory"
+    },
+    {
+        "title": "Cinematography",
+        "content": "Cinematography (from the Greek words kinema - \u03ba\u03af\u03bd\u03b7\u03bc\u03b1, meaning \"movement\" and graphein - \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9\u03bd \"to record\"), is recording photographic images for the cinema. Like other still photography, it includes making lighting and camera choices. However, the pictures move.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cinematography"
+    },
+    {
+        "title": "Actor",
+        "content": "An actor is a person who acts, or has a role (a part) in a movie, television show, play, or radio show. Actors may be professional or not. Sometimes actors only sing or dance, or sometimes they only work on radio. A woman actor is actress, but the word \"actor\" is used for both men and women when referring to group.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Actor"
+    },
+    {
+        "title": "Musical theater",
+        "content": "Musical theater (or musical theatre) is a kind of performance in a theater. A work of musical theater is called a musical.  It uses acting, music, songs, and often dance. Some musicals (for example Les Mis\u00e9rables) have only a few lines of dialogue. Everything else is sung. It is usually a mixture of speaking and song. Some well-known musicals are West Side Story, The Sound of Music, Chicago, and Oklahoma!.\nMusic has been a part of drama since ancient times, but modern Western musical theatre emerged during the 19th century.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Musical_theater"
+    },
+    {
+        "title": "Dance",
+        "content": "Dance is a performing art. It is described in many ways. It is when people move to a musical rhythm. They may be alone, or in a group. The dance may be an informal play, a part of a ritual, or a part of a professional performance. There are many kinds of dances, and every human society has its own dances.\nAs with other performing arts, some people dance to express their feelings and emotions, or to feel better. Dance can be used to tell a story. In some societies, dance goes with song as well as music. Dancing is sometimes done as sport, and has similar athletic aspects. People who want to learn to dance can go to dance schools. It may take years of practice to become an experienced and capable dancer.\nTo plan a dance is called choreography, done by a choreographer. Often this goes with music, and fits into a certain style. Dances may be planned in detail, or they may be whatever dancers feel like doing. However, most dancing does follow some general style or pattern. One style is the couple dance, where (usually) a man and a woman dance together. Other dances need an ensemble, a group of people together to make it work.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Dance"
+    },
+    {
+        "title": "Ballet",
+        "content": "Ballet is a type of dance. It is only done by dancers who have had special training. The dancers are employed by a dance company, and they perform in theatres. The first reference to ballet is found in a work of Domenico da Piacenza, who lived in the early 14th century. The ballet's first complete United States performance was on 24 December 1944, by the San Francisco Ballet. \nBallet involves the creation of the dance itself, often a type of imaginary story.The story is told with the help of dance and mime. Ballet is a form of expression. It presents a story in a new form to the audience. The creation of dance is called choreography set by professional dancers. The choreography is learnt by the dancers under the supervision of a trainer, called a ballet master or mistress. Ballet is always performed to music, and in many cases the music was specially composed for a particular ballet. Ballet is a major part of theatre, and a popular example is The Nutcracker which was fist performed on the 24th of December by the San Francisco ballet company.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ballet"
+    },
+    {
+        "title": "Tango",
+        "content": "The Tango is a dance which was created in Buenos Aires, Argentina. The musical style that was created with the dance is also called 'tango'. It is danced today in two versions. Neither version is 'better' than the other; they are rather different in style.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tango"
+    },
+    {
+        "title": "Tango",
+        "content": "The Tango is a dance which was created in Buenos Aires, Argentina. The musical style that was created with the dance is also called 'tango'. It is danced today in two versions. Neither version is 'better' than the other; they are rather different in style.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tango"
+    },
+    {
+        "title": "Wolfgang Amadeus Mozart",
+        "content": "Wolfgang Amadeus Mozart (January 27, 1756 \u2013 December 5, 1791; pronounced MOHT-sart) was an Austrian composer (music writer), instrumentalist, and music teacher. His full baptised name was Johannes Chrysostomus Wolfgangus Theophillus Mozart. He was born in Salzburg, Austria, the youngest child of Leopold and Anna Maria Mozart. From a very early age, the young Mozart showed great musical talent. He toured Europe with his parents and older sister \"Nannerl\" for several years performing for royalty and the aristocratic elite.\nAs a young man, Mozart tried but failed to establish himself as a composer in Paris. He returned to Salzburg where he was briefly employed in the court of the Archbishop of Salzburg. He was restless, aware of his genius, and thought Salzburg too small for his talent. He relocated to Vienna where he met with some success. He married Constance Weber and fathered two sons. He died in Vienna after a brief but unknown illness.\nMozart wrote more than 600 musical works, all of the very highest quality. His works include the operas The Marriage of Figaro, Don Giovanni, Cos\u00ec fan tutte and The Magic Flute; the symphonies in E-flat major, G minor, and C major (\"Jupiter\"); concertos for piano, violin, and various wind instruments; and numerous chamber pieces, works for the church, minuets and other dances, songs, and the Requiem.  Along with Bach and Beethoven, Mozart is regarded as one of the greatest composers who has ever lived.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+        "title": "Antonio Vivaldi",
+        "content": "Antonio Vivaldi (born Venice, 4 March 1678; died Vienna, 28 July 1741) was an Italian composer. He was the most important composer in Italy at the end of the Baroque period. \nVivaldi wrote more than 400 concertos for various instruments, especially for the violin. The scores of 21 of his operas, including his first and last, are still intact. His most popular work is the group of four violin concertos called \u201cThe Four Seasons\u201d.  Each concerto describes a season: Spring, Summer, Autumn, and Winter. He is believed to be the inventor of the ritornello form. He was very famous for his piccolo compositions, such as Il gardellino.",
+        "language": "English",
+        "topic": [
+            "Arts and Culture"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Antonio_Vivaldi"
+    }
+]

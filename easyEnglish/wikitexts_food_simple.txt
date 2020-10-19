@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Winter sport",
+        "content": "Winter sports are sports played during winter.  They often must be played on ice or snow.  The International Olympic Comittee has the Winter Olympics, which are every four years. In the Winter Olympics, people try to win at winter sports for their country. Cold countries, for example Russia, Canada and Norway, are good at winter sports.\nWinter sports include:\n\nIce skating\nSkiing\nSnowboarding\nSleighing\nBobsleighing\nIce Hockey\nBandy\nCurling\nSnowmobile",
+        "language": "English",
+        "topic": [
+            "Sports"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Winter_sport"
+    },
+    {
+        "title": "Chinese food",
+        "content": "Chinese food is a term that talks about the food that comes from all over China and the cuisine of China. It is an important part of Chinese culture. This food comes from many different parts of China and also the food made by Overseas Chinese that live in other parts of the world. Because there are a lot of Chinese immigrants around the world, and because China was very important in the past, many food from other countries in Asia have been affected by Chinese food. Important parts of Chinese food are rice, soy sauce, noodles, tea, and tofu. Tools like chopsticks and the wok are also very important.\nThe four most important types of Chinese food are Sichuan food (Chuan), Shandong food (Lu), Guangdong food (Yue), and Huaiyang food. They each represent the food made in the western, northern, southern, and eastern parts of the country.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chinese_food"
+    },
+    {
+        "title": "Thai food",
+        "content": "Thai food is a type of food that was first made in Thailand. Thai food is often spicy, but does not have to be. Thai food is shared with every person at the table. The meal is not thrown away. The Thai believe that throwing food away would anger the \"god of rice\". Thai food is eaten with a fork and a large spoon.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Thai_food"
+    },
+    {
+        "title": "Italian food",
+        "content": "Italian food is the food created by traditional Italian cooking. It is not any one thing, because it is strongly regionalised. This means that the cooking is different in different parts of Italy.Naturally there are some basic foods which can be found all over Italy, and now in many other countries. These are pasta, pizza, cannoli pastry desserts, ice cream and red or white wine. Calamari dishes of  fried squid (fried calamari) are often on the menu.Olives have been grown in Italy for thousands of years. They are eaten, and also are the basis of olive oil. Olive oil and vinaigrette or balsamic vinegar are always on the table or nearby. Italians also make many kinds of breads in a different style from French bread. Their styles of coffee have also become internationally famous. Some of their liqueurs, like limoncello, are very distinctive.\nItalian food is one of the most refined and varied in Europe, from the piquant flavours of Naples and Calabria to the pesto dishes of Liguria and the cheese and risotto dishes of the Italian Alps.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Italian_food"
+    },
+    {
+        "title": "French food",
+        "content": "French food has influenced the style of cooking throughout Europe, and its chefs work in restaurants throughout the world.The roots of modern haute cuisine lie in chefs like La Varenne (1615\u20131678) and the notable chef of Napoleon, Marie-Antoine Car\u00eame (1784\u20131833). These chefs developed a lighter style of food compared to the food of the Middle Ages. They used fewer spices, and more herbs and creamy ingredients.\nTypical ingredients like roux and fish stock, and techniques such as marinading, and dishes such as ragout, were invented. Car\u00eame was an expert p\u00e2tissier (pastry-maker), and this is still a mark of French cooking. He developed basic sauces, his 'mother sauces'; he had over a hundred sauces in his repertoire, based on the half-dozen mother sauces.\nFrench cooking was introduced in the 20th century by Georges Auguste Escoffier (1846\u20131935). He was a genius at organisation. He worked out how to run large restaurants, as in a big hotel or a palace: how the staff should be organised; how the menu was prepared. He had methods for everything. Escoffier managed the restaurants and cuisine at the Savoy Hotel and Carlton Hotel in London, the H\u00f4tel Ritz Paris, and some of the greatest cruise ships of the day.\nEscoffier's other main contribution was the publication of Le Guide Culinaire in 1903, which spread the understanding of French cookery. However, Escoffier left out much of the culinary character to be found in the regions of France.\nGastro-tourism and the Guide Michelin helped to acquaint people with the rich bourgeois and peasant cuisine of the French countryside in the 20th century. Gascon cuisine has also had great influence over the cuisine in the southwest of France. Many dishes that were once regional have proliferated in variations across the country. Cheese and wine are a major part of the cuisine, playing different roles regionally and nationally. In the north of France, people often prefer to use butter to cook. In the south, they prefer olive oil and garlic. In France, each region has its own special dish; choucroute in Alsace, quiche in Lorraine, cassoulet in the Languedoc-Roussillon, tapenade in Provence-Alpes-C\u00f4te d'Azur, bouillabaisse in Marseille.\nIn November 2010, French gastronomy was added by UNESCO to its lists of the world's 'intangible cultural heritage'.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/French_food"
+    },
+    {
+        "title": "French food",
+        "content": "French food has influenced the style of cooking throughout Europe, and its chefs work in restaurants throughout the world.The roots of modern haute cuisine lie in chefs like La Varenne (1615\u20131678) and the notable chef of Napoleon, Marie-Antoine Car\u00eame (1784\u20131833). These chefs developed a lighter style of food compared to the food of the Middle Ages. They used fewer spices, and more herbs and creamy ingredients.\nTypical ingredients like roux and fish stock, and techniques such as marinading, and dishes such as ragout, were invented. Car\u00eame was an expert p\u00e2tissier (pastry-maker), and this is still a mark of French cooking. He developed basic sauces, his 'mother sauces'; he had over a hundred sauces in his repertoire, based on the half-dozen mother sauces.\nFrench cooking was introduced in the 20th century by Georges Auguste Escoffier (1846\u20131935). He was a genius at organisation. He worked out how to run large restaurants, as in a big hotel or a palace: how the staff should be organised; how the menu was prepared. He had methods for everything. Escoffier managed the restaurants and cuisine at the Savoy Hotel and Carlton Hotel in London, the H\u00f4tel Ritz Paris, and some of the greatest cruise ships of the day.\nEscoffier's other main contribution was the publication of Le Guide Culinaire in 1903, which spread the understanding of French cookery. However, Escoffier left out much of the culinary character to be found in the regions of France.\nGastro-tourism and the Guide Michelin helped to acquaint people with the rich bourgeois and peasant cuisine of the French countryside in the 20th century. Gascon cuisine has also had great influence over the cuisine in the southwest of France. Many dishes that were once regional have proliferated in variations across the country. Cheese and wine are a major part of the cuisine, playing different roles regionally and nationally. In the north of France, people often prefer to use butter to cook. In the south, they prefer olive oil and garlic. In France, each region has its own special dish; choucroute in Alsace, quiche in Lorraine, cassoulet in the Languedoc-Roussillon, tapenade in Provence-Alpes-C\u00f4te d'Azur, bouillabaisse in Marseille.\nIn November 2010, French gastronomy was added by UNESCO to its lists of the world's 'intangible cultural heritage'.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/French_food"
+    },
+    {
+        "title": "Hamburger",
+        "content": "A hamburger or burger is a type of sandwich with cooked ground meat between the two halves of a bun. Tomatoes, onions, cheese, salad and dips may also be added. The hamburger may be eaten without a knife and fork, so it is a fast food which can be eaten anywhere. \nHamburgers are named for a city in Germany called Hamburg. They were probably invented in Germany, though what we now know as a hamburger was created in the United States in the 19th century. Hamburgers appeared on menus in England and the United States in the 19th century, and became a popular food after the 1904 World's Fair.  What is called a hamburger throughout the world today was different than the first German hamburgers; German dishes often involved a steak or sausage between pieces of bread instead of ground meat.\nMany fast food restaurants, such as Burger King, KFC and McDonald's, serve hamburgers.\nA cheeseburger is a hamburger that also has cheese.  Hamburgers can be served with other things besides cheese, such as chili.\nEven so the name has the word ham in it, it doesn\u2019t have ham.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hamburger"
+    },
+    {
+        "title": "Fish and chips",
+        "content": "Fish and chips is a traditional British food that originally came from the UK. It is a popular kind of fast food in some parts of the world. As the name says, it is made of chips and a deep fried fish fillet.\nShops and restaurants that have fish and chips are easy to find in England and Wales. They are common in British cities. The first Fish and Chips were found in the East end of London in the late 19th Century. So they are not as traditional as we think.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fish_and_chips"
+    },
+    {
+        "title": "Fruit",
+        "content": "In botany, a fruit is a plant structure that contains the plant's seeds. To a botanist, the word fruit is used only if it comes from the part of the flower which was an ovary. It is an extra layer round the seeds, which may or may not be fleshy. However, even in the field of botany, there is no general agreement on how fruits should be classified. Many do have extra layers from other parts of the flower.In general speech, and especially in cooking, fruits are a sweet product, and many botanical fruits are known as vegetables. This is how ordinary people use the words. On this page, we describe what botanists call a fruit.\nThe fleshy part of a fruit is called the mesocarp. It is between the fruit's skin (exocarp) and the seeds. The white part of an apple, for example, is the \"fleshy\" part of the apple. Usually, when we eat a fruit, we eat the \"fleshy\" part.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fruit"
+    },
+    {
+        "title": "Vegetable",
+        "content": "Vegetables are parts of plants that are eaten by humans as food as part of a meal. This meaning is often used: it is applied to plants collectively to mean all edible plant matter, including the flowers, fruits, stems, leaves, roots, and seeds. The alternative definition of the term 'vegetable' may exclude foods derived from some plants that are fruits, nuts, and cereal grains, but include fruits from others such as tomatoes and courgettes and seeds such as pulses.Carrots and potatoes are parts of the root systems of the plants, but since they are eaten by humans, they are vegetables. They are not in the same category as a fruit, nut, herb, spice, or grain. Though tomatoes are often thought of as vegetables, but because they have seeds, they are, botanically, fruits. Vegetables are an important part of people's daily diet. Vegetables and fruits are sometimes called produce. Vegetables have vitamins A, B, C, D, minerals and carbohydrates.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Vegetable"
+    },
+    {
+        "title": "Vegetable",
+        "content": "Vegetables are parts of plants that are eaten by humans as food as part of a meal. This meaning is often used: it is applied to plants collectively to mean all edible plant matter, including the flowers, fruits, stems, leaves, roots, and seeds. The alternative definition of the term 'vegetable' may exclude foods derived from some plants that are fruits, nuts, and cereal grains, but include fruits from others such as tomatoes and courgettes and seeds such as pulses.Carrots and potatoes are parts of the root systems of the plants, but since they are eaten by humans, they are vegetables. They are not in the same category as a fruit, nut, herb, spice, or grain. Though tomatoes are often thought of as vegetables, but because they have seeds, they are, botanically, fruits. Vegetables are an important part of people's daily diet. Vegetables and fruits are sometimes called produce. Vegetables have vitamins A, B, C, D, minerals and carbohydrates.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Vegetable"
+    },
+    {
+        "title": "Pavlova (food)",
+        "content": "Pavlova is a meringue-based dessert named after the Russian ballet dancer Anna Pavlova. It is  a cake with a crispy crust and soft, light inside.People believe the dessert was made to celebrate one of the dancer's tours to Australia and New Zealand in the 1920s. The two countries have argued for a long time over where it was created.The dessert is very popular in both countries and often eaten on special occasions. It is usually served with cream and fruit.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pavlova_(food)"
+    },
+    {
+        "title": "Gordon Ramsay",
+        "content": "Gordon Ramsay OBE (Gordon James Ramsay, Jr., born 8 November 1966) is a British celebrity chef, restaurateur, and television personality. He has his own shows The F Word, Hell's Kitchen and Ramsay's Kitchen Nightmares. He also presents American versions Hell's Kitchen and Kitchen Nightmares. He used to be a Scottish League footballer.\nRamsay's flagship restaurant, the Restaurant Gordon Ramsay in Chelsea, London, has three Michelin stars, and has had them since 2001. He has invested in several other restaurants, trained their chefs and designed their menus. His restaurants have been awarded 15 Michelin stars in total and currently hold 14.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gordon_Ramsay"
+    },
+    {
+        "title": "Diet (nutrition)",
+        "content": "In nutrition, diet is the sum of food that is eaten by a person or another organism. Dietary habits are the usual decisions someone or a culture makes when choosing what foods to eat. With the word diet, it is often expressed the use of specific intake of nutrition for health or weight-management reasons (with the two often being related). Although humans are omnivores, each culture and each person holds some food preferences or some food taboos, due to personal tastes or ethical reasons. Individual dietary choices may be more or less healthful. A proper nutrition requires a proper ingestion and, also important, the absorption of vitamins, minerals, and food energy in the form of carbohydrates, proteins, and fats. Dietary habits and choices play a significant role in health and mortality, and can also define cultures and play a role in religion.\n\nDiets are about eating the right quantity and type of food at the right time. When people talk about a diet, they are usually referring to a special kind of diet. When someone says they are \"dieting\", it means that they are trying to lose weight. People who study diet and eating habits are called dietitians.\nWhen the diet is not right, people can gain or lose weight. They may become overweight or underweight. To get back to their normal weight, they need to change their diet. This may be very hard to do. Often help from specialist is required.\nSome people will also do fasting - they will not eat anything for some time to lose weight, balance their diet and clean their bodies.Some people have diseases where they cannot eat certain foods without becoming very sick. They need to change their diet to avoid these foods. A food allergy is a condition in which a specific food makes someone sick. Phenylketonuria is a disease in which a person cannot digest certain foods properly because they have an amino acid, or type of chemical, called phenylalanines in them.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Diet_(nutrition)"
+    },
+    {
+        "title": "Diet (nutrition)",
+        "content": "In nutrition, diet is the sum of food that is eaten by a person or another organism. Dietary habits are the usual decisions someone or a culture makes when choosing what foods to eat. With the word diet, it is often expressed the use of specific intake of nutrition for health or weight-management reasons (with the two often being related). Although humans are omnivores, each culture and each person holds some food preferences or some food taboos, due to personal tastes or ethical reasons. Individual dietary choices may be more or less healthful. A proper nutrition requires a proper ingestion and, also important, the absorption of vitamins, minerals, and food energy in the form of carbohydrates, proteins, and fats. Dietary habits and choices play a significant role in health and mortality, and can also define cultures and play a role in religion.\n\nDiets are about eating the right quantity and type of food at the right time. When people talk about a diet, they are usually referring to a special kind of diet. When someone says they are \"dieting\", it means that they are trying to lose weight. People who study diet and eating habits are called dietitians.\nWhen the diet is not right, people can gain or lose weight. They may become overweight or underweight. To get back to their normal weight, they need to change their diet. This may be very hard to do. Often help from specialist is required.\nSome people will also do fasting - they will not eat anything for some time to lose weight, balance their diet and clean their bodies.Some people have diseases where they cannot eat certain foods without becoming very sick. They need to change their diet to avoid these foods. A food allergy is a condition in which a specific food makes someone sick. Phenylketonuria is a disease in which a person cannot digest certain foods properly because they have an amino acid, or type of chemical, called phenylalanines in them.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Diet_(nutrition)"
+    },
+    {
+        "title": "Diet (nutrition)",
+        "content": "In nutrition, diet is the sum of food that is eaten by a person or another organism. Dietary habits are the usual decisions someone or a culture makes when choosing what foods to eat. With the word diet, it is often expressed the use of specific intake of nutrition for health or weight-management reasons (with the two often being related). Although humans are omnivores, each culture and each person holds some food preferences or some food taboos, due to personal tastes or ethical reasons. Individual dietary choices may be more or less healthful. A proper nutrition requires a proper ingestion and, also important, the absorption of vitamins, minerals, and food energy in the form of carbohydrates, proteins, and fats. Dietary habits and choices play a significant role in health and mortality, and can also define cultures and play a role in religion.\n\nDiets are about eating the right quantity and type of food at the right time. When people talk about a diet, they are usually referring to a special kind of diet. When someone says they are \"dieting\", it means that they are trying to lose weight. People who study diet and eating habits are called dietitians.\nWhen the diet is not right, people can gain or lose weight. They may become overweight or underweight. To get back to their normal weight, they need to change their diet. This may be very hard to do. Often help from specialist is required.\nSome people will also do fasting - they will not eat anything for some time to lose weight, balance their diet and clean their bodies.Some people have diseases where they cannot eat certain foods without becoming very sick. They need to change their diet to avoid these foods. A food allergy is a condition in which a specific food makes someone sick. Phenylketonuria is a disease in which a person cannot digest certain foods properly because they have an amino acid, or type of chemical, called phenylalanines in them.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Diet_(nutrition)"
+    },
+    {
+        "title": "Pizza",
+        "content": "Pizza is a type of food that was created in Italy. It is made by putting \"toppings\". Some of the most common toppings are cheese, sausages, pepperoni, vegetables, tomatoes, spices and herbs and basil. These toppings are added over a piece of bread covered with sauce. The sauce is most often tomato-based, but butter-based sauces are used, too. The piece of bread is usually called a \"pizza crust\". Almost any kind of topping can be put over a pizza. The toppings used are different in different parts of the world. Pizza comes from Italy from Neapolitan cuisine. However, it has become popular in many parts of the world.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pizza"
+    },
+    {
+        "title": "Cheese",
+        "content": "Cheese is a type of dairy that comes from milk. There are many types of cheese, such as cheddar, Swiss, and provolone. \nMany things affect the form, texture, colour and flavour of a cheese. These include the milk (cow or goat), if the milk has been pasteurized, the amount of butterfat, bacteria and mold in the cheese, how the cheese is made, how much fat is in the cheese, and how old the cheese is.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cheese"
+    },
+    {
+        "title": "Yogurt",
+        "content": "Yogurt, or yoghurt is a  milk product made by bacterial fermentation of milk. The lactose in the milk becomes lactic acid when it is fermented. Lactic acid acts on the protein in the milk to make yoghurt thick and sour. The milk is heated to about 80 \u00b0C to kill any bacteria present, and to change the milk proteins so that they set together instead of becoming curd. After it is cooled to about 45 \u00b0C, the bacteria culture is added, and the milk is kept at that temperature for 4 to 7 hours to ferment. Soy yoghurt is made from soy milk.\nYogurt is one of the oldest produced foods in human history. No one knows for sure how long yogurt has been around. Today, it is eaten all over the world. It is rich in protein, calcium, riboflavin, vitamin B6 and  vitamin B12.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Yogurt"
+    },
+    {
+        "title": "Fast food",
+        "content": "Fast food is the term for a kind of food that people eat from a restaurant, cafe or take-out where food is prepared and served quickly. \nIt is mass-produced food. It is often pre-prepared and delivered to the shop ready for frying or boiling. There is a strong priority on \"speed of service\". \nThe restaurants that sell fast food are called \"fast food shops\" or \"fast food restaurants\". Some of the more common fast food restaurants are McDonald's, Wendy's, Burger King, Taco Bell, and KFC. All these chains have a limited short menu, and serve the same kind of food in all their outlets. The shops are subcontracted by the supplying company, and tied absolutely by contract to that single supplier. However, the same kind of criticism could be (and is) directed at some other kinds of restaurants. The problem is seen by many critics as being one of over-eating, rather than one of the specific food types.\nAs a response to criticism, many fast food outlets now offer more choices of salad-type foods. These may not sell so well, in which case the problem can be seen one of education. Children copy what they see in adults.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fast_food"
+    },
+    {
+        "title": "Fast food",
+        "content": "Fast food is the term for a kind of food that people eat from a restaurant, cafe or take-out where food is prepared and served quickly. \nIt is mass-produced food. It is often pre-prepared and delivered to the shop ready for frying or boiling. There is a strong priority on \"speed of service\". \nThe restaurants that sell fast food are called \"fast food shops\" or \"fast food restaurants\". Some of the more common fast food restaurants are McDonald's, Wendy's, Burger King, Taco Bell, and KFC. All these chains have a limited short menu, and serve the same kind of food in all their outlets. The shops are subcontracted by the supplying company, and tied absolutely by contract to that single supplier. However, the same kind of criticism could be (and is) directed at some other kinds of restaurants. The problem is seen by many critics as being one of over-eating, rather than one of the specific food types.\nAs a response to criticism, many fast food outlets now offer more choices of salad-type foods. These may not sell so well, in which case the problem can be seen one of education. Children copy what they see in adults.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Fast_food"
+    },
+    {
+        "title": "Dessert",
+        "content": "For the area of dry land see desert.\nA dessert is a type of food that is eaten after lunch or dinner. It is usually a sweet food, like ice cream, cookies, and cakes. In some countries, cheeses such as Brie cheese and fruit are served as dessert. Some desserts are decorated, like birthday cakes. Others are simple, like pudding. Many desserts are baked (cooked in an oven). Some desserts are served with whipped cream as a topping.\n\nThe term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatin's, ice creams, pastries, pies, puddings, sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness. Some cultures sweeten foods that are more commonly savoury to create desserts.\n\n`Famous Desserts from around the world :\n\nFrance: Cr\u00e8me Br\u00fbl\u00e9e\nAmerica: Apple Pie\nTurkey: Baklava\nItaly: Gelato\nPeru: Picarones\nRussia: Syrniki\nSpain: Tarta de Santiago\nJapan: Mochi\nEngland: Banoffee Pie\nBelgium: Belgian waffle\nIndia: Gulab Jamun\nPakistan: Kheer",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Dessert"
+    },
+    {
+        "title": "Dinner",
+        "content": "Dinner is a word with a few different meanings.\nIn North America dinner usually means a large meal that is eaten in early evening. Sometimes dinner can mean a meal eaten in the middle of the day.  This meaning is more common in the Southern United States and the United Kingdom . \nA more formal definition of \"dinner\", especially outside North America, is any meal that has several courses. The minimum number of course is often regarded as two but there can be as many as seven.  If there is only one course and it is the main meal of the day, then it is called dinner.\n\nDinner is very important to some cultures. Dinner is a large part, often a tradition, on many American holidays including Thanksgiving and Christmas.\n.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Dinner"
+    },
+    {
+        "title": "Lunch",
+        "content": "Luncheon, usually simply called lunch, is a meal that is usually eaten around noon or in the early afternoon. In most countries, it is the second meal of the day, after breakfast and before dinner. A lunch can be cold (bread and fruit) or hot (a full meal, like a dinner). People that go to work or school during the day, usually have lunch together with their coworkers or classmates. Some people bring lunch to work or school in a brown paper bag or a lunchbox, but you can also buy lunch at a restaurant. In some countries, lunch is the most important meal of the day.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Lunch"
+    },
+    {
+        "title": "Breakfast",
+        "content": "Breakfast is the first meal of the day. It is usually eaten in the morning. The word comes from two other words; \"break\" (\"end\") and fast (\"not eating for a long time\").\nDefinition: [1463] from break (v.) + fast (n.). Cf. Fr. d\u00e9jeuner \"to breakfast,\" from L. dis-jejunare \"to break the fast.\"\nPeople around the world eat different things for breakfast:\n\nIn the United States, people usually eat pancakes, waffles, toast, eggs or bagels for breakfast.\nIn Canada, people usually eat maple cured bacon, fried potatoes, maple-infused beans, eggs, toast, pancakes and maple syrup or hot oatmeal for breakfast.In the United Kingdom, a large breakfast is served; usually bread, tea, egg, bacon, ham, fruits, baked beans on toast and sometimes vegetables.\nIn France, people usually eat a very light meal; often bread and coffee with milk.\nIn Asia, most people eat rice instead of bread. They also sometimes eat porridge.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Breakfast"
+    },
+    {
+        "title": "Breakfast",
+        "content": "Breakfast is the first meal of the day. It is usually eaten in the morning. The word comes from two other words; \"break\" (\"end\") and fast (\"not eating for a long time\").\nDefinition: [1463] from break (v.) + fast (n.). Cf. Fr. d\u00e9jeuner \"to breakfast,\" from L. dis-jejunare \"to break the fast.\"\nPeople around the world eat different things for breakfast:\n\nIn the United States, people usually eat pancakes, waffles, toast, eggs or bagels for breakfast.\nIn Canada, people usually eat maple cured bacon, fried potatoes, maple-infused beans, eggs, toast, pancakes and maple syrup or hot oatmeal for breakfast.In the United Kingdom, a large breakfast is served; usually bread, tea, egg, bacon, ham, fruits, baked beans on toast and sometimes vegetables.\nIn France, people usually eat a very light meal; often bread and coffee with milk.\nIn Asia, most people eat rice instead of bread. They also sometimes eat porridge.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Breakfast"
+    },
+    {
+        "title": "Doughnut",
+        "content": "A doughnut (spelled donut in American English) is a type of deep fried dessert food made out of dough or batter.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Doughnut"
+    },
+    {
+        "title": "Croissant",
+        "content": "The croissant is a type of bread shaped like a crescent moon. It is usually eaten for breakfast in various countries. It can be called a crescent or a crescent roll. Although a crescent roll may be smaller. It is not a quick bread, but it is made of a variant of puff pastry. A croissant can be eaten with savory or sweet fillings.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Croissant"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Pastry",
+        "content": "Pastry is the dough from which some baked products are made. Pastry dough is rolled out thinly and used as a base for baked products. It is made from ingredients such as flour, sugar, milk, butter, shortening, baking powder, and/or eggs. Common pastry dishes include pies, tarts, quiches and pasties.Pastry is also the name given to various kinds of baked products. Small cakes, tarts and other sweet or savoury baked products are called \"pastries.\" \nTurkish food such as G\u00f6zleme are made from pastries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pastry"
+    },
+    {
+        "title": "Japanese food",
+        "content": "Japanese food includes the many different styles of cooking in Japan. Every region in Japan has its own tradition about cooking. Foods eaten in Japan also reflect the history of the cultural exchange between Japan and other culture. Since the modern times, the influence of the West inspired Japanese culinary tradition to invent new dishes, some of which have become popular not only inside Japan but also outside. However, most of the culinary traditions of Japan commonly think that seasonality is important.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Japanese_food"
+    },
+    {
+        "title": "Japanese food",
+        "content": "Japanese food includes the many different styles of cooking in Japan. Every region in Japan has its own tradition about cooking. Foods eaten in Japan also reflect the history of the cultural exchange between Japan and other culture. Since the modern times, the influence of the West inspired Japanese culinary tradition to invent new dishes, some of which have become popular not only inside Japan but also outside. However, most of the culinary traditions of Japan commonly think that seasonality is important.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Japanese_food"
+    },
+    {
+        "title": "Japanese food",
+        "content": "Japanese food includes the many different styles of cooking in Japan. Every region in Japan has its own tradition about cooking. Foods eaten in Japan also reflect the history of the cultural exchange between Japan and other culture. Since the modern times, the influence of the West inspired Japanese culinary tradition to invent new dishes, some of which have become popular not only inside Japan but also outside. However, most of the culinary traditions of Japan commonly think that seasonality is important.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Japanese_food"
+    },
+    {
+        "title": "Japanese food",
+        "content": "Japanese food includes the many different styles of cooking in Japan. Every region in Japan has its own tradition about cooking. Foods eaten in Japan also reflect the history of the cultural exchange between Japan and other culture. Since the modern times, the influence of the West inspired Japanese culinary tradition to invent new dishes, some of which have become popular not only inside Japan but also outside. However, most of the culinary traditions of Japan commonly think that seasonality is important.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Japanese_food"
+    },
+    {
+        "title": "Cutlery",
+        "content": "Cutlery refers to tools used for preparing, serving and eating food. The most common types of cutlery are knives, spoons and forks. Other words for cutlery are silverware, tableware, utensils and flatware.\nThe best quality cutlery may be made of silver, but more often silver plating. Stainless steel is used for most good quality household cutlery. Pewter was often used in the past for cheap cutlery. Nickel silver, sometimes called German silver, is another alloy, with copper, nickel, and zinc in it. Plastic cutlery is used for eating fast food, because it is very cheap, and may be thrown away afterwards.  \nServing practice and use of cutlery varies somewhat between cultures. Formal dinners have cutlery set out in a traditional manner. There will be two sets of knives and forks, an outer smaller set for the first course and a larger inner set for the main course. Cutlery for later courses will usually be delivered with those courses. In an informal restaurant, cutlery may come wrapped in a cloth napkin (serviette).\nChinese and Japanese food is eaten with chopsticks, and food pre-cut to a size suitable for that method. Some other oriental cuisines are eaten by fork and spoon, with no knife.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cutlery"
+    },
+    {
+        "title": "Cutlery",
+        "content": "Cutlery refers to tools used for preparing, serving and eating food. The most common types of cutlery are knives, spoons and forks. Other words for cutlery are silverware, tableware, utensils and flatware.\nThe best quality cutlery may be made of silver, but more often silver plating. Stainless steel is used for most good quality household cutlery. Pewter was often used in the past for cheap cutlery. Nickel silver, sometimes called German silver, is another alloy, with copper, nickel, and zinc in it. Plastic cutlery is used for eating fast food, because it is very cheap, and may be thrown away afterwards.  \nServing practice and use of cutlery varies somewhat between cultures. Formal dinners have cutlery set out in a traditional manner. There will be two sets of knives and forks, an outer smaller set for the first course and a larger inner set for the main course. Cutlery for later courses will usually be delivered with those courses. In an informal restaurant, cutlery may come wrapped in a cloth napkin (serviette).\nChinese and Japanese food is eaten with chopsticks, and food pre-cut to a size suitable for that method. Some other oriental cuisines are eaten by fork and spoon, with no knife.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Cutlery"
+    },
+    {
+        "title": "Gravy",
+        "content": "Gravy is an English sauce made often from the juices that run naturally from meat or vegetables during cooking. It is a smooth, non-chunky liquid. Ready-made cubes and powders can be used as a substitute for natural meat or vegetable extracts. Canned gravies are also available.  Gravy is commonly served with roasts, meatloaf, rice, and potato dishes. It it is very popular because it is used on mashed potatoes sometimes.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Gravy"
+    },
+    {
+        "title": "Tea",
+        "content": "Tea is a drink that is popular all over the world. It is made by soaking the dried leaves or flowers of the plant Camellia sinensis in hot water. Tea can have other herbs, spices, or fruit flavours in it, like lemon. All teas are made from the Camellia sinensis plant.Sometimes the word \"tea\" is used for other drinks that have been made by soaking fruit or herbs in hot water, like \"rosehip tea\" or \"camomile tea\". These are called \"herbal teas\".",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Tea"
+    },
+    {
+        "title": "Coffee",
+        "content": "Coffee is a plant (Coffea) and the name of the drink that is made from this plant. The coffee plant is a bush or tree that can grow up to ten meters (about 32 feet) high, but is usually cut shorter. Coffee plants originally grew in Africa, and now also grow in South America, Central America and Southeast Asia. They are an important crop for the economies of many countries.\nThe first branded coffee to be sold commercially to the public was Nes Caf\u00e9 in 1879.\nThe drink is made from the seeds of the coffee plant, called coffee beans. Coffee is usually served hot, and is a popular drink in many countries. Coffee contains a chemical called caffeine, a mild drug that keeps people awake.\nTo make a drink from coffee beans, the beans must first be specially prepared by drying the beans and then roasting. The beans are dried a short time after they are picked. This preserves them and makes them ready to be packed or roasted. Before the beans are made into a drink, they must be roasted or ground (crushed into tiny pieces in a coffee mill). When the ground coffee is placed into boiling water, the flavour and dark brown colour of the beans goes into the water. Making coffee is called brewing coffee. There are several different ways that coffee can be brewed.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Coffee"
+    },
+    {
+        "title": "Guacamole",
+        "content": "Guacamole (called Guacamol in Central America and Cuba) is a Mexican dip made of avocados, salt and sometimes tomatoes. Various herbs can be added too, such as chives. It is depicted as a green, creamy dip or garnish.  It is often served as a dip or garnish with Mexican foods such as tacos and tortilla chips.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Guacamole"
+    },
+    {
+        "title": "Sauce",
+        "content": "In cooking, a sauce is a liquid mixture added to another food for flavour. Sauces are not normally eaten by themselves; they add flavour, moisture, and visual appeal to another dish. Sauces are an essential element in cuisines all over the world.\nThe main sauces of French cuisine are built on a basis of roux, which is just flour and the liquid part of butter. Examples from Italian cuisine are the egg, cheese and ham sauce called Carbonara; the ground meat sauce called bolognese, and the herbs and garlic sauce called pesto.\nBottled sauces can be poured over food when it is served. An example would be the tomato-based sauce that is usually poured over spaghetti. Gravy is a brown sauce served with meat.\nSauce is a French word taken from the Latin salsus, meaning salted. Possibly the oldest sauce recorded is garum, the fish sauce used by the Romans.\nSauces need a liquid component, but some sauces (for example, pico de gallo salsa or chutney) may contain more solid elements than liquid.\nSauces may be used for savoury dishes or for desserts. They can be prepared and served cold, like mayonnaise, prepared cold but served lukewarm like pesto, or can be cooked like bechamel and served warm or again cooked and served cold like apple sauce.\nSome sauces are commercial products like Worcestershire sauce, HP sauce, soy sauce or ketchup. In French cuisine they are freshly prepared by the chef. Sauces for salads are called salad dressing. A cook who specializes in making sauces is a saucier.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sauce"
+    },
+    {
+        "title": "Salad",
+        "content": "A salad is a serving in a meal that includes leaf vegetables such as lettuce, spinach, or arugula. Uncooked or cold cooked vegetables that are sliced into small pieces (for example tomato or onion) are then mixed with the leaf vegetables. \nA salad dressing or vinaigrette is then poured on top of the vegetables. Salad dressings and vinaigrettes are a mixture of oil, herbs, spices, and flavorings. \nSome people also add other foods to the salad, such as croutons, bacon, chicken, grated cheese, tuna, pasta, olives, cooked potatoes, rice, or beans.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Salad"
+    },
+    {
+        "title": "Junk food",
+        "content": "Junk food is a term for food containing high levels of calories from sugar and/or fat with less protein, vitamins or minerals. \nThe term describes that a particular food has less nutrition value and contains a lot of fat, sugar, salt and calories. \"Junk food\" can also refer to high protein food with large amounts of meat. For example, It is prepared with too much saturated fat. Hamburgers, fried chicken, and candies are examples of junk food. Most of the fast food belongs to junk food, and most junk food is fast food, too.\nThere are concerns about the negative health effects resulting from a junk food-heavy diet.  Especially fatness has resulted in public health awareness campaigns, and in restrictions on advertisements and sales in several countries.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Junk_food"
+    },
+    {
+        "title": "Juice",
+        "content": "Juice is a liquid that comes from plants, animals or fruit. The juice from fruit is often made into a drink. Some juices that are often made into drinks are apple, orange, pear, pineapple, grapefruit, guava, plum, passionfruit, tropical fruit, blackberry, raspberry, cherry, grape, lemon and lime, but there are many others.\nIn the United Kingdom the name of a fruit or fruits followed by juice can only legally be used to describe something which is 100% fruit juice. This is because of the Fruit Juices and Fruit Nectars (England) Regulations and the Fruit Juices & Fruit Nectars (Scotland) Regulations 2003.Juice can be bought from a store, already in bottles. Companies sell fruit juice just like any other drink. Juices are made by squeezing the juice out of the fruit.\nIf something has a lot of juice in it, it is said to be juicy. Juice does not have to be a drink. It can just be a liquid contained in something.\nJuice makes us healthy. Orange juice contains vitamin C, folic acid, and potassium which helps prevent disease.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Juice"
+    },
+    {
+        "title": "Bean",
+        "content": "Bean is the name used for the seeds of several plants. Most of these plants are known as legumes. Their scientific name is Fabaceae. Common beans, lentils, soybeans, peas are some types of beans.  Beans contain a lot of fibre. They are also high in protein. Vetches and lupins are all in that group of plants but not all legumes are edible. Laburnums for example are very poisonous as are some lupins.  \nThe seeds of other plants (which are not Fabaceae), are sometimes also called beans. This is mostly because they look like true beans. Example for such beans are Coffee beans, Cocoa beans, and Vanilla beans.\n\n\n== Gallery ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Bean"
+    },
+    {
+        "title": "Legume",
+        "content": "A legume is a type of dry fruit. It is usually produced by plants in the family Fabaceae. Legumes can be a variety of fruits: peas and beans are types of legumes.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Legume"
+    },
+    {
+        "title": "Seafood",
+        "content": "Seafood is food made from fish or other sea animals (such as shrimp and lobsters). The harvesting (collecting) of seafood is called fishing.\nSeafood is rich in protein, and is usually thought as healthy food.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Seafood"
+    },
+    {
+        "title": "Lunchbox",
+        "content": "A lunchbox is used to carry a person's lunch. They can come in many shapes and sizes and by a number of manufacturers. They can also be in the form of a brown paper bag.\nThe first aluminium lunch box was created in 1954 by a man by the name of Leo May when he happened to crush his tin lunch box.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Lunchbox"
+    },
+    {
+        "title": "Milk shake",
+        "content": "In North America, a milk shake (or milkshake) is a cold drink usually made with milk, ice cream, and sweet syrups, such as chocolate syrup, mixed in a blender. People usually drink milkshakes with a drinking straw and from a tall glass or cup.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Milk_shake"
+    },
+    {
+        "title": "Ice cream",
+        "content": "Ice cream is a frozen dessert made from cream and ice, with added flavors and sweeteners. This mixture is quickly frozen while it is stirred continuously in a mixer,so that large ice crystals do not form. Some ice cream is made with carrageenan, a gum found in seaweed so that it is not sticky and easily eatable.Nowadays, ice cream comes with different flavors, shapes, colours and textures.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+        "title": "Nutrition",
+        "content": "Nutrition provides the cells of an organism with food, in a form they can use. Organisms need food to be able to keep their bodies working properly. They also need food to be able to do certain things. Malnutrition can happen when a person does not eat the right amount of nutrients. They can get better by changing their diet to have the right amount of the various nutrients.\nDifferent organisms have different food requirements, and they eat different things in order to meet those requirements. Animals that do not eat meat, for example, will have to get certain nutrients like protein from other foods.\nA nutrition expert is called a dietician. Nutritionists are different because they do not need the government to recognize them as experts. Anyone can call themselves a nutritionist.\nThe six main types of nutrient are carbohydrates, fats, minerals, protein, vitamins, and water. A macronutrient is a nutrient that needs to be eaten a lot. A micronutrient, such as a vitamin, is needed in smaller amounts but it is still important. Carbohydrates are not needed by the body but most people eat a lot of them. Complex carbohydrates are more nutritious than simple carbohydrates. They take longer to digest. Because they stay in the stomach for longer they leave the person who has eaten them feeling fuller for longer. Protein is needed for building cells. It is found in milk, meat, fish, beans, eggs and other foods like quinoa. Protein is made of amino acids.\nFat is found naturally in some foods. People often eat it in processed foods such as cakes and chocolate. It is  high in energy. Omega 3 and omega 6 fats are needed by the body. There are saturated fats and unsaturated fats. It is recommended that people avoid the saturated type. It has been linked with heart disease. A lot of people think that fat is bad in general. It is controversial. People are also advised not to eat too much sugar or salt.\nMost people eat three meals a day. Eating every few hours keeps blood sugar stable. Some foods are good for us and some foods are bad.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Nutrition"
+    },
+    {
+        "title": "Oatmeal",
+        "content": "Oatmeal is a meal made of oats. It is normally made for breakfast. Oatmeal can also be steel-cut oats, crushed oats, or rolled oats. Occasionally, brown sugar, honey, jelly, or other items are added to oatmeal. It makes a tasty treat for all to enjoy.It is looked forward to as a light meal.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oatmeal"
+    },
+    {
+        "title": "Peanut butter",
+        "content": "Peanut butter is a type of moist paste that is made of crushed roasted peanuts. There are two kinds of peanut butter: crunchy/chunky peanut butter and smooth/creamy peanut butter. It can be eaten, for example on bread, usually with jelly to make a peanut butter and jelly sandwich or a peanut butter sandwich with only peanut butter. Marcellus Gilmore Edson was the real inventor, not George Washington Carver.\nJanuary 24 is National Peanut Butter Day.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Peanut_butter"
+    },
+    {
+        "title": "Oil",
+        "content": "The word oil is used for many different kinds of liquids. Oil usually does not mix with water.\nVegetable oils are made from plants. Many are used in foods and for cooking. Some kinds of plant oils that people use are palm oil, maize (corn), olive, peanut, soy, and sunflower.\nOther kinds of oil are made from crude oil (petroleum) which comes from under the ground. People use large oil wells to bring the oil up to the surface. The oil is sent in special ships called tankers or in pipelines to factories called refineries where it is distilled into LPG, gasoline (petrol), diesel fuel, and fuel oil. Plastics are among the Petrochemicals made from crude oil or natural gas. Oils from crude oil are also used as fuels for engines or as lubricants to make the parts of machines work together without sticking or stopping.\nDifferent kinds of oils are also used for many other things, for example to make cosmetics, medicines, paints, and detergents, like washing up liquids. Soap(s) are similar to detergents, but they are generally made from animal fat(s) rather than oils.\nOil is also made for various purposes including synthetic fuel and lubricant.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oil"
+    },
+    {
+        "title": "Pickling",
+        "content": "Pickling is a method of making food last longer. In pickling, the food is put either into vinegar, or in salt water (called brine). This food is often put in an airtight jar. Pickling also changes the flavour of the food. \nThe key to pickling is that it produces low pH, 4.6 or lower. This kills most bacteria. Pickling can preserve perishable foods for months. Anti-microbial herbs and spices, such as mustard seed, garlic, cinnamon or cloves, are often added.Common pickled foods include eggs, onions and other vegetables.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pickling"
+    },
+    {
+        "title": "Popcorn",
+        "content": "Popcorn is a snack food made by heating certain kinds of corn. There is a small amount of water inside the seeds, which causes them to explode. When the seed shell breaks a sharp noise is made. The name \"pop\" is because of this noise. After it pops it is white and fluffy.\nSalt and melted butter is often added to popcorn. Sometimes caramel and other flavours are melted and mixed into the popcorn.\nPopcorn is a popular food to eat at the cinema.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Popcorn"
+    },
+    {
+        "title": "Roasting",
+        "content": "Roasting is a way of cooking. Something gets roasted if it is put over a fire, and some is burnt. The same effect can also be attained with a grill at a barbecue.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Roasting"
+    },
+    {
+        "title": "Barbecue",
+        "content": "Barbecue (or Barbeque, BBQ) is a special type of grill. It is also a way to prepare meat which is then cooked with that instrument. It is especially popular in Australia and in certain parts of the United States.  \nBarbecue cooking means to cook very slowly.  It is not as hot as grilling.  Some meats must be cooked slowly to be tender, and easy to chew.  Sometimes, meat may be slowly cooked for 8 to 24 hours in a barbecue.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Barbecue"
+    },
+    {
+        "title": "Barbecue",
+        "content": "Barbecue (or Barbeque, BBQ) is a special type of grill. It is also a way to prepare meat which is then cooked with that instrument. It is especially popular in Australia and in certain parts of the United States.  \nBarbecue cooking means to cook very slowly.  It is not as hot as grilling.  Some meats must be cooked slowly to be tender, and easy to chew.  Sometimes, meat may be slowly cooked for 8 to 24 hours in a barbecue.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Barbecue"
+    },
+    {
+        "title": "Quiche",
+        "content": "A quiche (Pronounced: keesh) is a type of pie. It is savory. It normally has a pie crust. The filling is made of eggs. Meat and/or vegetables and cheese are sometimes also in the filling. Sometimes people use sliced broccli to decorate it.\nThe name is French.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Quiche"
+    },
+    {
+        "title": "Restaurant",
+        "content": "A restaurant (sometimes known as a diner) is a place where cooked food is sold to the public, and where people sit down to eat it. It is also a place where people go to enjoy the time and to eat a meal.  \nSome restaurants are a chain, meaning that there are restaurants which have the same name and serve the same food. McDonald's, Burger King, and Pizza Hut are examples of chain restaurants that are all over the world. These restaurants serve fast food, that is, inexpensive food, prepared and served quickly. At some, you do not have to even get out of the car to eat. You can pay and get your order from a window. These places are called drive-throughs.\nThere are also chain restaurants that serve slightly more expensive food. They are called fast casual restaurants. Applebee's and Perkins are examples of this type of chain restaurant.\nHaute cuisine or 'fine dining' is found in a guide, such as the Michelin Guide, the most famous restaurant guide in the world. Their 3-star rosettes are given only to restaurants with the highest standards of cooking and service. Interestingly, the Guide gives more 3-stars to Tokyo and Kyoto than to Paris, London and New York together. Traditionally, the restaurants of top hotels such as the Hotel de Paris in Monte Carlo or the H\u00f4tel Ritz Paris were the main places recognized for fine dining. Today, most Michelin Guide restaurants are separate establishments.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Restaurant"
+    },
+    {
+        "title": "Restaurant",
+        "content": "A restaurant (sometimes known as a diner) is a place where cooked food is sold to the public, and where people sit down to eat it. It is also a place where people go to enjoy the time and to eat a meal.  \nSome restaurants are a chain, meaning that there are restaurants which have the same name and serve the same food. McDonald's, Burger King, and Pizza Hut are examples of chain restaurants that are all over the world. These restaurants serve fast food, that is, inexpensive food, prepared and served quickly. At some, you do not have to even get out of the car to eat. You can pay and get your order from a window. These places are called drive-throughs.\nThere are also chain restaurants that serve slightly more expensive food. They are called fast casual restaurants. Applebee's and Perkins are examples of this type of chain restaurant.\nHaute cuisine or 'fine dining' is found in a guide, such as the Michelin Guide, the most famous restaurant guide in the world. Their 3-star rosettes are given only to restaurants with the highest standards of cooking and service. Interestingly, the Guide gives more 3-stars to Tokyo and Kyoto than to Paris, London and New York together. Traditionally, the restaurants of top hotels such as the Hotel de Paris in Monte Carlo or the H\u00f4tel Ritz Paris were the main places recognized for fine dining. Today, most Michelin Guide restaurants are separate establishments.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Restaurant"
+    },
+    {
+        "title": "Spice",
+        "content": "Spice is an ingredient that adds flavor to food. It is usually used to enrich or alter the quality of something. Spices can be used to give food an interesting and exciting taste.\nExamples of a spice would be cinnamon, fenugreek and nutmeg.\nSpices can also be used to hide or cover up bad tastes in the food, because it is rotten or affected by fungi, e.g. marzipan.\nIndians and Pakistanis use a lot of spices like turmeric",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Spice"
+    },
+    {
+        "title": "Sandwich",
+        "content": "A sandwich is a food prepared by placing different kinds of foods between two pieces of bread. The pieces of bread in a sandwich are referred to as slices or sheets of bread. Between the slices of bread, people often add in vegetables, meat, or cheese. The sandwich is thought to have been made first for the Earl of Sandwich, hence the name. \nMany people enjoy the sandwich as it is easy and quick to make in a hurry. Also, the sandwich can be easily eaten with one hand without utensils which allows consumers to have a hand free to do other things. Some people prefer to eat a sandwich with both hands.\nIn many countries, children eat sandwiches for lunch at school. The sandwiches are put in a lunchbox and often wrapped in cling film to keep them fresh.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sandwich"
+    },
+    {
+        "title": "Sandwich",
+        "content": "A sandwich is a food prepared by placing different kinds of foods between two pieces of bread. The pieces of bread in a sandwich are referred to as slices or sheets of bread. Between the slices of bread, people often add in vegetables, meat, or cheese. The sandwich is thought to have been made first for the Earl of Sandwich, hence the name. \nMany people enjoy the sandwich as it is easy and quick to make in a hurry. Also, the sandwich can be easily eaten with one hand without utensils which allows consumers to have a hand free to do other things. Some people prefer to eat a sandwich with both hands.\nIn many countries, children eat sandwiches for lunch at school. The sandwiches are put in a lunchbox and often wrapped in cling film to keep them fresh.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sandwich"
+    },
+    {
+        "title": "Soup",
+        "content": "A soup is a kind of food. People make soups by boiling things in water. Then they put the things they boiled into a bowl and eat them. Vegetables are in most soups.  You can also put meat in soups. Soups that are thicker than normal, with more meat or vegetables, are stews.  The liquid in soup is broth.\nTraditionally, soups are classified into two main groups: clear soups and thick soups. The traditional French types of clear soups are bouillon and consomm\u00e9. Thick soups are classified by the type of thickening agent used. Pur\u00e9es are vegetable soups thickened with starch. Bisques are made from pur\u00e9ed shellfish or vegetables thickened with cream. Cream soups may be thickened with b\u00e9chamel sauce; and velout\u00e9s are thickened with eggs, butter, and cream. Other ingredients commonly used to thicken soups and broths include egg, rice, lentils, flour, and grains. Many popular soups also include carrots and potatoes.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Soup"
+    },
+    {
+        "title": "Stir frying",
+        "content": "Stir frying  is a when food is cooked in a Wok (a traditional Asian pan for cooking). This method usually makes food cook faster.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Stir_frying"
+    },
+    {
+        "title": "Sugar",
+        "content": "Sugar is the common name for a number of chemical substances, some of which have a sweet taste. Mostly, it refers to either sucrose, lactose, or fructose. Sugar is contained in certain kinds of food, or it is added to give a sweet taste. Sugar is extracted from certain plants, such as sugarcane or sugar beet.\nRegular sugar (the one commonly added to food) is called sucrose. Fructose is the sugar that is in fruits. As chemicals, sucrose and fructose are both made by two smaller sugars. Glucose is the more common of these smaller sugars. The human body changes regular sugar into the smaller sugars.\n\nSugars are a kind of carbohydrate. This is because sugars are made from carbon, hydrogen and oxygen. Carbohydrates can be simple carbohydrates or complex carbohydrates. Simple carbohydrates are made of only one or a few of the smallest sugars. Complex carbohydrates are made of many of the smallest sugars.\nStarch is a chemical found in foods such as bread, crackers, and potatoes. It is a complex carbohydrate that is made from many glucose molecules. When starch is eaten, the human body breaks it apart into smaller sugars. An enzyme is added in the mouth, but it only begins to work in the stomach. Pure starch is actually tasteless in the mouth.\nBrazil produces the most sugar per person and India's total consumption of sugar is the highest for a country.\n\nThere are other chemical substances that can be used to produce a sweet taste, but that are not sugar. One of them, commonly called Stevia, is gained from a plant with the same name. Others, like aspartame, are completely synthetic. In general, these substances are known as artificial sweeteners, or sugar substitutes. People eat them to avoid health problems that sugar causes. \nSugar can be different colours. For example, brown sugar has molasses in it, and is often used in baking.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Sugar"
+    },
+    {
+        "title": "Taco",
+        "content": "The traditional taco is a called salsa. It is made from a corn tortilla wrapped around some sort of filling. Traditionally, the tortilla is soft, but some variations from different countries have hard shells, as well as flour tortillas. \nTacos are filled with a variety of filling such as beef, chicken, fish, pork, cheese, lettuce, onions, guacamole, and salsa. Sauces can also be added to tacos ranging from salsa to hot sauces like Tapat\u00edo. People use many different combinations of foods to build the taco, so it is very versatile.\nTacos are world popular, but especially so in Mexico, China and the United States. In the United States, tacos have been industrialized by fast food businesses such as Taco Bell, Del Taco, and Chipotle.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Taco"
+    },
+    {
+        "title": "Vitamin",
+        "content": "A \"vitamin\" is also a pill that contains vitamins, eaten regularly to keep one healthy.\nA vitamin is a chemical compound that is needed in small amounts for the human body to work correctly. They include Vitamin A, many B vitamins (like B1, B2, B3, B6, and B12), Vitamin C, Vitamin D, Vitamin E, and Vitamin K. For example, citrus fruits such as oranges and lemons contain vitamin C. \nThe term was coined in 1912 by biochemist Casimir Funk, who isolated a complex of micronutrients and proposed the complex be named vitamine. By convention the word vitamin does not include other essential nutrients, such as certain minerals, essential fatty acids and essential amino acids.Thirteen vitamins are recognized at present. Vitamins are classified by their biological and chemical activity, and not their structure. Each vitamin name (the word vitamin followed by a letter) refers to a number of vitamer compounds which all show the same biological activity. For example, vitamin A refers to several different chemicals.  Vitamers convert to the active form of the vitamin in the body. They are sometimes inter-convertible to one another as well.\nThe body does not make these chemicals. They come from other places, usually food. A short term lack of a certain vitamin is usually not a problem, because the body can store vitamins for a short time. Not having a certain vitamin for a longer period of time can lead to different diseases, depending on the vitamin. Probably the best-known of these diseases is scurvy, which results from not having enough Vitamin C. Beriberi and rickets are others. \nToday, many drug companies make inexpensive pills that contain various vitamins. They help people avoid those diseases.\nVitamins can be either fat-soluble or water-soluble.  Fat-soluble vitamins (A, D, E and K) can be stored in the body, and are used when needed.  Water-soluble ones only stay in the body a short time.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Vitamin"
+    },
+    {
+        "title": "Carbohydrate",
+        "content": "Carbohydrates are chemical compounds that contain only oxygen, hydrogen and carbon. They are made up of joined-up sugars. Sugars have the general formula Cm(H2O)n, and are also known as saccharides.\nCertain carbohydrates are an important storage and transport form of energy in most organisms, including plants and animals.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Carbohydrate"
+    },
+    {
+        "title": "Pescetarianism",
+        "content": "Pescetarianism means having a diet that is vegetarianism but with fish and other seafood.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Pescetarianism"
+    },
+    {
+        "title": "Semi-vegetarianism",
+        "content": "Semi-vegetarianism means eating seafood or poultry, or both, but no red meat. People who eat red meat on rare occasion are flexitarians. Real or semi-vegetarians, though, usually resent flexitarian, looking down on this term and calling it cheating.A pescetarian is a person who eats fish, shrimp and seafood. They do not eat poultry.\nA pollotarian is a person who eats chicken. They do not eat red meat, seafood or fish.\nPollo-pescetarians eat seafood, shrimp and poultry but no red meat.\nPeople who have semi-vegetarian diets are usually doing so for health reasons, including avoiding heart disease, diabetes and strokes.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Semi-vegetarianism"
+    },
+    {
+        "title": "Chocolate",
+        "content": "Chocolate is a food made from cacao beans. It is used in many desserts like pudding, cakes, candy, ice cream, and Easter eggs. It can be in a solid form like a candy bar or it can be in a liquid form like hot chocolate. Commercial chocolate has sugar and sometimes milk added.\nDark chocolate has less sugar, and a more bitter taste. It was originally used to make drinking chocolate. Chocolate can also make S'mores.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chocolate"
+    },
+    {
+        "title": "Chef",
+        "content": "A chef is a person who cooks food as their job. They usually work in restaurants or hotels.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chef"
+    },
+    {
+        "title": "Chef",
+        "content": "A chef is a person who cooks food as their job. They usually work in restaurants or hotels.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Chef"
+    },
+    {
+        "title": "Protein",
+        "content": "Proteins are long-chain molecules built from small units known as amino acids. They are joined together with peptide bonds.\nThey are biochemical compounds consisting of one or more polypeptides folded into a round or fibrous shape.A polypeptide is a single linear polymer chain of amino acids. The sequence of amino acids in a polypeptide comes from the DNA sequence of a gene. The genetic code specifies 20 standard amino acids. Shortly after synthesis, some amino acids are chemically modified. This alters the folding, stability, activity, and function of the protein. Sometimes proteins have non-peptide groups attached, as cofactors.\nProteins are essential to all cells. Like other biological macromolecules (polysaccharides and nucleic acids), proteins take part in virtually every process in cells: \n\nMany proteins are enzymes that catalyze (help to happen) biochemical reactions and are vital to metabolism.\nOther proteins have structural or mechanical functions, such as in muscle and in cells. The cytoskeleton is a system of scaffolding that keeps cell shape.\nOther proteins are important in cell signalling, immune responses, and cell division.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Protein"
+    },
+    {
+        "title": "Mineral",
+        "content": "Minerals are substances that are formed naturally in the Earth. Rocks are made of minerals.\nMinerals are usually solid, inorganic, have a crystal structure, and form naturally by geological processes.The study of minerals is called mineralogy.A mineral can be made of single chemical element or more usually a compound. There are over 4,000 types of known minerals. Two common minerals are quartz and feldspar.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Mineral"
+    },
+    {
+        "title": "Mineral",
+        "content": "Minerals are substances that are formed naturally in the Earth. Rocks are made of minerals.\nMinerals are usually solid, inorganic, have a crystal structure, and form naturally by geological processes.The study of minerals is called mineralogy.A mineral can be made of single chemical element or more usually a compound. There are over 4,000 types of known minerals. Two common minerals are quartz and feldspar.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Mineral"
+    },
+    {
+        "title": "Hunger",
+        "content": "Hunger is the feeling of wanting to eat. Ghrelin is a hormone that makes people feel hungry. The opposite of hunger is called satiety or fullness. Leptin causes this feeling. People can survive weeks without eating, but they will start to feel hungry after they have not eaten for a few hours. Hunger is generally considered quite uncomfortable. People who have eaten food usually will feel less hungry, or not hungry at all. People can live longer without food than without water.\nHunger is also used to refer to people who generally have little to eat, and are therefore often hungry.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hunger"
+    },
+    {
+        "title": "Hunger",
+        "content": "Hunger is the feeling of wanting to eat. Ghrelin is a hormone that makes people feel hungry. The opposite of hunger is called satiety or fullness. Leptin causes this feeling. People can survive weeks without eating, but they will start to feel hungry after they have not eaten for a few hours. Hunger is generally considered quite uncomfortable. People who have eaten food usually will feel less hungry, or not hungry at all. People can live longer without food than without water.\nHunger is also used to refer to people who generally have little to eat, and are therefore often hungry.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hunger"
+    },
+    {
+        "title": "Hunger",
+        "content": "Hunger is the feeling of wanting to eat. Ghrelin is a hormone that makes people feel hungry. The opposite of hunger is called satiety or fullness. Leptin causes this feeling. People can survive weeks without eating, but they will start to feel hungry after they have not eaten for a few hours. Hunger is generally considered quite uncomfortable. People who have eaten food usually will feel less hungry, or not hungry at all. People can live longer without food than without water.\nHunger is also used to refer to people who generally have little to eat, and are therefore often hungry.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Hunger"
+    },
+    {
+        "title": "Frozen food",
+        "content": "Frozen food is food that is frozen to be preserved for eating later. Frozen food is done this way to keep the food from spoiling as fast. Such products do not need preservatives. Frozen foods are usually packaged or put in containers.\nSome foods that are often frozen are vegetables, pizzas and chicken.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Frozen_food"
+    },
+    {
+        "title": "Finger food",
+        "content": "Finger food is the name for a number of foods that are usually eaten with the hands, as opposed to using utensils, like forks, knives or chopsticks.  In some cultures, food is almost always eaten with the hands; for example, Ethiopian cuisine is eaten by rolling various dishes up in injera bread.Examples of finger food are small beef pies, sausage rolls, sausages on sticks, cheese and olives on sticks, chicken drumsticks or wings, spring rolls, small quiches, samosas, onion bhajis, potato wedges, vol au vents, and risotto balls. Other well-known foods that are generally eaten with the hands include pizza, hot dogs, fruit and bread.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Finger_food"
+    },
+    {
+        "title": "Finger food",
+        "content": "Finger food is the name for a number of foods that are usually eaten with the hands, as opposed to using utensils, like forks, knives or chopsticks.  In some cultures, food is almost always eaten with the hands; for example, Ethiopian cuisine is eaten by rolling various dishes up in injera bread.Examples of finger food are small beef pies, sausage rolls, sausages on sticks, cheese and olives on sticks, chicken drumsticks or wings, spring rolls, small quiches, samosas, onion bhajis, potato wedges, vol au vents, and risotto balls. Other well-known foods that are generally eaten with the hands include pizza, hot dogs, fruit and bread.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Finger_food"
+    },
+    {
+        "title": "Finger food",
+        "content": "Finger food is the name for a number of foods that are usually eaten with the hands, as opposed to using utensils, like forks, knives or chopsticks.  In some cultures, food is almost always eaten with the hands; for example, Ethiopian cuisine is eaten by rolling various dishes up in injera bread.Examples of finger food are small beef pies, sausage rolls, sausages on sticks, cheese and olives on sticks, chicken drumsticks or wings, spring rolls, small quiches, samosas, onion bhajis, potato wedges, vol au vents, and risotto balls. Other well-known foods that are generally eaten with the hands include pizza, hot dogs, fruit and bread.\n\n\n== References ==",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Finger_food"
+    },
+    {
+        "title": "Oven",
+        "content": "Ovens are closed, heated containers which are used for heating, baking, and drying. It is used the most often in cooking and pottery. They provide even, dry heat to all surfaces of food inside them. An indoor oven can have an electric heating element, or be fired by natural gas or coal. Outdoor ovens are often made of brick or clay and are buried in hot coals. An oven which is used for making pottery is called a kiln. An oven used for heating or industrial processes is called a furnace. They are hot inside, and often things come out of them hot.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oven"
+    },
+    {
+        "title": "Oven",
+        "content": "Ovens are closed, heated containers which are used for heating, baking, and drying. It is used the most often in cooking and pottery. They provide even, dry heat to all surfaces of food inside them. An indoor oven can have an electric heating element, or be fired by natural gas or coal. Outdoor ovens are often made of brick or clay and are buried in hot coals. An oven which is used for making pottery is called a kiln. An oven used for heating or industrial processes is called a furnace. They are hot inside, and often things come out of them hot.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oven"
+    },
+    {
+        "title": "Oven",
+        "content": "Ovens are closed, heated containers which are used for heating, baking, and drying. It is used the most often in cooking and pottery. They provide even, dry heat to all surfaces of food inside them. An indoor oven can have an electric heating element, or be fired by natural gas or coal. Outdoor ovens are often made of brick or clay and are buried in hot coals. An oven which is used for making pottery is called a kiln. An oven used for heating or industrial processes is called a furnace. They are hot inside, and often things come out of them hot.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Oven"
+    },
+    {
+        "title": "Rice",
+        "content": "Rice (Oryza sativa) is a type of [vegetables] and food. In origin, it is a swamp grass. It is eaten as staple food in many parts of Asia. It is grown in warm parts of the world, mainly Asia, Africa, northern Italy, and the west coast of North America.\nRice accounts for 80% of the calories eaten in Asia, or one-fifth of the calories eaten worldwide by humans. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes). However, judged by value, the world trade in wheat is greater than all other crops combined. All these cereals are grasses. \nRice used to be the main diet in many countries. Various kinds of food processing prepare rice for eating. It is usually cooked. In some areas, such as Spain, rice is first fried in olive oil or butter, then cooked with water or soup. In other areas, such as India, rice is eaten with sauce, curry, or soup. Rice can also be used to make alcohol, such as Japanese sake rice wine.\nRice is believed to have been first grown in ancient southern China and India around 2500 BC. Rice-growing was brought to Japan possibly in the 1st century BC, and became popular during the 2nd century and the 3rd century. From India, rice spread to southern Europe and Africa.\nAlluvial loamy and clayey soil is ideal for growing rice. The rice crop needs about 24\u00b0C or above with minor variations during sowing, growing and harvesting seasons. It grows well in the areas where rainfall is above 100cm. Deltas, river valleys, coastal plains and terraced fields in mountainous regions are ideal for its cultivation.\nRice is usually planted in a flat field filled with water. Before cropping, the water is drained from the field. Before farmers developed a good farming system and fertilizers, they used to let lands rest for 1 to 2 years while farming in other lands. \nIn some hot areas, close to the equator, farmers do double-cropping which means raising two crops one year.\nRice contains a lot of carbohydrates. There are different ways of milling rice. Brown rice has only had the outer layer removed. It contains more fibre than the completely milled white rice.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Rice"
+    },
+    {
+        "title": "Potato",
+        "content": "A potato is a root vegetable, the Solanum tuberosum. It is a small plant with large leaves. The part of the potato that people eat is a tuber that grows under the ground.\nA potato contains a lot of starch and other carbohydrates. Potato usually has a light-brown or yellowish skin and is white or yellow inside. If the potato gets light on it, the tuber turns green and will be poisonous.",
+        "language": "English",
+        "topic": [
+            "Food and Drink"
+        ],
+        "difficulty": 0,
+        "source": "https://simple.wikipedia.org/wiki/Potato"
+    }
+]
