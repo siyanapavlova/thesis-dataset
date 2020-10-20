@@ -4,14 +4,15 @@
 
 ### Data summary
 
-| Topic                          | Standard English  | Easy English | Standard German | Easy German |
-|--------------------------------|-------------------|--------------|-----------------|-------------|
-| Arts and Culture               | 100               | 100          | 89              | 50          |
-| Sports                         | 100               | 100          | 84              | 50          |
-| Science and Technology         | 100               | 100          | 91              | 50          |
-| Travel                         | 100               | 100          | 87              | 50          |
-| Food                           | 100               | 100          | 81              | 50          |
-| Business, Economics, Politics  | 100               | 100          | 87              | 50          |
+| Topic                          | Standard\| Easy\   | Standard\ | Easy\  |
+|                                | English  | English | German    | German |
+|--------------------------------|----------|---------|-----------|--------|
+| Arts and Culture               | 100      | 100     | 89        | 50     |
+| Sports                         | 100      | 100     | 84        | 50     |
+| Science and Technology         | 100      | 100     | 91        | 50     |
+| Travel                         | 100      | 100     | 87        | 50     |
+| Food                           | 100      | 100     | 81        | 50     |
+| Business, Economics, Politics  | 100      | 100     | 87        | 50     |
 
 ### Article Structure
 
