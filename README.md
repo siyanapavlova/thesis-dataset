@@ -4,8 +4,7 @@
 
 ### Data summary
 
-| Topic                          | Standard\| Easy\   | Standard\ | Easy\  |
-|                                | English  | English | German    | German |
+| Topic                          | Standard<br>English | Easy<br>English    | Standard<br>German  | Easy<br>German   |
 |--------------------------------|----------|---------|-----------|--------|
 | Arts and Culture               | 100      | 100     | 89        | 50     |
 | Sports                         | 100      | 100     | 84        | 50     |
